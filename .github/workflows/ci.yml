@@ -1,0 +1,32 @@
+name: ci
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install jsonschema
+        run: pip install jsonschema
+
+      # Schema + trilingual completeness/quality + in-station dedup +
+      # distance sanity + index consistency + URL reachability sample.
+      - name: Validate changed station files
+        env:
+          GH_EVENT_BEFORE: ${{ github.event.before }}
+        run: |
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            git fetch origin "${{ github.base_ref }}" --depth=50 || true
+            export GH_EVENT_BEFORE="origin/${{ github.base_ref }}"
+          fi
+          python scripts/validate.py --mode changed --check-urls --url-sample 20
