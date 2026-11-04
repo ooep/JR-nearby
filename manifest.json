@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-04T01:37:48Z",
+  "updated_at": "2026-11-04T03:36:00Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 10,
+  "done": 11,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -17,7 +17,7 @@
     "宮城県": 1,
     "広島県": 1,
     "徳島県": 1,
-    "東京都": 2,
+    "東京都": 3,
     "群馬県": 1
   },
   "batches": [
@@ -65,6 +65,40 @@
         "duplicates": 0,
         "radius_m": 2000,
         "note": "rev3: selection rules published with 6-category floor quota (medical in 8/10 stations); truncated split into fetch_truncated + selected_cap; dense stations re-fetched via 4-window quadrant merge for exact candidate_count; Doai dropped candidate (Takakurayama peak) documented in excluded_candidates; official-site hours extracted from page body (hours_source=official + hours_checked_at + closed_on, JST), official_site hours coverage >=50%; CI url-backfill locked (<=20/round, 3 fields only, validate before commit, single commit, no retry, no force)"
+      }
+    },
+    {
+      "batch": "t1-a-tokyo-20261104",
+      "committed_at": null,
+      "stations": [
+        "st00083"
+      ],
+      "poi_total": 20,
+      "category_counts": {
+        "bank_atm": 1,
+        "cafe": 1,
+        "convenience": 1,
+        "lodging": 2,
+        "medical": 2,
+        "park": 2,
+        "police": 1,
+        "post_office": 1,
+        "public_service": 2,
+        "shrine_temple": 3,
+        "sight": 3,
+        "tourist_info": 1
+      },
+      "hours_null": 12,
+      "official_url_own": 12,
+      "official_url_map": 0,
+      "official_url_pending": 1,
+      "official_site_hours_coverage": 0.5,
+      "selfcheck": {
+        "schema_pass": true,
+        "trilingual_missing": 0,
+        "duplicates": 0,
+        "radius_m": 2000,
+        "note": "T1-A 首站 田町（st00083）：OSM 事实驱动，floor_check 六类保底齐全；本地 validate 0 error；URL 抽样 20 条 0 死链，8 条 OSM 状态 0 按 blocked 类记 warn。"
       }
     }
   ]
