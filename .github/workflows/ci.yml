@@ -3,6 +3,12 @@ name: ci
 on:
   push:
   pull_request:
+  workflow_dispatch:
+    inputs:
+      scope:
+        description: "changed | all（all=全量复测，用于口径变更后重跑）"
+        required: false
+        default: "changed"
 
 jobs:
   validate:
@@ -20,16 +26,24 @@ jobs:
         run: pip install jsonschema
 
       # Schema + trilingual completeness/quality + in-station dedup +
-      # distance sanity + index consistency + URL reachability sample.
-      - name: Validate changed station files
+      # distance/walk_min consistency + fixed radius + index consistency
+      # + floor_check (medical 硬规则) + URL reachability sample.
+      # URL 口径：404/410=死链判红；0/403/429/502/503=runner-blocked，warn+逐条计数不判红；
+      #           本地 200 证据读 url_ledger.json 输出 local_status。见 scripts/validate.py。
+      - name: Validate station files
         env:
           GH_EVENT_BEFORE: ${{ github.event.before }}
         run: |
+          SCOPE="${{ github.event.inputs.scope || 'changed' }}"
           if [ "${{ github.event_name }}" = "pull_request" ]; then
             git fetch origin "${{ github.base_ref }}" --depth=50 || true
             export GH_EVENT_BEFORE="origin/${{ github.base_ref }}"
           fi
-          python scripts/validate.py --mode changed --check-urls --url-sample 20
+          if [ "$SCOPE" = "all" ]; then
+            python scripts/validate.py --all --check-urls --url-sample 20
+          else
+            python scripts/validate.py --mode changed --check-urls --url-sample 20
+          fi
 
   upgrade-pending-urls:
     # Retest official_url_pending URLs from the runner (full internet, no

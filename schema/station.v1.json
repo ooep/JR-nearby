@@ -46,11 +46,35 @@
               "reason": { "type": "string", "minLength": 1 }
             }
           }
+        },
+        "floor_check": {
+          "type": "object",
+          "description": "六类保底存在性检查（medical 硬规则）：candidates>0 必须至少收录 1 条；==0 必须在 gaps 写明缺失。六类必须齐全。",
+          "required": ["medical", "bank_atm", "convenience", "post_office", "police", "tourist_info"],
+          "additionalProperties": false,
+          "properties": {
+            "medical":      { "$ref": "#/definitions/floor_entry" },
+            "bank_atm":     { "$ref": "#/definitions/floor_entry" },
+            "convenience":  { "$ref": "#/definitions/floor_entry" },
+            "post_office":  { "$ref": "#/definitions/floor_entry" },
+            "police":       { "$ref": "#/definitions/floor_entry" },
+            "tourist_info": { "$ref": "#/definitions/floor_entry" }
+          }
         }
       }
     }
   },
   "definitions": {
+    "floor_entry": {
+      "type": "object",
+      "required": ["candidates"],
+      "additionalProperties": false,
+      "properties": {
+        "candidates": { "type": "integer", "minimum": 0, "description": "2km 圈内该类 Overpass 具名候选数" },
+        "selected": { "type": "integer", "minimum": 0, "description": "实际收录条数" },
+        "note": { "type": "string", "description": "取舍说明（如未选最近候选的理由）" }
+      }
+    },
     "i18n_name": {
       "type": "object",
       "required": ["ja", "en", "zh"],

@@ -286,8 +286,45 @@ def check_file(rep, path, url_bucket):
     gaps = cov.get("gaps")
     if not isinstance(gaps, list):
         rep.err(f, "coverage.gaps must be array")
+        gaps = []
     if len(pois) < 4 and not gaps:
         rep.err(f, "sparse station (<4 POIs) must document coverage.gaps")
+
+    # medical 硬规则（六类保底）：floor_check 记录 2km 圈内候选存在性。
+    #   candidates>0 → 该类必须至少收录 1 条（有候选未收=错）；
+    #   candidates==0 → coverage.gaps 必须写明缺失（无候选且无说明=错）。
+    FLOOR = ("medical", "bank_atm", "convenience", "post_office", "police", "tourist_info")
+    FLOOR_GAP_KEYS = {
+        "medical": ("医疗",),
+        "bank_atm": ("银行", "ATM"),
+        "convenience": ("便利店",),
+        "post_office": ("邮局",),
+        "police": ("警", "交番", "驻在"),
+        "tourist_info": ("案内", "观光信息", "观光咨询", "旅游咨询"),
+    }
+    fc = cov.get("floor_check")
+    if fc is not None:
+        if not isinstance(fc, dict):
+            rep.err(f, "coverage.floor_check must be object")
+        else:
+            cat_have = {}
+            for p in pois:
+                cat_have[p.get("category")] = cat_have.get(p.get("category"), 0) + 1
+            for cat in FLOOR:
+                entry = fc.get(cat)
+                if entry is None:
+                    rep.err(f, f"coverage.floor_check missing category '{cat}' (all six required)")
+                    continue
+                cands = entry.get("candidates") if isinstance(entry, dict) else None
+                if not isinstance(cands, int) or isinstance(cands, bool) or cands < 0:
+                    rep.err(f, f"coverage.floor_check.{cat}.candidates must be non-negative integer")
+                    continue
+                if cands > 0:
+                    if cat_have.get(cat, 0) == 0:
+                        rep.err(f, f"floor_check: '{cat}' has {cands} candidate(s) within 2km but none selected (floor category must have >=1)")
+                else:
+                    if not any(any(k in g for k in FLOOR_GAP_KEYS[cat]) for g in gaps if isinstance(g, str)):
+                        rep.err(f, f"floor_check: '{cat}' has 0 candidates but coverage.gaps does not state it (e.g. '2km 内无…')")
 
     # optional: jsonschema library cross-check
     try:
@@ -346,25 +383,55 @@ def url_status(url):
         return 0
 
 
+# URL 判定口径（三条底线）：
+#   1) 404/410 = 死链，任何环境都判错（红）；
+#   2) 0/403/429/502/503 = unreachable(runner-blocked/local-network)：warn 不判红，
+#      但必须计数并逐条出现在日志与台账里，不许静默；
+#   3) 有本地 200 证据的 URL 从 url_ledger.json 读 local_status 一并输出。
+DEAD_STATUS = {404, 410}
+BLOCKED_STATUS = {0, 403, 429, 502, 503}
+
+
+def load_url_ledger():
+    try:
+        d = json.load(open(os.path.join(ROOT, "url_ledger.json"), encoding="utf-8"))
+        return d.get("entries", {})
+    except Exception:
+        return {}
+
+
 def check_urls(rep, url_bucket, sample):
     import random
+    ledger = load_url_ledger()
     urls = sorted(set(url_bucket))
     if sample and sample < len(urls):
         seed = int(__import__("datetime").date.today().strftime("%Y%m%d"))
         urls = random.Random(seed).sample(urls, sample)
-    checked = bad = 0
+    checked = ok = dead = blocked = other = 0
+    blocked_items = []
     for f, pid, url in urls:
         checked += 1
         status = url_status(url)
-        if status != 200:
-            bad += 1
-            msg = f"{pid}: URL unreachable {url} (status {status})"
-            if status == 0 and not os.environ.get("CI"):
-                # local network may block some domains; CI re-checks with full internet
-                rep.warn(f, msg + " [local network failure, re-check in CI]")
-            else:
-                rep.err(f, msg)
-    print(f"[urls] checked={checked} unreachable={bad}")
+        if status == 200:
+            ok += 1
+            continue
+        ev = ledger.get(url) or {}
+        ls = ev.get("local_status") or ev.get("runner_status")
+        tag = f"local_status={ls}" if ls else "local_status=untested"
+        if status in DEAD_STATUS:
+            dead += 1
+            rep.err(f, f"{pid}: DEAD LINK {url} (status {status}, {tag}) — dead links are never 'blocked'")
+        elif status in BLOCKED_STATUS:
+            blocked += 1
+            env = "runner-blocked" if os.environ.get("CI") else "local-network"
+            rep.warn(f, f"{pid}: UNREACHABLE({env}) {url} (status {status}, {tag})")
+            blocked_items.append((pid, url, status, tag))
+        else:
+            other += 1
+            rep.err(f, f"{pid}: URL error {url} (status {status}, {tag}) — not 200, not dead-class, not blocked-class")
+    print(f"[urls] checked={checked} ok={ok} dead={dead} runner_blocked={blocked} other_errors={other}")
+    for pid, url, status, tag in blocked_items:  # 逐条出现，不许静默
+        print(f"[urls][runner-blocked] {pid} {url} status={status} {tag}")
 
 
 def main():

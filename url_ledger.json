@@ -1,0 +1,290 @@
+{
+ "policy": "URL 状态台账：local_status=研究主机实测；runner_status=GitHub runner 实测。404/410 永远判死，不得以被墙名义洗白。",
+ "entries": {
+  "http://jptower-kitte.jp/": {
+   "runner_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "CI upgrade-pending-urls job returned 200 (st01334-005)"
+  },
+  "http://take-chan.co.jp/": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st04291-007)"
+  },
+  "http://www.ejrcf.or.jp/gallery/": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st01334-003)"
+  },
+  "http://www.intermediatheque.jp/": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st01334-006)"
+  },
+  "http://www.kitacolor.com/": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st04291-001)"
+  },
+  "http://www.library.city.hiroshima.jp/manga": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st04348-013)"
+  },
+  "https://fng.or.jp/shinjuku/": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st02164-018)"
+  },
+  "https://fukkoichiba.hokkaido.jp/": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st04291-014)"
+  },
+  "https://kameimuseum.or.jp/": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st01144-007)"
+  },
+  "https://lib-www.smt.city.sendai.jp/": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st01144-004)"
+  },
+  "https://nakatanidou.jp/": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st00066-009)"
+  },
+  "https://okonomiyaki-denko-sekka.com/": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st04348-003)"
+  },
+  "https://sanjusangendo.jp/": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st00566-018)"
+  },
+  "https://sankan.kunaicho.go.jp/": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st01334-018)"
+  },
+  "https://shinjuku.xspace.tokyo": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st02164-007)"
+  },
+  "https://shukkeien.jp/": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st04348-011)"
+  },
+  "https://sompo-museum.org": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st02164-011)"
+  },
+  "https://tenjinlodge.com/": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st06317-001)"
+  },
+  "https://toji.or.jp/": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st00566-016)"
+  },
+  "https://www.77bank.co.jp/": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st01144-003)"
+  },
+  "https://www.city.wakkanai.hokkaido.jp/": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st04291-008)"
+  },
+  "https://www.daimaru.co.jp/umedamise/": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st00067-002)"
+  },
+  "https://www.diamor.jp/": {
+   "runner_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "CI upgrade-pending-urls job returned 200 (st00067-006)"
+  },
+  "https://www.fukuya-dept.co.jp/ekimae/": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st04348-008)"
+  },
+  "https://www.grandfront-osaka.jp/": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st00067-007)"
+  },
+  "https://www.granvia-kyoto.co.jp/": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st00566-002)"
+  },
+  "https://www.granvia-osaka.jp/": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st00067-001)"
+  },
+  "https://www.hgh.co.jp/": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st04348-004)"
+  },
+  "https://www.higashihonganji.or.jp/": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st00566-015)"
+  },
+  "https://www.hiroshima-moca.jp/": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st04348-014)"
+  },
+  "https://www.imes.boj.or.jp/cm/": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st01334-013)"
+  },
+  "https://www.isuien.or.jp/": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st00066-017)"
+  },
+  "https://www.jrwd.co.jp/vierra/nara.html": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st00066-001)"
+  },
+  "https://www.jsf.or.jp/": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st01334-020)"
+  },
+  "https://www.kaichuinari-jinja.or.jp/": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st02164-019)"
+  },
+  "https://www.keihanhotels-resorts.co.jp/kyoto-tower/": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st00566-008)"
+  },
+  "https://www.keioplaza.co.jp/": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st02164-012)"
+  },
+  "https://www.kofukuji.com/": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st00066-014)"
+  },
+  "https://www.kyohaku.go.jp/": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st00566-019)"
+  },
+  "https://www.kyoto-station-building.co.jp/": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st00566-001)"
+  },
+  "https://www.kyotorailwaymuseum.jp/": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st00566-020)"
+  },
+  "https://www.lucua.jp/": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st00067-003)"
+  },
+  "https://www.mannaka.co.jp/": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st02965-004)"
+  },
+  "https://www.meijijingu.or.jp/": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st02164-020)"
+  },
+  "https://www.mitsui-museum.jp/": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st01334-017)"
+  },
+  "https://www.narahaku.go.jp/": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st00066-015)"
+  },
+  "https://www.nfaj.go.jp/": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st01334-014)"
+  },
+  "https://www.nmao.go.jp/": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st00067-016)"
+  },
+  "https://www.s-pal.jp/sendai/": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st01144-001)"
+  },
+  "https://www.sendai-anpanman.jp/": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st01144-006)"
+  },
+  "https://www.skybldg.co.jp/": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st00067-013)"
+  },
+  "https://www.takashimaya.co.jp/": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st01334-009)"
+  },
+  "https://www.takashimaya.co.jp/shinjuku/store_information/index3.html": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st02164-004)"
+  },
+  "https://www.tanigawadake-rw.com/": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st06317-002)"
+  },
+  "https://www.thetokyostationhotel.jp/": {
+   "runner_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "CI upgrade-pending-urls job returned 200 (st01334-001)"
+  },
+  "https://www.yokoso.metro.tokyo.lg.jp/en/tenbou/index.html": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st02164-017)"
+  },
+  "https://yamashiro-info.jp/?page_id=81": {
+   "local_status": 200,
+   "checked_at": "2026-11-04",
+   "evidence": "official page fetched for hours extraction (st02965-002)"
+  }
+ }
+}

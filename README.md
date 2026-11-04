@@ -68,6 +68,23 @@ scripts/gh_push.py           # blob 级提交（不 clone 整仓）
 4. 同站内同名 / 同坐标（<50 m）的 POI 必须合并。
 5. 只追加 / 替换本站自己的 JSON；`force:false`。
 
+## URL 可达性口径（CI 复测）
+
+- **404 / 410 = 死链**：任何环境都判错（红）。死链不许洗成"被墙"。
+- **0 / 403 / 429 / 502 / 503 = `unreachable(runner-blocked)`**：warn 不判红，
+  但逐条计入日志与台账（`url_ledger.json`），不许静默。
+- 已有本地 200 证据的 URL，状态记录在 `url_ledger.json`（`local_status=200`），
+  复测输出会带上，避免后人误判死链。
+
+## medical 硬规则（放量期适用，validate.py 强制）
+
+每站 `coverage.floor_check` 记录六类保底候选存在性（medical / bank_atm / convenience /
+post_office / police / tourist_info）：
+
+- `candidates > 0` → 该类**必须至少收录 1 条**（有候选未收 = 校验错）；
+- `candidates == 0` → `coverage.gaps` 必须写明缺失（如"2km 内无医疗机构"），
+  无候选且无说明 = 校验错。
+
 ## 校验
 
 ```
