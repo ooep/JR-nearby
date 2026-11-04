@@ -1,14 +1,71 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-03T15:20:53Z",
+  "updated_at": "2026-11-04T01:03:41Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 0,
+  "done": 10,
   "trilingual_missing": 0,
   "url_unreachable": 0,
-  "by_pref": {},
-  "batches": []
+  "by_pref": {
+    "京都府": 1,
+    "北海道": 1,
+    "大阪府": 1,
+    "奈良県": 1,
+    "宮城県": 1,
+    "広島県": 1,
+    "徳島県": 1,
+    "東京都": 2,
+    "群馬県": 1
+  },
+  "batches": [
+    {
+      "batch": "sample-10-r3",
+      "committed_at": null,
+      "stations": [
+        "st00066",
+        "st00067",
+        "st00566",
+        "st01144",
+        "st01334",
+        "st02164",
+        "st02965",
+        "st04291",
+        "st04348",
+        "st06317"
+      ],
+      "poi_total": 165,
+      "category_counts": {
+        "bank_atm": 8,
+        "convenience": 8,
+        "entertainment": 4,
+        "food": 4,
+        "lodging": 8,
+        "medical": 8,
+        "onsen_sento": 3,
+        "park": 8,
+        "police": 9,
+        "post_office": 10,
+        "public_service": 8,
+        "shopping": 20,
+        "shrine_temple": 17,
+        "sight": 45,
+        "tourist_info": 5
+      },
+      "hours_null": 115,
+      "official_url_own": 55,
+      "official_url_map": 0,
+      "official_url_pending": 16,
+      "official_site_hours_coverage": 0.691,
+      "selfcheck": {
+        "schema_pass": true,
+        "trilingual_missing": 0,
+        "duplicates": 0,
+        "radius_m": 2000,
+        "note": "rev3: selection rules published with 6-category floor quota (medical in 8/10 stations); truncated split into fetch_truncated + selected_cap; dense stations re-fetched via 4-window quadrant merge for exact candidate_count; Doai dropped candidate (Takakurayama peak) documented in excluded_candidates; official-site hours extracted from page body (hours_source=official + hours_checked_at + closed_on, JST), official_site hours coverage >=50%; CI url-backfill locked (<=20/round, 3 fields only, validate before commit, single commit, no retry, no force)"
+      }
+    }
+  ]
 }

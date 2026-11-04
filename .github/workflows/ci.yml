@@ -30,3 +30,28 @@ jobs:
             export GH_EVENT_BEFORE="origin/${{ github.base_ref }}"
           fi
           python scripts/validate.py --mode changed --check-urls --url-sample 20
+
+  upgrade-pending-urls:
+    # Retest official_url_pending URLs from the runner (full internet, no
+    # local anti-bot blocks); on HTTP 200 rewrite url and commit back.
+    # R3 上锁：每轮 ≤20 条；只改 url/source/official_url_pending 三字段；
+    # 提交前 validate.py --all 必须通过；一次 commit；失败不重试；绝不 force；
+    # commit message 列出改动 POI id。见 scripts/upgrade_urls.py。
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    needs: validate
+    runs-on: ubuntu-latest
+    concurrency:
+      group: upgrade-pending-urls   # 串行化，避免并行回填互相覆盖
+      cancel-in-progress: false
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install jsonschema
+        run: pip install jsonschema
+      - name: Upgrade pending official URLs (locked)
+        run: python scripts/upgrade_urls.py
+
