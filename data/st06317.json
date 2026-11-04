@@ -1,0 +1,98 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st06317",
+    "name": {
+      "ja": "土合",
+      "en": "Doai",
+      "zh": "土合"
+    },
+    "line_group": [
+      "上越線"
+    ],
+    "pref": "群馬県",
+    "lat": 36.8313,
+    "lon": 138.96737
+  },
+  "generated_at": "2026-11-03T18:44:39Z",
+  "pois": [
+    {
+      "id": "st06317-001",
+      "category": "lodging",
+      "name": {
+        "ja": "天神ロッジ",
+        "en": "Tenjin Lodge",
+        "zh": "天神旅舍"
+      },
+      "desc": {
+        "ja": "谷川岳登山道の沿いにある山小屋風の宿。土合駅から歩いて約5分、登山者の早朝出発の拠点として利用され、周囲は静かな森に囲まれている。",
+        "en": "Lodge on the Mt. Tanigawadake approach, 5 min walk from Doai Station; a simple climbers' base for early starts.",
+        "zh": "谷川岳登山道沿线的山间旅舍，距土合站步行约5分钟，是登山者清晨出发的简朴落脚点，四周被森林环绕。"
+      },
+      "distance_m": 380,
+      "walk_min": 5,
+      "hours": null,
+      "url": "https://tenjinlodge.com/",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 36.8344613,
+      "lon": 138.96584,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st06317-002",
+      "category": "sight",
+      "name": {
+        "ja": "谷川岳ロープウェイ",
+        "en": "Tanigawadake Ropeway",
+        "zh": "谷川岳缆车"
+      },
+      "desc": {
+        "ja": "谷川岳への玄関口となるロープウェイ。土合駅から歩いて約16分の山麓駅から、標高1,319mの天神平へ。登山や観光の出発点で、冬の霧氷や夏の新緑が楽しめる。",
+        "en": "Ropeway to Mt. Tanigawadake: 16-min walk from the station; ride to Tenjindaira at 1,319 m, base for hikes and rime ice.",
+        "zh": "前往谷川岳的门户缆车。从土合站步行约16分钟到山麓站，乘缆车直达海拔1319米的天神平，是登山与观景的起点，冬季可赏雾凇。"
+      },
+      "distance_m": 1227,
+      "walk_min": 16,
+      "hours": "電話受付 8:00-17:00 (JST)",
+      "url": "https://www.tanigawadake-rw.com/",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 36.8262177,
+      "lon": 138.955132,
+      "hours_source": "official",
+      "tel_source": "unknown",
+      "hours_checked_at": "2026-11-04"
+    }
+  ],
+  "coverage": {
+    "poi_count": 2,
+    "radius_m": 2000,
+    "confidence": "medium",
+    "gaps": [
+      "站周边2公里内无餐饮店、便利店、超市、医疗机构与ATM，最近的便利店和超市在水上站方向，4公里以上",
+      "土合站为无人站且无站房，下行站台位于山体深处，站台至检票口需走462级台阶",
+      "公交线路极少，往返周边地区主要依赖JR上越线"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 3,
+    "excluded_candidates": [
+      {
+        "name": "高倉山",
+        "reason": "natural=peak，山峰非设施类 POI：无营业时间/电话/可验证的官网或实体页，不满足收录来源要求，故未入选（2km 圈内 3 个具名候选 = 收录 2 条 + 丢弃本条）"
+      }
+    ]
+  }
+}

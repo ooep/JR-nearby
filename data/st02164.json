@@ -1,0 +1,605 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st02164",
+    "name": {
+      "ja": "新宿",
+      "en": "Shinjuku",
+      "zh": "新宿"
+    },
+    "line_group": [
+      "山手線",
+      "中央本線(快速)",
+      "中央・総武線",
+      "埼京線",
+      "湘南新宿ライン"
+    ],
+    "pref": "東京都",
+    "lat": 35.689493,
+    "lon": 139.700035
+  },
+  "generated_at": "2026-11-03T19:48:38Z",
+  "pois": [
+    {
+      "id": "st02164-001",
+      "category": "tourist_info",
+      "name": {
+        "ja": "東京観光情報センター",
+        "en": "Tokyo Tourist Information Center",
+        "zh": "东京观光信息中心"
+      },
+      "desc": {
+        "ja": "JR新宿駅エリアにある観光案内所。東京や日本全国の観光案内、地図、チケットの手配に対応する。",
+        "en": "Tourist information center at JR Shinjuku Station, covering sightseeing in Tokyo and Japan plus ticket services.",
+        "zh": "位于JR新宿站区的观光信息中心，提供东京与日本全国的观光指南、地图以及票务服务。"
+      },
+      "distance_m": 159,
+      "walk_min": 2,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/way/542077808",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 35.6881283,
+      "lon": 139.7005439,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st02164-004",
+      "category": "shopping",
+      "name": {
+        "ja": "高島屋新宿店",
+        "en": "Takashimaya Shinjuku",
+        "zh": "高岛屋新宿店"
+      },
+      "desc": {
+        "ja": "老舗百貨店・高島屋の新宿店。南口に立ち、ファッションや食品の売場が充実し、地下の食品街も人気。",
+        "en": "Shinjuku store of long-established Takashimaya department store at the south exit, with fashion and food floors.",
+        "zh": "老牌百货店高岛屋的新宿店，位于南口，时装与食品楼层齐全，地下食品区适合选购伴手礼。"
+      },
+      "distance_m": 258,
+      "walk_min": 4,
+      "hours": "10:00-20:00 (JST)",
+      "url": "https://www.takashimaya.co.jp/shinjuku/store_information/index3.html",
+      "tel": "+81 3 5361 1111",
+      "price_level": "¥¥¥",
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 35.6879149,
+      "lon": 139.7021359,
+      "hours_source": "osm",
+      "tel_source": "osm"
+    },
+    {
+      "id": "st02164-005",
+      "category": "police",
+      "name": {
+        "ja": "新宿警察署新宿駅東口交番",
+        "en": "Shinjuku Station East Exit Koban",
+        "zh": "新宿站东口派出所"
+      },
+      "desc": {
+        "ja": "新宿駅東口の前にある交番。道案内や落とし物の相談、緊急時の駆け込みなど、最も近い警察の窓口。",
+        "en": "Police box at Shinjuku Station's east exit; the nearest point for directions, lost property and emergencies.",
+        "zh": "位于新宿站东口前的派出所，是旅客问路、失物招领咨询以及紧急求助之时的最近警务点。"
+      },
+      "distance_m": 272,
+      "walk_min": 4,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/node/1420780842",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 35.6917673,
+      "lon": 139.7011426,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st02164-006",
+      "category": "post_office",
+      "name": {
+        "ja": "新宿駅南口郵便局",
+        "en": "Shinjuku Station South Exit Post Office",
+        "zh": "新宿站南口邮局"
+      },
+      "desc": {
+        "ja": "新宿駅南口の近くにある郵便局。駅から歩いて約4分で、郵便物や荷物、貯金など各種の窓口業務を取り扱う。",
+        "en": "Post office near Shinjuku Station's south exit, handling mail, parcels and banking.",
+        "zh": "新宿站南口附近的邮局，距站步行约4分钟，可办理邮件、包裹与储蓄存取等各项邮政业务。"
+      },
+      "distance_m": 276,
+      "walk_min": 4,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/node/1420780853",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 35.687846,
+      "lon": 139.697744,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st02164-007",
+      "category": "sight",
+      "name": {
+        "ja": "クロス新宿ビジョン",
+        "en": "Cross Shinjuku Vision (3D Cat)",
+        "zh": "Cross新宿大屏（3D巨猫）"
+      },
+      "desc": {
+        "ja": "新宿駅東口近くにある大型の3Dビジョン。巨大な猫の立体映像で知られ、通りかかる人々が足を止めて見上げる。",
+        "en": "Huge 3D screen near Shinjuku Station's east exit, famous for its giant cat video that stops passers-by.",
+        "zh": "新宿站东口附近的巨型裸眼3D屏幕，以立体巨猫影像闻名，常吸引众多路人驻足观看拍照。"
+      },
+      "distance_m": 354,
+      "walk_min": 5,
+      "hours": "7:00-25:00 (JST)",
+      "url": "https://shinjuku.xspace.tokyo",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 35.6926184,
+      "lon": 139.7007975,
+      "hours_source": "osm",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st02164-008",
+      "category": "bank_atm",
+      "name": {
+        "ja": "三井住友銀行新宿西口支店",
+        "en": "SMBC Shinjuku Branch",
+        "zh": "三井住友银行新宿支行"
+      },
+      "desc": {
+        "ja": "大手銀行、三井住友銀行の新宿駅そばの支店。預け入れや引き出し、ATMの利用に対応している。",
+        "en": "SMBC branch near Shinjuku Station with ATM and deposit services from one of Japan's major banks.",
+        "zh": "大型银行三井住友银行设在新宿站旁的支行，可办理存取款与ATM等各项日常金融服务。"
+      },
+      "distance_m": 359,
+      "walk_min": 5,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/node/2197624258",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 35.6924538,
+      "lon": 139.7016158,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st02164-009",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "天龍寺",
+        "en": "Tenryū-ji Temple",
+        "zh": "天龙寺"
+      },
+      "desc": {
+        "ja": "新宿の街なかにある仏教寺院。にぎわいの中にありながら境内は静かで、散策の途中に立ち寄れる。",
+        "en": "Buddhist temple in Shinjuku's town area; quiet grounds amid the bustle, a place to catch your breath.",
+        "zh": "新宿街区中的佛教寺院，清静的寺院与周围的热闹街景形成鲜明对比，适合散步时稍作歇息。"
+      },
+      "distance_m": 385,
+      "walk_min": 5,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/way/155285250",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 35.6887408,
+      "lon": 139.7042007,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st02164-010",
+      "category": "food",
+      "name": {
+        "ja": "思い出横丁",
+        "en": "Omoide Yokochō",
+        "zh": "回忆横丁"
+      },
+      "desc": {
+        "ja": "西口のそばにある細い路地。小さな飲食店や焼き鳥店が軒を連ね、昭和の雰囲気を味わえる場所として親しまれる。",
+        "en": "Narrow alley by the west exit lined with tiny eateries and yakitori stalls, full of post-war showa atmosphere.",
+        "zh": "新宿西口旁的窄巷，聚集着众多的小餐馆与烤串店，是体验昭和年代怀旧氛围的热门去处。"
+      },
+      "distance_m": 401,
+      "walk_min": 6,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/node/4154282189",
+      "tel": null,
+      "price_level": "¥",
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 35.6930689,
+      "lon": 139.6995016,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st02164-011",
+      "category": "sight",
+      "name": {
+        "ja": "SOMPO美術館",
+        "en": "Sompo Museum of Art",
+        "zh": "SOMPO美术馆"
+      },
+      "desc": {
+        "ja": "新宿の超高層街にある美術館。近現代美術を中心にしたコレクションを展示し、ゴッホの『ひまわり』でも知られる。",
+        "en": "Art museum in Shinjuku's skyscraper district with modern and contemporary works, including Van Gogh's Sunflowers.",
+        "zh": "新宿高层街区的美术馆，收藏以近现代美术作品为主，其中包括梵高的名作《向日葵》等。"
+      },
+      "distance_m": 467,
+      "walk_min": 7,
+      "hours": "10:00-18:00、金曜 10:00-20:00 (JST, 入館は閉館30分前まで)",
+      "url": "https://sompo-museum.org",
+      "tel": null,
+      "price_level": "¥",
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 35.6925831,
+      "lon": 139.6965364,
+      "hours_source": "official",
+      "tel_source": "unknown",
+      "hours_checked_at": "2026-11-04",
+      "closed_on": "月曜日（祝日・振替休日は開館し翌平日休）、展示替期間、年末年始"
+    },
+    {
+      "id": "st02164-012",
+      "category": "lodging",
+      "name": {
+        "ja": "京王プラザホテル",
+        "en": "Keio Plaza Hotel",
+        "zh": "京王广场酒店"
+      },
+      "desc": {
+        "ja": "新宿の超高層街にある大型ホテル。客室とレストランが充実し、観光やビジネスの拠点として利用できる。",
+        "en": "Large hotel in Shinjuku's skyscraper district with rooms and restaurants; a base for sightseeing and business.",
+        "zh": "新宿高层街区的大型酒店，客房与多家餐厅齐备，是观光与商务出行人士的便利据点之一。"
+      },
+      "distance_m": 514,
+      "walk_min": 7,
+      "hours": null,
+      "url": "https://www.keioplaza.co.jp/",
+      "tel": null,
+      "price_level": "¥¥¥",
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 35.6899544,
+      "lon": 139.6943765,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st02164-013",
+      "category": "entertainment",
+      "name": {
+        "ja": "歌舞伎町一番街",
+        "en": "Kabukichō Ichibangai",
+        "zh": "歌舞伎町一番街"
+      },
+      "desc": {
+        "ja": "歓楽街・歌舞伎町のメインストリート。飲食店や映画館、娯楽施設が並び、昼も夜も多くの人でにぎわう。",
+        "en": "Main street of the Kabukicho entertainment district, lined with eateries, cinemas and amusements, busy day and night.",
+        "zh": "歌舞伎町娱乐街的主街道，餐馆、电影院与游乐设施林立，从白天到深夜都十分热闹繁华。"
+      },
+      "distance_m": 548,
+      "walk_min": 8,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/way/155235354",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 35.6943326,
+      "lon": 139.7011998,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st02164-014",
+      "category": "sight",
+      "name": {
+        "ja": "ゴジラヘッド",
+        "en": "Godzilla Head",
+        "zh": "哥斯拉头像"
+      },
+      "desc": {
+        "ja": "歌舞伎町のビルの屋上から顔をのぞかせる巨大なゴジラの頭。この街を象徴する撮影スポットになっている。",
+        "en": "Giant Godzilla head peering from a Kabukicho building rooftop; a photo spot symbolizing the district.",
+        "zh": "从歌舞伎町建筑顶部探出的巨大哥斯拉头像，是象征这条街区的标志性热门打卡景点之一。"
+      },
+      "distance_m": 642,
+      "walk_min": 9,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/way/820507320",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 35.6950725,
+      "lon": 139.7018792,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st02164-015",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "花園神社",
+        "en": "Hanazono Shrine",
+        "zh": "花园神社"
+      },
+      "desc": {
+        "ja": "新宿の街を見守る神社。境内では骨董市も開かれ、にぎやかな街なかにありながら信仰を集めている。",
+        "en": "Shrine guarding Shinjuku's town area; its grounds host a regular antique market that draws crowds.",
+        "zh": "守护新宿街区的神社，境内定期举办古董市集，是繁华闹市之中香火旺盛的信仰场所之一。"
+      },
+      "distance_m": 659,
+      "walk_min": 9,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/way/102792887",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 35.6933401,
+      "lon": 139.7055868,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st02164-016",
+      "category": "entertainment",
+      "name": {
+        "ja": "新宿ゴールデン街",
+        "en": "Shinjuku Golden Gai",
+        "zh": "新宿黄金街"
+      },
+      "desc": {
+        "ja": "細い路地に約200軒の小さなバーがひしめくエリア。戦後に生まれた独特の飲み屋街として知られている。",
+        "en": "District of about 200 tiny bars packed into narrow alleys; a unique post-war drinking area.",
+        "zh": "约200家小酒吧密集挤在数条窄巷中的街区，是战后形成的独特而迷人的夜间饮酒街区。"
+      },
+      "distance_m": 660,
+      "walk_min": 9,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/relation/16562139",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 35.6940636,
+      "lon": 139.7046894,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st02164-017",
+      "category": "sight",
+      "name": {
+        "ja": "東京都庁展望室",
+        "en": "Tokyo Metropolitan Government Observatory",
+        "zh": "东京都厅展望室"
+      },
+      "desc": {
+        "ja": "東京都庁舎の上層階にある展望室。地上202mから東京の街を見渡せ、晴れた日には富士山も望める。",
+        "en": "Observatory in the Tokyo Metropolitan Government Building at 202 m, with views over Tokyo and Mt. Fuji.",
+        "zh": "东京都厅大楼上层的免费展望室，在202米高处可俯瞰东京全景，晴天还能望见富士山。"
+      },
+      "distance_m": 748,
+      "walk_min": 10,
+      "hours": "9:30-22:00 (JST, 南展望室)",
+      "url": "https://www.yokoso.metro.tokyo.lg.jp/en/tenbou/index.html",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 35.689088,
+      "lon": 139.6917631,
+      "hours_source": "osm",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st02164-018",
+      "category": "park",
+      "name": {
+        "ja": "新宿御苑",
+        "en": "Shinjuku Gyoen National Garden",
+        "zh": "新宿御苑"
+      },
+      "desc": {
+        "ja": "西洋庭園と日本庭園が融合した国民庭園。春の桜や秋の紅葉が美しく、市民と観光客の憩いの場になっている。",
+        "en": "National garden blending Western and Japanese landscapes; cherry blossoms in spring and coloured leaves in autumn.",
+        "zh": "西洋庭园与日本庭园交融的国民庭园，春有樱花、秋有红叶，是市民与游客们的休憩胜地。"
+      },
+      "distance_m": 1015,
+      "walk_min": 13,
+      "hours": "10/1-3/14 9:00-16:30; 3/15-6/10・8/1-9/30 9:00-18:00; 6/11-7/31 9:00-19:00 (JST)",
+      "url": "https://fng.or.jp/shinjuku/",
+      "tel": null,
+      "price_level": "¥",
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 35.6851027,
+      "lon": 139.7098924,
+      "hours_source": "official",
+      "tel_source": "unknown",
+      "hours_checked_at": "2026-11-04",
+      "closed_on": "月曜日（月曜が休日の場合は翌平日）、年末年始（12/29-1/3）"
+    },
+    {
+      "category": "shrine_temple",
+      "name": {
+        "ja": "皆中稲荷神社",
+        "en": "Kaichū Inari Shrine",
+        "zh": "皆中稻荷神社"
+      },
+      "desc": {
+        "ja": "大久保にある稲荷神社。「皆中」の読み通り弓矢の的中や勝負事の神として知られ、新選組も参拝したと伝わる。",
+        "en": "Inari shrine in Okubo famed for archery and victory luck, said to have been revered by the Shinsengumi.",
+        "zh": "位于大久保的稻荷神社，以百发百中的弓道与必胜祈愿闻名，相传新选组也曾前来参拜祈愿。"
+      },
+      "distance_m": 1308,
+      "walk_min": 17,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.kaichuinari-jinja.or.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7012427,
+      "lon": 139.6993921,
+      "id": "st02164-019"
+    },
+    {
+      "category": "shrine_temple",
+      "name": {
+        "ja": "明治神宮",
+        "en": "Meiji Jingū Shrine",
+        "zh": "明治神宫"
+      },
+      "desc": {
+        "ja": "明治天皇と昭憲皇太后を祀る神社。広大な人工の森に囲まれ、正月の初詣は例年日本有数の人出を記録する。",
+        "en": "Shrine to Emperor Meiji and Empress Shoken in a vast man-made forest; among Japan's busiest New Year visits.",
+        "zh": "供奉明治天皇与昭宪皇太后的神社，四周环绕人工营造的大森林，正月参拜人数居日本前列。"
+      },
+      "distance_m": 1607,
+      "walk_min": 21,
+      "hours": "日の出-日の入: 1月 6:40-16:20、2月 6:20-16:50、3月 5:40-17:20、4月 5:10-17:50、5月 5:00-18:10、6月 5:00-18:30、7月 5:00-18:20、8月 5:00-18:00、9月 5:20-17:20、10月 5:40-16:40、11月 6:10-16:10、12月 6:40-16:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.meijijingu.or.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6750484,
+      "lon": 139.6994785,
+      "id": "st02164-020"
+    },
+    {
+      "id": "st02164-021",
+      "category": "medical",
+      "name": {
+        "ja": "日本心臓血圧研究振興会附属榊原記念病院",
+        "en": "Sakakibara Memorial Hospital",
+        "zh": "榊原纪念医院"
+      },
+      "desc": {
+        "ja": "新宿駅西口の超高層街の手前にある総合病院。循環器内科・心臓血管外科に強みを持ち、地域の救急医療も担う。",
+        "en": "General hospital near the skyscraper district west of Shinjuku Station, strong in cardiology and cardiovascular surgery.",
+        "zh": "位于新宿站西口高层街区附近的综合医院，以循环器内科与心脏血管外科见长，也承担区域急救医疗。"
+      },
+      "distance_m": 337,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420781061",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.687485,
+      "lon": 139.697244
+    },
+    {
+      "id": "st02164-022",
+      "category": "convenience",
+      "name": {
+        "ja": "デイリーヤマザキ",
+        "en": "Daily Yamazaki",
+        "zh": "Daily Yamazaki便利店"
+      },
+      "desc": {
+        "ja": "新宿駅西口に近いコンビニエンスストア。弁当や飲み物、日用品がそろい、駅前の買い出しに便利。",
+        "en": "Convenience store close to Shinjuku Station's west exit, stocking meals, drinks and daily necessities.",
+        "zh": "新宿站西口附近的便利店，供应餐食、饮料与日用品，适合在站区随时补充所需的各类物品。"
+      },
+      "distance_m": 167,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2371748982",
+      "tel": "+81 3 5325 2755",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.689336,
+      "lon": 139.698193
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [],
+    "candidate_count": 2921,
+    "fetch_truncated": false,
+    "selected_cap": 20
+  }
+}

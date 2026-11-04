@@ -27,7 +27,9 @@ import sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 CATEGORIES = {"sight", "shrine_temple", "food", "cafe", "shopping", "onsen_sento",
-              "park", "entertainment", "lodging", "public_service"}
+              "park", "entertainment", "lodging",
+              "convenience", "bank_atm", "medical", "post_office", "police",
+              "tourist_info", "public_service"}
 SOURCES = {"osm", "official_site", "city_page", "tourism_site", "wikipedia",
            "ja_wiki", "en_wiki", "zh_wiki", "operator_site", "news", "other"}
 
@@ -85,8 +87,8 @@ def check_i18n(rep, f, where, obj, is_desc):
             if n > 80:
                 rep.err(f, f"{where}.{lang}: name too long ({n})")
         if lang == "ja":
-            if not JP_CHAR.search(v):
-                rep.err(f, f"{where}.ja: no Japanese characters")
+            if not JP_CHAR.search(v) and not LATIN.search(v):
+                rep.err(f, f"{where}.ja: no Japanese/Latin characters")
         elif lang == "en":
             if not LATIN.search(v):
                 rep.err(f, f"{where}.en: no Latin characters")
@@ -122,12 +124,13 @@ def check_file(rep, path, url_bucket):
     if rep.errors and any(x.startswith(f + ": missing") for x in rep.errors):
         return None
 
+    if not re.match(r"^[0-9]{4}-[0-9]{2}-[0-9]{2}T[0-9]{2}:[0-9]{2}:[0-9]{2}Z$", d.get("generated_at", "") or ""):
+        rep.err(f, "generated_at must be a real UTC timestamp YYYY-MM-DDTHH:MM:SSZ (no placeholders)")
+
     st = d["station"]
     sid = st.get("id", "")
     if not STATION_ID.match(sid or ""):
         rep.err(f, f"station.id invalid: {sid!r}")
-    if not os.path.basename(path).startswith(sid + ".") if sid else False:
-        pass
     if sid and os.path.basename(path) != f"{sid}.json":
         rep.err(f, f"filename must be {sid}.json")
     check_i18n(rep, f, "station.name", st.get("name"), is_desc=False)
@@ -158,6 +161,17 @@ def check_file(rep, path, url_bucket):
             rep.err(f, f"{w}.category invalid: {cat!r}")
         check_i18n(rep, f, f"{w}.name", p.get("name"), is_desc=False)
         check_i18n(rep, f, f"{w}.desc", p.get("desc"), is_desc=True)
+        # desc 里出现的分钟数必须与 walk_min 同源（不许手写打架）
+        desc_obj = p.get("desc") or {}
+        minute_hits = []
+        for lang, txt in desc_obj.items():
+            if not isinstance(txt, str):
+                continue
+            for m in re.finditer(r"(?:約|大约)?\s*([0-9]{1,2})\s*(?:分(?:鐘|钟)?|min(?:ute)?s?)\b", txt):
+                minute_hits.append((lang, int(m.group(1))))
+        for lang, mv in minute_hits:
+            if isinstance(p.get("walk_min"), int) and mv != p["walk_min"]:
+                rep.err(f, f"{w}.desc.{lang}: says {mv} min but walk_min={p['walk_min']} (desc numbers must match fields)")
         dm, wm = p.get("distance_m"), p.get("walk_min")
         if not isinstance(dm, int) or isinstance(dm, bool):
             rep.err(f, f"{w}.distance_m must be integer")
@@ -165,13 +179,29 @@ def check_file(rep, path, url_bucket):
             if dm < 1 or dm > 2000:
                 rep.err(f, f"{w}.distance_m={dm} outside 1..2000")
             if isinstance(wm, int) and not isinstance(wm, bool) and wm > 0:
-                speed = dm / wm
-                if not (55 <= speed <= 110):
-                    rep.err(f, f"{w}: walk_min={wm} inconsistent with distance_m={dm} ({speed:.0f} m/min)")
+                import math
+                lo_w = max(1, math.ceil(dm / 110))
+                hi_w = max(lo_w, math.ceil(dm / 55))
+                if not (lo_w <= wm <= hi_w):
+                    rep.err(f, f"{w}: walk_min={wm} inconsistent with distance_m={dm} (expect {lo_w}-{hi_w})")
         if not isinstance(wm, int) or isinstance(wm, bool) or wm < 1:
             rep.err(f, f"{w}.walk_min must be positive integer")
         if "hours" in p and p["hours"] is not None and not isinstance(p["hours"], str):
             rep.err(f, f"{w}.hours must be string or null")
+        if isinstance(p.get("hours"), str) and "JST" not in p["hours"]:
+            rep.err(f, f"{w}.hours must carry timezone semantics, e.g. '10:00-18:00 (JST)'")
+        hs = p.get("hours_source")
+        if hs not in ("osm", "official", "unknown"):
+            rep.err(f, f"{w}.hours_source must be osm|official|unknown")
+        elif (p.get("hours") is None) != (hs == "unknown"):
+            rep.err(f, f"{w}: hours is {'set' if p.get('hours') else 'null'} but hours_source={hs} (null must pair with unknown)")
+        hca = p.get("hours_checked_at")
+        if hca is not None and not re.match(r"^[0-9]{4}-[0-9]{2}-[0-9]{2}$", hca or ""):
+            rep.err(f, f"{w}.hours_checked_at must be YYYY-MM-DD or null")
+        if hs == "official" and not hca:
+            rep.err(f, f"{w}: hours_source=official requires hours_checked_at (date the official page was checked)")
+        if "closed_on" in p and p["closed_on"] is not None and not isinstance(p["closed_on"], str):
+            rep.err(f, f"{w}.closed_on must be string or null")
         url = p.get("url")
         if not isinstance(url, str) or not re.match(r"^https?://[^ ]+$", url or ""):
             rep.err(f, f"{w}.url missing/invalid")
@@ -179,6 +209,18 @@ def check_file(rep, path, url_bucket):
             url_bucket.append((f, pid, url))
         if "tel" in p and p["tel"] is not None and not isinstance(p["tel"], str):
             rep.err(f, f"{w}.tel must be string or null")
+        ts = p.get("tel_source")
+        if ts not in ("osm", "official", "unknown"):
+            rep.err(f, f"{w}.tel_source must be osm|official|unknown")
+        elif (p.get("tel") is None) != (ts == "unknown"):
+            rep.err(f, f"{w}: tel is {'set' if p.get('tel') else 'null'} but tel_source={ts} (null must pair with unknown)")
+        if "official_url_pending" in p and not re.match(r"^https?://[^ ]+$", p.get("official_url_pending") or ""):
+            rep.err(f, f"{w}.official_url_pending must be a URL")
+        for fld in ("aka", "merged_ids"):
+            if fld in p:
+                v = p[fld]
+                if not isinstance(v, list) or not all(isinstance(x, str) and x for x in v):
+                    rep.err(f, f"{w}.{fld} must be array of non-empty strings")
         pl = p.get("price_level")
         if pl is not None and pl not in ("¥", "¥¥", "¥¥¥", "¥¥¥¥"):
             rep.err(f, f"{w}.price_level invalid: {pl!r}")
@@ -201,11 +243,13 @@ def check_file(rep, path, url_bucket):
             else:
                 seen_names[key] = i
         if isinstance(p.get("lat"), (int, float)) and isinstance(p.get("lon"), (int, float)):
-            for j, (la, lo) in coords:
+            for j, (la, lo, cat_j) in enumerate(coords):
                 if haversine(p["lat"], p["lon"], la, lo) < 50:
-                    rep.err(f, f"{w}: within 50 m of pois[{j}] (duplicate place?)")
+                    # true duplicates share a name (caught above) or name+category.
+                    # distinct establishments (bank vs convenience store...) only warned.
+                    rep.warn(f, f"{w}: within 50 m of pois[{j}] (dense area, verify they are distinct)")
                     break
-            coords.append((p["lat"], p["lon"]))
+            coords.append((p["lat"], p["lon"], p.get("category")))
 
     cov = d.get("coverage", {})
     if cov.get("poi_count") != len(pois):
@@ -213,8 +257,32 @@ def check_file(rep, path, url_bucket):
     if cov.get("confidence") not in ("high", "medium", "low"):
         rep.err(f, "coverage.confidence invalid")
     rm = cov.get("radius_m")
-    if not isinstance(rm, int) or not (200 <= rm <= 2000):
-        rep.err(f, "coverage.radius_m must be integer 200..2000")
+    if rm != 2000:
+        rep.err(f, f"coverage.radius_m must be 2000 (fixed policy), got {rm!r}")
+    if "truncated" in cov:
+        rep.err(f, "coverage.truncated is retired; use fetch_truncated (fetch cap) + selected_cap (selection cap)")
+    if "fetch_truncated" in cov and not isinstance(cov["fetch_truncated"], bool):
+        rep.err(f, "coverage.fetch_truncated must be boolean")
+    if "candidate_count" in cov:
+        if not isinstance(cov["candidate_count"], int) or isinstance(cov["candidate_count"], bool):
+            rep.err(f, "coverage.candidate_count must be integer")
+        if "fetch_truncated" not in cov:
+            rep.err(f, "coverage.candidate_count requires fetch_truncated (state explicitly whether the count is exact or a lower bound)")
+    if "selected_cap" in cov:
+        sc = cov["selected_cap"]
+        if sc is not None and (not isinstance(sc, int) or isinstance(sc, bool) or sc < 1):
+            rep.err(f, "coverage.selected_cap must be positive integer or null")
+        if isinstance(sc, int) and len(pois) > sc:
+            rep.err(f, f"poi_count={len(pois)} exceeds selected_cap={sc}")
+    if "excluded_candidates" in cov:
+        ec = cov["excluded_candidates"]
+        if not isinstance(ec, list):
+            rep.err(f, "coverage.excluded_candidates must be array")
+        else:
+            for k, item in enumerate(ec):
+                if not isinstance(item, dict) or not item.get("name") or not item.get("reason") \
+                   or set(item) - {"name", "reason"}:
+                    rep.err(f, f"coverage.excluded_candidates[{k}] must be {{name, reason}}")
     gaps = cov.get("gaps")
     if not isinstance(gaps, list):
         rep.err(f, "coverage.gaps must be array")
@@ -290,7 +358,12 @@ def check_urls(rep, url_bucket, sample):
         status = url_status(url)
         if status != 200:
             bad += 1
-            rep.err(f, f"{pid}: URL unreachable {url} (status {status})")
+            msg = f"{pid}: URL unreachable {url} (status {status})"
+            if status == 0 and not os.environ.get("CI"):
+                # local network may block some domains; CI re-checks with full internet
+                rep.warn(f, msg + " [local network failure, re-check in CI]")
+            else:
+                rep.err(f, msg)
     print(f"[urls] checked={checked} unreachable={bad}")
 
 

@@ -1,0 +1,544 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st04291",
+    "name": {
+      "ja": "稚内",
+      "en": "Wakkanai",
+      "zh": "稚内"
+    },
+    "line_group": [
+      "宗谷本線"
+    ],
+    "pref": "北海道",
+    "lat": 45.41695,
+    "lon": 141.67721
+  },
+  "generated_at": "2026-11-03T19:48:10Z",
+  "pois": [
+    {
+      "id": "st04291-001",
+      "category": "shopping",
+      "name": {
+        "ja": "キタカラ",
+        "en": "KITACOLOR",
+        "zh": "Kitakara站前商场"
+      },
+      "desc": {
+        "ja": "稚内駅前に立つ商業施設。スーパーや飲食店、物販店が集まり、到着してすぐの食事や日用品・土産の買い物に便利。",
+        "en": "Station-front complex with supermarket, eateries and shops; handy for meals, daily needs and souvenirs on arrival.",
+        "zh": "稚内站前的商业设施，汇集超市、餐饮与零售店铺，到站后即可方便地用餐、采购日用品与纪念品。"
+      },
+      "distance_m": 20,
+      "walk_min": 1,
+      "hours": null,
+      "url": "http://www.kitacolor.com/",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 45.4169994,
+      "lon": 141.6769653,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st04291-002",
+      "category": "sight",
+      "name": {
+        "ja": "日本最北端の線路",
+        "en": "Japan's Northernmost Railway Track",
+        "zh": "日本最北端铁轨"
+      },
+      "desc": {
+        "ja": "稚内駅の線路の突端に立つ記念碑。ここが日本全国を結ぶ鉄道網の最北端で、多くの鉄道ファンが訪れる記念撮影の名所。",
+        "en": "Monument at the rail tip of Wakkanai Station marking the northernmost point of Japan's railways; popular photo stop.",
+        "zh": "立于稚内站轨道尽头的纪念碑，标示日本铁路网的最北端，是铁道爱好者到访稚内必拍的纪念地。"
+      },
+      "distance_m": 51,
+      "walk_min": 1,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/node/6432852640",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 45.4174101,
+      "lon": 141.6772131,
+      "merged_ids": [
+        "osm:node/8378194771"
+      ],
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st04291-003",
+      "category": "convenience",
+      "name": {
+        "ja": "セイコーマート稚内駅前店",
+        "en": "Seicomart Wakkanai Ekimae",
+        "zh": "Seicomart稚内站前店"
+      },
+      "desc": {
+        "ja": "駅前から歩いて約1分の北海道発祥のコンビニエンスストア。食品や日用品の販売に加え公共料金の支払いなどにも対応し、早朝から深夜まで営業。",
+        "en": "Hokkaido convenience store 1 min from the station; food, daily goods and bill payment from morning till late evening.",
+        "zh": "距站步行约1分钟的北海道本土便利店，供应食品与日用品并可代缴公共费用，自清晨营业至深夜。"
+      },
+      "distance_m": 54,
+      "walk_min": 1,
+      "hours": "Mo-Su 06:00-23:00 (JST)",
+      "url": "https://www.openstreetmap.org/node/2646933030",
+      "tel": null,
+      "price_level": "¥",
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 45.4168068,
+      "lon": 141.6765509,
+      "hours_source": "osm",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st04291-004",
+      "category": "bank_atm",
+      "name": {
+        "ja": "北洋銀行稚内支店",
+        "en": "North Pacific Bank Wakkanai Branch",
+        "zh": "北洋银行稚内支行"
+      },
+      "desc": {
+        "ja": "北海道を地盤とする銀行の稚内支店。駅から歩いて約3分で、預け入れや引き出し、ATMの利用ができ、市中心部の金融拠点。",
+        "en": "Hokkaido-based bank branch 3 min from the station with ATM and deposit services; a financial anchor downtown.",
+        "zh": "北海道地方银行在稚内的支行，距站步行约3分钟，提供存取款与ATM服务，是市中心的金融网点。"
+      },
+      "distance_m": 167,
+      "walk_min": 3,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/way/261333409",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 45.4174083,
+      "lon": 141.6751721,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st04291-005",
+      "category": "park",
+      "name": {
+        "ja": "中央公園",
+        "en": "Chūō Park",
+        "zh": "中央公园"
+      },
+      "desc": {
+        "ja": "市中心部にある小ぢんまりとした公園。木立とベンチが整備され、買い物の合間や散歩の途中にひと息つける憩いの場。",
+        "en": "Compact park in the city centre with trees and benches; a quiet spot to rest between shopping or on a stroll.",
+        "zh": "市中心的小型公园，园内植树并设有长椅，是购物间隙或散步途中歇脚的休憩场所，距站仅数分钟路程。"
+      },
+      "distance_m": 247,
+      "walk_min": 4,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/way/61842142",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 45.4191276,
+      "lon": 141.676576,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st04291-006",
+      "category": "post_office",
+      "name": {
+        "ja": "稚内郵便局",
+        "en": "Wakkanai Post Office",
+        "zh": "稚内邮局"
+      },
+      "desc": {
+        "ja": "稚内市の中心郵便局。郵便物や荷物の取り扱い、貯金・払戻に対応し、市内で最も窓口サービスが充実した郵便局。",
+        "en": "Wakkanai's main post office handling mail, parcels and banking; the city's most complete postal service point.",
+        "zh": "稚内市的中心邮局，办理邮件、包裹与储蓄存取业务，是市内窗口服务最齐全的邮政网点。"
+      },
+      "distance_m": 294,
+      "walk_min": 4,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/way/151591606",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 45.4174447,
+      "lon": 141.6735068,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st04291-007",
+      "category": "food",
+      "name": {
+        "ja": "竹ちゃん",
+        "en": "Take-chan",
+        "zh": "Take-chan"
+      },
+      "desc": {
+        "ja": "市街地にある寿司や郷土料理を出す食事処。昼から夜遅くまで営業し、観光客だけでなく地元の人の利用も多い。",
+        "en": "Downtown eatery serving sushi and regional Hokkaido dishes, open from lunch until late evening; popular with locals too.",
+        "zh": "市中心的餐馆，供应寿司与北海道乡土料理，午间至深夜营业，游客与本地食客均常光顾。"
+      },
+      "distance_m": 315,
+      "walk_min": 4,
+      "hours": "17:00-21:00 (JST, L.O. 20:30, 夏期)",
+      "url": "http://take-chan.co.jp/",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 45.4191929,
+      "lon": 141.6747482,
+      "hours_source": "official",
+      "tel_source": "unknown",
+      "hours_checked_at": "2026-11-04",
+      "closed_on": "日曜日（臨時休業あり）"
+    },
+    {
+      "id": "st04291-008",
+      "category": "public_service",
+      "name": {
+        "ja": "稚内市役所",
+        "en": "Wakkanai City Office",
+        "zh": "稚内市政府"
+      },
+      "desc": {
+        "ja": "稚内市の行政の中心。駅から歩いて約5分で、住民票や税などの各種行政手続きを取り扱う。",
+        "en": "Wakkanai City Hall, 5 min from the station, handling resident certificates, tax and other civic procedures.",
+        "zh": "稚内市的行政中心，距站步行约5分钟，办理住民票、税务、各类证明等行政手续，是市民办事的主要去处。"
+      },
+      "distance_m": 353,
+      "walk_min": 5,
+      "hours": null,
+      "url": "https://www.city.wakkanai.hokkaido.jp/",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 45.4156592,
+      "lon": 141.6730791,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st04291-009",
+      "category": "sight",
+      "name": {
+        "ja": "北防波堤ドーム",
+        "en": "Kita-Bōhatei Dome (North Breakwater Dome)",
+        "zh": "北防波堤穹廊"
+      },
+      "desc": {
+        "ja": "1936年に完成した半円アーチが連なる防波堤。約400mにわたって柱廊が続き、稚内港のシンボルとして国の登録有形文化財に登録されている。",
+        "en": "1936 breakwater with semicircular arches running about 400 m; symbol of Wakkanai Port, a registered cultural property.",
+        "zh": "1936年建成的防波堤，半圆形拱柱廊绵延约400米，是稚内港的象征，已列入国家登录有形文化财。"
+      },
+      "distance_m": 356,
+      "walk_min": 5,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/way/61797658",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 45.419957,
+      "lon": 141.6787575,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st04291-010",
+      "category": "sight",
+      "name": {
+        "ja": "大鵬幸喜上陸の地記念碑",
+        "en": "Taihō Kōki Landing Memorial",
+        "zh": "大鹏幸喜登陆之地纪念碑"
+      },
+      "desc": {
+        "ja": "樺太生まれの大横綱・大鵬幸喜が、戦後の引き揚げで稚内港に上陸したことを記念する碑。港の歴史と相撲ファンをつなぐ記念碑。",
+        "en": "Monument to yokozuna Taihō Kōki, born in Sakhalin, who landed at Wakkanai Port during post-war repatriation.",
+        "zh": "纪念出生于桦太（库页岛）的大横纲大鹏幸喜，他在战后归国时于稚内港登陆，此碑立于港区以志纪念。"
+      },
+      "distance_m": 435,
+      "walk_min": 6,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/node/10771123275",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 45.4195701,
+      "lon": 141.6813498,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st04291-011",
+      "category": "park",
+      "name": {
+        "ja": "稚内公園",
+        "en": "Wakkanai Park",
+        "zh": "稚内公园"
+      },
+      "desc": {
+        "ja": "市街地を見下ろす丘の上にある公園。氷雪の門や九人の乙女の碑などの記念碑が立ち、町と海を一望できる。",
+        "en": "Hillside park above the town with monuments such as the Gate of Ice and Snow; views over Wakkanai and the sea.",
+        "zh": "位于山丘上的公园，园内立有冰雪之门、九人少女碑等纪念碑，可俯瞰稚内市区与海面，是市内主要绿地。"
+      },
+      "distance_m": 816,
+      "walk_min": 11,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/way/470934949",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 45.4212423,
+      "lon": 141.6687366,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "category": "sight",
+      "name": {
+        "ja": "氷雪の門",
+        "en": "Gate of Ice and Snow",
+        "zh": "冰雪之门"
+      },
+      "desc": {
+        "ja": "稚内公園に立つ、樺太の氷雪を象徴するモニュメント。樺太で亡くなった人々を悼み、平和を願って建てられた。",
+        "en": "Monument in Wakkanai Park symbolizing Sakhalin's ice and snow, erected in memory of those who died there.",
+        "zh": "稚内公园内象征库页岛冰雪的纪念碑，为悼念在库页岛的遇难者而建，是稚内代表性的和平纪念碑。"
+      },
+      "distance_m": 887,
+      "walk_min": 12,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/way/245286343",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 45.4219248,
+      "lon": 141.6683301,
+      "hours_source": "unknown",
+      "tel_source": "unknown",
+      "id": "st04291-012"
+    },
+    {
+      "category": "sight",
+      "name": {
+        "ja": "九人の乙女の碑",
+        "en": "Nine Maidens Memorial",
+        "zh": "九人少女碑"
+      },
+      "desc": {
+        "ja": "終戦時に樺太・真岡で亡くなった九人の女性を悼む碑。氷雪の門のそばに立ち、悲劇の歴史を今に伝えている。",
+        "en": "Memorial beside the Gate of Ice and Snow honouring nine women who died in Sakhalin at the war's end.",
+        "zh": "悼念战争结束时在库页岛真冈遇难的九位女性的纪念碑，与冰雪之门相邻，诉说这段悲剧历史。"
+      },
+      "distance_m": 903,
+      "walk_min": 12,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/node/9906921671",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 45.4219858,
+      "lon": 141.6681281,
+      "hours_source": "unknown",
+      "tel_source": "unknown",
+      "id": "st04291-013"
+    },
+    {
+      "id": "st04291-014",
+      "category": "shopping",
+      "name": {
+        "ja": "稚内副港市場",
+        "en": "Wakkanai Fukuko Market",
+        "zh": "稚内副港市场"
+      },
+      "desc": {
+        "ja": "稚内港のそばにある市場施設。新鮮な魚介や干物・加工品が並び、海産物の土産を探すのに好都合。",
+        "en": "Market hall near Wakkanai Port selling fresh seafood and dried or processed products; a good place for edible souvenirs.",
+        "zh": "稚内港旁的市场设施，汇集新鲜海产与干制加工品，是选购海鲜伴手礼的好去处，与桦太纪念馆相邻。"
+      },
+      "distance_m": 949,
+      "walk_min": 12,
+      "hours": null,
+      "url": "https://fukkoichiba.hokkaido.jp/",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 45.408431,
+      "lon": 141.6765569,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st04291-015",
+      "category": "sight",
+      "name": {
+        "ja": "稚内市樺太記念館",
+        "en": "Wakkanai Karafuto Memorial Museum",
+        "zh": "稚内市桦太纪念馆"
+      },
+      "desc": {
+        "ja": "樺太（サハリン）の歴史を伝える記念館。日本統治時代の暮らしや、終戦後の引き揚げに関する資料を展示する。",
+        "en": "Museum on Karafuto (Sakhalin) history, with materials on daily life under Japanese rule and post-war repatriation.",
+        "zh": "展示库页岛（桦太）历史的纪念馆，陈列日治时期当地生活与战后遣返的相关资料，与副港市场同在一区。"
+      },
+      "distance_m": 988,
+      "walk_min": 13,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/node/8678291930",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 45.4080742,
+      "lon": 141.6765756,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st04291-016",
+      "category": "onsen_sento",
+      "name": {
+        "ja": "稚内天然温泉 港のゆ",
+        "en": "Wakkanai Natural Onsen Minato-no-Yu",
+        "zh": "稚内天然温泉 港之汤"
+      },
+      "desc": {
+        "ja": "稚内港のそばにある天然温泉施設。観光のあとに天然温泉の大浴場でゆっくり体を温められる。",
+        "en": "Natural hot-spring bathhouse near Wakkanai Port; a large bath for warming up after a day of sightseeing.",
+        "zh": "稚内港旁的天然温泉设施，设有天然温泉大浴场，观光结束后入浴暖身，为旅途消除疲劳。"
+      },
+      "distance_m": 991,
+      "walk_min": 13,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/node/5659120822",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 45.4080491,
+      "lon": 141.6766775,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st04291-017",
+      "category": "medical",
+      "name": {
+        "ja": "えきまえ診療所",
+        "en": "Ekimae Clinic",
+        "zh": "站前诊所"
+      },
+      "desc": {
+        "ja": "稚内駅のすぐそばにある診療所。内科を中心に地域医療を担い、旅行者の体調不良時の相談先にもなる。",
+        "en": "Clinic right by Wakkanai Station, providing community care and a first stop for travelers feeling unwell.",
+        "zh": "稚内火车站旁的诊所，以内科为主承担当地医疗，也是旅客身体不适之时就近的求助选择。"
+      },
+      "distance_m": 176,
+      "walk_min": 2,
+      "hours": "月〜水 08:30-11:30/14:30-18:00、金 08:30-11:30/14:30-18:00、土 08:30-11:30/14:30-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/304787830",
+      "tel": "+81 162 73 6660",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 45.4176088,
+      "lon": 141.675153
+    },
+    {
+      "id": "st04291-018",
+      "category": "police",
+      "name": {
+        "ja": "中央交番",
+        "en": "Chuo Koban",
+        "zh": "中央派出所"
+      },
+      "desc": {
+        "ja": "稚内駅前の市街地にある交番。道案内や落とし物の相談、緊急時の駆け込みなど、最も近い警察の窓口。",
+        "en": "Police box in the downtown area in front of Wakkanai Station, the nearest point for directions and emergencies.",
+        "zh": "稚内站站前市区的派出所，是旅客问路、失物招领咨询与紧急求助之时最近、最可靠的警务点。"
+      },
+      "distance_m": 307,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2669694064",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 45.414264,
+      "lon": 141.67631
+    }
+  ],
+  "coverage": {
+    "poi_count": 18,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "站周1200米内未收录住宿类POI；1.2–2公里环带以小型商务旅馆为主，未逐一收录"
+    ],
+    "candidate_count": 151,
+    "fetch_truncated": false,
+    "selected_cap": 20
+  }
+}

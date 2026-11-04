@@ -1,0 +1,608 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st00067",
+    "name": {
+      "ja": "大阪",
+      "en": "Ōsaka",
+      "zh": "大阪"
+    },
+    "line_group": [
+      "東海道本線(JR京都線・神戸線)",
+      "大阪環状線",
+      "JR東西線",
+      "福知山線(JR宝塚線)",
+      "阪和線(直通)"
+    ],
+    "pref": "大阪府",
+    "lat": 34.70218,
+    "lon": 135.49559
+  },
+  "generated_at": "2026-11-03T19:48:06Z",
+  "pois": [
+    {
+      "id": "st00067-001",
+      "category": "lodging",
+      "name": {
+        "ja": "ホテルグランヴィア大阪",
+        "en": "Hotel Granvia Osaka",
+        "zh": "大阪格兰比亚大酒店"
+      },
+      "desc": {
+        "ja": "JR大阪駅構内にある駅直結のホテル。客室とレストランが充実し、梅田エリアの観光やビジネスの拠点になる。",
+        "en": "Hotel inside JR Osaka Station with direct access; a convenient base for Umeda sightseeing and business.",
+        "zh": "位于JR大阪站站内的直连酒店，客房与餐厅齐备，是梅田地区观光与商务出行的便利据点。"
+      },
+      "distance_m": 70,
+      "walk_min": 1,
+      "hours": null,
+      "url": "https://www.granvia-osaka.jp/",
+      "tel": null,
+      "price_level": "¥¥¥",
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.7016138,
+      "lon": 135.4959249,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st00067-002",
+      "category": "shopping",
+      "name": {
+        "ja": "大丸梅田店",
+        "en": "Daimaru Umeda",
+        "zh": "大丸梅田店"
+      },
+      "desc": {
+        "ja": "大阪駅に隣接する百貨店。ファッションや食品の売場がそろい、地下の食品街は土産選びにも好都合。",
+        "en": "Department store beside Osaka Station with fashion and food floors; the basement food hall is great for souvenirs.",
+        "zh": "与大阪站相邻的大型百货店，时装与食品楼层齐全，地下食品区是选购各类伴手礼的好去处。"
+      },
+      "distance_m": 106,
+      "walk_min": 2,
+      "hours": "10:00-20:00 (JST, 全日全館)",
+      "url": "https://www.daimaru.co.jp/umedamise/",
+      "tel": null,
+      "price_level": "¥¥¥",
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.7019921,
+      "lon": 135.4967271,
+      "hours_source": "official",
+      "tel_source": "unknown",
+      "hours_checked_at": "2026-11-04",
+      "closed_on": "元日・1月2日"
+    },
+    {
+      "id": "st00067-003",
+      "category": "shopping",
+      "name": {
+        "ja": "ルクア大阪",
+        "en": "LUCUA osaka",
+        "zh": "LUCUA大阪"
+      },
+      "desc": {
+        "ja": "大阪駅に直結するファッションビル。トレンドのショップや飲食店が並び、若者に人気のスポット。",
+        "en": "Fashion mall directly above Osaka Station, packed with trendy shops and eateries popular with younger visitors.",
+        "zh": "与大阪站直连的大型时尚购物商场，汇集潮流店铺与各类餐馆，是年轻人聚集的热门去处。"
+      },
+      "distance_m": 131,
+      "walk_min": 2,
+      "hours": "10:30-20:30 (JST, 一部飲食店は22:00まで)",
+      "url": "https://www.lucua.jp/",
+      "tel": null,
+      "price_level": "¥¥",
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.7032322,
+      "lon": 135.4962259,
+      "hours_source": "official",
+      "tel_source": "unknown",
+      "hours_checked_at": "2026-11-04"
+    },
+    {
+      "id": "st00067-004",
+      "category": "bank_atm",
+      "name": {
+        "ja": "三菱UFJ銀行梅田支店",
+        "en": "MUFG Bank Umeda Branch",
+        "zh": "三菱UFJ银行梅田支行"
+      },
+      "desc": {
+        "ja": "大手銀行、三菱UFJ銀行の梅田エリアの支店。預け入れや引き出し、ATMの利用に対応している。",
+        "en": "MUFG Bank branch in the Umeda area with ATM and deposit services from one of Japan's major banks.",
+        "zh": "大型银行三菱UFJ银行设在梅田地区的支行，提供存取款与ATM服务，是站区的金融网点。"
+      },
+      "distance_m": 222,
+      "walk_min": 3,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/node/1741173461",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.7004833,
+      "lon": 135.4968764,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st00067-005",
+      "category": "post_office",
+      "name": {
+        "ja": "大阪阪急内郵便局",
+        "en": "Osaka Hankyu-nai Post Office",
+        "zh": "大阪阪急内邮局"
+      },
+      "desc": {
+        "ja": "阪急梅田駅のビル内にある郵便局。郵便物や貯金の取り扱いに加え、土産の発送にも利用できる。",
+        "en": "Post office inside the Hankyu Umeda station complex, handling mail and banking; handy for shipping souvenirs home.",
+        "zh": "位于阪急梅田站楼内的邮局，可办理邮件与储蓄存取业务，也方便将纪念品直接邮寄回家。"
+      },
+      "distance_m": 310,
+      "walk_min": 4,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/node/1422991187",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.7023328,
+      "lon": 135.4989753,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st00067-006",
+      "category": "shopping",
+      "name": {
+        "ja": "ディアモール大阪",
+        "en": "Diamor Osaka",
+        "zh": "Diamor大阪地下街"
+      },
+      "desc": {
+        "ja": "大阪駅から梅田方面へ広がる地下街モール。ファッションや雑貨の店が並び、雨の日でも快適に過ごせる。",
+        "en": "Underground mall stretching from Osaka Station toward Umeda; fashion and goods shops, handy on rainy days.",
+        "zh": "从大阪站向梅田方向延伸的地下街商场，时装与杂货店铺林立，雨天也能安心地逛街购物。"
+      },
+      "distance_m": 322,
+      "walk_min": 4,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/way/1304559275",
+      "tel": null,
+      "price_level": "¥¥",
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.699962,
+      "lon": 135.4978467,
+      "official_url_pending": "https://www.diamor.jp/",
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st00067-007",
+      "category": "shopping",
+      "name": {
+        "ja": "グランフロント大阪",
+        "en": "Grand Front Osaka",
+        "zh": "Grand Front大阪"
+      },
+      "desc": {
+        "ja": "大阪駅北側に広がる大型の複合商業施設。ショップやレストラン、オフィスが集まり、駅前広場ではイベントも開かれる。",
+        "en": "Large commercial complex on Osaka Station's north side with shops, eateries and offices; its plaza hosts events.",
+        "zh": "大阪站北侧的大型综合商业体，汇集店铺、餐厅与办公室，门前的广场经常举办各类活动。"
+      },
+      "distance_m": 348,
+      "walk_min": 5,
+      "hours": null,
+      "url": "https://www.grandfront-osaka.jp/",
+      "tel": null,
+      "price_level": "¥¥",
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.7052183,
+      "lon": 135.494664,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st00067-008",
+      "category": "shopping",
+      "name": {
+        "ja": "ブリーゼブリーゼ",
+        "en": "Breeze Breeze",
+        "zh": "Breeze Breeze"
+      },
+      "desc": {
+        "ja": "西梅田にある商業ビル。館内にはファッションや生活雑貨の店、レストランが集まり、買い物と食事に便利。",
+        "en": "Commercial tower in Nishi-Umeda gathering fashion, lifestyle shops and restaurants under one roof.",
+        "zh": "位于西梅田的商业大楼，馆内汇集时装、生活杂货店铺与各类餐馆，适合一站式逛街用餐。"
+      },
+      "distance_m": 436,
+      "walk_min": 6,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/node/4584816489",
+      "tel": null,
+      "price_level": "¥¥",
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.6985046,
+      "lon": 135.4939391,
+      "official_url_pending": "https://www.breeze-breeze.jp/",
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st00067-009",
+      "category": "shopping",
+      "name": {
+        "ja": "HEP FIVE",
+        "en": "HEP FIVE",
+        "zh": "HEP FIVE"
+      },
+      "desc": {
+        "ja": "屋上の赤い観覧車が目印の梅田の商業施設。館内にはファッションや飲食店が集まり、観覧車からは大阪の街並みを一望できる。",
+        "en": "Umeda commercial facility topped by a red ferris wheel; fashion and eateries inside, with city views from the wheel.",
+        "zh": "屋顶设有红色摩天轮的梅田商业设施，馆内汇集时装与各类餐馆，摩天轮上可眺望大阪街景。"
+      },
+      "distance_m": 480,
+      "walk_min": 7,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/way/161451126",
+      "tel": null,
+      "price_level": "¥¥",
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.704074,
+      "lon": 135.5003059,
+      "official_url_pending": "https://www.hepfive.jp/",
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st00067-010",
+      "category": "shopping",
+      "name": {
+        "ja": "曽根崎お初天神通り商店街",
+        "en": "Sonezaki Ohatsu Tenjin-dori Shopping Street",
+        "zh": "曾根崎露天天神通商店街"
+      },
+      "desc": {
+        "ja": "お初天神へ続くアーケード商店街。飲食店や居酒屋が軒を連ね、昼から夜まで多くの人でにぎわう。",
+        "en": "Covered shopping street leading to Ohatsu Tenjin shrine, lined with eateries and bars, busy day and night.",
+        "zh": "通往露天神社（曾根崎天神）的拱顶商店街，餐馆与居酒屋林立，从白天到夜晚都很热闹。"
+      },
+      "distance_m": 501,
+      "walk_min": 7,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/way/513280008",
+      "tel": null,
+      "price_level": "¥",
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.7001965,
+      "lon": 135.500512,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st00067-011",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "お初天神（露天神社）",
+        "en": "Ohatsu Tenjin (Tsuyu no Tenjinsha)",
+        "zh": "露天神社（曾根崎天神）"
+      },
+      "desc": {
+        "ja": "近松門左衛門の心中物語『曽根崎心中』の舞台として知られる古社。縁結びの神様として信仰を集めている。",
+        "en": "Ancient shrine famed as the setting of Chikamatsu's love-suicide drama Sonezaki Shinju; prayed to for matchmaking.",
+        "zh": "因近松门左卫门的殉情物语《曾根崎心中》而闻名的古神社，作为结缘祈福之神受人信奉。"
+      },
+      "distance_m": 546,
+      "walk_min": 8,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/node/6633527974",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.6995374,
+      "lon": 135.5006182,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st00067-013",
+      "category": "sight",
+      "name": {
+        "ja": "梅田スカイビル（空中庭園展望台）",
+        "en": "Umeda Sky Building (Floating Garden Observatory)",
+        "zh": "梅田蓝天大厦（空中庭园展望台）"
+      },
+      "desc": {
+        "ja": "二つのタワーが上部で連結したランドマークビル。屋上の空中庭園展望台からは、大阪の街を360度見渡せる。",
+        "en": "Landmark twin towers linked at the top; the rooftop Floating Garden Observatory gives 360-degree views of Osaka.",
+        "zh": "两栋塔楼在顶部相连的地标建筑，屋顶的空中庭园展望台可360度俯瞰大阪的城市全景。"
+      },
+      "distance_m": 607,
+      "walk_min": 9,
+      "hours": "平日 9:30-22:30 (JST, 最終入場22:00)",
+      "url": "https://www.skybldg.co.jp/",
+      "tel": null,
+      "price_level": "¥",
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.7052964,
+      "lon": 135.4901388,
+      "hours_source": "official",
+      "tel_source": "unknown",
+      "hours_checked_at": "2026-11-04",
+      "closed_on": "土日祝（臨時休業、公式サイト参照）"
+    },
+    {
+      "id": "st00067-015",
+      "category": "public_service",
+      "name": {
+        "ja": "大阪市役所",
+        "en": "Osaka City Hall",
+        "zh": "大阪市役所"
+      },
+      "desc": {
+        "ja": "中之島にある大阪市役所。各種の行政手続きの窓口で、周辺には歴史的な建物が数多く並ぶ。",
+        "en": "Osaka City Hall on Nakanoshima, handling civic procedures; the area around it is lined with historic buildings.",
+        "zh": "大阪市役所位于中之岛上，可办理各类行政手续，周边历史建筑众多，整体街区氛围庄重。"
+      },
+      "distance_m": 1131,
+      "walk_min": 15,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/node/13192023292",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.693929,
+      "lon": 135.502826,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "category": "sight",
+      "name": {
+        "ja": "国立国際美術館",
+        "en": "National Museum of Art, Osaka",
+        "zh": "国立国际美术馆"
+      },
+      "desc": {
+        "ja": "中之島にある地下構造の美術館。戦後の現代美術を中心にしたコレクションを擁し、葦を思わせる外観も印象的。",
+        "en": "Underground art museum on Nakanoshima focused on post-war contemporary art; its reed-like facade is striking.",
+        "zh": "位于中之岛的地下结构美术馆，以战后当代美术收藏为主，芦苇般的外观设计令人印象深刻。"
+      },
+      "distance_m": 1209,
+      "walk_min": 16,
+      "hours": "火〜木・土日 10:00-17:00、金 10:00-19:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.nmao.go.jp/",
+      "tel": "+81 6 6447 4680",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6916919,
+      "lon": 135.4920875,
+      "id": "st00067-016"
+    },
+    {
+      "id": "st00067-017",
+      "category": "park",
+      "name": {
+        "ja": "中之島公園",
+        "en": "Nakanoshima Park",
+        "zh": "中之岛公园"
+      },
+      "desc": {
+        "ja": "1891年に開園した大阪最初の公園。二つの川に挟まれた中洲の緑地で、バラ園や水辺の散策路が整備されている。",
+        "en": "Osaka's first public park (1891) on a sandbar between two rivers, with rose beds and waterfront promenades.",
+        "zh": "1891年开放的大阪第一座公立公园，位于两河之间的沙洲上，设有玫瑰园与亲水步道。"
+      },
+      "distance_m": 1252,
+      "walk_min": 17,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/node/13948063951",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.6938551,
+      "lon": 135.5048165,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "category": "park",
+      "name": {
+        "ja": "扇町公園",
+        "en": "Ōgimachi Park",
+        "zh": "扇町公园"
+      },
+      "desc": {
+        "ja": "天満エリアにある大きな公園。野球場やテニスコートなどの運動施設があり、隣接のキッズプラザ大阪は親子に人気。",
+        "en": "Large park in the Tenma area with ball fields and courts; the adjacent Kids Plaza Osaka draws families.",
+        "zh": "天满一带的大型公园，设有棒球场、网球场等运动设施，相邻的大阪儿童乐园是亲子好去处。"
+      },
+      "distance_m": 1258,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/54237489",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7041306,
+      "lon": 135.5091485,
+      "id": "st00067-018"
+    },
+    {
+      "category": "shrine_temple",
+      "name": {
+        "ja": "大阪天満宮",
+        "en": "Ōsaka Tenmangū Shrine",
+        "zh": "大阪天满宫"
+      },
+      "desc": {
+        "ja": "学問の神・菅原道真を祀る神社。毎年7月24・25日の天神祭は日本三大祭のひとつに数えられる。",
+        "en": "Shrine of Sugawara no Michizane, deity of learning; its Tenjin Festival in July is one of Japan's three great festivals.",
+        "zh": "供奉学问之神菅原道真的神社，每年7月24、25日举行的天神祭是日本三大祭典之一。"
+      },
+      "distance_m": 1709,
+      "walk_min": 22,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/363304259",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6961478,
+      "lon": 135.5127788,
+      "id": "st00067-019"
+    },
+    {
+      "id": "st00067-020",
+      "category": "medical",
+      "name": {
+        "ja": "関西電力病院",
+        "en": "Kansai Electric Power Hospital",
+        "zh": "关西电力医院"
+      },
+      "desc": {
+        "ja": "中之島の西端にある総合病院。内科・外科など幅広い診療科と救急医療を備え、駅の北西へ約1.3km。",
+        "en": "General hospital at the western end of Nakanoshima with broad specialties and emergency care, about 1.3 km away.",
+        "zh": "位于中之岛西端的综合医院，设有多个诊疗科目并提供急救医疗，距大阪站约1.3公里。"
+      },
+      "distance_m": 1271,
+      "walk_min": 17,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/194051691",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6930154,
+      "lon": 135.4872797,
+      "official_url_pending": "https://kanden-hsp.jp/"
+    },
+    {
+      "id": "st00067-021",
+      "category": "convenience",
+      "name": {
+        "ja": "ファミリーマート",
+        "en": "FamilyMart",
+        "zh": "全家便利店"
+      },
+      "desc": {
+        "ja": "大阪駅の南西、梅田のオフィス街にある24時間営業のコンビニエンスストア。食事や飲み物の調達に便利。",
+        "en": "24-hour convenience store southwest of Osaka Station in Umeda's office district, handy for meals and drinks.",
+        "zh": "大阪站西南侧梅田办公区的24小时便利店，全天营业，便于随时采购餐食、饮料与日用品。"
+      },
+      "distance_m": 336,
+      "walk_min": 4,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2193699502",
+      "tel": "+81 664854782",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7051949,
+      "lon": 135.4957537
+    },
+    {
+      "id": "st00067-022",
+      "category": "police",
+      "name": {
+        "ja": "大阪駅交番",
+        "en": "Osaka Station Koban",
+        "zh": "大阪站派出所"
+      },
+      "desc": {
+        "ja": "JR大阪駅の中央口の前にある交番。道案内や落とし物の相談、緊急時の駆け込みなど、最も近い警察の窓口。",
+        "en": "Police box in front of JR Osaka Station's central exit; nearest point for directions, lost property, emergencies.",
+        "zh": "位于JR大阪站中央口前的派出所，是旅客问路、办理失物招领咨询与紧急求助时最近的警务点。"
+      },
+      "distance_m": 119,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2293214795",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.703102,
+      "lon": 135.4949259
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [],
+    "candidate_count": 722,
+    "fetch_truncated": false,
+    "selected_cap": 20
+  }
+}

@@ -1,0 +1,499 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st04348",
+    "name": {
+      "ja": "広島",
+      "en": "Hiroshima",
+      "zh": "广岛"
+    },
+    "line_group": [
+      "山陽本線",
+      "呉線",
+      "芸備線",
+      "可部線",
+      "山陽新幹線"
+    ],
+    "pref": "広島県",
+    "lat": 34.397891,
+    "lon": 132.475456
+  },
+  "generated_at": "2026-11-03T18:44:38Z",
+  "pois": [
+    {
+      "id": "st04348-001",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン広島駅店",
+        "en": "7-Eleven Hiroshima Station",
+        "zh": "7-Eleven广岛站店"
+      },
+      "desc": {
+        "ja": "広島駅から歩いて約1分のコンビニエンスストア。朝6時から深夜まで営業し、飲食品や日用品、旅先での必需品の調達に便利。",
+        "en": "Convenience store 1 min from Hiroshima Station, open 6:00-24:00; handy for food, daily goods and travel essentials.",
+        "zh": "距广岛站步行约1分钟的便利店，6点至24点营业，方便购买食品、日用品与旅行急需品。"
+      },
+      "distance_m": 39,
+      "walk_min": 1,
+      "hours": "Mo-Su 06:00-24:00 (JST)",
+      "url": "https://www.openstreetmap.org/node/5363508184",
+      "tel": null,
+      "price_level": "¥",
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.3975448,
+      "lon": 132.4755403,
+      "hours_source": "osm",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st04348-002",
+      "category": "police",
+      "name": {
+        "ja": "広島駅交番",
+        "en": "Hiroshima Station Police Box",
+        "zh": "广岛站派出所"
+      },
+      "desc": {
+        "ja": "駅前の広場にある交番。道案内や落とし物の相談など、旅先の困りごとにすぐ頼れる、駅周辺で最も近い警察の窓口。",
+        "en": "Police box on the station-front plaza; the nearest point for directions, lost property and safety assistance.",
+        "zh": "位于广岛站站前广场的派出所，旅客问路、失物招领与治安求助均可在此办理，是站区最近的警务点。"
+      },
+      "distance_m": 100,
+      "walk_min": 1,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/node/1423637041",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.3979477,
+      "lon": 132.4765395,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st04348-003",
+      "category": "food",
+      "name": {
+        "ja": "電光石火 えきちゃん",
+        "en": "Denko Sekka (ekie)",
+        "zh": "电光石火（ekie店）"
+      },
+      "desc": {
+        "ja": "駅ビルekieにある人気のお好み焼店。太めの麺を鉄板で香ばしく焼き上げるのが特徴で、カウンターで焼きたてを味わえる。",
+        "en": "Popular Hiroshima okonomiyaki in the ekie station complex; thick noodles grilled on the iron plate and served from it.",
+        "zh": "站内商场ekie的人气广岛烧店，以粗面为特色，铁板现烤现出，可坐在柜台前趁热品尝。"
+      },
+      "distance_m": 119,
+      "walk_min": 2,
+      "hours": "Mo-Su 11:00-23:00 (JST)",
+      "url": "https://okonomiyaki-denko-sekka.com/",
+      "tel": null,
+      "price_level": "¥¥",
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.397928,
+      "lon": 132.4767518,
+      "hours_source": "osm",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st04348-004",
+      "category": "lodging",
+      "name": {
+        "ja": "ホテルグランヴィア広島",
+        "en": "Hotel Granvia Hiroshima",
+        "zh": "广岛格兰维亚大酒店"
+      },
+      "desc": {
+        "ja": "JR広島駅に直結した駅ホテル。新幹線改札にも近く、客室やレストランが充実し、観光やビジネスの拠点に使いやすい。",
+        "en": "Hotel inside JR Hiroshima Station by the Shinkansen gates; a handy base for sightseeing and business.",
+        "zh": "与JR广岛站直连的车站酒店，紧邻新干线检票口，客房与餐厅齐备，是观光与商务的便利据点。"
+      },
+      "distance_m": 129,
+      "walk_min": 2,
+      "hours": null,
+      "url": "https://www.hgh.co.jp/",
+      "tel": null,
+      "price_level": "¥¥¥",
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.3990512,
+      "lon": 132.4755043,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st04348-005",
+      "category": "post_office",
+      "name": {
+        "ja": "広島JPビル郵便局",
+        "en": "Hiroshima JP Building Post Office",
+        "zh": "广岛JP大楼邮局"
+      },
+      "desc": {
+        "ja": "広島JPビルディング内にある郵便局。駅から歩いて約3分で、郵便物や荷物の取り扱い、貯金・払戻に対応する。",
+        "en": "Post office in the Hiroshima JP Building 3 min from the station, handling mail, parcels and banking on weekdays.",
+        "zh": "位于广岛JP大楼内的邮局，距站步行约3分钟，工作日办理邮件、包裹与储蓄存取等业务。"
+      },
+      "distance_m": 203,
+      "walk_min": 3,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "url": "https://www.openstreetmap.org/node/9453472715",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.3974185,
+      "lon": 132.4733142,
+      "hours_source": "osm",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st04348-006",
+      "category": "bank_atm",
+      "name": {
+        "ja": "広島銀行広島駅前支店",
+        "en": "Hiroshima Bank Ekimae Branch",
+        "zh": "广岛银行广岛站前支行"
+      },
+      "desc": {
+        "ja": "県を代表する地方銀行、広島銀行の駅前支店。預け入れや引き出し、ATMの利用ができ、旅先の資金の窓口として使える。",
+        "en": "Hiroshima Bank branch in the station-front area, offering ATM and deposit services from the region's leading bank.",
+        "zh": "广岛县主要地方银行——广岛银行设在车站前的支行，提供存取款与ATM服务，方便旅客周转资金。"
+      },
+      "distance_m": 203,
+      "walk_min": 3,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/node/4303805090",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.3963354,
+      "lon": 132.4742885,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st04348-007",
+      "category": "public_service",
+      "name": {
+        "ja": "広島市映像文化ライブラリー",
+        "en": "Hiroshima City Cinematographic Library",
+        "zh": "广岛市映像文化图书馆"
+      },
+      "desc": {
+        "ja": "駅前エリアにある映像専門の市立施設。映画作品を収集して定期的に上映しており、映像に関する資料や書籍も閲覧できる。",
+        "en": "City film library near the station archiving movies; regular screenings plus film-related books and materials.",
+        "zh": "站前地区的市立影像专业设施，收藏并定期放映电影作品，馆内还可阅览影像相关资料与书籍。"
+      },
+      "distance_m": 214,
+      "walk_min": 3,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/node/1423636160",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.3963109,
+      "lon": 132.474127,
+      "official_url_pending": "http://www.cf.city.hiroshima.jp/eizou/",
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st04348-008",
+      "category": "shopping",
+      "name": {
+        "ja": "福屋広島駅前店（エールエール）",
+        "en": "Fukuya Hiroshima Ekimae (Yale Yale)",
+        "zh": "福屋广岛站前店（Yell-Yell）"
+      },
+      "desc": {
+        "ja": "駅とデッキでつながる百貨店エールエール。ファッションや食品の売場がそろい、地下の食品街は土産選びにも便利。",
+        "en": "Department store linked to the station as Yale Yale; fashion and food floors, with a basement area handy for souvenirs.",
+        "zh": "与车站以步行通道相连的百货店Yell-Yell，时装与食品楼层齐全，地下食品区适合选购伴手礼。"
+      },
+      "distance_m": 226,
+      "walk_min": 3,
+      "hours": "10:00-20:00 (JST)",
+      "url": "https://www.fukuya-dept.co.jp/ekimae/",
+      "tel": null,
+      "price_level": "¥¥¥",
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.3964425,
+      "lon": 132.4737282,
+      "hours_source": "official",
+      "tel_source": "unknown",
+      "hours_checked_at": "2026-11-04"
+    },
+    {
+      "id": "st04348-009",
+      "category": "tourist_info",
+      "name": {
+        "ja": "ひろしま街角観光案内所",
+        "en": "Hiroshima Street-Corner Tourist Information",
+        "zh": "广岛街角观光案内所"
+      },
+      "desc": {
+        "ja": "駅近くの街角にある観光案内所。周辺の観光スポットや飲食店、交通機関について、パンフレットや口頭で案内を受けられる。",
+        "en": "Street-corner tourist information office near the station, with pamphlets and tips on sights, food and transport.",
+        "zh": "位于站区街角的观光案内所，提供观光手册以及景点、餐饮、交通等本地的旅游资讯服务。"
+      },
+      "distance_m": 391,
+      "walk_min": 5,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/node/13015824013",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.3952238,
+      "lon": 132.4726748,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st04348-010",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "広島東照宮",
+        "en": "Hiroshima Tōshō-gū Shrine",
+        "zh": "广岛东照宫"
+      },
+      "desc": {
+        "ja": "駅裏の二葉山の山腹にある神社。徳川家康を祀り、石段の参道を上った先に社殿が立つ。二葉の里歴史の散歩道の起点でもある。",
+        "en": "Shrine on Futabayama behind the station, dedicated to Tokugawa Ieyasu; stone steps lead up to the main hall.",
+        "zh": "位于站后二叶山山腰的神社，供奉德川家康，沿石阶参道拾级而上即可抵达，也是二叶之里历史步道的节点。"
+      },
+      "distance_m": 624,
+      "walk_min": 8,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/node/14275769801",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.4034967,
+      "lon": 132.4756608,
+      "official_url_pending": "http://hiroshima-toshogu.jp/",
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st04348-011",
+      "category": "sight",
+      "name": {
+        "ja": "縮景園",
+        "en": "Shukkeien Garden",
+        "zh": "缩景园"
+      },
+      "desc": {
+        "ja": "1620年に築かれた広島を代表する回遊式庭園。中央の池の周りに茶屋や橋が配され、四季折々の景色が楽しめる。",
+        "en": "Stroll garden of 1620 representing Hiroshima: a central pond ringed by teahouses and bridges, lovely in every season.",
+        "zh": "始建于1620年的回游式庭园，以中心池塘环绕茶室与石桥，四季景色各异，是广岛代表性名园。"
+      },
+      "distance_m": 763,
+      "walk_min": 10,
+      "hours": "3/16-9/15 9:00-18:00; 9/16-3/15 9:00-17:00 (JST, 入園は閉園30分前まで)",
+      "url": "https://shukkeien.jp/",
+      "tel": null,
+      "price_level": "¥",
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.3984533,
+      "lon": 132.4671725,
+      "hours_source": "official",
+      "tel_source": "unknown",
+      "hours_checked_at": "2026-11-04",
+      "closed_on": "12/29-12/31"
+    },
+    {
+      "id": "st04348-012",
+      "category": "sight",
+      "name": {
+        "ja": "広島県立美術館",
+        "en": "Hiroshima Prefectural Art Museum",
+        "zh": "广岛县立美术馆"
+      },
+      "desc": {
+        "ja": "縮景園のそばにある県立美術館。近現代の美術作品を所蔵し、企画展も定期的に開催される。庭園見学とあわせて回りやすい。",
+        "en": "Prefectural art museum beside Shukkeien Garden with modern and contemporary works plus regular special exhibitions.",
+        "zh": "紧邻缩景园的县立美术馆，收藏近现代美术作品并定期举办特别展览，可与庭园一同参观。"
+      },
+      "distance_m": 880,
+      "walk_min": 11,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/way/69827597",
+      "tel": null,
+      "price_level": "¥",
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.3999899,
+      "lon": 132.4662119,
+      "official_url_pending": "https://hpam.go.jp/",
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st04348-013",
+      "category": "public_service",
+      "name": {
+        "ja": "広島市まんが図書館",
+        "en": "Hiroshima City Manga Library",
+        "zh": "广岛市漫画图书馆"
+      },
+      "desc": {
+        "ja": "比治山公園内にある市立の漫画専門図書館。大量の漫画と関連資料を所蔵し、来館者は館内で自由に閲覧できる。",
+        "en": "City library in Hijiyama Park specializing in manga and related materials; open for on-site reading by all visitors.",
+        "zh": "位于比治山公园内的市立漫画专门图书馆，收藏大量漫画与相关资料，开放入馆自由阅览。"
+      },
+      "distance_m": 1138,
+      "walk_min": 15,
+      "hours": "10:00-17:00 (JST)",
+      "url": "http://www.library.city.hiroshima.jp/manga",
+      "tel": "+81 82 261 0330",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.3876911,
+      "lon": 132.4744661,
+      "hours_source": "osm",
+      "tel_source": "osm"
+    },
+    {
+      "id": "st04348-014",
+      "category": "sight",
+      "name": {
+        "ja": "広島市現代美術館",
+        "en": "Hiroshima City Museum of Contemporary Art",
+        "zh": "广岛市现代美术馆"
+      },
+      "desc": {
+        "ja": "比治山公園にある現代美術の市立美術館。戦後の現代美術作品を所蔵し、企画展も開催。丘の上から市街の眺めも楽しめる。",
+        "en": "Contemporary art museum in Hijiyama Park with post-war collections and rotating shows; hilltop views over the city.",
+        "zh": "比治山公园内的市立现代美术馆，收藏战后当代艺术作品并定期举办特展，山顶可眺望市区。"
+      },
+      "distance_m": 1294,
+      "walk_min": 17,
+      "hours": "10:00-17:00 (JST, 入館は閉館30分前まで)",
+      "url": "https://www.hiroshima-moca.jp/",
+      "tel": null,
+      "price_level": "¥",
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.386388,
+      "lon": 132.4733314,
+      "hours_source": "official",
+      "tel_source": "unknown",
+      "hours_checked_at": "2026-11-04",
+      "closed_on": "月曜日（祝休日・8/6は開館し翌平日休）、年末年始（12/27-1/1）"
+    },
+    {
+      "id": "st04348-015",
+      "category": "sight",
+      "name": {
+        "ja": "広島城",
+        "en": "Hiroshima Castle",
+        "zh": "广岛城"
+      },
+      "desc": {
+        "ja": "1589年に毛利輝元が築いた平城で、別名は鯉城。天守は再建されて史跡の博物館となっており、堀と石垣が往時の姿を伝える。",
+        "en": "Castle built in 1589 by Mōri Terumoto, nicknamed Carp Castle; the reconstructed keep is now a museum.",
+        "zh": "毛利辉元于1589年筑成的平城，别称鲤城，天守为战后重建，现为展示广岛历史的博物馆。"
+      },
+      "distance_m": 1414,
+      "walk_min": 18,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/node/6400535686",
+      "tel": null,
+      "price_level": "¥",
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.3992435,
+      "lon": 132.460135,
+      "official_url_pending": "https://www.hiroshimajyo.com/",
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st04348-016",
+      "category": "medical",
+      "name": {
+        "ja": "槇坪病院",
+        "en": "Makitsubo Hospital",
+        "zh": "槇坪医院"
+      },
+      "desc": {
+        "ja": "広島駅の北東、二葉の里方面にある病院。内科・外科などの診療を行い、駅周辺の医療を支えている。",
+        "en": "Hospital in the Futabanosato area northeast of Hiroshima Station, offering internal medicine and surgery.",
+        "zh": "广岛站东北侧二叶之里一带的医院，提供内科、外科等诊疗服务，是站区就近的医疗机构。"
+      },
+      "distance_m": 438,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423638437",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.398827,
+      "lon": 132.48009
+    }
+  ],
+  "coverage": {
+    "poi_count": 16,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "和平纪念公园与原爆圆顶馆位于站西侧约2公里处，超出本文件收录半径，最近车站为广电路面电车原爆圆顶前",
+      "站周2公里内未收录温泉/钱汤类POI"
+    ],
+    "candidate_count": 489,
+    "fetch_truncated": false,
+    "selected_cap": 20
+  }
+}

@@ -1,0 +1,601 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st00066",
+    "name": {
+      "ja": "奈良",
+      "en": "Nara",
+      "zh": "奈良"
+    },
+    "line_group": [
+      "関西本線(大和路線)",
+      "桜井線(万葉まほろば線)"
+    ],
+    "pref": "奈良県",
+    "lat": 34.68062,
+    "lon": 135.81892
+  },
+  "generated_at": "2026-11-03T18:44:28Z",
+  "pois": [
+    {
+      "id": "st00066-001",
+      "category": "shopping",
+      "name": {
+        "ja": "ビエラ奈良",
+        "en": "VIERRA NARA",
+        "zh": "VIERRA奈良"
+      },
+      "desc": {
+        "ja": "JR奈良駅に隣接する商業施設。奈良銘菓や土産物、飲食店が並び、到着してすぐに利用できる。",
+        "en": "Station-attached complex at JR Nara Station with Nara souvenirs, sweets and eateries; handy right after arrival.",
+        "zh": "与JR奈良站相连的站前商业设施，汇集奈良特产纪念品、甜点与餐馆，到站后即可顺路逛。"
+      },
+      "distance_m": 59,
+      "walk_min": 1,
+      "hours": null,
+      "url": "https://www.jrwd.co.jp/vierra/nara.html",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.6811312,
+      "lon": 135.8191005,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st00066-002",
+      "category": "bank_atm",
+      "name": {
+        "ja": "りそな銀行奈良支店",
+        "en": "Resona Bank Nara Branch",
+        "zh": "里索那银行奈良支行"
+      },
+      "desc": {
+        "ja": "JR奈良駅前ある大手銀行りそな銀行の支店。預け入れや引き出し、ATMの利用に対応し、観光エリアの金融拠点となる。",
+        "en": "Resona Bank branch before JR Nara Station with ATM and deposit services; a financial point for the sightseeing area.",
+        "zh": "大型银行里索那银行设在JR奈良站前的支行，提供存取款与ATM服务，是观光区域的金融网点。"
+      },
+      "distance_m": 68,
+      "walk_min": 1,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/node/1852355878",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.6808725,
+      "lon": 135.8195998,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st00066-003",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン奈良駅西口店",
+        "en": "7-Eleven Nara Station",
+        "zh": "7-Eleven奈良站店"
+      },
+      "desc": {
+        "ja": "JR奈良駅から歩いて約1分のコンビニエンスストア。24時間営業で、観光前の飲み物や食品、日用品の調達に役立つ。",
+        "en": "Convenience store 1 min from JR Nara Station, open around the clock; useful for drinks, snacks and daily goods.",
+        "zh": "距JR奈良站步行约1分钟的便利店，24小时营业，观光前采购饮料食品与日用品很方便。"
+      },
+      "distance_m": 76,
+      "walk_min": 1,
+      "hours": "24/7 (JST)",
+      "url": "https://www.openstreetmap.org/node/1852355900",
+      "tel": null,
+      "price_level": "¥",
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.6808392,
+      "lon": 135.8197089,
+      "hours_source": "osm",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st00066-004",
+      "category": "lodging",
+      "name": {
+        "ja": "ホテル日航奈良",
+        "en": "Hotel Nikko Nara",
+        "zh": "奈良日航酒店"
+      },
+      "desc": {
+        "ja": "JR奈良駅から歩いて約2分の大型ホテル。客室とレストランが充実し、奈良観光やビジネスの拠点として利用できる。",
+        "en": "Large hotel 2 min from JR Nara Station with rooms and restaurants; a base for Nara sightseeing and business.",
+        "zh": "距JR奈良站步行约2分钟的大型酒店，客房与餐厅齐备，是奈良观光与商务出行的便利据点。"
+      },
+      "distance_m": 129,
+      "walk_min": 2,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/node/710556028",
+      "tel": null,
+      "price_level": "¥¥¥",
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.6817098,
+      "lon": 135.8184307,
+      "official_url_pending": "https://www.hotelnikkonara.jp/",
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st00066-005",
+      "category": "post_office",
+      "name": {
+        "ja": "奈良三条郵便局",
+        "en": "Nara Sanjō Post Office",
+        "zh": "奈良三条邮局"
+      },
+      "desc": {
+        "ja": "JR奈良駅から歩いて約2分の郵便局。郵便物や貯金の預け入れ・払い戻しを取り扱い、駅周辺で最も近い郵便窓口。",
+        "en": "Post office 2 min from JR Nara Station handling mail and banking; the nearest postal service point around the station.",
+        "zh": "距JR奈良站步行约2分钟的邮局，可办理邮件与储蓄存取业务，是站周最近的邮政服务点。"
+      },
+      "distance_m": 149,
+      "walk_min": 2,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/node/1423058228",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.680537,
+      "lon": 135.820551,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st00066-006",
+      "category": "sight",
+      "name": {
+        "ja": "奈良工藝館",
+        "en": "Nara Craft Museum (Nara Kōgeikan)",
+        "zh": "奈良工艺馆"
+      },
+      "desc": {
+        "ja": "赤膚焼や奈良晒など奈良にゆかりの工芸品を展示・販売する施設。伝統的な技法を間近に鑑賞でき、土産も選べる。",
+        "en": "Craft museum and shop for Nara crafts such as Akahada pottery; a close look at traditional techniques.",
+        "zh": "展示并销售赤肤烧、奈良晒等奈良传统工艺品的设施，可近距离欣赏工艺技法并选购纪念品。"
+      },
+      "distance_m": 875,
+      "walk_min": 11,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/node/2465643503",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.678661,
+      "lon": 135.8281897,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st00066-007",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "春日大社大旅所",
+        "en": "Kasuga Taisha Ōtabisho",
+        "zh": "春日大社大旅所"
+      },
+      "desc": {
+        "ja": "春日大社の祭礼、おん祭などの際に神輿が渡御する場所。奈良町の外れに立ち、普段は静かな空気に包まれている。",
+        "en": "Shrine where Kasuga Taisha's deities rest during festivals such as On-Matsuri; quietly set near Naramachi.",
+        "zh": "春日大社举行御祭等祭典时神灵驻跸的场所，位于奈良町东南边缘，环境清静，少有游客。"
+      },
+      "distance_m": 888,
+      "walk_min": 12,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/node/2049243646",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.6800881,
+      "lon": 135.8286066,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st00066-008",
+      "category": "onsen_sento",
+      "name": {
+        "ja": "日の出湯",
+        "en": "Hinode-yu Bathhouse",
+        "zh": "日出汤"
+      },
+      "desc": {
+        "ja": "奈良市北部で親しまれている銭湯。観光で歩き疲れたあと、大きな湯船で足を伸ばして温まれる。",
+        "en": "Neighbourhood public bathhouse in northern Nara; soak in the large bath and rest tired legs after sightseeing.",
+        "zh": "奈良市区北部深受当地人喜爱的钱汤澡堂，观光结束后可到大浴池泡澡，放松走累的双腿。"
+      },
+      "distance_m": 912,
+      "walk_min": 12,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/node/1387192895",
+      "tel": null,
+      "price_level": "¥",
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.6883734,
+      "lon": 135.8221778,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st00066-009",
+      "category": "food",
+      "name": {
+        "ja": "中谷堂",
+        "en": "Nakatanidō",
+        "zh": "中谷堂"
+      },
+      "desc": {
+        "ja": "高速の餅つきで知られる老舗。熟練の技でよもぎ餅を素早くつき上げる様子を目の前で見られ、つきたてを買って味わえる。",
+        "en": "Long-established shop famed for its high-speed mochi pounding; watch fresh yomogi mochi made and eat it warm.",
+        "zh": "以高速捣年糕表演闻名的老铺，可现场观看师傅飞快捣制艾草年糕，趁热购买品尝，是奈良名物。"
+      },
+      "distance_m": 920,
+      "walk_min": 12,
+      "hours": "10:00-19:00 (JST)",
+      "url": "https://nakatanidou.jp/",
+      "tel": "+81 74 223 0141",
+      "price_level": "¥",
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.6819254,
+      "lon": 135.8288568,
+      "hours_source": "osm",
+      "tel_source": "osm"
+    },
+    {
+      "id": "st00066-010",
+      "category": "sight",
+      "name": {
+        "ja": "猿沢池",
+        "en": "Sarusawa Pond",
+        "zh": "猿泽池"
+      },
+      "desc": {
+        "ja": "興福寺のそばにある、平安時代に築かれたと伝わる池。水面に映る五重塔の景色が美しく、奈良を代表する撮影スポット。",
+        "en": "Pond near Kofuku-ji said to date from the Heian era; the reflected five-story pagoda makes a classic photo scene.",
+        "zh": "位于兴福寺旁、相传开凿于平安时代的池塘，五重塔倒映水面，是奈良最具代表性的取景地。"
+      },
+      "distance_m": 1105,
+      "walk_min": 14,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/way/59465653",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.6814395,
+      "lon": 135.8309633,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st00066-011",
+      "category": "sight",
+      "name": {
+        "ja": "奈良町資料館",
+        "en": "Naramachi Museum",
+        "zh": "奈良町资料馆"
+      },
+      "desc": {
+        "ja": "奈良の旧市街、奈良町の街並みや暮らしの道具を紹介する資料館。町家の内部が再現され、往時の暮らしぶりを体感できる。",
+        "en": "Museum of the old Naramachi quarter, recreating a townhouse interior with folk tools and townscape displays.",
+        "zh": "介绍奈良旧街区奈良町的街巷风貌与民俗用具的资料馆，复原了町家屋内陈设，可直观感受昔日生活。"
+      },
+      "distance_m": 1107,
+      "walk_min": 14,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/node/3161041884",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.6769119,
+      "lon": 135.8301546,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st00066-012",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "率川神社",
+        "en": "Isagawa Shrine",
+        "zh": "率川神社"
+      },
+      "desc": {
+        "ja": "奈良町に鎮座する歴史ある神社。本殿は平安時代の様式を伝え、国宝に指定されている。境内は静かで参拝客も少ない。",
+        "en": "Ancient shrine in Naramachi whose Heian-style main hall is a National Treasure; quiet, leafy grounds.",
+        "zh": "奈良町中历史悠久的神社，本殿保留平安时代样式并被列为国宝，境内清静幽雅，游客稀少。"
+      },
+      "distance_m": 1126,
+      "walk_min": 15,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/node/5352339740",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.6762956,
+      "lon": 135.8300554,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st00066-013",
+      "category": "public_service",
+      "name": {
+        "ja": "奈良市立中央図書館",
+        "en": "Nara City Central Library",
+        "zh": "奈良市立中央图书馆"
+      },
+      "desc": {
+        "ja": "奈良市の中心となる市立図書館。奈良町の近くにあり、誰でも自由に立ち寄れて、散歩の途中の休憩や調べ物に使える。",
+        "en": "Nara City's central library near Naramachi; free to enter, handy for a rest or looking up information on a walk.",
+        "zh": "奈良市的市立中央图书馆，位于奈良町一带，可自由入馆，适合散步途中休息或查阅资料。"
+      },
+      "distance_m": 1147,
+      "walk_min": 15,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/node/1423058402",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.679926,
+      "lon": 135.8314325,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st00066-014",
+      "category": "sight",
+      "name": {
+        "ja": "興福寺五重塔",
+        "en": "Kōfuku-ji Five-Storied Pagoda",
+        "zh": "兴福寺五重塔"
+      },
+      "desc": {
+        "ja": "世界遺産・興福寺の象徴である五重塔。現在塔は1426年の再建で、高さ約50m、東寺に次ぐ高さを誇る木造塔。",
+        "en": "Five-story pagoda of World Heritage Kofuku-ji, rebuilt in 1426; at about 50 m, one of Japan's tallest wooden pagodas.",
+        "zh": "世界遗产兴福寺的象征五重塔，现存塔身重建于1426年，高约50米，是日本最高的古塔之一。"
+      },
+      "distance_m": 1213,
+      "walk_min": 16,
+      "hours": null,
+      "url": "https://www.kofukuji.com/",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.6825129,
+      "lon": 135.8319844,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st00066-015",
+      "category": "sight",
+      "name": {
+        "ja": "奈良国立博物館",
+        "en": "Nara National Museum",
+        "zh": "奈良国立博物馆"
+      },
+      "desc": {
+        "ja": "仏教美術を専門とする国立博物館。毎年秋の正倉院展で知られ、仏像や考古資料を展示。明治の本館も重要な文化財。",
+        "en": "Museum of Buddhist art hosting the annual Shosoin Exhibition; its Meiji-era main hall is a cultural property.",
+        "zh": "以佛教美术为专长的国立博物馆，每年举办正仓院展，明治时代的旧本馆本身也是重要文化财产。"
+      },
+      "distance_m": 1602,
+      "walk_min": 20,
+      "hours": "9:30-17:00 (JST)",
+      "url": "https://www.narahaku.go.jp/",
+      "tel": null,
+      "price_level": "¥",
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.6837449,
+      "lon": 135.8360212,
+      "hours_source": "official",
+      "tel_source": "unknown",
+      "hours_checked_at": "2026-11-04"
+    },
+    {
+      "id": "st00066-016",
+      "category": "sight",
+      "name": {
+        "ja": "吉城園",
+        "en": "Yoshikien Garden",
+        "zh": "吉城园"
+      },
+      "desc": {
+        "ja": "国の名勝に指定された日本庭園。池の庭、苔の庭、茶花の庭の三つの庭が配置され、外国からの旅行者は無料で入園できる。",
+        "en": "Nationationally designated scenic garden with pond, moss and tea-flower sections; free admission for overseas visitors.",
+        "zh": "国家指定名胜的日本庭园，设有池之庭、苔之庭与茶花之庭三个庭区，对外国游客免费开放。"
+      },
+      "distance_m": 1720,
+      "walk_min": 22,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/way/97082273",
+      "tel": null,
+      "price_level": "¥",
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.6850893,
+      "lon": 135.8369302,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st00066-017",
+      "category": "sight",
+      "name": {
+        "ja": "依水園",
+        "en": "Isuien Garden",
+        "zh": "依水园"
+      },
+      "desc": {
+        "ja": "国の名勝に指定された日本庭園。若草山や東大寺南大門を借景に取り込んだ眺めが見事で、併設の美術館では古美術を展示。",
+        "en": "Scenic garden borrowing views of Mt. Wakakusa and Todai-ji's gate; an attached museum displays ancient art.",
+        "zh": "国家指定名胜的日本庭园，借景若草山与东大寺南大门，园内附设美术馆陈列古代美术品。"
+      },
+      "distance_m": 1848,
+      "walk_min": 23,
+      "hours": "9:30-16:30 (JST, 入園16:00まで); 4-5月 9:30-17:00 (入園16:30まで)",
+      "url": "https://www.isuien.or.jp/",
+      "tel": null,
+      "price_level": "¥",
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.6851969,
+      "lon": 135.8383442,
+      "hours_source": "official",
+      "tel_source": "unknown",
+      "hours_checked_at": "2026-11-04",
+      "closed_on": "火曜日"
+    },
+    {
+      "id": "st00066-018",
+      "category": "medical",
+      "name": {
+        "ja": "沢井病院",
+        "en": "Sawai Hospital",
+        "zh": "泽井医院"
+      },
+      "desc": {
+        "ja": "近鉄奈良駅の東側、ならまちへ向かう通りにある病院。地域に根ざした医療を提供し、駅周辺の医療を担う。",
+        "en": "Hospital east of Kintetsu Nara Station on the way to Naramachi, providing community-rooted medical care.",
+        "zh": "近铁奈良站东侧通往奈良町街区沿线的医院，长期提供扎根当地的医疗服务，是站区就近的就医选择。"
+      },
+      "distance_m": 919,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423070762",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.688592,
+      "lon": 135.821551
+    },
+    {
+      "id": "st00066-019",
+      "category": "police",
+      "name": {
+        "ja": "奈良警察署近鉄奈良駅前交番",
+        "en": "Nara Police Kintetsu Nara Ekimae Koban",
+        "zh": "奈良警察署近铁奈良站前派出所"
+      },
+      "desc": {
+        "ja": "近鉄奈良駅の東口側にある交番。道案内や落とし物の相談、緊急時の駆け込みなど、身近な警察の窓口。",
+        "en": "Police box by Kintetsu Nara Station's east exit; a nearby point for directions, lost property and emergencies.",
+        "zh": "近铁奈良站东口一侧的派出所，可以问路、咨询失物招领与紧急求助，是旅客身边最近的警务点。"
+      },
+      "distance_m": 833,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423058532",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6840387,
+      "lon": 135.8270225
+    },
+    {
+      "id": "st00066-020",
+      "category": "tourist_info",
+      "name": {
+        "ja": "観光案内処 クロネコならTABI",
+        "en": "Kuroneko Nara TABI Tourist Information",
+        "zh": "黑猫奈良TABI观光服务台"
+      },
+      "desc": {
+        "ja": "ヤマト運輸が運営する観光案内処。荷物の発送をしながら、奈良の観光情報の相談にも応じている。",
+        "en": "Tourist information corner run by Yamato Transport, combining luggage shipping with sightseeing advice for Nara.",
+        "zh": "由大和运输（黑猫宅急便）运营的观光服务台，可在办理行李寄送的同时咨询奈良的观光信息。"
+      },
+      "distance_m": 968,
+      "walk_min": 13,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/3538712374",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6819116,
+      "lon": 135.8293884
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "东大寺大佛殿位于站东侧约2公里处，略超出本文件收录半径，由近铁奈良站或巴士前往更近"
+    ],
+    "candidate_count": 425,
+    "fetch_truncated": false,
+    "selected_cap": 20
+  }
+}

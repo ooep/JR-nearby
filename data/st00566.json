@@ -1,0 +1,613 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st00566",
+    "name": {
+      "ja": "京都",
+      "en": "Kyōto",
+      "zh": "京都"
+    },
+    "line_group": [
+      "東海道新幹線",
+      "東海道本線(JR京都線)",
+      "奈良線",
+      "山陰本線(嵯峨野線)",
+      "湖西線"
+    ],
+    "pref": "京都府",
+    "lat": 34.984994,
+    "lon": 135.758799
+  },
+  "generated_at": "2026-11-03T19:48:05Z",
+  "pois": [
+    {
+      "id": "st00566-001",
+      "category": "sight",
+      "name": {
+        "ja": "京都駅ビル",
+        "en": "Kyoto Station Building",
+        "zh": "京都站大楼"
+      },
+      "desc": {
+        "ja": "京都の玄関口となる大型の駅ビル。ホテルや百貨店、飲食街が集まり、屋上の大空広場からは市街の眺めが楽しめる。",
+        "en": "Kyoto's station complex with hotel, stores and dining; the rooftop garden Daikū offers fine views over the city.",
+        "zh": "京都的门户大型站前综合体，汇集酒店、百货与美食街，屋顶庭园「大空」可俯瞰城市景色。"
+      },
+      "distance_m": 33,
+      "walk_min": 1,
+      "hours": null,
+      "url": "https://www.kyoto-station-building.co.jp/",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.9852425,
+      "lon": 135.7585936,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st00566-002",
+      "category": "lodging",
+      "name": {
+        "ja": "ホテルグランヴィア京都",
+        "en": "Hotel Granvia Kyoto",
+        "zh": "京都格兰比亚大酒店"
+      },
+      "desc": {
+        "ja": "京都駅ビル内にある駅直結のホテル。客室とレストランが充実し、京都観光の拠点として使いやすい。",
+        "en": "Hotel inside the Kyoto Station Building with direct station access; a convenient base for Kyoto sightseeing.",
+        "zh": "位于京都站大楼内的车站酒店，与车站直接连通，客房与餐厅齐备，是京都观光的理想据点。"
+      },
+      "distance_m": 132,
+      "walk_min": 2,
+      "hours": null,
+      "url": "https://www.granvia-kyoto.co.jp/",
+      "tel": null,
+      "price_level": "¥¥¥",
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.9858426,
+      "lon": 135.7598191,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st00566-003",
+      "category": "shopping",
+      "name": {
+        "ja": "みやこみち",
+        "en": "Miyakomichi (Kintetsu Mall)",
+        "zh": "Miyakomichi地下街"
+      },
+      "desc": {
+        "ja": "近鉄京都駅のフロアに広がるモール。飲食店や物販店が並び、出発前の食事や土産選びに便利。",
+        "en": "Mall in Kintetsu Kyoto Station's lower floors with eateries and shops; handy for meals and souvenirs.",
+        "zh": "近铁京都站楼内的地下街商场，餐馆与各类店铺林立，出发前用餐或选购伴手礼都很方便。"
+      },
+      "distance_m": 183,
+      "walk_min": 3,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/node/5504565572",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.9844715,
+      "lon": 135.7568905,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st00566-004",
+      "category": "shopping",
+      "name": {
+        "ja": "ジェイアール京都伊勢丹",
+        "en": "JR Kyoto Isetan",
+        "zh": "JR京都伊势丹"
+      },
+      "desc": {
+        "ja": "京都駅に隣接する駅ビル内の百貨店。ファッションや食品の売場がそろい、地下の食品街やレストラン街も人気。",
+        "en": "Department store in the Kyoto Station Building with fashion and food floors plus a busy restaurant street.",
+        "zh": "与京都站相邻、位于站大楼内的百货店，时装与食品楼层齐全，地下食品区与餐厅街人气旺盛。"
+      },
+      "distance_m": 189,
+      "walk_min": 3,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/node/5111884542",
+      "tel": null,
+      "price_level": "¥¥¥",
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.9858129,
+      "lon": 135.7569838,
+      "official_url_pending": "https://www.mistore.jp/store/kyoto.html",
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st00566-007",
+      "category": "post_office",
+      "name": {
+        "ja": "京都中央郵便局",
+        "en": "Kyoto Central Post Office",
+        "zh": "京都中央邮局"
+      },
+      "desc": {
+        "ja": "京都市の中心となる郵便局。京都駅から歩いて約3分で、郵便物や荷物、貯金など窓口サービスが充実している。",
+        "en": "Kyoto's main post office 3 min from the station, with complete services for mail, parcels and banking.",
+        "zh": "京都市的中心邮局，距京都站步行约3分钟，窗口服务齐全，办理邮件、包裹与储蓄业务。"
+      },
+      "distance_m": 235,
+      "walk_min": 3,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/node/1422960098",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.9865341,
+      "lon": 135.757026,
+      "official_url_pending": "https://map.japanpost.jp/p/search/dtl/300144089000/",
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st00566-008",
+      "category": "sight",
+      "name": {
+        "ja": "京都タワー",
+        "en": "Kyoto Tower",
+        "zh": "京都塔"
+      },
+      "desc": {
+        "ja": "京都駅前に立つ京都のシンボル。地上約100mの展望台からは、山々に囲まれた京都盆地の街並みを見渡せる。",
+        "en": "Kyoto's landmark in front of the station; the observation deck at about 100 m looks over the mountain-ringed city.",
+        "zh": "矗立在京都站前的地标塔楼，地上约100米的展望台可眺望群山环抱的京都盆地全景，夜景尤为迷人。"
+      },
+      "distance_m": 289,
+      "walk_min": 4,
+      "hours": "展望室 10:00-21:00 (JST, 最終入場20:30)",
+      "url": "https://www.keihanhotels-resorts.co.jp/kyoto-tower/",
+      "tel": null,
+      "price_level": "¥",
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.9875524,
+      "lon": 135.7593295,
+      "hours_source": "official",
+      "tel_source": "unknown",
+      "hours_checked_at": "2026-11-04"
+    },
+    {
+      "id": "st00566-009",
+      "category": "bank_atm",
+      "name": {
+        "ja": "京都銀行京都駅前支店",
+        "en": "Bank of Kyoto Ekimae Branch",
+        "zh": "京都银行京都站前支行"
+      },
+      "desc": {
+        "ja": "京都に根ざす地方銀行、京都銀行の駅前支店。預け入れや引き出し、ATMの利用に対応し、駅前の金融拠点となる。",
+        "en": "Bank of Kyoto branch in front of the station, offering ATM and deposit services from this community-based bank.",
+        "zh": "扎根京都的地方银行京都银行设在车站前的支行，提供存取款与ATM服务，是站区的金融网点。"
+      },
+      "distance_m": 348,
+      "walk_min": 5,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/node/810711289",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.9879711,
+      "lon": 135.7599739,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st00566-010",
+      "category": "onsen_sento",
+      "name": {
+        "ja": "大正湯",
+        "en": "Taishō-yu Bathhouse",
+        "zh": "大正汤"
+      },
+      "desc": {
+        "ja": "下京区エリアで親しまれている銭湯。観光で歩き疲れた一日の終わりに、熱めの湯船で体を温められる。",
+        "en": "Neighbourhood sento in the Shimogyo area; soak in the hot bath and warm up after a day of sightseeing.",
+        "zh": "位于下京区一带、深受当地人喜爱的钱汤澡堂，观光一天之后，可以来泡个热水澡放松暖身。"
+      },
+      "distance_m": 348,
+      "walk_min": 5,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/node/2408310492",
+      "tel": null,
+      "price_level": "¥",
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.9823788,
+      "lon": 135.7566965,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st00566-011",
+      "category": "public_service",
+      "name": {
+        "ja": "下京区役所",
+        "en": "Shimogyō Ward Office",
+        "zh": "下京区役所"
+      },
+      "desc": {
+        "ja": "京都駅を擁する下京区の区役所。駅から歩いて約6分で、住民票や各種証明など行政手続きの窓口となる。",
+        "en": "Shimogyo Ward office, the ward containing Kyoto Station; 6 min walk, handling certificates and civic procedures.",
+        "zh": "京都站所在的下京区的区役所（区政府），距站步行约6分钟，办理住民票等各类行政手续。"
+      },
+      "distance_m": 417,
+      "walk_min": 6,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/node/1422959013",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.987588,
+      "lon": 135.755498,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st00566-014",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "東本願寺（真宗本廟）",
+        "en": "Higashi Hongan-ji",
+        "zh": "东本愿寺"
+      },
+      "desc": {
+        "ja": "浄土真宗大谷派の本山。御影堂と阿弥陀堂は規模の大きな木造建築で、京都駅から歩いてすぐの地に広がる。",
+        "en": "Head temple of the Otani school of Jodo Shinshu; its huge Goeido and Amida halls stand a short walk from Kyoto Station.",
+        "zh": "净土真宗大谷派的总本山，御影堂与阿弥陀堂为规模宏大的木造建筑，距京都站徒步即达。"
+      },
+      "distance_m": 712,
+      "walk_min": 9,
+      "hours": "3-10月 5:50-17:30; 11-2月 6:20-16:30 (JST)",
+      "url": "https://www.higashihonganji.or.jp/",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.9913887,
+      "lon": 135.7583906,
+      "hours_source": "osm",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st00566-015",
+      "category": "sight",
+      "name": {
+        "ja": "渉成園（枳殻邸）",
+        "en": "Shōsei-en Garden (Kikoku-tei)",
+        "zh": "涉成园（枳壳邸）"
+      },
+      "desc": {
+        "ja": "東本願寺の飛地庭園で、枳殻邸の別名を持つ名勝。池を巡る回遊式庭園で、四季の花々と静かな雰囲気が魅力。",
+        "en": "Higashi Honganji's garden villa, Kikokutei; a nationally designated scenic stroll garden around a pond.",
+        "zh": "东本愿寺的飞地庭园，别称枳壳邸，是以池塘为中心的回游式庭园，已被指定为国家名胜。"
+      },
+      "distance_m": 804,
+      "walk_min": 11,
+      "hours": "3-10月 9:00-17:00 (受付16:30まで); 11-2月 9:00-16:00 (受付15:30まで) (JST)",
+      "url": "https://www.higashihonganji.or.jp/",
+      "tel": null,
+      "price_level": "¥",
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.9913481,
+      "lon": 135.7630047,
+      "hours_source": "official",
+      "tel_source": "unknown",
+      "hours_checked_at": "2026-11-04"
+    },
+    {
+      "id": "st00566-016",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "東寺（教王護国寺）",
+        "en": "Tō-ji Temple",
+        "zh": "东寺"
+      },
+      "desc": {
+        "ja": "京都を象徴する世界遺産の寺院。日本一高い木造の五重塔で知られ、毎月21日には弘法市が立つ。",
+        "en": "World Heritage temple symbolizing Kyoto; home to Japan's tallest wooden pagoda and the monthly Kobo market.",
+        "zh": "作为京都象征的世界遗产寺院，拥有日本最高的木造五重塔，每月21日举办热闹的弘法市集。"
+      },
+      "distance_m": 805,
+      "walk_min": 11,
+      "hours": "5:00-17:00 (JST)",
+      "url": "https://toji.or.jp/",
+      "tel": null,
+      "price_level": "¥",
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.9798508,
+      "lon": 135.7525817,
+      "hours_source": "osm",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st00566-017",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "西本願寺（龍谷山本願寺）",
+        "en": "Nishi Hongan-ji",
+        "zh": "西本愿寺"
+      },
+      "desc": {
+        "ja": "浄土真宗本願寺派の本山で、世界遺産の一つ。御影堂と阿弥陀堂が壮麗で、唐門は華麗な彫刻で知られる。",
+        "en": "World Heritage head temple of the Honganji school; its Goeido, Amida Hall and ornate Karamon gate are highlights.",
+        "zh": "净土真宗本愿寺派的总本山，世界遗产之一，御影堂、阿弥陀堂与雕饰华丽的唐门都是看点。"
+      },
+      "distance_m": 917,
+      "walk_min": 12,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/node/3761473730",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 34.9916365,
+      "lon": 135.7528356,
+      "official_url_pending": "https://www.nishihonganji.kyoto/",
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "category": "shrine_temple",
+      "name": {
+        "ja": "三十三間堂（蓮華王院）",
+        "en": "Sanjūsangen-dō",
+        "zh": "三十三间堂"
+      },
+      "desc": {
+        "ja": "全長約120mの堂内に千一体の観音像を安置する圧巻の仏像群。1164年の創建で、現存堂は鎌倉期の再建。通し矢でも知られる。",
+        "en": "Hall of 1,001 Kannon statues stretching about 120 meters, founded in 1164; the archery contest Toh-shiya is famed.",
+        "zh": "供奉1001尊观音像的约120米长大堂，创建于1164年，现存为镰仓时代重建，通矢射箭传统闻名。"
+      },
+      "distance_m": 1229,
+      "walk_min": 16,
+      "hours": "4/1-11/15 8:30-17:00; 11/16-3/31 9:00-16:00 (JST, 受付終了は閉門30分前)",
+      "hours_source": "official",
+      "url": "https://sanjusangendo.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9879926,
+      "lon": 135.7717834,
+      "id": "st00566-018",
+      "hours_checked_at": "2026-11-04"
+    },
+    {
+      "category": "sight",
+      "name": {
+        "ja": "京都国立博物館",
+        "en": "Kyoto National Museum",
+        "zh": "京都国立博物馆"
+      },
+      "desc": {
+        "ja": "三十三間堂に隣接する博物館。京都や社寺にゆかりの文化財を展示し、明治の旧本館と平成知新館が二つの館舎。",
+        "en": "Museum beside Sanjusangen-dō showing Kyoto's temple and shrine treasures; the Meiji-era hall and Heisei Chishinkan wing.",
+        "zh": "与三十三间堂相邻的国立博物馆，展出京都及社寺相关文化财产，明治时代旧馆与平成知新馆为两大馆区。"
+      },
+      "distance_m": 1403,
+      "walk_min": 18,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.kyohaku.go.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9900482,
+      "lon": 135.7729089,
+      "id": "st00566-019",
+      "closed_on": "月曜日（祝休日の場合は開館、翌火曜日休館）、年末年始"
+    },
+    {
+      "category": "sight",
+      "name": {
+        "ja": "京都鉄道博物館",
+        "en": "Kyoto Railway Museum",
+        "zh": "京都铁道博物馆"
+      },
+      "desc": {
+        "ja": "梅小路公園のそばにある鉄道の博物館。蒸気機関車や新幹線など実物の車両を展示し、転車台の実演も見られる。",
+        "en": "Railway museum by Umekoji Park with real steam locomotives and Shinkansen cars, plus a working turntable.",
+        "zh": "梅小路公园旁的铁路博物馆，展出蒸汽机车与新干线等实车，可观看转车盘运转，亲子皆宜。"
+      },
+      "distance_m": 1475,
+      "walk_min": 19,
+      "hours": "10:00-16:30 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.kyotorailwaymuseum.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.986495,
+      "lon": 135.7427119,
+      "id": "st00566-020",
+      "closed_on": "水曜日、12/30-1/1"
+    },
+    {
+      "id": "st00566-021",
+      "category": "medical",
+      "name": {
+        "ja": "康生会武田病院",
+        "en": "Koseikai Takeda Hospital",
+        "zh": "康生会武田医院"
+      },
+      "desc": {
+        "ja": "京都駅の北西、七条通沿いにある総合病院。内科・外科をはじめ幅広い診療科を備え、救急の受け入れにも対応する。",
+        "en": "General hospital along Shichijo-dori northwest of Kyoto Station, covering many specialties and emergency care.",
+        "zh": "京都站西北侧七条通沿线的综合医院，设有内科、外科等多个诊疗科目，可接收急诊患者。"
+      },
+      "distance_m": 341,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1422964846",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.986893,
+      "lon": 135.755859
+    },
+    {
+      "id": "st00566-022",
+      "category": "convenience",
+      "name": {
+        "ja": "ファミリーマート",
+        "en": "FamilyMart",
+        "zh": "全家便利店"
+      },
+      "desc": {
+        "ja": "京都駅八条口側にある24時間営業のコンビニエンスストア。弁当や飲み物、土産菓子も並び、使い勝手が良い。",
+        "en": "24-hour convenience store on the Hachijo side of Kyoto Station, with meals, drinks and souvenir snacks.",
+        "zh": "京都站八条口一侧的24小时便利店，全天营业，供应餐食、饮料与伴手礼点心，十分便利。"
+      },
+      "distance_m": 233,
+      "walk_min": 3,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/3004653557",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9830071,
+      "lon": 135.7596079
+    },
+    {
+      "id": "st00566-023",
+      "category": "police",
+      "name": {
+        "ja": "京都駅北交番",
+        "en": "Kyoto Station North Koban",
+        "zh": "京都站北派出所"
+      },
+      "desc": {
+        "ja": "京都駅の中央口（北側）の前にある交番。道案内や落とし物の相談、緊急時の駆け込みなど、最も近い警察の窓口。",
+        "en": "Police box in front of Kyoto Station's central (north) exit; nearest point for directions, lost property, emergencies.",
+        "zh": "京都站中央口（北侧）前的派出所，是旅客问路、失物招领咨询与紧急求助时的最近警务点。"
+      },
+      "distance_m": 168,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/299441959",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9861996,
+      "lon": 135.759904,
+      "merged_ids": [
+        "osm:node/1422958957"
+      ]
+    },
+    {
+      "id": "st00566-024",
+      "category": "tourist_info",
+      "name": {
+        "ja": "定期観光バス案内所",
+        "en": "Scheduled Sightseeing Bus Information",
+        "zh": "定期观光巴士服务台"
+      },
+      "desc": {
+        "ja": "京都駅前にある定期観光バスの案内所。京都の主な社寺を巡るツアーの申し込みや、観光の相談に対応している。",
+        "en": "Scheduled sightseeing bus counter in front of Kyoto Station, booking tours of Kyoto's major temples and shrines.",
+        "zh": "京都站前的定期观光巴士服务台，可报名游览京都主要寺庙神社的巴士线路，并提供观光咨询。"
+      },
+      "distance_m": 185,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2789395181",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9865288,
+      "lon": 135.7580049
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [],
+    "candidate_count": 771,
+    "fetch_truncated": false,
+    "selected_cap": 20
+  }
+}

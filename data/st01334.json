@@ -1,0 +1,619 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st01334",
+    "name": {
+      "ja": "東京",
+      "en": "Tōkyō",
+      "zh": "东京"
+    },
+    "line_group": [
+      "東海道新幹線",
+      "東北新幹線",
+      "山手線",
+      "京浜東北線",
+      "東海道本線",
+      "中央本線",
+      "総武本線(快速)",
+      "京葉線",
+      "常磐線",
+      "横須賀線"
+    ],
+    "pref": "東京都",
+    "lat": 35.680841,
+    "lon": 139.766931
+  },
+  "generated_at": "2026-11-03T19:48:07Z",
+  "pois": [
+    {
+      "id": "st01334-001",
+      "category": "lodging",
+      "name": {
+        "ja": "東京ステーションホテル",
+        "en": "Tokyo Station Hotel",
+        "zh": "东京站酒店"
+      },
+      "desc": {
+        "ja": "東京駅丸の内駅舎の中にあるクラシックホテル。歴史的な建築と上品な内装が魅力で、駅と直結している。",
+        "en": "Classic hotel inside Tokyo Station's Marunouchi building with historic architecture and direct station access.",
+        "zh": "东京站丸之内站房内的经典酒店，历史建筑与典雅装潢相得益彰，与车站直接连通，出行极便利。"
+      },
+      "distance_m": 98,
+      "walk_min": 2,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/node/3555300496",
+      "tel": null,
+      "price_level": "¥¥¥¥",
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 35.6810035,
+      "lon": 139.7658621,
+      "official_url_pending": "https://www.thetokyostationhotel.jp/",
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st01334-002",
+      "category": "police",
+      "name": {
+        "ja": "丸の内警察署八重洲口交番",
+        "en": "Marunouchi Police Yaesu Koban",
+        "zh": "丸之内警察署八重洲口派出所"
+      },
+      "desc": {
+        "ja": "東京駅の八重洲口前にある交番。道案内や落とし物の相談、緊急時の駆け込みなど、最も近い警察の窓口。",
+        "en": "Police box at Tokyo Station's Yaesu side; the nearest point for directions, lost property and emergencies.",
+        "zh": "位于东京站八重洲口前的派出所，是旅客问路、失物招领咨询与紧急求助时的最近警务点。"
+      },
+      "distance_m": 140,
+      "walk_min": 2,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/node/1420766508",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 35.680187,
+      "lon": 139.768258,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st01334-003",
+      "category": "sight",
+      "name": {
+        "ja": "東京ステーションギャラリー",
+        "en": "Tokyo Station Gallery",
+        "zh": "东京站美术馆"
+      },
+      "desc": {
+        "ja": "東京駅丸の内駅舎にある美術館。近現代の美術を中心にした展覧会が開かれ、赤レンガの内饰も趣がある。",
+        "en": "Gallery inside Tokyo Station's Marunouchi building showing modern and contemporary art; red-brick interior charms.",
+        "zh": "东京站丸之内站房内的艺术馆，以近现代的美术展览为主，馆内保留的红砖内饰别具韵味。"
+      },
+      "distance_m": 181,
+      "walk_min": 3,
+      "hours": "10:00-18:00、金曜 10:00-20:00 (JST)",
+      "url": "http://www.ejrcf.or.jp/gallery/",
+      "tel": null,
+      "price_level": "¥",
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 35.6824302,
+      "lon": 139.7664939,
+      "hours_source": "official",
+      "tel_source": "unknown",
+      "hours_checked_at": "2026-11-04",
+      "closed_on": "原則月曜日（祝日の場合は翌平日）、年末年始、展示替期間"
+    },
+    {
+      "id": "st01334-004",
+      "category": "tourist_info",
+      "name": {
+        "ja": "JR東日本トラベルサービスセンター",
+        "en": "JR East Travel Service Center",
+        "zh": "JR东日本旅行服务中心"
+      },
+      "desc": {
+        "ja": "東京駅にある外国人旅行者向けの旅行案内所。鉄道パスの引き換えや切符の購入、観光案内に対応する。",
+        "en": "JR East travel desk inside Tokyo Station for overseas visitors, handling rail passes and sightseeing queries.",
+        "zh": "东京站内面向外国游客的旅行服务中心，可办理铁路周游券兑换、车票购买与观光咨询服务。"
+      },
+      "distance_m": 187,
+      "walk_min": 3,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/node/3164337661",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 35.682432,
+      "lon": 139.766265,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st01334-005",
+      "category": "shopping",
+      "name": {
+        "ja": "KITTE",
+        "en": "KITTE",
+        "zh": "KITTE"
+      },
+      "desc": {
+        "ja": "旧東京中央郵便局の建物を利用した商業施設。ショップやレストランが並び、屋上庭園から東京駅丸の内側を望める。",
+        "en": "Commercial complex in the old Tokyo Central Post Office, with shops, eateries and a rooftop view over the station.",
+        "zh": "由旧东京中央邮局大楼改建的商业设施，店铺与餐馆云集，屋顶庭园可俯瞰东京站丸之内侧。"
+      },
+      "distance_m": 223,
+      "walk_min": 3,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/node/2214684270",
+      "tel": null,
+      "price_level": "¥¥",
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 35.6798593,
+      "lon": 139.7647819,
+      "official_url_pending": "http://jptower-kitte.jp/",
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st01334-006",
+      "category": "sight",
+      "name": {
+        "ja": "インターメディアテク",
+        "en": "Intermediatheque",
+        "zh": "Intermediatheque"
+      },
+      "desc": {
+        "ja": "KITTE内にある東京大学総合研究博物館の施設。動物の骨格標本や鉱物など、学術コレクションを展示している。",
+        "en": "University of Tokyo museum in KITTE exhibiting academic collections, from animal skeletons to minerals.",
+        "zh": "东京大学综合研究博物馆运营的展馆，位于KITTE内，展出动物骨骼与矿物等学术标本。"
+      },
+      "distance_m": 234,
+      "walk_min": 3,
+      "hours": "11:00-18:00、金・土 11:00-20:00 (JST)",
+      "url": "http://www.intermediatheque.jp/",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 35.6800322,
+      "lon": 139.764534,
+      "hours_source": "official",
+      "tel_source": "unknown",
+      "hours_checked_at": "2026-11-04",
+      "closed_on": "月曜日（月曜が祝日の場合は翌日休館）、年末年始"
+    },
+    {
+      "id": "st01334-009",
+      "category": "shopping",
+      "name": {
+        "ja": "日本橋高島屋",
+        "en": "Nihombashi Takashimaya",
+        "zh": "日本桥高岛屋"
+      },
+      "desc": {
+        "ja": "老舗百貨店・高島屋の日本橋店。歴史的な本館建物は重要文化財で、地下の食品売場も充実している。",
+        "en": "Nihombashi store of Takashimaya; the historic main building is a cultural property, with a rich food hall.",
+        "zh": "老牌百货店高岛屋的日本桥店，历史建筑本馆被列为重要文化财产，地下食品区十分丰富。"
+      },
+      "distance_m": 530,
+      "walk_min": 7,
+      "hours": null,
+      "url": "https://www.takashimaya.co.jp/",
+      "tel": null,
+      "price_level": "¥¥¥",
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 35.680919,
+      "lon": 139.7728023,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st01334-010",
+      "category": "park",
+      "name": {
+        "ja": "和田倉噴水公園",
+        "en": "Wadakura Fountain Park",
+        "zh": "和田仓喷泉公园"
+      },
+      "desc": {
+        "ja": "皇居の外側にある噴水のある公園。大小の噴水が美しく、都心の真ん中で緑と水音に癒やされる場所。",
+        "en": "Park with fountains beside the Imperial Palace grounds; a green, relaxing spot in the city's heart.",
+        "zh": "皇居外侧的喷泉公园，大小喷泉景观优美、水声潺潺，是市中心一处绿意盎然的休憩场所。"
+      },
+      "distance_m": 586,
+      "walk_min": 8,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/node/5527856425",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 35.6834386,
+      "lon": 139.7612858,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st01334-012",
+      "category": "sight",
+      "name": {
+        "ja": "日本橋",
+        "en": "Nihombashi Bridge",
+        "zh": "日本桥"
+      },
+      "desc": {
+        "ja": "日本の道路網の起点として知られる橋。現在の橋は1911年に架けられた石造二連アーチで、銅像が飾られている。",
+        "en": "Bridge marking the origin of Japan's road network; the 1911 stone double-arch structure is adorned with bronzes.",
+        "zh": "日本道路网起点的著名桥梁，现存的桥体为1911年建成的双拱石桥，桥身饰有青铜雕像。"
+      },
+      "distance_m": 641,
+      "walk_min": 9,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/node/236621597",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 35.6826018,
+      "lon": 139.7736924,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st01334-013",
+      "category": "sight",
+      "name": {
+        "ja": "日本銀行金融研究所貨幣博物館",
+        "en": "Bank of Japan Currency Museum",
+        "zh": "日本银行货币博物馆"
+      },
+      "desc": {
+        "ja": "日本銀行に併設された博物館。日本と外国の古い貨幣や紙幣を展示し、お金の歴史を学べる。",
+        "en": "Bank of Japan's museum exhibiting historic Japanese and foreign coins and notes; learn the history of money.",
+        "zh": "日本银行附属的货币博物馆，展出日本与外国的历代硬币与纸币，可系统了解金钱的历史。"
+      },
+      "distance_m": 663,
+      "walk_min": 9,
+      "hours": "9:30-16:30 (JST, 入館16:00まで)",
+      "url": "https://www.imes.boj.or.jp/cm/",
+      "tel": null,
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 35.6854395,
+      "lon": 139.7716029,
+      "hours_source": "official",
+      "tel_source": "unknown",
+      "hours_checked_at": "2026-11-04",
+      "closed_on": "月曜日（祝休日は開館）"
+    },
+    {
+      "id": "st01334-014",
+      "category": "sight",
+      "name": {
+        "ja": "国立映画アーカイブ",
+        "en": "National Film Archive of Japan",
+        "zh": "国立电影档案馆"
+      },
+      "desc": {
+        "ja": "日本唯一の国立映画機関。古典映画の上映や、映画に関する資料の展示などを行っている。",
+        "en": "Japan's national film archive, screening classic films and exhibiting cinema-related materials.",
+        "zh": "日本唯一的国立电影机构，定期放映经典电影作品，并展出电影相关的资料、海报与器材。"
+      },
+      "distance_m": 676,
+      "walk_min": 9,
+      "hours": null,
+      "url": "https://www.nfaj.go.jp/",
+      "tel": null,
+      "price_level": "¥",
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 35.6755738,
+      "lon": 139.7706589,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st01334-016",
+      "category": "shopping",
+      "name": {
+        "ja": "日本橋三越本店",
+        "en": "Nihombashi Mitsukoshi Main Store",
+        "zh": "日本桥三越本店"
+      },
+      "desc": {
+        "ja": "江戸時代にまでさかのぼる歴史を持つ三越の本店。入口のライオン像がシンボルで、各フロアに上質な品がそろう。",
+        "en": "Mitsukoshi's flagship store tracing back to the Edo era; the entrance lion statue is its symbol.",
+        "zh": "历史可追溯至江户时代的三越百货本店，入口处的狮子雕像是其象征，各楼层商品高档齐全。"
+      },
+      "distance_m": 847,
+      "walk_min": 11,
+      "hours": null,
+      "url": "https://www.openstreetmap.org/node/3353589734",
+      "tel": null,
+      "price_level": "¥¥¥",
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 35.6858012,
+      "lon": 139.7740436,
+      "hours_source": "unknown",
+      "tel_source": "unknown"
+    },
+    {
+      "id": "st01334-017",
+      "category": "sight",
+      "name": {
+        "ja": "三井記念美術館",
+        "en": "Mitsui Memorial Museum",
+        "zh": "三井纪念美术馆"
+      },
+      "desc": {
+        "ja": "三井家の美術コレクションを展示する美術館。国宝を含む所蔵品があり、茶道具や能面なども紹介される。",
+        "en": "Museum of the Mitsui family art collection, including National Treasures, tea utensils and Noh masks.",
+        "zh": "展出三井家族历代艺术收藏的美术馆，藏品中包含国宝，茶道具与能面等也定期公开展出。"
+      },
+      "distance_m": 867,
+      "walk_min": 12,
+      "hours": "10:00-17:00 (JST)",
+      "url": "https://www.mitsui-museum.jp/",
+      "tel": null,
+      "price_level": "¥",
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-03",
+      "lat": 35.6868356,
+      "lon": 139.7730738,
+      "hours_source": "osm",
+      "tel_source": "unknown",
+      "closed_on": "月曜日"
+    },
+    {
+      "category": "sight",
+      "name": {
+        "ja": "皇居",
+        "en": "Imperial Palace",
+        "zh": "皇居"
+      },
+      "desc": {
+        "ja": "江戸城跡にある天皇の住まい。皇居東御苑は一般公開され、二重橋や伏見櫓が代表的な景観として知られる。",
+        "en": "Emperor's residence on the old Edo Castle site; the East Gardens are open to the public, with Nijubashi views.",
+        "zh": "天皇的居所，位于江户城旧址之上，皇居东御苑对公众开放，二重桥与伏见橹是代表性景观。"
+      },
+      "distance_m": 1492,
+      "walk_min": 19,
+      "hours": "参観受付: 午前の回 9:00〜、午後の回 12:30〜 (JST, 整理券配布・先着順)",
+      "hours_source": "official",
+      "url": "https://sankan.kunaicho.go.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6838556,
+      "lon": 139.7508321,
+      "id": "st01334-018",
+      "hours_checked_at": "2026-11-04"
+    },
+    {
+      "category": "sight",
+      "name": {
+        "ja": "東京国立近代美術館",
+        "en": "National Museum of Modern Art, Tokyo",
+        "zh": "东京国立近代美术馆"
+      },
+      "desc": {
+        "ja": "北の丸公園にある国立の美術館。日本の近現代美術を収集・展示し、隣の工芸館も見どころ。",
+        "en": "National museum in Kitanomaru Park for modern and contemporary Japanese art; the Crafts Gallery sits nearby.",
+        "zh": "北之丸公园内的国立美术馆，收藏并展出日本近现代美术作品，旁边的工艺馆也值得一看。"
+      },
+      "distance_m": 1545,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/43934324",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6904946,
+      "lon": 139.7546203,
+      "official_url_pending": "https://www.momat.go.jp/",
+      "id": "st01334-019"
+    },
+    {
+      "category": "sight",
+      "name": {
+        "ja": "科学技術館",
+        "en": "Science Museum (Tokyo)",
+        "zh": "科学技术馆"
+      },
+      "desc": {
+        "ja": "北の丸公園にある科学の博物館。科学技術や乗り物の展示があり、子ども向けの体験展示も充実している。",
+        "en": "Science museum in Kitanomaru Park with hands-on technology and transport exhibits popular with children.",
+        "zh": "北之丸公园内的科学博物馆，展出科学技术与交通工具，互动体验设施丰富，适合亲子参观。"
+      },
+      "distance_m": 1728,
+      "walk_min": 22,
+      "hours": "9:30-16:50 (JST, 入館16:00まで)",
+      "hours_source": "official",
+      "url": "https://www.jsf.or.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6915625,
+      "lon": 139.7530799,
+      "id": "st01334-020",
+      "hours_checked_at": "2026-11-04",
+      "closed_on": "水曜日中心・年末年始（具体日は公式カレンダー参照）"
+    },
+    {
+      "id": "st01334-021",
+      "category": "medical",
+      "name": {
+        "ja": "聖路加国際病院",
+        "en": "St. Luke's International Hospital",
+        "zh": "圣路加国际医院"
+      },
+      "desc": {
+        "ja": "東京を代表する大型総合病院の一つ。救急・外来診療に対応し、旅行者にとっても頼れる医療機関。駅北東へ約1.8km。",
+        "en": "One of Tokyo's major general hospitals in the Tsukiji area, with emergency and outpatient care, about 1.8 km away.",
+        "zh": "东京具有代表性的大型综合医院之一，设急诊与门诊，位于筑地一带，距站约1.8公里，是旅客可靠的就医选择。"
+      },
+      "distance_m": 1762,
+      "walk_min": 23,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/540408833",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6673457,
+      "lon": 139.777157
+    },
+    {
+      "id": "st01334-022",
+      "category": "bank_atm",
+      "name": {
+        "ja": "みずほ銀行",
+        "en": "Mizuho Bank",
+        "zh": "瑞穗银行"
+      },
+      "desc": {
+        "ja": "大手銀行みずほ銀行の、東京駅西側の丸の内・大手町エリアにある支店。預け入れや引き出し、ATMの利用に対応。",
+        "en": "Branch of major Mizuho Bank in the Marunouchi-Otemachi area west of Tokyo Station, with ATM and deposit services.",
+        "zh": "大型银行瑞穗银行设在东京站西侧丸之内·大手町地区的支行，可办理存取款与ATM等业务，工作日对外营业。"
+      },
+      "distance_m": 403,
+      "walk_min": 5,
+      "hours": "月〜金 09:00-15:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2023811559",
+      "tel": "+81-3-3216-1111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.684381,
+      "lon": 139.7659558
+    },
+    {
+      "id": "st01334-023",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "Seven-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "東京駅の八重洲・日本橋側にある24時間営業のコンビニエンスストア。弁当や飲み物、旅行用品の調達に便利。",
+        "en": "24-hour convenience store on the Yaesu-Nihombashi side of Tokyo Station, handy for meals, drinks and travel goods.",
+        "zh": "位于东京站八重洲·日本桥一侧的24小时便利店，全天营业，便于采购餐食、饮料与旅行日用品。"
+      },
+      "distance_m": 359,
+      "walk_min": 5,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2065895733",
+      "tel": "+81-3-3213-5407",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6839402,
+      "lon": 139.7658222
+    },
+    {
+      "id": "st01334-024",
+      "category": "post_office",
+      "name": {
+        "ja": "八重洲地下街郵便局",
+        "en": "Yaesu Underground Mall Post Office",
+        "zh": "八重洲地下街邮局"
+      },
+      "desc": {
+        "ja": "八重洲地下街の中にある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応し、駅から近くて使い勝手が良い。",
+        "en": "Post office inside the Yaesu underground mall, handling mail, parcels and banking, very close to the station.",
+        "zh": "八重洲地下街内的邮局，可办理邮件、包裹寄送与储蓄业务，距离车站很近，使用十分方便。"
+      },
+      "distance_m": 223,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420767831",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.680562,
+      "lon": 139.769381
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [],
+    "candidate_count": 785,
+    "fetch_truncated": false,
+    "selected_cap": 20
+  }
+}
