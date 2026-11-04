@@ -306,10 +306,37 @@
     "confidence": "medium",
     "gaps": [
       "站周边2公里内无银行网点，取款需利用邮局或前往池田町市区的银行",
-      "餐饮选择较少，主要集中在大步危道之驿与国道沿线"
+      "餐饮选择较少，主要集中在大步危道之驿与国道沿线",
+      "2公里圈内无医疗机构、便利店与观光案内所，就医与补给需前往池田町市区方向"
     ],
     "candidate_count": 15,
     "fetch_truncated": false,
-    "selected_cap": 20
+    "selected_cap": 20,
+    "floor_check": {
+      "medical": {
+        "candidates": 0,
+        "selected": 0
+      },
+      "bank_atm": {
+        "candidates": 0,
+        "selected": 0
+      },
+      "convenience": {
+        "candidates": 0,
+        "selected": 0
+      },
+      "post_office": {
+        "candidates": 1,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 1,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
   }
 }

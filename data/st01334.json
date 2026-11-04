@@ -614,6 +614,35 @@
     "gaps": [],
     "candidate_count": 785,
     "fetch_truncated": false,
-    "selected_cap": 20
+    "selected_cap": 20,
+    "floor_check": {
+      "medical": {
+        "candidates": 23,
+        "selected": 1,
+        "note": "最近候选为诊所イーク丸の内(268m)；按设施等级优先选医院，收聖路加国際病院(1762m)"
+      },
+      "bank_atm": {
+        "candidates": 27,
+        "selected": 1,
+        "note": "选元数据完整(营业时间+电话)的403m网点，未选无标签的215m网点"
+      },
+      "convenience": {
+        "candidates": 50,
+        "selected": 1,
+        "note": "选24/7且元数据完整者(359m)，未选最近但无营业时间标签者(235m)"
+      },
+      "post_office": {
+        "candidates": 22,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 17,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 1,
+        "selected": 1
+      }
+    }
   }
 }

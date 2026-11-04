@@ -596,6 +596,32 @@
     ],
     "candidate_count": 425,
     "fetch_truncated": false,
-    "selected_cap": 20
+    "selected_cap": 20,
+    "floor_check": {
+      "medical": {
+        "candidates": 14,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 14,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 16,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 8,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 2,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 1,
+        "selected": 1
+      }
+    }
   }
 }

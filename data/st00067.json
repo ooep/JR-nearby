@@ -600,9 +600,38 @@
     "poi_count": 20,
     "radius_m": 2000,
     "confidence": "high",
-    "gaps": [],
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选（OSM information=office），旅游咨询可利用车站内服务设施"
+    ],
     "candidate_count": 722,
     "fetch_truncated": false,
-    "selected_cap": 20
+    "selected_cap": 20,
+    "floor_check": {
+      "medical": {
+        "candidates": 29,
+        "selected": 1,
+        "note": "1200m内最近候选为诊所；按设施等级优先选医院，收関西電力病院(1271m，官网403列入pending)"
+      },
+      "bank_atm": {
+        "candidates": 11,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 57,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 19,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 5,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
   }
 }

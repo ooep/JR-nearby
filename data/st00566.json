@@ -608,6 +608,32 @@
     "gaps": [],
     "candidate_count": 771,
     "fetch_truncated": false,
-    "selected_cap": 20
+    "selected_cap": 20,
+    "floor_check": {
+      "medical": {
+        "candidates": 56,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 22,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 95,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 36,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 25,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 5,
+        "selected": 1
+      }
+    }
   }
 }

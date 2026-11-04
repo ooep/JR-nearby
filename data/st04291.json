@@ -535,10 +535,37 @@
     "radius_m": 2000,
     "confidence": "high",
     "gaps": [
-      "站周1200米内未收录住宿类POI；1.2–2公里环带以小型商务旅馆为主，未逐一收录"
+      "站周1200米内未收录住宿类POI；1.2–2公里环带以小型商务旅馆为主，未逐一收录",
+      "2公里圈内未检索到观光案内所候选（OSM information=office）"
     ],
     "candidate_count": 151,
     "fetch_truncated": false,
-    "selected_cap": 20
+    "selected_cap": 20,
+    "floor_check": {
+      "medical": {
+        "candidates": 14,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 5,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 7,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 1,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 2,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
   }
 }

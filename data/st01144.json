@@ -568,10 +568,37 @@
     "radius_m": 2000,
     "confidence": "high",
     "gaps": [
-      "仙台城（青叶城）位于站西侧约2.3公里的青叶山上，超出本文件收录半径"
+      "仙台城（青叶城）位于站西侧约2.3公里的青叶山上，超出本文件收录半径",
+      "2公里圈内未检索到观光案内所候选（OSM information=office），旅游咨询可利用车站窗口"
     ],
     "candidate_count": 532,
     "fetch_truncated": false,
-    "selected_cap": 20
+    "selected_cap": 20,
+    "floor_check": {
+      "medical": {
+        "candidates": 33,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 29,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 36,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 9,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 2,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
   }
 }

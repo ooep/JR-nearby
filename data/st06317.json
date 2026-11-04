@@ -81,7 +81,7 @@
     "radius_m": 2000,
     "confidence": "medium",
     "gaps": [
-      "站周边2公里内无餐饮店、便利店、超市、医疗机构与ATM，最近的便利店和超市在水上站方向，4公里以上",
+      "站周边2公里内无餐饮店、便利店、超市、医疗机构、ATM、邮局、警察设施与观光案内所，最近的便利店和超市在水上站方向，4公里以上",
       "土合站为无人站且无站房，下行站台位于山体深处，站台至检票口需走462级台阶",
       "公交线路极少，往返周边地区主要依赖JR上越线"
     ],
@@ -93,6 +93,32 @@
         "name": "高倉山",
         "reason": "natural=peak，山峰非设施类 POI：无营业时间/电话/可验证的官网或实体页，不满足收录来源要求，故未入选（2km 圈内 3 个具名候选 = 收录 2 条 + 丢弃本条）"
       }
-    ]
+    ],
+    "floor_check": {
+      "medical": {
+        "candidates": 0,
+        "selected": 0
+      },
+      "bank_atm": {
+        "candidates": 0,
+        "selected": 0
+      },
+      "convenience": {
+        "candidates": 0,
+        "selected": 0
+      },
+      "post_office": {
+        "candidates": 0,
+        "selected": 0
+      },
+      "police": {
+        "candidates": 0,
+        "selected": 0
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
   }
 }
