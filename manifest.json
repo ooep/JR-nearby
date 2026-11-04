@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-04T15:17:42Z",
+  "updated_at": "2026-11-04T15:18:12Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 17,
+  "done": 18,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -17,7 +17,7 @@
     "宮城県": 1,
     "広島県": 1,
     "徳島県": 1,
-    "東京都": 9,
+    "東京都": 10,
     "群馬県": 1
   },
   "batches": [
@@ -77,31 +77,32 @@
         "st00468",
         "st00631",
         "st00850",
-        "st00851"
+        "st00851",
+        "st00877"
       ],
-      "poi_total": 140,
+      "poi_total": 160,
       "category_counts": {
-        "bank_atm": 7,
-        "cafe": 7,
-        "convenience": 7,
-        "food": 6,
-        "lodging": 8,
-        "medical": 9,
+        "bank_atm": 8,
+        "cafe": 8,
+        "convenience": 8,
+        "food": 7,
+        "lodging": 10,
+        "medical": 10,
         "onsen_sento": 1,
-        "park": 9,
-        "police": 7,
-        "post_office": 7,
-        "public_service": 7,
+        "park": 11,
+        "police": 8,
+        "post_office": 8,
+        "public_service": 9,
         "shopping": 6,
-        "shrine_temple": 15,
-        "sight": 37,
-        "tourist_info": 7
+        "shrine_temple": 18,
+        "sight": 40,
+        "tourist_info": 8
       },
-      "hours_null": 65,
-      "official_url_own": 90,
+      "hours_null": 74,
+      "official_url_own": 104,
       "official_url_map": 0,
-      "official_url_pending": 19,
-      "official_site_hours_coverage": 0.633,
+      "official_url_pending": 20,
+      "official_site_hours_coverage": 0.635,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
