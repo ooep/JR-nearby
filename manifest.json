@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-05T19:42:15Z",
+  "updated_at": "2026-11-05T19:52:10Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 71,
+  "done": 72,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -17,7 +17,7 @@
     "宮城県": 1,
     "広島県": 1,
     "徳島県": 1,
-    "東京都": 63,
+    "東京都": 64,
     "群馬県": 1
   },
   "batches": [
@@ -131,37 +131,38 @@
         "st02166",
         "st03137",
         "st03143",
-        "st03166"
+        "st03166",
+        "st03174"
       ],
-      "poi_total": 1215,
+      "poi_total": 1235,
       "category_counts": {
-        "bank_atm": 64,
-        "cafe": 57,
-        "convenience": 67,
+        "bank_atm": 65,
+        "cafe": 58,
+        "convenience": 68,
         "food": 74,
-        "lodging": 61,
-        "medical": 73,
+        "lodging": 62,
+        "medical": 74,
         "onsen_sento": 5,
-        "park": 63,
-        "police": 63,
-        "post_office": 64,
-        "public_service": 66,
+        "park": 64,
+        "police": 64,
+        "post_office": 65,
+        "public_service": 68,
         "shopping": 102,
-        "shrine_temple": 121,
-        "sight": 283,
-        "tourist_info": 52
+        "shrine_temple": 124,
+        "sight": 289,
+        "tourist_info": 53
       },
-      "hours_null": 507,
-      "official_url_own": 720,
+      "hours_null": 514,
+      "official_url_own": 734,
       "official_url_map": 0,
-      "official_url_pending": 182,
+      "official_url_pending": 185,
       "official_site_hours_coverage": 0.749,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "赤羽岩淵 (st03166): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=492（精确）"
+        "note": "飯田橋 (st03174): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=2317（窗口下限，细分重抓后仍有残漏）"
       }
     }
   ]
