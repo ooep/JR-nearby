@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-05T14:38:38Z",
+  "updated_at": "2026-11-05T14:44:42Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 41,
+  "done": 42,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -17,7 +17,7 @@
     "宮城県": 1,
     "広島県": 1,
     "徳島県": 1,
-    "東京都": 33,
+    "東京都": 34,
     "群馬県": 1
   },
   "batches": [
@@ -101,37 +101,38 @@
         "st01521",
         "st01522",
         "st01526",
+        "st01529",
         "st01531"
       ],
-      "poi_total": 618,
+      "poi_total": 638,
       "category_counts": {
-        "bank_atm": 33,
+        "bank_atm": 34,
         "cafe": 30,
-        "convenience": 31,
+        "convenience": 32,
         "food": 43,
         "lodging": 25,
-        "medical": 35,
+        "medical": 36,
         "onsen_sento": 3,
-        "park": 33,
-        "police": 32,
-        "post_office": 31,
-        "public_service": 33,
-        "shopping": 48,
-        "shrine_temple": 61,
-        "sight": 150,
+        "park": 35,
+        "police": 33,
+        "post_office": 32,
+        "public_service": 35,
+        "shopping": 50,
+        "shrine_temple": 64,
+        "sight": 156,
         "tourist_info": 30
       },
-      "hours_null": 229,
-      "official_url_own": 380,
+      "hours_null": 238,
+      "official_url_own": 394,
       "official_url_map": 0,
-      "official_url_pending": 104,
-      "official_site_hours_coverage": 0.761,
+      "official_url_pending": 107,
+      "official_site_hours_coverage": 0.756,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "下北沢 (st01531): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=873（精确）"
+        "note": "代々木上原 (st01529): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=836（精确）"
       }
     }
   ]
