@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-05T22:15:00Z",
+  "updated_at": "2026-11-05T22:15:35Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 107,
+  "done": 108,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -17,7 +17,7 @@
     "宮城県": 1,
     "広島県": 1,
     "徳島県": 1,
-    "東京都": 99,
+    "東京都": 100,
     "群馬県": 1
   },
   "batches": [
@@ -167,37 +167,38 @@
         "st04515",
         "st04516",
         "st04519",
-        "st05463"
+        "st05463",
+        "st05464"
       ],
-      "poi_total": 1927,
+      "poi_total": 1943,
       "category_counts": {
-        "bank_atm": 105,
-        "cafe": 86,
-        "convenience": 110,
-        "food": 113,
-        "lodging": 87,
-        "medical": 121,
+        "bank_atm": 106,
+        "cafe": 87,
+        "convenience": 111,
+        "food": 116,
+        "lodging": 88,
+        "medical": 123,
         "onsen_sento": 10,
-        "park": 108,
-        "police": 101,
-        "post_office": 106,
+        "park": 110,
+        "police": 102,
+        "post_office": 108,
         "public_service": 115,
         "shopping": 142,
         "shrine_temple": 204,
-        "sight": 444,
+        "sight": 446,
         "tourist_info": 75
       },
-      "hours_null": 858,
-      "official_url_own": 1122,
+      "hours_null": 868,
+      "official_url_own": 1126,
       "official_url_map": 0,
-      "official_url_pending": 277,
-      "official_site_hours_coverage": 0.718,
+      "official_url_pending": 281,
+      "official_site_hours_coverage": 0.719,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "葛西 (st05463): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=598（精确）"
+        "note": "西葛西 (st05464): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=445（精确）"
       }
     }
   ]
