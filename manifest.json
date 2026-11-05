@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-05T18:26:40Z",
+  "updated_at": "2026-11-05T18:27:27Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 58,
+  "done": 59,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -17,7 +17,7 @@
     "宮城県": 1,
     "広島県": 1,
     "徳島県": 1,
-    "東京都": 50,
+    "東京都": 51,
     "群馬県": 1
   },
   "batches": [
@@ -118,37 +118,38 @@
         "st02086",
         "st02088",
         "st02097",
-        "st02136"
+        "st02136",
+        "st02137"
       ],
-      "poi_total": 957,
+      "poi_total": 977,
       "category_counts": {
-        "bank_atm": 51,
-        "cafe": 44,
-        "convenience": 52,
+        "bank_atm": 52,
+        "cafe": 45,
+        "convenience": 53,
         "food": 61,
-        "lodging": 44,
-        "medical": 58,
+        "lodging": 45,
+        "medical": 59,
         "onsen_sento": 4,
         "park": 49,
-        "police": 50,
-        "post_office": 50,
-        "public_service": 52,
-        "shopping": 74,
+        "police": 51,
+        "post_office": 51,
+        "public_service": 54,
+        "shopping": 76,
         "shrine_temple": 99,
-        "sight": 227,
-        "tourist_info": 42
+        "sight": 235,
+        "tourist_info": 43
       },
-      "hours_null": 387,
-      "official_url_own": 571,
+      "hours_null": 392,
+      "official_url_own": 585,
       "official_url_map": 0,
-      "official_url_pending": 152,
-      "official_site_hours_coverage": 0.748,
+      "official_url_pending": 154,
+      "official_site_hours_coverage": 0.752,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "中目黒 (st02136): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=1089（精确）"
+        "note": "恵比寿 (st02137): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=1946（窗口下限，细分重抓后仍有残漏）"
       }
     }
   ]
