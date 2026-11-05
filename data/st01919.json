@@ -1,0 +1,630 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st01919",
+    "name": {
+      "ja": "大井町",
+      "en": "Ōimachi",
+      "zh": "大井町"
+    },
+    "line_group": [
+      "りんかい線",
+      "大井町線",
+      "山手線",
+      "東海道本線",
+      "田園都市線"
+    ],
+    "pref": "東京都",
+    "lat": 35.607057,
+    "lon": 139.7348
+  },
+  "generated_at": "2026-11-05T17:07:15Z",
+  "pois": [
+    {
+      "id": "st01919-001",
+      "category": "bank_atm",
+      "name": {
+        "ja": "みずほ銀行",
+        "en": "Mizuho Bank",
+        "zh": "瑞穗银行"
+      },
+      "desc": {
+        "ja": "みずほ銀行の支店。駅から約83mにあり、預け入れ・引き出しやATMの利用に対応する。窓口はMo-Fr 09:00-15:00（JST）。",
+        "en": "Bank about 83 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约83米的银行网点，Mo-Fr 09:00-15:00（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 83,
+      "walk_min": 1,
+      "hours": "Mo-Fr 09:00-15:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1664278153",
+      "tel": "+81-3-37740111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.606835,
+      "lon": 139.7339276,
+      "official_url_pending": "https://www.mizuhobank.co.jp/"
+    },
+    {
+      "id": "st01919-002",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "7-ELEVENのコンビニエンスストア。駅から約168mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 168 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约168米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 168,
+      "walk_min": 2,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.sej.co.jp/",
+      "tel": "+81-3-54631271",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6079185,
+      "lon": 139.7363278
+    },
+    {
+      "id": "st01919-003",
+      "category": "post_office",
+      "name": {
+        "ja": "品川御殿山郵便局",
+        "en": "Shinagawa Gotenyama Post Office",
+        "zh": "品川御殿山邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1681mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1681 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1681米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 1681,
+      "walk_min": 22,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420771355",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.622051,
+      "lon": 139.737202
+    },
+    {
+      "id": "st01919-004",
+      "category": "public_service",
+      "name": {
+        "ja": "品川区役所",
+        "en": "Shinagawa City Hall",
+        "zh": "品川区役所"
+      },
+      "desc": {
+        "ja": "駅から約480mにある役所・行政施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Civic office about 480 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约480米的行政机构，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 480,
+      "walk_min": 6,
+      "hours": "Mo-Fr 08:30-17:00; PH off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.city.shinagawa.tokyo.jp/",
+      "tel": "+81-3-37771111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6092112,
+      "lon": 139.730198
+    },
+    {
+      "id": "st01919-005",
+      "category": "medical",
+      "name": {
+        "ja": "日本調剤",
+        "en": "Nihon Chouzai",
+        "zh": "日本調剤"
+      },
+      "desc": {
+        "ja": "駅から約172mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 172 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约172米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 172,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/14023815656",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.606297,
+      "lon": 139.7331434
+    },
+    {
+      "id": "st01919-006",
+      "category": "park",
+      "name": {
+        "ja": "東品川公園",
+        "en": "Higashi-Shinagawa Park",
+        "zh": "东品川公园"
+      },
+      "desc": {
+        "ja": "駅から約1321mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1321 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1321米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1321,
+      "walk_min": 18,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.city.shinagawa.tokyo.jp/PC/shisetsu/shisetsu-bunka/shisetsu-bunka-kouen/hpg000022822.html",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6143628,
+      "lon": 139.7463244
+    },
+    {
+      "id": "st01919-007",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "天祖諏訪神社",
+        "en": "Tenso Suwa Shrine",
+        "zh": "天祖諏訪神社"
+      },
+      "desc": {
+        "ja": "駅から約1141mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1141 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1141米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1141,
+      "walk_min": 15,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://tensosuwa-jinja.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5973781,
+      "lon": 139.7390016
+    },
+    {
+      "id": "st01919-008",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "品川寺",
+        "en": "Honsenji",
+        "zh": "品川寺"
+      },
+      "desc": {
+        "ja": "駅から約859mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 859 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约859米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 859,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://honsenji.net/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6095834,
+      "lon": 139.7437744
+    },
+    {
+      "id": "st01919-009",
+      "category": "police",
+      "name": {
+        "ja": "品川警察署御殿山交番",
+        "en": "Koban",
+        "zh": "品川警察署御殿山交番"
+      },
+      "desc": {
+        "ja": "駅から約1794mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1794 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1794米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1794,
+      "walk_min": 24,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420771376",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.623188,
+      "lon": 139.735186
+    },
+    {
+      "id": "st01919-010",
+      "category": "sight",
+      "name": {
+        "ja": "品川区立品川歴史館",
+        "en": "Shinagawa Historical Museum",
+        "zh": "品川区立品川历史馆"
+      },
+      "desc": {
+        "ja": "駅から約1229mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1229 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1229米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1229,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.city.shinagawa.tokyo.jp/jigyo/06/historyhp/hsindex.html",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5966639,
+      "lon": 139.7301845
+    },
+    {
+      "id": "st01919-011",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "荏原神社",
+        "en": "Ebara Shrine",
+        "zh": "荏原神社"
+      },
+      "desc": {
+        "ja": "駅から約1365mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1365 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1365米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1365,
+      "walk_min": 18,
+      "hours": "Mo-Su 09:00-16:30 (JST)",
+      "hours_source": "osm",
+      "url": "http://ebarajinja.org/top.html",
+      "tel": "+81 3-3471-3457",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6170488,
+      "lon": 139.7435786
+    },
+    {
+      "id": "st01919-012",
+      "category": "shopping",
+      "name": {
+        "ja": "イオン",
+        "en": "AEON",
+        "zh": "永旺"
+      },
+      "desc": {
+        "ja": "駅から約1367mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 1367 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1367米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1367,
+      "walk_min": 18,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/204395549",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6109222,
+      "lon": 139.7491541
+    },
+    {
+      "id": "st01919-013",
+      "category": "shopping",
+      "name": {
+        "ja": "ヴィラ大井",
+        "en": "Wira Ooi",
+        "zh": "ヴィラ大井"
+      },
+      "desc": {
+        "ja": "駅から約1426mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 1426 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1426米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准。"
+      },
+      "distance_m": 1426,
+      "walk_min": 19,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/169861518",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5970211,
+      "lon": 139.7446264
+    },
+    {
+      "id": "st01919-014",
+      "category": "tourist_info",
+      "name": {
+        "ja": "お休み所",
+        "en": "o休mi所",
+        "zh": "O休mi所"
+      },
+      "desc": {
+        "ja": "駅から約1448mにある観光案内所。周辺の観光情報や地図、施設案内を提供している。散策の前に立ち寄ると便利。",
+        "en": "Tourist information office about 1448 m from the station, with maps and local guidance.",
+        "zh": "距站约1448米的观光服务台，提供周边旅游信息、地图与咨询服务，可先在此规划行程。"
+      },
+      "distance_m": 1448,
+      "walk_min": 19,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5473033485",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6174566,
+      "lon": 139.7444355
+    },
+    {
+      "id": "st01919-015",
+      "category": "sight",
+      "name": {
+        "ja": "翡翠原石館",
+        "en": "Jade Ore Museum",
+        "zh": "翡翠原石馆"
+      },
+      "desc": {
+        "ja": "駅から約1486mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1486 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1486米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1486,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://hi-su-i.com/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6204137,
+      "lon": 139.7353187
+    },
+    {
+      "id": "st01919-016",
+      "category": "shopping",
+      "name": {
+        "ja": "Big-A",
+        "en": "Big-A",
+        "zh": "Big-A"
+      },
+      "desc": {
+        "ja": "駅から約1508mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 1508 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1508米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1508,
+      "walk_min": 20,
+      "hours": "06:00-23:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.biga.co.jp/shop/%e5%93%81%e5%b7%9d%e8%b1%8a%e7%94%ba%e5%ba%97/",
+      "tel": "03-3785-6121",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6052855,
+      "lon": 139.7182577
+    },
+    {
+      "id": "st01919-017",
+      "category": "sight",
+      "name": {
+        "ja": "鈴ヶ森刑場",
+        "en": "Suzugamori Execution Ground",
+        "zh": "鈴ヶ森刑场"
+      },
+      "desc": {
+        "ja": "駅から約1703mにある史跡。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Historic ruins about 1703 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1703米的史迹，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1703,
+      "walk_min": 23,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/653710397",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5918036,
+      "lon": 139.7365145
+    },
+    {
+      "id": "st01919-018",
+      "category": "park",
+      "name": {
+        "ja": "東大井公園",
+        "en": "Higashioi Park",
+        "zh": "东大井公园"
+      },
+      "desc": {
+        "ja": "駅から約514mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 514 m from the station, with paths and benches for a rest.",
+        "zh": "距站约514米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 514,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/225753959",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6038496,
+      "lon": 139.7389014
+    },
+    {
+      "id": "st01919-019",
+      "category": "medical",
+      "name": {
+        "ja": "スギ薬局",
+        "en": "Sugi Pharmacy",
+        "zh": "スギ薬局"
+      },
+      "desc": {
+        "ja": "駅から約917mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 917 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约917米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 917,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/7927681496",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5988652,
+      "lon": 139.735925
+    },
+    {
+      "id": "st01919-020",
+      "category": "sight",
+      "name": {
+        "ja": "WHAT Museum",
+        "en": "WHAT MUSEUM",
+        "zh": "WHAT Museum"
+      },
+      "desc": {
+        "ja": "駅から約1961mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1961 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1961米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1961,
+      "walk_min": 26,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://what.warehouseofart.org",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6206847,
+      "lon": 139.7485642
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 763,
+    "floor_check": {
+      "medical": {
+        "candidates": 40,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 28,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 136,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 28,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 22,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 2,
+        "selected": 1
+      }
+    }
+  }
+}
