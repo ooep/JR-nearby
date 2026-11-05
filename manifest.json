@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-05T23:29:58Z",
+  "updated_at": "2026-11-05T23:30:41Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 139,
+  "done": 140,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -20,7 +20,7 @@
     "広島県": 1,
     "徳島県": 1,
     "東京都": 107,
-    "神奈川県": 13,
+    "神奈川県": 14,
     "福岡県": 5,
     "群馬県": 1
   },
@@ -239,37 +239,38 @@
         "st01630",
         "st01631",
         "st01635",
-        "st01677"
+        "st01677",
+        "st01679"
       ],
-      "poi_total": 467,
+      "poi_total": 486,
       "category_counts": {
-        "bank_atm": 26,
+        "bank_atm": 28,
         "cafe": 8,
-        "convenience": 32,
-        "food": 44,
+        "convenience": 34,
+        "food": 47,
         "lodging": 21,
-        "medical": 40,
+        "medical": 42,
         "onsen_sento": 2,
-        "park": 28,
-        "police": 29,
-        "post_office": 30,
-        "public_service": 29,
-        "shopping": 51,
+        "park": 29,
+        "police": 30,
+        "post_office": 31,
+        "public_service": 31,
+        "shopping": 54,
         "shrine_temple": 46,
-        "sight": 67,
+        "sight": 69,
         "tourist_info": 14
       },
-      "hours_null": 289,
-      "official_url_own": 164,
+      "hours_null": 304,
+      "official_url_own": 169,
       "official_url_map": 0,
       "official_url_pending": 33,
-      "official_site_hours_coverage": 0.652,
+      "official_site_hours_coverage": 0.651,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "平塚 (st01677): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=280（精确）"
+        "note": "辻堂 (st01679): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=225（精确）"
       }
     }
   ]
