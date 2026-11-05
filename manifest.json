@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-05T22:08:44Z",
+  "updated_at": "2026-11-05T22:09:11Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 104,
+  "done": 105,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -17,7 +17,7 @@
     "宮城県": 1,
     "広島県": 1,
     "徳島県": 1,
-    "東京都": 96,
+    "東京都": 97,
     "群馬県": 1
   },
   "batches": [
@@ -164,37 +164,38 @@
         "st04510",
         "st04511",
         "st04513",
-        "st04515"
+        "st04515",
+        "st04516"
       ],
-      "poi_total": 1867,
+      "poi_total": 1887,
       "category_counts": {
-        "bank_atm": 101,
-        "cafe": 83,
-        "convenience": 106,
-        "food": 108,
-        "lodging": 85,
-        "medical": 117,
-        "onsen_sento": 8,
-        "park": 104,
-        "police": 98,
-        "post_office": 103,
-        "public_service": 111,
-        "shopping": 138,
-        "shrine_temple": 198,
+        "bank_atm": 102,
+        "cafe": 84,
+        "convenience": 107,
+        "food": 111,
+        "lodging": 86,
+        "medical": 119,
+        "onsen_sento": 9,
+        "park": 106,
+        "police": 99,
+        "post_office": 104,
+        "public_service": 113,
+        "shopping": 139,
+        "shrine_temple": 201,
         "sight": 433,
         "tourist_info": 74
       },
-      "hours_null": 827,
-      "official_url_own": 1089,
+      "hours_null": 839,
+      "official_url_own": 1100,
       "official_url_map": 0,
-      "official_url_pending": 266,
-      "official_site_hours_coverage": 0.72,
+      "official_url_pending": 269,
+      "official_site_hours_coverage": 0.719,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "三鷹 (st04511): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=700（精确）"
+        "note": "中野 (st04516): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=1283（精确）"
       }
     }
   ]
