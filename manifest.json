@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-05T18:49:53Z",
+  "updated_at": "2026-11-05T18:50:32Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 62,
+  "done": 63,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -17,7 +17,7 @@
     "宮城県": 1,
     "広島県": 1,
     "徳島県": 1,
-    "東京都": 54,
+    "東京都": 55,
     "群馬県": 1
   },
   "batches": [
@@ -115,6 +115,7 @@
         "st01917",
         "st01919",
         "st01921",
+        "st01922",
         "st01923",
         "st02084",
         "st02086",
@@ -124,35 +125,35 @@
         "st02137",
         "st02139"
       ],
-      "poi_total": 1035,
+      "poi_total": 1055,
       "category_counts": {
-        "bank_atm": 55,
-        "cafe": 48,
-        "convenience": 57,
+        "bank_atm": 56,
+        "cafe": 49,
+        "convenience": 58,
         "food": 64,
-        "lodging": 49,
-        "medical": 62,
+        "lodging": 51,
+        "medical": 63,
         "onsen_sento": 5,
         "park": 54,
-        "police": 54,
-        "post_office": 54,
-        "public_service": 57,
-        "shopping": 82,
-        "shrine_temple": 104,
-        "sight": 245,
-        "tourist_info": 45
+        "police": 55,
+        "post_office": 55,
+        "public_service": 58,
+        "shopping": 85,
+        "shrine_temple": 105,
+        "sight": 251,
+        "tourist_info": 46
       },
-      "hours_null": 425,
-      "official_url_own": 615,
+      "hours_null": 431,
+      "official_url_own": 628,
       "official_url_map": 0,
-      "official_url_pending": 159,
+      "official_url_pending": 164,
       "official_site_hours_coverage": 0.75,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "明大前 (st01854): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=763（精确）"
+        "note": "有楽町 (st01922): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=2186（窗口下限，细分重抓后仍有残漏）"
       }
     }
   ]
