@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-05T22:09:46Z",
+  "updated_at": "2026-11-05T22:15:00Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 106,
+  "done": 107,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -17,7 +17,7 @@
     "宮城県": 1,
     "広島県": 1,
     "徳島県": 1,
-    "東京都": 98,
+    "東京都": 99,
     "群馬県": 1
   },
   "batches": [
@@ -166,37 +166,38 @@
         "st04513",
         "st04515",
         "st04516",
-        "st04519"
+        "st04519",
+        "st05463"
       ],
-      "poi_total": 1907,
+      "poi_total": 1927,
       "category_counts": {
-        "bank_atm": 103,
-        "cafe": 85,
-        "convenience": 108,
+        "bank_atm": 105,
+        "cafe": 86,
+        "convenience": 110,
         "food": 113,
-        "lodging": 86,
-        "medical": 120,
-        "onsen_sento": 9,
-        "park": 106,
-        "police": 100,
-        "post_office": 105,
+        "lodging": 87,
+        "medical": 121,
+        "onsen_sento": 10,
+        "park": 108,
+        "police": 101,
+        "post_office": 106,
         "public_service": 115,
         "shopping": 142,
-        "shrine_temple": 201,
-        "sight": 439,
+        "shrine_temple": 204,
+        "sight": 444,
         "tourist_info": 75
       },
-      "hours_null": 844,
-      "official_url_own": 1113,
+      "hours_null": 858,
+      "official_url_own": 1122,
       "official_url_map": 0,
-      "official_url_pending": 274,
-      "official_site_hours_coverage": 0.721,
+      "official_url_pending": 277,
+      "official_site_hours_coverage": 0.718,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "御茶ノ水 (st04519): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=2323（窗口下限，细分重抓后仍有残漏）"
+        "note": "葛西 (st05463): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=598（精确）"
       }
     }
   ]
