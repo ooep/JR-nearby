@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-05T14:45:27Z",
+  "updated_at": "2026-11-05T14:47:41Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 43,
+  "done": 44,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -17,7 +17,7 @@
     "宮城県": 1,
     "広島県": 1,
     "徳島県": 1,
-    "東京都": 35,
+    "東京都": 36,
     "群馬県": 1
   },
   "batches": [
@@ -103,37 +103,38 @@
         "st01526",
         "st01529",
         "st01531",
-        "st01663"
+        "st01663",
+        "st01753"
       ],
-      "poi_total": 658,
+      "poi_total": 678,
       "category_counts": {
-        "bank_atm": 35,
-        "cafe": 31,
-        "convenience": 34,
+        "bank_atm": 36,
+        "cafe": 32,
+        "convenience": 35,
         "food": 46,
-        "lodging": 27,
-        "medical": 37,
+        "lodging": 28,
+        "medical": 38,
         "onsen_sento": 3,
-        "park": 37,
-        "police": 34,
-        "post_office": 33,
-        "public_service": 36,
+        "park": 39,
+        "police": 35,
+        "post_office": 34,
+        "public_service": 38,
         "shopping": 52,
-        "shrine_temple": 67,
-        "sight": 156,
-        "tourist_info": 30
+        "shrine_temple": 70,
+        "sight": 161,
+        "tourist_info": 31
       },
-      "hours_null": 252,
-      "official_url_own": 400,
+      "hours_null": 262,
+      "official_url_own": 413,
       "official_url_map": 0,
-      "official_url_pending": 108,
-      "official_site_hours_coverage": 0.755,
+      "official_url_pending": 111,
+      "official_site_hours_coverage": 0.751,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "赤羽 (st01663): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=606（精确）"
+        "note": "高田馬場 (st01753): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=1190（精确）"
       }
     }
   ]
