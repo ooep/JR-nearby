@@ -1,0 +1,631 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st00082",
+    "name": {
+      "ja": "田町",
+      "en": "Tamachi",
+      "zh": "田町"
+    },
+    "line_group": [
+      "東山本線"
+    ],
+    "pref": "岡山県",
+    "lat": 34.66077,
+    "lon": 133.92625
+  },
+  "generated_at": "2026-11-05T22:54:27Z",
+  "pois": [
+    {
+      "id": "st00082-001",
+      "category": "post_office",
+      "name": {
+        "ja": "岡山中央郵便局",
+        "en": "Okayama Central Post Office",
+        "zh": "冈山中央邮政局"
+      },
+      "desc": {
+        "ja": "駅から約147mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 147 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约147米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 147,
+      "walk_min": 2,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.post.japanpost.jp/index.html",
+      "tel": "+81-800-0800-111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6620493,
+      "lon": 133.9266755
+    },
+    {
+      "id": "st00082-002",
+      "category": "shopping",
+      "name": {
+        "ja": "クレド岡山",
+        "en": "Cred Okayama",
+        "zh": "クレド冈山"
+      },
+      "desc": {
+        "ja": "駅から約228mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 228 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约228米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 228,
+      "walk_min": 3,
+      "hours": "10:00-20:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/127588594",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6627667,
+      "lon": 133.9268035,
+      "official_url_pending": "https://www.cred-okayama.com/"
+    },
+    {
+      "id": "st00082-003",
+      "category": "shopping",
+      "name": {
+        "ja": "天満屋 本館",
+        "en": "Tenmaya",
+        "zh": "天満屋 本馆"
+      },
+      "desc": {
+        "ja": "駅から約270mにある百貨店。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Department store about 270 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约270米的百货店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 270,
+      "walk_min": 4,
+      "hours": "10:00-19:30 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.tenmaya.co.jp/okayama/",
+      "tel": "+81 86 231 7111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6617611,
+      "lon": 133.928941
+    },
+    {
+      "id": "st00082-004",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "岡山神社",
+        "en": "Okayama Shrine",
+        "zh": "冈山神社"
+      },
+      "desc": {
+        "ja": "駅から約898mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 898 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约898米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 898,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/753617932",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6676784,
+      "lon": 133.9313284
+    },
+    {
+      "id": "st00082-005",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "天満宮",
+        "en": "Tenmangu Shrine",
+        "zh": "天満宫"
+      },
+      "desc": {
+        "ja": "駅から約1850mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1850 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1850米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1850,
+      "walk_min": 24,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6371587811",
+      "tel": "+81 86 272 0407",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6558755,
+      "lon": 133.9455774
+    },
+    {
+      "id": "st00082-006",
+      "category": "tourist_info",
+      "name": {
+        "ja": "両備観光センター",
+        "en": "両備観光senta-",
+        "zh": "両備观光センター"
+      },
+      "desc": {
+        "ja": "駅から約579mにある観光案内所。周辺の観光情報や地図、施設案内を提供している。散策の前に立ち寄ると便利。",
+        "en": "Tourist information office about 579 m from the station, with maps and local guidance.",
+        "zh": "距站约579米的观光服务台，提供周边旅游信息、地图与咨询服务，可先在此规划行程。"
+      },
+      "distance_m": 579,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6965044475",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6627089,
+      "lon": 133.92038
+    },
+    {
+      "id": "st00082-007",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "7-ELEVENのコンビニエンスストア。駅から約686mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 686 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约686米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 686,
+      "walk_min": 9,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.sej.co.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6545995,
+      "lon": 133.926464
+    },
+    {
+      "id": "st00082-008",
+      "category": "lodging",
+      "name": {
+        "ja": "岡山ワシントンホテルプラザ",
+        "en": "Washington Hotel Plaza",
+        "zh": "冈山ワシントンホテルプラザ"
+      },
+      "desc": {
+        "ja": "駅から約622mにある宿泊施設（3つ星）。観光やビジネスの拠点として利用できる。チェックイン時間は予約時に確認を。",
+        "en": "Lodging about 622 m from the station, a convenient base for sightseeing or business.",
+        "zh": "距站约622米的住宿设施（3星），可作为观光或商务出行的落脚点，入住方式以预订信息为准。"
+      },
+      "distance_m": 622,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "http://washington.jp/okayama/",
+      "tel": "+81 86 231 9111",
+      "tel_source": "osm",
+      "price_level": "¥¥¥",
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6651323,
+      "lon": 133.9219887
+    },
+    {
+      "id": "st00082-009",
+      "category": "sight",
+      "name": {
+        "ja": "岡山市立オリエント美術館",
+        "en": "Okayama Orient Museum",
+        "zh": "冈山市立オリエント美术馆"
+      },
+      "desc": {
+        "ja": "駅から約718mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 718 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约718米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 718,
+      "walk_min": 9,
+      "hours": "Tu-Su 09:00-17:00; Mo off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.city.okayama.jp/orientmuseum/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6663706,
+      "lon": 133.9301513
+    },
+    {
+      "id": "st00082-010",
+      "category": "police",
+      "name": {
+        "ja": "岡山縣警察本部",
+        "en": "冈山縣 Police Headquarters",
+        "zh": "冈山縣警察本部"
+      },
+      "desc": {
+        "ja": "駅から約731mにある警察署。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 731 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约731米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 731,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/1533062972",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6609045,
+      "lon": 133.9342428
+    },
+    {
+      "id": "st00082-011",
+      "category": "shopping",
+      "name": {
+        "ja": "髙島屋",
+        "en": "Takashimaya",
+        "zh": "高岛屋"
+      },
+      "desc": {
+        "ja": "駅から約742mにある百貨店。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Department store about 742 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约742米的百货店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 742,
+      "walk_min": 10,
+      "hours": "10:00-19:30; Fr-Sa 10:00-20:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.takashimaya.co.jp/okayama/",
+      "tel": "+81 86 232 1111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6647605,
+      "lon": 133.9197487
+    },
+    {
+      "id": "st00082-012",
+      "category": "bank_atm",
+      "name": {
+        "ja": "愛媛銀行",
+        "en": "爱媛 Bank",
+        "zh": "爱媛银行"
+      },
+      "desc": {
+        "ja": "愛媛銀行の支店。駅から約125mにあり、預け入れ・引き出しやATMの利用に対応する。窓口は09:00-17:00; Sa-Su off; PH off（JST）。",
+        "en": "Bank about 125 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约125米的银行网点，09:00-17:00; Sa-Su off; PH off（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 125,
+      "walk_min": 2,
+      "hours": "09:00-17:00; Sa-Su off; PH off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.himegin.co.jp/",
+      "tel": "+81 86 225 2801",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6596633,
+      "lon": 133.9259815
+    },
+    {
+      "id": "st00082-013",
+      "category": "public_service",
+      "name": {
+        "ja": "岡山県立図書館",
+        "en": "Okayama Prefectural Library",
+        "zh": "冈山县立图书馆"
+      },
+      "desc": {
+        "ja": "駅から約799mにある図書館。手続きや調べ物、休憩に利用できる公共の施設。詳細は現地の案内を参照。",
+        "en": "Library about 799 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约799米的图书馆，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 799,
+      "walk_min": 10,
+      "hours": "Tu-Fr 09:00-19:00; Sa, Su, PH 10:00-18:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.libnet.pref.okayama.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6626466,
+      "lon": 133.934682
+    },
+    {
+      "id": "st00082-014",
+      "category": "public_service",
+      "name": {
+        "ja": "岡山市役所",
+        "en": "Okayama City Office",
+        "zh": "冈山市役所"
+      },
+      "desc": {
+        "ja": "駅から約870mにある役所・行政施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Civic office about 870 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约870米的行政机构，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 870,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.city.okayama.jp/",
+      "tel": "+81 86 803 1000",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6553258,
+      "lon": 133.9194203
+    },
+    {
+      "id": "st00082-015",
+      "category": "lodging",
+      "name": {
+        "ja": "ホテルグランヴィア岡山",
+        "en": "Hotel Granvia Okayama",
+        "zh": "ホテルグランヴィア冈山"
+      },
+      "desc": {
+        "ja": "駅から約877mにある宿泊施設（4つ星）。観光やビジネスの拠点として利用できる。チェックイン時間は予約時に確認を。",
+        "en": "Lodging about 877 m from the station, a convenient base for sightseeing or business.",
+        "zh": "距站约877米的住宿设施（4星），可作为观光或商务出行的落脚点，入住方式以预订信息为准。"
+      },
+      "distance_m": 877,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.granvia-oka.co.jp/",
+      "tel": "+81-86-234-7000",
+      "tel_source": "osm",
+      "price_level": "¥¥¥¥",
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.664035,
+      "lon": 133.9175272
+    },
+    {
+      "id": "st00082-016",
+      "category": "sight",
+      "name": {
+        "ja": "岡山城",
+        "en": "Okayama Castle",
+        "zh": "冈山城"
+      },
+      "desc": {
+        "ja": "駅から約1023mにある城郭。周辺を代表する見どころの一つで、散策の目的地にしやすい。入場は有料。",
+        "en": "Castle about 1023 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1023米的城堡，入场收费，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1023,
+      "walk_min": 13,
+      "hours": "Mo-Su 09:00-17:30; Dec 29-Dec 31 off (JST)",
+      "hours_source": "osm",
+      "url": "https://okayama-castle.jp/",
+      "tel": "+81 86-225-2096",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6652026,
+      "lon": 133.9360453
+    },
+    {
+      "id": "st00082-017",
+      "category": "park",
+      "name": {
+        "ja": "後楽園",
+        "en": "Kōraku Garden",
+        "zh": "後楽园"
+      },
+      "desc": {
+        "ja": "駅から約1095mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1095 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1095米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1095,
+      "walk_min": 14,
+      "hours": "Mar 20-Sep 30 Mo-Su 07:30-18:00; Oct 01 - Mar 19 Mo-Su 08:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://okayama-korakuen.jp/",
+      "tel": "+81 86-272-1148",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6663272,
+      "lon": 133.9361405
+    },
+    {
+      "id": "st00082-018",
+      "category": "sight",
+      "name": {
+        "ja": "岡山シティミュージアム",
+        "en": "Okayama City Museum",
+        "zh": "冈山シティミュージアム"
+      },
+      "desc": {
+        "ja": "駅から約1136mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1136 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1136米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1136,
+      "walk_min": 15,
+      "hours": "10:00-18:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.city.okayama.jp/okayama-city-museum/",
+      "tel": "+81 86 898 3000",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.66631,
+      "lon": 133.9158203
+    },
+    {
+      "id": "st00082-019",
+      "category": "medical",
+      "name": {
+        "ja": "岡山済生会外来センター病院",
+        "en": "岡山済生会外来senta-病院",
+        "zh": "冈山济生会外来センター病院"
+      },
+      "desc": {
+        "ja": "駅から約1372mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 1372 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1372米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1372,
+      "walk_min": 18,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.okayamasaiseikai.or.jp/",
+      "tel": "+81-86-252-2211",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6706617,
+      "lon": 133.9172745
+    },
+    {
+      "id": "st00082-020",
+      "category": "medical",
+      "name": {
+        "ja": "岡山県精神科医療センター",
+        "en": "岡山県精神科医療senta-",
+        "zh": "冈山县精神科医療センター"
+      },
+      "desc": {
+        "ja": "駅から約1451mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 1451 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1451米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1451,
+      "walk_min": 19,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/12243112328",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6508561,
+      "lon": 133.9159355,
+      "official_url_pending": "https://www.popmc.jp/"
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 1240,
+    "floor_check": {
+      "medical": {
+        "candidates": 70,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 45,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 79,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 26,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 18,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 2,
+        "selected": 1
+      }
+    }
+  }
+}
