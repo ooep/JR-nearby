@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-05T23:18:50Z",
+  "updated_at": "2026-11-05T23:19:15Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 133,
+  "done": 134,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -20,7 +20,7 @@
     "広島県": 1,
     "徳島県": 1,
     "東京都": 107,
-    "神奈川県": 7,
+    "神奈川県": 8,
     "福岡県": 5,
     "群馬県": 1
   },
@@ -233,37 +233,38 @@
         "st01332",
         "st01377",
         "st01593",
-        "st01614"
+        "st01614",
+        "st01619"
       ],
-      "poi_total": 350,
+      "poi_total": 370,
       "category_counts": {
-        "bank_atm": 19,
+        "bank_atm": 20,
         "cafe": 7,
-        "convenience": 24,
-        "food": 33,
-        "lodging": 18,
-        "medical": 31,
+        "convenience": 25,
+        "food": 36,
+        "lodging": 19,
+        "medical": 32,
         "onsen_sento": 2,
         "park": 21,
-        "police": 23,
-        "post_office": 22,
-        "public_service": 22,
-        "shopping": 40,
-        "shrine_temple": 30,
-        "sight": 48,
-        "tourist_info": 10
+        "police": 24,
+        "post_office": 23,
+        "public_service": 24,
+        "shopping": 43,
+        "shrine_temple": 33,
+        "sight": 50,
+        "tourist_info": 11
       },
-      "hours_null": 226,
-      "official_url_own": 116,
+      "hours_null": 239,
+      "official_url_own": 123,
       "official_url_map": 0,
-      "official_url_pending": 22,
-      "official_site_hours_coverage": 0.647,
+      "official_url_pending": 24,
+      "official_site_hours_coverage": 0.65,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "海老名 (st01614): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=577（精确）"
+        "note": "相模大野 (st01619): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=561（精确）"
       }
     }
   ]
