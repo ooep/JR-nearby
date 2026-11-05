@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-05T04:21:30Z",
+  "updated_at": "2026-11-05T04:22:47Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 26,
+  "done": 27,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -17,7 +17,7 @@
     "宮城県": 1,
     "広島県": 1,
     "徳島県": 1,
-    "東京都": 18,
+    "東京都": 19,
     "群馬県": 1
   },
   "batches": [
@@ -86,37 +86,38 @@
         "st00887",
         "st00889",
         "st00891",
-        "st00894"
+        "st00894",
+        "st00900"
       ],
-      "poi_total": 320,
+      "poi_total": 339,
       "category_counts": {
-        "bank_atm": 16,
-        "cafe": 16,
-        "convenience": 16,
-        "food": 22,
-        "lodging": 17,
-        "medical": 18,
+        "bank_atm": 18,
+        "cafe": 17,
+        "convenience": 17,
+        "food": 23,
+        "lodging": 19,
+        "medical": 19,
         "onsen_sento": 1,
-        "park": 14,
-        "police": 16,
-        "post_office": 16,
-        "public_service": 18,
+        "park": 16,
+        "police": 17,
+        "post_office": 17,
+        "public_service": 19,
         "shopping": 22,
-        "shrine_temple": 30,
-        "sight": 82,
-        "tourist_info": 16
+        "shrine_temple": 33,
+        "sight": 84,
+        "tourist_info": 17
       },
-      "hours_null": 116,
-      "official_url_own": 213,
+      "hours_null": 131,
+      "official_url_own": 219,
       "official_url_map": 0,
-      "official_url_pending": 48,
-      "official_site_hours_coverage": 0.737,
+      "official_url_pending": 51,
+      "official_site_hours_coverage": 0.721,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "押上 (st00894): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=4238（精确）"
+        "note": "京成高砂 (st00900): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=1585（精确）"
       }
     }
   ]
