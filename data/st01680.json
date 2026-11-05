@@ -1,0 +1,603 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st01680",
+    "name": {
+      "ja": "藤沢",
+      "en": "Fujisawa",
+      "zh": "藤泽"
+    },
+    "line_group": [
+      "千代田線",
+      "小田原線",
+      "小田急江ノ島線",
+      "山手線",
+      "東海道本線",
+      "江ノ島電鉄線"
+    ],
+    "pref": "神奈川県",
+    "lat": 35.338664,
+    "lon": 139.487449
+  },
+  "generated_at": "2026-11-05T23:31:06Z",
+  "pois": [
+    {
+      "id": "st01680-001",
+      "category": "bank_atm",
+      "name": {
+        "ja": "SBI新生銀行",
+        "en": "SBI Shinsei Bank",
+        "zh": "SBI新生银行"
+      },
+      "desc": {
+        "ja": "SBI新生銀行の支店。駅から約71mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 71 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约71米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 71,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6349717891",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3381468,
+      "lon": 139.4869936,
+      "official_url_pending": "https://www.shinseibank.com/atm/tempo/011/fujisawa.html"
+    },
+    {
+      "id": "st01680-002",
+      "category": "shopping",
+      "name": {
+        "ja": "さいか屋藤沢店",
+        "en": "saika屋藤沢店",
+        "zh": "Saika屋藤沢店"
+      },
+      "desc": {
+        "ja": "駅から約139mにある百貨店。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Department store about 139 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约139米的百货店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 139,
+      "walk_min": 2,
+      "hours": "PH,Mo-Su 10:00-19:00 (JST)",
+      "hours_source": "osm",
+      "url": "http://www.saikaya.co.jp/FUJISAWA/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3398667,
+      "lon": 139.4870272
+    },
+    {
+      "id": "st01680-003",
+      "category": "shopping",
+      "name": {
+        "ja": "ODAKYU湘南GATE",
+        "en": "ODAKYU湘南GATE",
+        "zh": "ODAKYU湘南GATE"
+      },
+      "desc": {
+        "ja": "駅から約127mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 127 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约127米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 127,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/335513949",
+      "tel": "0466-26-6111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3375293,
+      "lon": 139.487615
+    },
+    {
+      "id": "st01680-004",
+      "category": "cafe",
+      "name": {
+        "ja": "ドトールコーヒーショップ",
+        "en": "Doutor Coffee Shop",
+        "zh": "多特咖啡"
+      },
+      "desc": {
+        "ja": "駅から約135mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。",
+        "en": "Cafe about 135 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约135米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 135,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6024075752",
+      "tel": "+81 466 25 6316",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3395325,
+      "lon": 139.4884863
+    },
+    {
+      "id": "st01680-005",
+      "category": "food",
+      "name": {
+        "ja": "花火",
+        "en": "Hanabi",
+        "zh": "花火"
+      },
+      "desc": {
+        "ja": "駅から約310mにある飲食店。yakitori料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Sa 17:00-00:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 310 m from the station. Serves yakitori cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约310米的餐馆主营yakitori，适合旅途中用餐，Mo-Sa 17:00-00:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 310,
+      "walk_min": 4,
+      "hours": "Mo-Sa 17:00-00:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://akr0493228360.owst.jp",
+      "tel": "+81 466 867669",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.336039,
+      "lon": 139.4863003
+    },
+    {
+      "id": "st01680-006",
+      "category": "lodging",
+      "name": {
+        "ja": "カプセルホテル湘南",
+        "en": "Capsule Hotel Shonan",
+        "zh": "カプセルホテル湘南"
+      },
+      "desc": {
+        "ja": "駅から約414mにある宿泊施設。観光やビジネスの拠点として利用できる。チェックイン時間は予約時に確認を。",
+        "en": "Lodging about 414 m from the station, a convenient base for sightseeing or business.",
+        "zh": "距站约414米的住宿设施，可作为观光或商务出行的落脚点，入住方式以预订信息为准。"
+      },
+      "distance_m": 414,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1918459384",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3400315,
+      "lon": 139.4831983,
+      "official_url_pending": "http://www.ch-shonan.com/"
+    },
+    {
+      "id": "st01680-007",
+      "category": "food",
+      "name": {
+        "ja": "Aburasoba Specialist: Burabura Fujisawa",
+        "en": "Aburasoba Specialist: Burabura Fujisawa",
+        "zh": "Aburasoba Specialist: Burabura Fujisawa"
+      },
+      "desc": {
+        "ja": "駅から約198mにある飲食店。japanese料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Sa 11:00-24:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 198 m from the station. Serves japanese cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约198米的餐馆主营japanese，适合旅途中用餐，Mo-Sa 11:00-24:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 198,
+      "walk_min": 3,
+      "hours": "Mo-Sa 11:00-24:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://bura-2.com/",
+      "tel": "0466-52-7711",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3379876,
+      "lon": 139.4894658
+    },
+    {
+      "id": "st01680-008",
+      "category": "post_office",
+      "name": {
+        "ja": "藤沢南口郵便局",
+        "en": "藤泽南口 Post Office",
+        "zh": "藤泽南口邮政局"
+      },
+      "desc": {
+        "ja": "駅から約165mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 165 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约165米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 165,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420832754",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.338028,
+      "lon": 139.4858
+    },
+    {
+      "id": "st01680-009",
+      "category": "public_service",
+      "name": {
+        "ja": "藤沢市役所",
+        "en": "Fujisawa City Hall",
+        "zh": "藤泽市役所"
+      },
+      "desc": {
+        "ja": "駅から約334mにある役所・行政施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Civic office about 334 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约334米的行政机构，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 334,
+      "walk_min": 5,
+      "hours": "Mo-Fr 08:30-17:00; PH off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.city.fujisawa.kanagawa.jp/",
+      "tel": "+81-466-251111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3388671,
+      "lon": 139.4911237
+    },
+    {
+      "id": "st01680-010",
+      "category": "shopping",
+      "name": {
+        "ja": "業務スーパー藤沢店",
+        "en": "Gyomu Super",
+        "zh": "業務スーパー藤泽店"
+      },
+      "desc": {
+        "ja": "駅から約314mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 314 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约314米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 314,
+      "walk_min": 4,
+      "hours": "Mo-Su 09:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.gyomusuper.jp/shop/detail.php?sh_id=583",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.336397,
+      "lon": 139.4895111
+    },
+    {
+      "id": "st01680-011",
+      "category": "lodging",
+      "name": {
+        "ja": "ホテル法華クラブ湘南藤沢",
+        "en": "Hotel Hokke Club Shonan Fujisawa",
+        "zh": "ホテル法华クラブ湘南藤泽"
+      },
+      "desc": {
+        "ja": "駅から約393mにある宿泊施設。観光やビジネスの拠点として利用できる。チェックイン時間は予約時に確認を。",
+        "en": "Lodging about 393 m from the station, a convenient base for sightseeing or business.",
+        "zh": "距站约393米的住宿设施，可作为观光或商务出行的落脚点，入住方式以预订信息为准。"
+      },
+      "distance_m": 393,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.hokke.co.jp/shonan-fujisawa",
+      "tel": "+81 466 276101",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3355089,
+      "lon": 139.4893932
+    },
+    {
+      "id": "st01680-012",
+      "category": "food",
+      "name": {
+        "ja": "ラーメン二郎",
+        "en": "Ramen Jiro",
+        "zh": "ラーメン二郎"
+      },
+      "desc": {
+        "ja": "駅から約680mにある飲食店。ramen料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Sa 11:00-14:30,17:30-21:30; Tu off; Su 11:00-20:00（JST）。メニューや予算は店。",
+        "en": "Restaurant about 680 m from the station. Serves ramen cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约680米的餐馆主营ramen，适合旅途中用餐，Mo-Sa 11:00-14:30,17:30-21:30; Tu off; Su 11:00-20:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 680,
+      "walk_min": 9,
+      "hours": "Mo-Sa 11:00-14:30,17:30-21:30; Tu off; Su 11:00-20:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/3783030220",
+      "tel": "0466221756",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3430543,
+      "lon": 139.4822356
+    },
+    {
+      "id": "st01680-013",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "7-ELEVENのコンビニエンスストア。駅から約723mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 723 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约723米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 723,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.sej.co.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3431529,
+      "lon": 139.4816761
+    },
+    {
+      "id": "st01680-014",
+      "category": "tourist_info",
+      "name": {
+        "ja": "ふじさわ宿交流館",
+        "en": "fujisawa宿交流館",
+        "zh": "Fujisawa宿交流館"
+      },
+      "desc": {
+        "ja": "駅から約877mにある観光案内所。周辺の観光情報や地図、施設案内を提供している。散策の前に立ち寄ると便利。",
+        "en": "Tourist information office about 877 m from the station, with maps and local guidance.",
+        "zh": "距站约877米的观光服务台，提供周边旅游信息、地图与咨询服务，可先在此规划行程。"
+      },
+      "distance_m": 877,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6140214458",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.346548,
+      "lon": 139.4872901
+    },
+    {
+      "id": "st01680-015",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "清浄光寺",
+        "en": "Shojokoji",
+        "zh": "清浄光寺"
+      },
+      "desc": {
+        "ja": "駅から約1050mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 1050 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1050米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1050,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "http://www.jishu.or.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3480792,
+      "lon": 139.4883602
+    },
+    {
+      "id": "st01680-016",
+      "category": "park",
+      "name": {
+        "ja": "ふじ公園",
+        "en": "fuji公園",
+        "zh": "Fuji公園"
+      },
+      "desc": {
+        "ja": "駅から約440mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 440 m from the station, with paths and benches for a rest.",
+        "zh": "距站约440米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 440,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/267704831",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3416455,
+      "lon": 139.484259
+    },
+    {
+      "id": "st01680-017",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "妙善寺",
+        "en": "Myouzenji Temple",
+        "zh": "妙善寺"
+      },
+      "desc": {
+        "ja": "駅から約1265mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 1265 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1265米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1265,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "http://myouzenji.com/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3489305,
+      "lon": 139.4814404
+    },
+    {
+      "id": "st01680-018",
+      "category": "medical",
+      "name": {
+        "ja": "クリエイトSD",
+        "en": "CREATE SD",
+        "zh": "クリエイトSD"
+      },
+      "desc": {
+        "ja": "駅から約145mにある薬局。体調を崩した際の受診や薬の購入に対応する。受付は09:00-22:00（JST）。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 145 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约145米的药房，09:00-22:00（JST），旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 145,
+      "walk_min": 2,
+      "hours": "09:00-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/3832470949",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3395955,
+      "lon": 139.486323
+    },
+    {
+      "id": "st01680-019",
+      "category": "police",
+      "name": {
+        "ja": "藤沢駅北口交番",
+        "en": "藤泽站北口 Police Box",
+        "zh": "藤泽站北口交番"
+      },
+      "desc": {
+        "ja": "駅から約68mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 68 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约68米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 68,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/1474951844",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3391156,
+      "lon": 139.4879601
+    }
+  ],
+  "coverage": {
+    "poi_count": 19,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 376,
+    "floor_check": {
+      "medical": {
+        "candidates": 27,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 16,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 38,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 9,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 7,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 1,
+        "selected": 1
+      }
+    }
+  }
+}

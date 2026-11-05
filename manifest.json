@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-05T23:30:41Z",
+  "updated_at": "2026-11-05T23:31:08Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 140,
+  "done": 141,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -20,7 +20,7 @@
     "広島県": 1,
     "徳島県": 1,
     "東京都": 107,
-    "神奈川県": 14,
+    "神奈川県": 15,
     "福岡県": 5,
     "群馬県": 1
   },
@@ -240,37 +240,38 @@
         "st01631",
         "st01635",
         "st01677",
-        "st01679"
+        "st01679",
+        "st01680"
       ],
-      "poi_total": 486,
+      "poi_total": 505,
       "category_counts": {
-        "bank_atm": 28,
-        "cafe": 8,
-        "convenience": 34,
-        "food": 47,
-        "lodging": 21,
-        "medical": 42,
+        "bank_atm": 29,
+        "cafe": 9,
+        "convenience": 35,
+        "food": 50,
+        "lodging": 23,
+        "medical": 43,
         "onsen_sento": 2,
-        "park": 29,
-        "police": 30,
-        "post_office": 31,
-        "public_service": 31,
-        "shopping": 54,
-        "shrine_temple": 46,
+        "park": 30,
+        "police": 31,
+        "post_office": 32,
+        "public_service": 32,
+        "shopping": 57,
+        "shrine_temple": 48,
         "sight": 69,
-        "tourist_info": 14
+        "tourist_info": 15
       },
-      "hours_null": 304,
-      "official_url_own": 169,
+      "hours_null": 316,
+      "official_url_own": 178,
       "official_url_map": 0,
-      "official_url_pending": 33,
-      "official_site_hours_coverage": 0.651,
+      "official_url_pending": 35,
+      "official_site_hours_coverage": 0.646,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "辻堂 (st01679): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=225（精确）"
+        "note": "藤沢 (st01680): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=376（精确）"
       }
     }
   ]
