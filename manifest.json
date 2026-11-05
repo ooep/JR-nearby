@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-05T19:08:20Z",
+  "updated_at": "2026-11-05T19:17:58Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 65,
+  "done": 66,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -17,7 +17,7 @@
     "宮城県": 1,
     "広島県": 1,
     "徳島県": 1,
-    "東京都": 57,
+    "東京都": 58,
     "群馬県": 1
   },
   "batches": [
@@ -110,6 +110,7 @@
         "st01754",
         "st01853",
         "st01854",
+        "st01857",
         "st01909",
         "st01916",
         "st01917",
@@ -127,35 +128,35 @@
         "st02139",
         "st02142"
       ],
-      "poi_total": 1095,
+      "poi_total": 1115,
       "category_counts": {
-        "bank_atm": 58,
-        "cafe": 51,
-        "convenience": 60,
+        "bank_atm": 59,
+        "cafe": 52,
+        "convenience": 61,
         "food": 66,
         "lodging": 54,
-        "medical": 66,
+        "medical": 67,
         "onsen_sento": 5,
-        "park": 54,
-        "police": 57,
-        "post_office": 57,
-        "public_service": 59,
-        "shopping": 88,
-        "shrine_temple": 108,
-        "sight": 264,
-        "tourist_info": 48
+        "park": 56,
+        "police": 58,
+        "post_office": 58,
+        "public_service": 61,
+        "shopping": 90,
+        "shrine_temple": 111,
+        "sight": 268,
+        "tourist_info": 49
       },
-      "hours_null": 445,
-      "official_url_own": 659,
+      "hours_null": 459,
+      "official_url_own": 668,
       "official_url_map": 0,
-      "official_url_pending": 168,
-      "official_site_hours_coverage": 0.748,
+      "official_url_pending": 172,
+      "official_site_hours_coverage": 0.744,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "銀座 (st02142): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=2484（窗口下限，细分重抓后仍有残漏）"
+        "note": "吉祥寺 (st01857): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=925（精确）"
       }
     }
   ]

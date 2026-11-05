@@ -1,0 +1,631 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st01857",
+    "name": {
+      "ja": "吉祥寺",
+      "en": "Kichijōji",
+      "zh": "吉祥寺"
+    },
+    "line_group": [
+      "中央本線",
+      "井の頭線",
+      "山手線",
+      "東葉高速線"
+    ],
+    "pref": "東京都",
+    "lat": 35.703141,
+    "lon": 139.579987
+  },
+  "generated_at": "2026-11-05T19:17:55Z",
+  "pois": [
+    {
+      "id": "st01857-001",
+      "category": "shopping",
+      "name": {
+        "ja": "キラリナ京王吉祥寺",
+        "en": "Kirarina Keio Kichijoji",
+        "zh": "キラリナ京王吉祥寺"
+      },
+      "desc": {
+        "ja": "駅から約44mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 44 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约44米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 44,
+      "walk_min": 1,
+      "hours": "10:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.kirarinakeiokichijoji.jp",
+      "tel": "+81-422-29-8240",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7027521,
+      "lon": 139.5800431
+    },
+    {
+      "id": "st01857-002",
+      "category": "tourist_info",
+      "name": {
+        "ja": "小田急バス 吉祥寺北口案内所",
+        "en": "小田急basu 吉祥寺北口案内所",
+        "zh": "小田急バス 吉祥寺北口案内所"
+      },
+      "desc": {
+        "ja": "駅から約64mにある観光案内所。周辺の観光情報や地図、施設案内を提供している。散策の前に立ち寄ると便利。",
+        "en": "Tourist information office about 64 m from the station, with maps and local guidance.",
+        "zh": "距站约64米的观光服务台，提供周边旅游信息、地图与咨询服务，可先在此规划行程，具体信息以现场为准。"
+      },
+      "distance_m": 64,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/839541159",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7032792,
+      "lon": 139.5793028
+    },
+    {
+      "id": "st01857-003",
+      "category": "cafe",
+      "name": {
+        "ja": "タリーズコーヒー",
+        "en": "Tully's Coffee",
+        "zh": "塔利咖啡"
+      },
+      "desc": {
+        "ja": "駅から約123mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。Mo-Su 07:30-22:00（JST）。",
+        "en": "Cafe about 123 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约123米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 123,
+      "walk_min": 2,
+      "hours": "Mo-Su 07:30-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.tullys.co.jp/",
+      "tel": "+81-422-222247",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7031238,
+      "lon": 139.5813505
+    },
+    {
+      "id": "st01857-004",
+      "category": "public_service",
+      "name": {
+        "ja": "武蔵野市立吉祥寺図書館",
+        "en": "Kichijoji Public Library",
+        "zh": "武蔵野市立吉祥寺图书馆"
+      },
+      "desc": {
+        "ja": "駅から約292mにある図書館。手続きや調べ物、休憩に利用できる公共の施設。詳細は現地の案内を参照。",
+        "en": "Library about 292 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约292米的图书馆，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 292,
+      "walk_min": 4,
+      "hours": "We off;Mo-Tu,Th-Su,PH 09:30-20:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1987754281",
+      "tel": "+81-422-201011",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7050108,
+      "lon": 139.582253,
+      "official_url_pending": "https://www.library.musashino.tokyo.jp/"
+    },
+    {
+      "id": "st01857-005",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "7-ELEVENのコンビニエンスストア。駅から約193mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 193 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约193米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 193,
+      "walk_min": 3,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.sej.co.jp/",
+      "tel": "+81-422-211811",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7045772,
+      "lon": 139.57878
+    },
+    {
+      "id": "st01857-006",
+      "category": "bank_atm",
+      "name": {
+        "ja": "みずほ銀行",
+        "en": "Mizuho Bank",
+        "zh": "瑞穗银行"
+      },
+      "desc": {
+        "ja": "みずほ銀行の支店。駅から約253mにあり、預け入れ・引き出しやATMの利用に対応する。窓口はMo-Fr 09:00-15:00（JST）。",
+        "en": "Bank about 253 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约253米的银行网点，Mo-Fr 09:00-15:00（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 253,
+      "walk_min": 4,
+      "hours": "Mo-Fr 09:00-15:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/523635943",
+      "tel": "+81-422-225111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7044084,
+      "lon": 139.577657,
+      "official_url_pending": "https://www.mizuhobank.co.jp/"
+    },
+    {
+      "id": "st01857-007",
+      "category": "medical",
+      "name": {
+        "ja": "森本内科クリニック",
+        "en": "Morimoto Hospital",
+        "zh": "森本内科クリニック"
+      },
+      "desc": {
+        "ja": "駅から約272mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 272 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约272米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 272,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://joji-morimoto.jp/",
+      "tel": "+81 422-22-5161",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7039486,
+      "lon": 139.5771482
+    },
+    {
+      "id": "st01857-008",
+      "category": "shopping",
+      "name": {
+        "ja": "東急百貨店",
+        "en": "Tokyu Department Store",
+        "zh": "东急百貨店"
+      },
+      "desc": {
+        "ja": "駅から約283mにある百貨店。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Department store about 283 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约283米的百货店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 283,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.tokyu-dept.co.jp/kichijouji/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7050193,
+      "lon": 139.5778711
+    },
+    {
+      "id": "st01857-009",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "蓮乗寺",
+        "en": "Renjo Temple",
+        "zh": "蓮乗寺"
+      },
+      "desc": {
+        "ja": "駅から約352mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 352 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约352米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 352,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/548927324",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7062714,
+      "lon": 139.5793802
+    },
+    {
+      "id": "st01857-010",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "安養寺",
+        "en": "An'yoji Temple",
+        "zh": "安養寺"
+      },
+      "desc": {
+        "ja": "駅から約488mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 488 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约488米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 488,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/243549364",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7075135,
+      "lon": 139.5804864
+    },
+    {
+      "id": "st01857-011",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "武蔵野八幡宮",
+        "en": "Musashino Hachimangu",
+        "zh": "武蔵野八幡宫"
+      },
+      "desc": {
+        "ja": "駅から約499mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 499 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约499米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 499,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/41293320",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7076267,
+      "lon": 139.5800416
+    },
+    {
+      "id": "st01857-012",
+      "category": "park",
+      "name": {
+        "ja": "吉祥寺南公園",
+        "en": "Kichijoji Minami Park",
+        "zh": "吉祥寺南公园"
+      },
+      "desc": {
+        "ja": "駅から約222mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 222 m from the station, with paths and benches for a rest.",
+        "zh": "距站约222米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 222,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/41790827",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7011579,
+      "lon": 139.5803065
+    },
+    {
+      "id": "st01857-013",
+      "category": "sight",
+      "name": {
+        "ja": "井の頭自然文化園",
+        "en": "Inokashira Park Zoo",
+        "zh": "井之頭自然文化园"
+      },
+      "desc": {
+        "ja": "駅から約818mにある動物園。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Zoo about 818 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约818米的动物园，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 818,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.tokyo-zoo.net/zoo/ino/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7008844,
+      "lon": 139.5713612
+    },
+    {
+      "id": "st01857-014",
+      "category": "sight",
+      "name": {
+        "ja": "成蹊学園史料館",
+        "en": "Seikei Gakuen Historical Museum",
+        "zh": "成蹊学园史料馆"
+      },
+      "desc": {
+        "ja": "駅から約1017mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1017 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1017米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1017,
+      "walk_min": 13,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.seikei.ac.jp/gakuen/archive/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7104432,
+      "lon": 139.5732115
+    },
+    {
+      "id": "st01857-015",
+      "category": "sight",
+      "name": {
+        "ja": "三鷹の森ジブリ美術館",
+        "en": "Mitaka Forest Ghibli Museum",
+        "zh": "三鷹之森吉卜力美术馆"
+      },
+      "desc": {
+        "ja": "駅から約1146mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。入場は有料。",
+        "en": "Museum about 1146 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1146米的博物馆·美术馆，入场收费，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1146,
+      "walk_min": 15,
+      "hours": "We-Mo 10:00-18:00; Tu off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.ghibli-museum.jp/",
+      "tel": "+81 570-055-777",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.696259,
+      "lon": 139.5705381
+    },
+    {
+      "id": "st01857-016",
+      "category": "sight",
+      "name": {
+        "ja": "吉祥寺サンロード",
+        "en": "Kichijōji Sunroad",
+        "zh": "吉祥寺サンロード"
+      },
+      "desc": {
+        "ja": "駅から約193mにある観光スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Attraction about 193 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约193米的观光景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 193,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://sun-road.or.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7048428,
+      "lon": 139.580385
+    },
+    {
+      "id": "st01857-017",
+      "category": "public_service",
+      "name": {
+        "ja": "武蔵野市民文化会館",
+        "en": "Musashino Culture Hall",
+        "zh": "武蔵野市民文化会馆"
+      },
+      "desc": {
+        "ja": "駅から約1576mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 1576 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1576米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1576,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/159646836",
+      "tel": "+81 422-54-8822",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7114446,
+      "lon": 139.5658427,
+      "official_url_pending": "http://www.musashino-culture.or.jp/sisetu/bunka/top.html"
+    },
+    {
+      "id": "st01857-018",
+      "category": "park",
+      "name": {
+        "ja": "善福寺公園",
+        "en": "Zenpukuji Park",
+        "zh": "善福寺公园"
+      },
+      "desc": {
+        "ja": "駅から約1597mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1597 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1597米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1597,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/relation/17376006",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7147889,
+      "lon": 139.5903382
+    },
+    {
+      "id": "st01857-019",
+      "category": "police",
+      "name": {
+        "ja": "武蔵野警察署",
+        "en": "Musashino Police Station",
+        "zh": "武蔵野警察署"
+      },
+      "desc": {
+        "ja": "駅から約1770mにある警察署。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1770 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1770米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1770,
+      "walk_min": 23,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420786907",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.706145,
+      "lon": 139.560732,
+      "official_url_pending": "https://www.keishicho.metro.tokyo.jp/8/musashino/index.htm"
+    },
+    {
+      "id": "st01857-020",
+      "category": "post_office",
+      "name": {
+        "ja": "武蔵野郵便局",
+        "en": "Musashino Post Office",
+        "zh": "武蔵野邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1800mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1800 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1800米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 1800,
+      "walk_min": 23,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/172010788",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7101757,
+      "lon": 139.5620319
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 925,
+    "floor_check": {
+      "medical": {
+        "candidates": 136,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 33,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 96,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 24,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 21,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 1,
+        "selected": 1
+      }
+    }
+  }
+}
