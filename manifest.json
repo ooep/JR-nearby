@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-05T17:08:12Z",
+  "updated_at": "2026-11-05T17:13:28Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 48,
+  "done": 49,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -17,7 +17,7 @@
     "宮城県": 1,
     "広島県": 1,
     "徳島県": 1,
-    "東京都": 40,
+    "東京都": 41,
     "群馬県": 1
   },
   "batches": [
@@ -107,38 +107,39 @@
         "st01733",
         "st01753",
         "st01754",
+        "st01853",
         "st01919",
         "st01921"
       ],
-      "poi_total": 757,
+      "poi_total": 777,
       "category_counts": {
-        "bank_atm": 40,
-        "cafe": 35,
-        "convenience": 40,
-        "food": 49,
+        "bank_atm": 41,
+        "cafe": 36,
+        "convenience": 41,
+        "food": 50,
         "lodging": 34,
-        "medical": 45,
+        "medical": 46,
         "onsen_sento": 3,
         "park": 43,
-        "police": 39,
-        "post_office": 38,
-        "public_service": 44,
-        "shopping": 59,
-        "shrine_temple": 78,
-        "sight": 176,
-        "tourist_info": 34
+        "police": 40,
+        "post_office": 39,
+        "public_service": 45,
+        "shopping": 62,
+        "shrine_temple": 79,
+        "sight": 183,
+        "tourist_info": 35
       },
-      "hours_null": 306,
-      "official_url_own": 455,
+      "hours_null": 312,
+      "official_url_own": 471,
       "official_url_map": 0,
-      "official_url_pending": 123,
-      "official_site_hours_coverage": 0.741,
+      "official_url_pending": 124,
+      "official_site_hours_coverage": 0.743,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "浜松町 (st01921): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=2597（窗口下限，细分重抓后仍有残漏）"
+        "note": "渋谷 (st01853): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=2825（窗口下限，细分重抓后仍有残漏）"
       }
     }
   ]
