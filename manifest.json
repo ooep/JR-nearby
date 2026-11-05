@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-05T22:24:35Z",
+  "updated_at": "2026-11-05T22:25:05Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 111,
+  "done": 112,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -17,7 +17,7 @@
     "宮城県": 1,
     "広島県": 1,
     "徳島県": 1,
-    "東京都": 103,
+    "東京都": 104,
     "群馬県": 1
   },
   "batches": [
@@ -171,37 +171,38 @@
         "st05464",
         "st05466",
         "st05485",
-        "st05488"
+        "st05488",
+        "st05523"
       ],
-      "poi_total": 2002,
+      "poi_total": 2021,
       "category_counts": {
-        "bank_atm": 109,
-        "cafe": 90,
-        "convenience": 115,
-        "food": 119,
+        "bank_atm": 110,
+        "cafe": 91,
+        "convenience": 117,
+        "food": 122,
         "lodging": 90,
-        "medical": 127,
+        "medical": 128,
         "onsen_sento": 10,
-        "park": 116,
-        "police": 107,
-        "post_office": 112,
-        "public_service": 116,
-        "shopping": 149,
-        "shrine_temple": 213,
-        "sight": 453,
-        "tourist_info": 76
+        "park": 117,
+        "police": 108,
+        "post_office": 113,
+        "public_service": 117,
+        "shopping": 151,
+        "shrine_temple": 215,
+        "sight": 455,
+        "tourist_info": 77
       },
-      "hours_null": 905,
-      "official_url_own": 1151,
+      "hours_null": 914,
+      "official_url_own": 1158,
       "official_url_map": 0,
-      "official_url_pending": 286,
+      "official_url_pending": 288,
       "official_site_hours_coverage": 0.714,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "亀戸 (st05488): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=906（精确）"
+        "note": "調布 (st05523): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=532（精确）"
       }
     }
   ]
