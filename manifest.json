@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-05T23:57:02Z",
+  "updated_at": "2026-11-05T23:58:38Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 150,
+  "done": 151,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -20,7 +20,7 @@
     "広島県": 1,
     "徳島県": 1,
     "東京都": 107,
-    "神奈川県": 24,
+    "神奈川県": 25,
     "福岡県": 5,
     "群馬県": 1
   },
@@ -250,37 +250,38 @@
         "st01889",
         "st01892",
         "st01893",
-        "st01896"
+        "st01896",
+        "st01900"
       ],
-      "poi_total": 680,
+      "poi_total": 700,
       "category_counts": {
-        "bank_atm": 38,
-        "cafe": 16,
-        "convenience": 49,
-        "food": 70,
+        "bank_atm": 40,
+        "cafe": 17,
+        "convenience": 51,
+        "food": 73,
         "lodging": 30,
-        "medical": 58,
+        "medical": 60,
         "onsen_sento": 2,
-        "park": 37,
-        "police": 43,
-        "post_office": 44,
+        "park": 38,
+        "police": 44,
+        "post_office": 45,
         "public_service": 39,
-        "shopping": 71,
-        "shrine_temple": 66,
-        "sight": 97,
+        "shopping": 74,
+        "shrine_temple": 69,
+        "sight": 98,
         "tourist_info": 20
       },
-      "hours_null": 423,
-      "official_url_own": 246,
+      "hours_null": 436,
+      "official_url_own": 248,
       "official_url_map": 0,
-      "official_url_pending": 50,
+      "official_url_pending": 51,
       "official_site_hours_coverage": 0.593,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "中山 (st01896): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=248（精确）"
+        "note": "長津田 (st01900): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=379（精确）"
       }
     }
   ]
