@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-05T14:49:38Z",
+  "updated_at": "2026-11-05T14:57:41Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 45,
+  "done": 46,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -17,7 +17,7 @@
     "宮城県": 1,
     "広島県": 1,
     "徳島県": 1,
-    "東京都": 37,
+    "東京都": 38,
     "群馬県": 1
   },
   "batches": [
@@ -105,37 +105,38 @@
         "st01531",
         "st01663",
         "st01733",
-        "st01753"
+        "st01753",
+        "st01754"
       ],
-      "poi_total": 697,
+      "poi_total": 717,
       "category_counts": {
-        "bank_atm": 37,
-        "cafe": 33,
-        "convenience": 37,
+        "bank_atm": 38,
+        "cafe": 34,
+        "convenience": 38,
         "food": 48,
-        "lodging": 30,
-        "medical": 40,
+        "lodging": 32,
+        "medical": 42,
         "onsen_sento": 3,
         "park": 40,
-        "police": 36,
-        "post_office": 35,
-        "public_service": 39,
-        "shopping": 53,
-        "shrine_temple": 72,
-        "sight": 163,
-        "tourist_info": 31
+        "police": 37,
+        "post_office": 36,
+        "public_service": 41,
+        "shopping": 56,
+        "shrine_temple": 73,
+        "sight": 167,
+        "tourist_info": 32
       },
-      "hours_null": 273,
-      "official_url_own": 421,
+      "hours_null": 283,
+      "official_url_own": 433,
       "official_url_map": 0,
-      "official_url_pending": 112,
+      "official_url_pending": 118,
       "official_site_hours_coverage": 0.748,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "国分寺 (st01733): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=291（精确）"
+        "note": "西武新宿 (st01754): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=2790（窗口下限，细分重抓后仍有残漏）"
       }
     }
   ]
