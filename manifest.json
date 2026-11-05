@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-05T21:36:00Z",
+  "updated_at": "2026-11-05T21:36:39Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 96,
+  "done": 97,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -17,7 +17,7 @@
     "宮城県": 1,
     "広島県": 1,
     "徳島県": 1,
-    "東京都": 88,
+    "東京都": 89,
     "群馬県": 1
   },
   "batches": [
@@ -156,37 +156,38 @@
         "st04472",
         "st04483",
         "st04505",
-        "st04506"
+        "st04506",
+        "st04508"
       ],
-      "poi_total": 1714,
+      "poi_total": 1732,
       "category_counts": {
-        "bank_atm": 91,
-        "cafe": 77,
-        "convenience": 95,
-        "food": 94,
-        "lodging": 81,
-        "medical": 104,
+        "bank_atm": 92,
+        "cafe": 78,
+        "convenience": 96,
+        "food": 96,
+        "lodging": 82,
+        "medical": 106,
         "onsen_sento": 8,
-        "park": 94,
-        "police": 88,
-        "post_office": 92,
-        "public_service": 98,
-        "shopping": 128,
-        "shrine_temple": 183,
-        "sight": 409,
+        "park": 95,
+        "police": 89,
+        "post_office": 93,
+        "public_service": 100,
+        "shopping": 130,
+        "shrine_temple": 184,
+        "sight": 411,
         "tourist_info": 72
       },
-      "hours_null": 740,
-      "official_url_own": 1017,
+      "hours_null": 752,
+      "official_url_own": 1022,
       "official_url_map": 0,
-      "official_url_pending": 244,
-      "official_site_hours_coverage": 0.728,
+      "official_url_pending": 245,
+      "official_site_hours_coverage": 0.727,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "国立 (st04506): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=349（精确）"
+        "note": "武蔵小金井 (st04508): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=353（精确）"
       }
     }
   ]

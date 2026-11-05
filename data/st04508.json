@@ -1,0 +1,568 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st04508",
+    "name": {
+      "ja": "武蔵小金井",
+      "en": "Musashi-Koganei",
+      "zh": "武蔵小金井"
+    },
+    "line_group": [
+      "中央本線",
+      "山手線"
+    ],
+    "pref": "東京都",
+    "lat": 35.70124,
+    "lon": 139.50678
+  },
+  "generated_at": "2026-11-05T21:36:36Z",
+  "pois": [
+    {
+      "id": "st04508-001",
+      "category": "cafe",
+      "name": {
+        "ja": "ドトールコーヒーショップ",
+        "en": "Doutor Coffee Shop",
+        "zh": "多特咖啡"
+      },
+      "desc": {
+        "ja": "駅から約111mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。Mo-Fr 07:30-21:00; Sa,Su,PH 08:00-21:00（JST）。",
+        "en": "Cafe about 111 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约111米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 111,
+      "walk_min": 2,
+      "hours": "Mo-Fr 07:30-21:00; Sa,Su,PH 08:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.doutor.co.jp/dcs/",
+      "tel": "+81 42-386-5657",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.702047,
+      "lon": 139.5060625
+    },
+    {
+      "id": "st04508-002",
+      "category": "bank_atm",
+      "name": {
+        "ja": "三井住友銀行",
+        "en": "Sumitomo Mitsui Banking Corporation",
+        "zh": "三井住友银行"
+      },
+      "desc": {
+        "ja": "三井住友銀行の支店。駅から約53mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 53 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约53米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 53,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1369998989",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7017073,
+      "lon": 139.5066452
+    },
+    {
+      "id": "st04508-003",
+      "category": "medical",
+      "name": {
+        "ja": "サエラ薬局",
+        "en": "saera薬局",
+        "zh": "サエラ薬局"
+      },
+      "desc": {
+        "ja": "駅から約286mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 286 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约286米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 286,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6952862632",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7037503,
+      "lon": 139.5074683
+    },
+    {
+      "id": "st04508-004",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "7-ELEVENのコンビニエンスストア。駅から約215mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 215 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约215米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 215,
+      "walk_min": 3,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.sej.co.jp/",
+      "tel": "+81 42-382-7816",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.702787,
+      "lon": 139.505349
+    },
+    {
+      "id": "st04508-005",
+      "category": "shopping",
+      "name": {
+        "ja": "SOCOLA武蔵小金井クロス",
+        "en": "SOCOLA武蔵小金井kurosu",
+        "zh": "SOCOLA武蔵小金井クロス"
+      },
+      "desc": {
+        "ja": "駅から約230mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 230 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约230米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 230,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/1075142157",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6994444,
+      "lon": 139.5055172
+    },
+    {
+      "id": "st04508-006",
+      "category": "lodging",
+      "name": {
+        "ja": "Wild Cherry Blossom - HOSTEL, TOKYO KOGANEI -",
+        "en": "Wild Cherry Blossom - HOSTEL, TOKYO KOGANEI -",
+        "zh": "Wild Cherry Blossom - HOSTEL, TOKYO KOGANEI -"
+      },
+      "desc": {
+        "ja": "駅から約353mにある宿泊施設。観光やビジネスの拠点として利用できる。チェックイン時間は予約時に確認を。",
+        "en": "Lodging about 353 m from the station, a convenient base for sightseeing or business.",
+        "zh": "距站约353米的住宿设施，可作为观光或商务出行的落脚点，入住方式以预订信息为准。"
+      },
+      "distance_m": 353,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.wildcherryblossomhostel.com",
+      "tel": "+81 42-401-1221",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6981653,
+      "lon": 139.5077451
+    },
+    {
+      "id": "st04508-007",
+      "category": "public_service",
+      "name": {
+        "ja": "小金井市役所",
+        "en": "Koganei City Hall",
+        "zh": "小金井市役所"
+      },
+      "desc": {
+        "ja": "駅から約391mにある役所・行政施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Civic office about 391 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约391米的行政机构，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 391,
+      "walk_min": 5,
+      "hours": "Mo-Fr 08:30-17:00; PH off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.city.koganei.lg.jp/",
+      "tel": "+81-42-3831111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6994804,
+      "lon": 139.5030358
+    },
+    {
+      "id": "st04508-008",
+      "category": "post_office",
+      "name": {
+        "ja": "小金井郵便局 (Koganei Post Office)",
+        "en": "Koganei Post Office",
+        "zh": "小金井邮政局 (Koganei Post Office)"
+      },
+      "desc": {
+        "ja": "駅から約445mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 445 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约445米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 445,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420776788",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.705211,
+      "lon": 139.50619
+    },
+    {
+      "id": "st04508-009",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "貫井神社",
+        "en": "Nukui Shrine",
+        "zh": "貫井神社"
+      },
+      "desc": {
+        "ja": "駅から約1218mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1218 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1218米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1218,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/727465328",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6984787,
+      "lon": 139.4937277
+    },
+    {
+      "id": "st04508-010",
+      "category": "public_service",
+      "name": {
+        "ja": "貫井北センター",
+        "en": "貫井北senta-",
+        "zh": "貫井北センター"
+      },
+      "desc": {
+        "ja": "駅から約824mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 824 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约824米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 824,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/792126871",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7023022,
+      "lon": 139.4977437
+    },
+    {
+      "id": "st04508-011",
+      "category": "police",
+      "name": {
+        "ja": "小金井警察署",
+        "en": "Koganei Police Station",
+        "zh": "小金井警察署"
+      },
+      "desc": {
+        "ja": "駅から約789mにある警察署。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 789 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约789米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 789,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420776628",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.700006,
+      "lon": 139.498177
+    },
+    {
+      "id": "st04508-012",
+      "category": "sight",
+      "name": {
+        "ja": "東京農工大学工学部附属繊維博物館",
+        "en": "Tokyo University of Agriculture and Technology Science Museum",
+        "zh": "东京農工大学工学部附属繊維博物馆"
+      },
+      "desc": {
+        "ja": "駅から約1142mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1142 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1142米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1142,
+      "walk_min": 15,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.tuat-museum.org/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.698076,
+      "lon": 139.5188081
+    },
+    {
+      "id": "st04508-013",
+      "category": "food",
+      "name": {
+        "ja": "春秋庵ラーメン",
+        "en": "春秋庵ra-men",
+        "zh": "春秋庵ラーメン"
+      },
+      "desc": {
+        "ja": "駅から約1134mにある飲食店。noodle料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo, Th-Su 11:30-14:30, 17:30-22:00; Tu 11:30-14:30（JST）。メニューや予算は店頭。",
+        "en": "Restaurant about 1134 m from the station. Serves noodle cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1134米的餐馆主营noodle，适合旅途中用餐，Mo, Th-Su 11:30-14:30, 17:30-22:00; Tu 11:30-14:30（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1134,
+      "walk_min": 15,
+      "hours": "Mo, Th-Su 11:30-14:30, 17:30-22:00; Tu 11:30-14:30 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2355585932",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.693849,
+      "lon": 139.4981326,
+      "official_url_pending": "https://mobile.twitter.com/raamensyunjuu"
+    },
+    {
+      "id": "st04508-014",
+      "category": "food",
+      "name": {
+        "ja": "大戸屋",
+        "en": "Ootoya",
+        "zh": "大戶屋"
+      },
+      "desc": {
+        "ja": "駅から約121mにある飲食店。japanese料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Su 11:00-23:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 121 m from the station. Serves japanese cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约121米的餐馆主营japanese，适合旅途中用餐，Mo-Su 11:00-23:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 121,
+      "walk_min": 2,
+      "hours": "Mo-Su 11:00-23:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5601746229",
+      "tel": "0423838613",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7001716,
+      "lon": 139.5065447
+    },
+    {
+      "id": "st04508-015",
+      "category": "medical",
+      "name": {
+        "ja": "シバサキ薬局",
+        "en": "shibasaki薬局",
+        "zh": "シバサキ薬局"
+      },
+      "desc": {
+        "ja": "駅から約470mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 470 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约470米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 470,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2147422020",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7054007,
+      "lon": 139.5077057
+    },
+    {
+      "id": "st04508-016",
+      "category": "park",
+      "name": {
+        "ja": "武蔵野公園",
+        "en": "Musashino Park",
+        "zh": "武蔵野公园"
+      },
+      "desc": {
+        "ja": "駅から約1611mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1611 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1611米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1611,
+      "walk_min": 21,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/relation/906394",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6902135,
+      "lon": 139.5183547
+    },
+    {
+      "id": "st04508-017",
+      "category": "shopping",
+      "name": {
+        "ja": "MEGAドン・キホーテ",
+        "en": "MEGA Don Quijote",
+        "zh": "MEGAドン・キホーテ"
+      },
+      "desc": {
+        "ja": "駅から約117mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 117 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约117米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 117,
+      "walk_min": 2,
+      "hours": "Mo-Su 09:00-26:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/7498317243",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7016831,
+      "lon": 139.5056009
+    },
+    {
+      "id": "st04508-018",
+      "category": "sight",
+      "name": {
+        "ja": "ギャラリー遊庵",
+        "en": "giyarari-遊庵",
+        "zh": "ギャラリー游庵"
+      },
+      "desc": {
+        "ja": "駅から約576mにあるギャラリー。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Gallery about 576 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约576米的画廊，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 576,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/7244061591",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7060215,
+      "lon": 139.5092259
+    }
+  ],
+  "coverage": {
+    "poi_count": 18,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 353,
+    "floor_check": {
+      "medical": {
+        "candidates": 32,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 11,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 46,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 10,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 11,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
