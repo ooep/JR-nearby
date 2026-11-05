@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-05T23:17:16Z",
+  "updated_at": "2026-11-05T23:18:03Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 131,
+  "done": 132,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -20,7 +20,7 @@
     "広島県": 1,
     "徳島県": 1,
     "東京都": 107,
-    "神奈川県": 5,
+    "神奈川県": 6,
     "福岡県": 5,
     "群馬県": 1
   },
@@ -231,37 +231,38 @@
         "st00844",
         "st00846",
         "st01332",
-        "st01377"
+        "st01377",
+        "st01593"
       ],
-      "poi_total": 310,
+      "poi_total": 330,
       "category_counts": {
-        "bank_atm": 17,
-        "cafe": 6,
-        "convenience": 22,
-        "food": 30,
-        "lodging": 14,
-        "medical": 28,
+        "bank_atm": 18,
+        "cafe": 7,
+        "convenience": 23,
+        "food": 33,
+        "lodging": 16,
+        "medical": 30,
         "onsen_sento": 2,
-        "park": 18,
-        "police": 21,
-        "post_office": 20,
-        "public_service": 18,
-        "shopping": 35,
-        "shrine_temple": 25,
+        "park": 19,
+        "police": 22,
+        "post_office": 21,
+        "public_service": 20,
+        "shopping": 37,
+        "shrine_temple": 27,
         "sight": 45,
-        "tourist_info": 9
+        "tourist_info": 10
       },
-      "hours_null": 203,
-      "official_url_own": 99,
+      "hours_null": 213,
+      "official_url_own": 105,
       "official_url_map": 0,
-      "official_url_pending": 14,
+      "official_url_pending": 19,
       "official_site_hours_coverage": 0.667,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "小田原 (st01377): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=519（精确）"
+        "note": "大和 (st01593): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=482（精确）"
       }
     }
   ]
