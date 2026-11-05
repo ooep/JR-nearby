@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-05T18:27:27Z",
+  "updated_at": "2026-11-05T18:28:13Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 59,
+  "done": 60,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -17,7 +17,7 @@
     "宮城県": 1,
     "広島県": 1,
     "徳島県": 1,
-    "東京都": 51,
+    "東京都": 52,
     "群馬県": 1
   },
   "batches": [
@@ -119,37 +119,38 @@
         "st02088",
         "st02097",
         "st02136",
-        "st02137"
+        "st02137",
+        "st02139"
       ],
-      "poi_total": 977,
+      "poi_total": 997,
       "category_counts": {
-        "bank_atm": 52,
-        "cafe": 45,
-        "convenience": 53,
-        "food": 61,
-        "lodging": 45,
-        "medical": 59,
+        "bank_atm": 53,
+        "cafe": 46,
+        "convenience": 54,
+        "food": 62,
+        "lodging": 47,
+        "medical": 60,
         "onsen_sento": 4,
-        "park": 49,
-        "police": 51,
-        "post_office": 51,
+        "park": 50,
+        "police": 52,
+        "post_office": 52,
         "public_service": 54,
         "shopping": 76,
-        "shrine_temple": 99,
-        "sight": 235,
-        "tourist_info": 43
+        "shrine_temple": 100,
+        "sight": 243,
+        "tourist_info": 44
       },
-      "hours_null": 392,
-      "official_url_own": 585,
+      "hours_null": 400,
+      "official_url_own": 599,
       "official_url_map": 0,
-      "official_url_pending": 154,
-      "official_site_hours_coverage": 0.752,
+      "official_url_pending": 157,
+      "official_site_hours_coverage": 0.751,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "恵比寿 (st02137): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=1946（窗口下限，细分重抓后仍有残漏）"
+        "note": "六本木 (st02139): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=2808（窗口下限，细分重抓后仍有残漏）"
       }
     }
   ]
