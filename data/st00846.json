@@ -1,0 +1,625 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st00846",
+    "name": {
+      "ja": "京急川崎",
+      "en": "Keikyū Kawasaki",
+      "zh": "京急川崎"
+    },
+    "line_group": [
+      "京急大師線",
+      "京急本線",
+      "北総線",
+      "成田空港線",
+      "逗子線"
+    ],
+    "pref": "神奈川県",
+    "lat": 35.532918,
+    "lon": 139.700834
+  },
+  "generated_at": "2026-11-05T23:10:13Z",
+  "pois": [
+    {
+      "id": "st00846-001",
+      "category": "bank_atm",
+      "name": {
+        "ja": "セブン銀行",
+        "en": "Seven Bank",
+        "zh": "セブン银行"
+      },
+      "desc": {
+        "ja": "セブン銀行のATM。駅から約7mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 7 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约7米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 7,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/13833667589",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5329477,
+      "lon": 139.7007597
+    },
+    {
+      "id": "st00846-002",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "7-ELEVENのコンビニエンスストア。駅から約56mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 56 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约56米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 56,
+      "walk_min": 1,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.sej.co.jp/",
+      "tel": "+81 44-222-3607",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.532974,
+      "lon": 139.701447
+    },
+    {
+      "id": "st00846-003",
+      "category": "sight",
+      "name": {
+        "ja": "川崎浮世絵ギャラリー",
+        "en": "Kawasaki Ukiyo-e Gallery",
+        "zh": "川崎浮世絵ギャラリー"
+      },
+      "desc": {
+        "ja": "駅から約234mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 234 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约234米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 234,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://ukiyo-e.gallery/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5319342,
+      "lon": 139.6985452
+    },
+    {
+      "id": "st00846-004",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "宗三寺",
+        "en": "Sosanji Temple",
+        "zh": "宗三寺"
+      },
+      "desc": {
+        "ja": "駅から約77mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 77 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约77米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 77,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/238812315",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5327358,
+      "lon": 139.7016497
+    },
+    {
+      "id": "st00846-005",
+      "category": "shopping",
+      "name": {
+        "ja": "川崎ダイス",
+        "en": "DICE",
+        "zh": "骰子"
+      },
+      "desc": {
+        "ja": "駅から約177mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 177 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约177米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 177,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/160932209",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5314232,
+      "lon": 139.7001765
+    },
+    {
+      "id": "st00846-006",
+      "category": "sight",
+      "name": {
+        "ja": "ふれあいパーク",
+        "en": "fureaipa-ku",
+        "zh": "Fureaipa-ku"
+      },
+      "desc": {
+        "ja": "駅から約531mにある動物園。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Zoo about 531 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约531米的动物园，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 531,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/12691132565",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5297001,
+      "lon": 139.6965052
+    },
+    {
+      "id": "st00846-007",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "北野神社",
+        "en": "Kitano Shrine",
+        "zh": "北野神社"
+      },
+      "desc": {
+        "ja": "駅から約1050mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1050 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1050米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1050,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/1197544487",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5401702,
+      "lon": 139.7082612
+    },
+    {
+      "id": "st00846-008",
+      "category": "lodging",
+      "name": {
+        "ja": "slash",
+        "en": "slash",
+        "zh": "slash"
+      },
+      "desc": {
+        "ja": "駅から約422mにある宿泊施設。観光やビジネスの拠点として利用できる。チェックイン時間は予約時に確認を。",
+        "en": "Lodging about 422 m from the station, a convenient base for sightseeing or business.",
+        "zh": "距站约422米的住宿设施，可作为观光或商务出行的落脚点，入住方式以预订信息为准。"
+      },
+      "distance_m": 422,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/12345441652",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5291466,
+      "lon": 139.7013905
+    },
+    {
+      "id": "st00846-009",
+      "category": "tourist_info",
+      "name": {
+        "ja": "川崎鶴見臨港バス乗車券センター",
+        "en": "川崎鶴見臨港basu乗車券senta-",
+        "zh": "川崎鶴見臨港バス乗车券センター"
+      },
+      "desc": {
+        "ja": "駅から約467mにある観光案内所。周辺の観光情報や地図、施設案内を提供している。散策の前に立ち寄ると便利。",
+        "en": "Tourist information office about 467 m from the station, with maps and local guidance.",
+        "zh": "距站约467米的观光服务台，提供周边旅游信息、地图与咨询服务，可先在此规划行程。"
+      },
+      "distance_m": 467,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/9050399370",
+      "tel": "+81442442850",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5296227,
+      "lon": 139.6976304
+    },
+    {
+      "id": "st00846-010",
+      "category": "lodging",
+      "name": {
+        "ja": "川崎日航ホテル",
+        "en": "Kawasaki Nikko Hotel",
+        "zh": "川崎日航ホテル"
+      },
+      "desc": {
+        "ja": "駅から約494mにある宿泊施設。観光やビジネスの拠点として利用できる。チェックイン時間は予約時に確認を。",
+        "en": "Lodging about 494 m from the station, a convenient base for sightseeing or business.",
+        "zh": "距站约494米的住宿设施，可作为观光或商务出行的落脚点，入住方式以预订信息为准。"
+      },
+      "distance_m": 494,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/689444432",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5300361,
+      "lon": 139.6966766
+    },
+    {
+      "id": "st00846-011",
+      "category": "post_office",
+      "name": {
+        "ja": "川崎駅西口郵便局",
+        "en": "川崎站西口 Post Office",
+        "zh": "川崎站西口邮政局"
+      },
+      "desc": {
+        "ja": "駅から約453mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Su 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 453 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约453米的邮局，Mo-Su 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 453,
+      "walk_min": 6,
+      "hours": "Mo-Su 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5389945304",
+      "tel": "+81 44 511 1163",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5319683,
+      "lon": 139.6959666
+    },
+    {
+      "id": "st00846-012",
+      "category": "shopping",
+      "name": {
+        "ja": "川崎ルフロン",
+        "en": "Le FRONT",
+        "zh": "川崎ルフロン"
+      },
+      "desc": {
+        "ja": "駅から約537mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 537 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约537米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 537,
+      "walk_min": 7,
+      "hours": "10:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.lefront.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5294963,
+      "lon": 139.6966479
+    },
+    {
+      "id": "st00846-013",
+      "category": "sight",
+      "name": {
+        "ja": "カワスイ 川崎水族館",
+        "en": "kawasui 川崎水族館",
+        "zh": "カワスイ 川崎水族馆"
+      },
+      "desc": {
+        "ja": "駅から約542mにある水族館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Aquarium about 542 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约542米的水族馆，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 542,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/7731662125",
+      "tel": "+81 44-222-3207",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5292942,
+      "lon": 139.6968358
+    },
+    {
+      "id": "st00846-014",
+      "category": "sight",
+      "name": {
+        "ja": "東芝未来科学館",
+        "en": "Toshiba Science Museum",
+        "zh": "东芝未来科学馆"
+      },
+      "desc": {
+        "ja": "駅から約563mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 563 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约563米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 563,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://toshiba-mirai-kagakukan.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.531989,
+      "lon": 139.6947127
+    },
+    {
+      "id": "st00846-015",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "六郷神社",
+        "en": "Rokugo Shrine",
+        "zh": "六郷神社"
+      },
+      "desc": {
+        "ja": "駅から約1635mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1635 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1635米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1635,
+      "walk_min": 21,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/653707864",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5439479,
+      "lon": 139.7127807
+    },
+    {
+      "id": "st00846-016",
+      "category": "medical",
+      "name": {
+        "ja": "トモズ",
+        "en": "Tomod's",
+        "zh": "Tomozu"
+      },
+      "desc": {
+        "ja": "駅から約429mにある薬局。体調を崩した際の受診や薬の購入に対応する。受付はMo-Su 10:00-21:00（JST）。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 429 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约429米的药房，Mo-Su 10:00-21:00（JST），旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 429,
+      "walk_min": 6,
+      "hours": "Mo-Su 10:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.tomods.jp/",
+      "tel": "+81 44 223 8959",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5320632,
+      "lon": 139.696207
+    },
+    {
+      "id": "st00846-017",
+      "category": "medical",
+      "name": {
+        "ja": "クスリのカツマタ (Kusurino Katumata)",
+        "en": "Kusurino Katumata",
+        "zh": "Kusurinokatsumata (Kusurino Katumata)"
+      },
+      "desc": {
+        "ja": "駅から約1972mにある薬局。体調を崩した際の受診や薬の購入に対応する。受付はMo-Su 10:00-21:00（JST）。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 1972 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1972米的药房，Mo-Su 10:00-21:00（JST），旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1972,
+      "walk_min": 25,
+      "hours": "Mo-Su 10:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.tomods.jp/",
+      "tel": "+81-45-5703119",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5385876,
+      "lon": 139.6801853
+    },
+    {
+      "id": "st00846-018",
+      "category": "park",
+      "name": {
+        "ja": "幸町児童公園",
+        "en": "Saiwaicho Children's Playground",
+        "zh": "幸町児童公园"
+      },
+      "desc": {
+        "ja": "駅から約520mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 520 m from the station, with paths and benches for a rest.",
+        "zh": "距站约520米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 520,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/217227749",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5368316,
+      "lon": 139.697681
+    },
+    {
+      "id": "st00846-019",
+      "category": "police",
+      "name": {
+        "ja": "川崎駅前交番",
+        "en": "川崎站前 Police Box",
+        "zh": "川崎站前交番"
+      },
+      "desc": {
+        "ja": "駅から約435mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 435 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约435米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 435,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/1484210457",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5302125,
+      "lon": 139.6973603
+    },
+    {
+      "id": "st00846-020",
+      "category": "police",
+      "name": {
+        "ja": "川崎駅西口交番",
+        "en": "川崎站西口 Police Box",
+        "zh": "川崎站西口交番"
+      },
+      "desc": {
+        "ja": "駅から約511mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 511 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约511米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 511,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/1484200001",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5309248,
+      "lon": 139.6957486
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 727,
+    "floor_check": {
+      "medical": {
+        "candidates": 60,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 21,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 114,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 21,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 16,
+        "selected": 2
+      },
+      "tourist_info": {
+        "candidates": 2,
+        "selected": 1
+      }
+    }
+  }
+}

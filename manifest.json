@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-05T23:09:55Z",
+  "updated_at": "2026-11-05T23:10:15Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 128,
+  "done": 129,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -20,7 +20,7 @@
     "広島県": 1,
     "徳島県": 1,
     "東京都": 107,
-    "神奈川県": 3,
+    "神奈川県": 4,
     "福岡県": 5,
     "群馬県": 1
   },
@@ -228,37 +228,38 @@
         "st00571",
         "st00630",
         "st00843",
-        "st00844"
+        "st00844",
+        "st00846"
       ],
-      "poi_total": 250,
+      "poi_total": 270,
       "category_counts": {
-        "bank_atm": 14,
+        "bank_atm": 15,
         "cafe": 6,
-        "convenience": 19,
+        "convenience": 20,
         "food": 27,
-        "lodging": 11,
-        "medical": 23,
+        "lodging": 13,
+        "medical": 25,
         "onsen_sento": 1,
-        "park": 14,
-        "police": 17,
-        "post_office": 17,
+        "park": 15,
+        "police": 19,
+        "post_office": 18,
         "public_service": 16,
-        "shopping": 32,
-        "shrine_temple": 16,
-        "sight": 31,
-        "tourist_info": 6
+        "shopping": 34,
+        "shrine_temple": 19,
+        "sight": 35,
+        "tourist_info": 7
       },
-      "hours_null": 169,
-      "official_url_own": 70,
+      "hours_null": 184,
+      "official_url_own": 76,
       "official_url_map": 0,
       "official_url_pending": 13,
-      "official_site_hours_coverage": 0.657,
+      "official_site_hours_coverage": 0.658,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "横浜 (st00844): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=1147（精确）"
+        "note": "京急川崎 (st00846): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=727（精确）"
       }
     }
   ]
