@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-04T16:10:17Z",
+  "updated_at": "2026-11-05T03:43:14Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 24,
+  "done": 25,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -17,7 +17,7 @@
     "宮城県": 1,
     "広島県": 1,
     "徳島県": 1,
-    "東京都": 16,
+    "東京都": 17,
     "群馬県": 1
   },
   "batches": [
@@ -84,37 +84,38 @@
         "st00883",
         "st00885",
         "st00887",
-        "st00889"
+        "st00889",
+        "st00891"
       ],
-      "poi_total": 280,
+      "poi_total": 300,
       "category_counts": {
-        "bank_atm": 14,
-        "cafe": 14,
-        "convenience": 14,
-        "food": 17,
+        "bank_atm": 15,
+        "cafe": 15,
+        "convenience": 15,
+        "food": 20,
         "lodging": 17,
-        "medical": 16,
+        "medical": 17,
         "onsen_sento": 1,
         "park": 14,
-        "police": 14,
-        "post_office": 14,
-        "public_service": 15,
+        "police": 15,
+        "post_office": 15,
+        "public_service": 17,
         "shopping": 21,
-        "shrine_temple": 24,
-        "sight": 71,
-        "tourist_info": 14
+        "shrine_temple": 27,
+        "sight": 76,
+        "tourist_info": 15
       },
-      "hours_null": 107,
-      "official_url_own": 186,
+      "hours_null": 114,
+      "official_url_own": 199,
       "official_url_map": 0,
-      "official_url_pending": 42,
-      "official_site_hours_coverage": 0.715,
+      "official_url_pending": 44,
+      "official_site_hours_coverage": 0.724,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "积压补推：本地已验证冻结条目逐站推送；OSM 事实驱动，floor_check 六类保底；本地 validate 0 error。"
+        "note": "浅草 (st00891): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=7424（精确）"
       }
     }
   ]
