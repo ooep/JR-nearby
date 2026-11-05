@@ -1,0 +1,634 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st01635",
+    "name": {
+      "ja": "鎌倉",
+      "en": "Kamakura",
+      "zh": "鎌倉"
+    },
+    "line_group": [
+      "外房線",
+      "山手線",
+      "東海道本線",
+      "横須賀線",
+      "江ノ島電鉄線"
+    ],
+    "pref": "神奈川県",
+    "lat": 35.318931,
+    "lon": 139.5504
+  },
+  "generated_at": "2026-11-05T23:25:35Z",
+  "pois": [
+    {
+      "id": "st01635-001",
+      "category": "tourist_info",
+      "name": {
+        "ja": "案内所",
+        "en": "Information Center",
+        "zh": "案内所"
+      },
+      "desc": {
+        "ja": "駅から約1673mにある観光案内所。周辺の観光情報や地図、施設案内を提供している。散策の前に立ち寄ると便利。",
+        "en": "Tourist information office about 1673 m from the station, with maps and local guidance.",
+        "zh": "距站约1673米的观光服务台，提供周边旅游信息、地图与咨询服务，可先在此规划行程。"
+      },
+      "distance_m": 1673,
+      "walk_min": 21,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/10060437477",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3123632,
+      "lon": 139.5338119
+    },
+    {
+      "id": "st01635-002",
+      "category": "convenience",
+      "name": {
+        "ja": "ファミリーマート",
+        "en": "FamilyMart",
+        "zh": "全家便利店"
+      },
+      "desc": {
+        "ja": "FamilyMartのコンビニエンスストア。駅から約53mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 53 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约53米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 53,
+      "walk_min": 1,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.family.co.jp/",
+      "tel": "+81 467 61 2817",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3187322,
+      "lon": 139.5498691
+    },
+    {
+      "id": "st01635-003",
+      "category": "food",
+      "name": {
+        "ja": "サイゼリヤ",
+        "en": "Saizeriya",
+        "zh": "萨莉亚"
+      },
+      "desc": {
+        "ja": "駅から約87mにある飲食店。italian料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は10:00-23:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 87 m from the station. Serves italian cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约87米的餐馆主营italian，适合旅途中用餐，10:00-23:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 87,
+      "walk_min": 2,
+      "hours": "10:00-23:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5892404678",
+      "tel": "+81 467-24-3869",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3182999,
+      "lon": 139.5509621
+    },
+    {
+      "id": "st01635-004",
+      "category": "bank_atm",
+      "name": {
+        "ja": "みずほ銀行",
+        "en": "Mizuho Bank",
+        "zh": "瑞穗银行"
+      },
+      "desc": {
+        "ja": "みずほ銀行の支店。駅から約130mにあり、預け入れ・引き出しやATMの利用に対応する。窓口はMo-Fr 09:00-15:00（JST）。",
+        "en": "Bank about 130 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约130米的银行网点，Mo-Fr 09:00-15:00（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 130,
+      "walk_min": 2,
+      "hours": "Mo-Fr 09:00-15:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1866788983",
+      "tel": "+81-467-231155",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.319219,
+      "lon": 139.5490138,
+      "official_url_pending": "https://www.mizuhobank.co.jp/"
+    },
+    {
+      "id": "st01635-005",
+      "category": "post_office",
+      "name": {
+        "ja": "鎌倉郵便局",
+        "en": "Kamakura Post Office",
+        "zh": "鎌倉邮政局"
+      },
+      "desc": {
+        "ja": "駅から約169mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 169 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约169米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 169,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/167408633",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3181336,
+      "lon": 139.5519805
+    },
+    {
+      "id": "st01635-006",
+      "category": "food",
+      "name": {
+        "ja": "フェニックスバーガー 鎌倉",
+        "en": "fuenikusuba-ga- 鎌倉",
+        "zh": "フェニックスバーガー 鎌倉"
+      },
+      "desc": {
+        "ja": "駅から約175mにある飲食店。burger料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はTh-Tu 11:00-18:00; We 11:00-16:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 175 m from the station. Serves burger cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约175米的餐馆主营burger，适合旅途中用餐，Th-Tu 11:00-18:00; We 11:00-16:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 175,
+      "walk_min": 3,
+      "hours": "Th-Tu 11:00-18:00; We 11:00-16:00 (JST)",
+      "hours_source": "osm",
+      "url": "http://kamakura.dragon-burger.com/",
+      "tel": "0467-23-0317",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3200774,
+      "lon": 139.5517157
+    },
+    {
+      "id": "st01635-007",
+      "category": "medical",
+      "name": {
+        "ja": "ハックドラッグ",
+        "en": "HAC DRUG",
+        "zh": "Hakudoragu"
+      },
+      "desc": {
+        "ja": "駅から約150mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 150 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约150米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 150,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2701009911",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3193601,
+      "lon": 139.5519726,
+      "official_url_pending": "http://www.cfs-corp.jp/corp/shop/index.php?key=detail&shop_id=92"
+    },
+    {
+      "id": "st01635-008",
+      "category": "convenience",
+      "name": {
+        "ja": "ローソン",
+        "en": "Lawson",
+        "zh": "罗森"
+      },
+      "desc": {
+        "ja": "LAWSONのコンビニエンスストア。駅から約234mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 234 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约234米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 234,
+      "walk_min": 3,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.lawson.co.jp/",
+      "tel": "+81-467-236598",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3168959,
+      "lon": 139.5510424
+    },
+    {
+      "id": "st01635-009",
+      "category": "shopping",
+      "name": {
+        "ja": "BREAD IT BE",
+        "en": "BREAD IT BE",
+        "zh": "BREAD IT BE"
+      },
+      "desc": {
+        "ja": "駅から約260mにあるベーカリー。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Bakery about 260 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约260米的面包店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 260,
+      "walk_min": 4,
+      "hours": "Fr-Tu 08:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.breaditbe.com",
+      "tel": "+810467-33-4680",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3191927,
+      "lon": 139.5532505
+    },
+    {
+      "id": "st01635-010",
+      "category": "shopping",
+      "name": {
+        "ja": "ジラッファ",
+        "en": "Giraffa Curry Pan",
+        "zh": "Jirafua"
+      },
+      "desc": {
+        "ja": "駅から約220mにあるベーカリー。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Bakery about 220 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约220米的面包店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 220,
+      "walk_min": 3,
+      "hours": "Mo-Su 10:00-18:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://giraffacurrypan.jp",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3205453,
+      "lon": 139.5517939
+    },
+    {
+      "id": "st01635-011",
+      "category": "sight",
+      "name": {
+        "ja": "鎌倉歴史文化交流館",
+        "en": "Kamakura Museum of History and Culture",
+        "zh": "鎌倉历史文化交流馆"
+      },
+      "desc": {
+        "ja": "駅から約466mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。入場は有料。",
+        "en": "Museum about 466 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约466米的博物馆·美术馆，入场收费，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 466,
+      "walk_min": 6,
+      "hours": "Mo-Sa 10:00-16:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.city.kamakura.kanagawa.jp/rekibun/koryukan.html",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3224054,
+      "lon": 139.5475217
+    },
+    {
+      "id": "st01635-012",
+      "category": "police",
+      "name": {
+        "ja": "鎌倉駅前交番",
+        "en": "鎌倉站前 Police Box",
+        "zh": "鎌倉站前交番"
+      },
+      "desc": {
+        "ja": "駅から約52mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 52 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约52米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 52,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/264410294",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3186321,
+      "lon": 139.5508354
+    },
+    {
+      "id": "st01635-013",
+      "category": "sight",
+      "name": {
+        "ja": "川喜多映画記念館",
+        "en": "Kamakura City Kawakita Film Memorial Museum",
+        "zh": "川喜多电影纪念馆"
+      },
+      "desc": {
+        "ja": "駅から約622mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 622 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约622米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 622,
+      "walk_min": 8,
+      "hours": "Tu-Su 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://kamakura-kawakita.org/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3242675,
+      "lon": 139.5524688
+    },
+    {
+      "id": "st01635-014",
+      "category": "sight",
+      "name": {
+        "ja": "吉兆庵美術館",
+        "en": "Kitchoan Museum of Art",
+        "zh": "吉兆庵美术馆"
+      },
+      "desc": {
+        "ja": "駅から約224mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 224 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约224米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 224,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.kitchoan.co.jp/museum/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3204156,
+      "lon": 139.552062
+    },
+    {
+      "id": "st01635-015",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "鶴岡八幡宮",
+        "en": "Tsurugaoka Hachiman Shrine",
+        "zh": "鶴冈八幡宫"
+      },
+      "desc": {
+        "ja": "駅から約856mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 856 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约856米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 856,
+      "walk_min": 11,
+      "hours": "Mo-Su 06:00-20:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/34550401",
+      "tel": "+81 467-22-0315",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3251675,
+      "lon": 139.5559376,
+      "official_url_pending": "http://www.hachimangu.or.jp"
+    },
+    {
+      "id": "st01635-016",
+      "category": "sight",
+      "name": {
+        "ja": "市立鎌倉国宝館",
+        "en": "Kamakura Museum of National Treasures",
+        "zh": "市立鎌倉国宝馆"
+      },
+      "desc": {
+        "ja": "駅から約876mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 876 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约876米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 876,
+      "walk_min": 11,
+      "hours": "Tu-Su 09:00-16:30 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.city.kamakura.kanagawa.jp/kokuhoukan/",
+      "tel": "+81-467220753",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3246687,
+      "lon": 139.5570209
+    },
+    {
+      "id": "st01635-017",
+      "category": "park",
+      "name": {
+        "ja": "源氏山公園",
+        "en": "Genjiyama Park",
+        "zh": "源氏山公园"
+      },
+      "desc": {
+        "ja": "駅から約974mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 974 m from the station, with paths and benches for a rest.",
+        "zh": "距站约974米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 974,
+      "walk_min": 13,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "http://kamakura-park.com/go/genjiyama_park/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3263659,
+      "lon": 139.5447189
+    },
+    {
+      "id": "st01635-018",
+      "category": "sight",
+      "name": {
+        "ja": "鎌倉文学館",
+        "en": "Kamakura Museum of Literature",
+        "zh": "鎌倉文学馆"
+      },
+      "desc": {
+        "ja": "駅から約1111mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1111 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1111米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1111,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/704524199",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3152948,
+      "lon": 139.5389957
+    },
+    {
+      "id": "st01635-019",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "佐助稲荷神社",
+        "en": "Sasuke Inari Shrine",
+        "zh": "佐助稲荷神社"
+      },
+      "desc": {
+        "ja": "駅から約1165mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1165 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1165米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1165,
+      "walk_min": 15,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://sasukeinari.jp/",
+      "tel": "+81 467-22-4711",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3243716,
+      "lon": 139.5394248
+    },
+    {
+      "id": "st01635-020",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "円応寺",
+        "en": "Ennō-ji",
+        "zh": "円応寺"
+      },
+      "desc": {
+        "ja": "駅から約1219mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 1219 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1219米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1219,
+      "walk_min": 16,
+      "hours": "Mo-Su 09:00-16:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://kamakura-ennouji.jp/",
+      "tel": "+81 467-25-1095",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3296997,
+      "lon": 139.5529452
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 794,
+    "floor_check": {
+      "medical": {
+        "candidates": 18,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 13,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 17,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 5,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 6,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 2,
+        "selected": 1
+      }
+    }
+  }
+}
