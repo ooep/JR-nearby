@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-05T22:34:21Z",
+  "updated_at": "2026-11-05T22:35:08Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 114,
+  "done": 115,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -17,7 +17,7 @@
     "宮城県": 1,
     "広島県": 1,
     "徳島県": 1,
-    "東京都": 106,
+    "東京都": 107,
     "群馬県": 1
   },
   "batches": [
@@ -174,37 +174,38 @@
         "st05488",
         "st05523",
         "st05530",
-        "st05555"
+        "st05555",
+        "st07480"
       ],
-      "poi_total": 2060,
+      "poi_total": 2080,
       "category_counts": {
-        "bank_atm": 112,
-        "cafe": 93,
-        "convenience": 119,
-        "food": 127,
+        "bank_atm": 113,
+        "cafe": 94,
+        "convenience": 120,
+        "food": 128,
         "lodging": 92,
-        "medical": 130,
+        "medical": 131,
         "onsen_sento": 10,
         "park": 118,
-        "police": 110,
-        "post_office": 116,
+        "police": 111,
+        "post_office": 117,
         "public_service": 119,
-        "shopping": 155,
-        "shrine_temple": 218,
-        "sight": 463,
-        "tourist_info": 78
+        "shopping": 158,
+        "shrine_temple": 220,
+        "sight": 470,
+        "tourist_info": 79
       },
-      "hours_null": 934,
-      "official_url_own": 1179,
+      "hours_null": 939,
+      "official_url_own": 1195,
       "official_url_map": 0,
-      "official_url_pending": 291,
-      "official_site_hours_coverage": 0.713,
+      "official_url_pending": 292,
+      "official_site_hours_coverage": 0.715,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "分倍河原 (st05555): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=432（精确）"
+        "note": "原宿 (st07480): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=2272（窗口下限，细分重抓后仍有残漏）"
       }
     }
   ]
