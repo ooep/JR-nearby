@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-05T20:33:52Z",
+  "updated_at": "2026-11-05T20:37:13Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 79,
+  "done": 80,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -17,7 +17,7 @@
     "宮城県": 1,
     "広島県": 1,
     "徳島県": 1,
-    "東京都": 71,
+    "東京都": 72,
     "群馬県": 1
   },
   "batches": [
@@ -133,6 +133,7 @@
         "st02142",
         "st02144",
         "st02166",
+        "st03134",
         "st03137",
         "st03143",
         "st03150",
@@ -141,35 +142,35 @@
         "st03174",
         "st03176"
       ],
-      "poi_total": 1375,
+      "poi_total": 1395,
       "category_counts": {
-        "bank_atm": 73,
-        "cafe": 62,
-        "convenience": 75,
-        "food": 79,
+        "bank_atm": 74,
+        "cafe": 63,
+        "convenience": 76,
+        "food": 80,
         "lodging": 65,
-        "medical": 83,
+        "medical": 84,
         "onsen_sento": 6,
-        "park": 72,
-        "police": 71,
-        "post_office": 72,
-        "public_service": 78,
-        "shopping": 106,
-        "shrine_temple": 141,
-        "sight": 332,
+        "park": 74,
+        "police": 72,
+        "post_office": 73,
+        "public_service": 80,
+        "shopping": 108,
+        "shrine_temple": 144,
+        "sight": 336,
         "tourist_info": 60
       },
-      "hours_null": 578,
-      "official_url_own": 825,
+      "hours_null": 591,
+      "official_url_own": 835,
       "official_url_map": 0,
-      "official_url_pending": 201,
-      "official_site_hours_coverage": 0.739,
+      "official_url_pending": 203,
+      "official_site_hours_coverage": 0.737,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "駒込 (st03170): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=1501（窗口下限，细分重抓后仍有残漏）"
+        "note": "自由が丘 (st03134): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=504（精确）"
       }
     }
   ]
