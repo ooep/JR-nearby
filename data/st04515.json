@@ -1,0 +1,632 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st04515",
+    "name": {
+      "ja": "高円寺",
+      "en": "Kōenji",
+      "zh": "高円寺"
+    },
+    "line_group": [
+      "中央本線",
+      "山手線",
+      "東葉高速線"
+    ],
+    "pref": "東京都",
+    "lat": 35.70546,
+    "lon": 139.64996
+  },
+  "generated_at": "2026-11-05T21:41:00Z",
+  "pois": [
+    {
+      "id": "st04515-001",
+      "category": "food",
+      "name": {
+        "ja": "マクドナルド",
+        "en": "McDonald's",
+        "zh": "麦当劳"
+      },
+      "desc": {
+        "ja": "駅から約47mにある飲食店。burger料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は24時間営業。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 47 m from the station. Serves burger cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约47米的餐馆主营burger，适合旅途中用餐，全天24小时营业，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 47,
+      "walk_min": 1,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.mcdonalds.co.jp/",
+      "tel": "+81-3-33373290",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7053929,
+      "lon": 139.6494493
+    },
+    {
+      "id": "st04515-002",
+      "category": "food",
+      "name": {
+        "ja": "ケンタッキーフライドチキン",
+        "en": "KFC",
+        "zh": "肯德基"
+      },
+      "desc": {
+        "ja": "駅から約67mにある飲食店。chicken料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Su 07:00-22:30（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 67 m from the station. Serves chicken cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约67米的餐馆主营chicken，适合旅途中用餐，Mo-Su 07:00-22:30（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 67,
+      "walk_min": 1,
+      "hours": "Mo-Su 07:00-22:30 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.kfc.co.jp/",
+      "tel": "+81-3-53737281",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7053554,
+      "lon": 139.6492259
+    },
+    {
+      "id": "st04515-003",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "7-ELEVENのコンビニエンスストア。駅から約82mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 82 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约82米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 82,
+      "walk_min": 2,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.sej.co.jp/",
+      "tel": "+81 3-3310-0781",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7061561,
+      "lon": 139.6496483
+    },
+    {
+      "id": "st04515-004",
+      "category": "food",
+      "name": {
+        "ja": "モスバーガー",
+        "en": "MOS Burger",
+        "zh": "摩斯汉堡"
+      },
+      "desc": {
+        "ja": "駅から約107mにある飲食店。burger料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Su 07:00-22:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 107 m from the station. Serves burger cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约107米的餐馆主营burger，适合旅途中用餐，Mo-Su 07:00-22:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 107,
+      "walk_min": 2,
+      "hours": "Mo-Su 07:00-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.mos.jp/",
+      "tel": "+81-3-33306530",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7062423,
+      "lon": 139.6492741
+    },
+    {
+      "id": "st04515-005",
+      "category": "public_service",
+      "name": {
+        "ja": "中野区桃園区民活動センター",
+        "en": "中野区桃園区民活動senta-",
+        "zh": "中野区桃园区民活動センター"
+      },
+      "desc": {
+        "ja": "駅から約1607mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 1607 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1607米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1607,
+      "walk_min": 21,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/201705583",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7022611,
+      "lon": 139.6673213
+    },
+    {
+      "id": "st04515-006",
+      "category": "lodging",
+      "name": {
+        "ja": "House Koenji Minami",
+        "en": "House Koenji Minami",
+        "zh": "House Koenji Minami"
+      },
+      "desc": {
+        "ja": "駅から約391mにある宿泊施設。観光やビジネスの拠点として利用できる。チェックイン時間は予約時に確認を。",
+        "en": "Lodging about 391 m from the station, a convenient base for sightseeing or business.",
+        "zh": "距站约391米的住宿设施，可作为观光或商务出行的落脚点，入住方式以预订信息为准。"
+      },
+      "distance_m": 391,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6395620812",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7029297,
+      "lon": 139.6529658,
+      "official_url_pending": "http://guesthousetokyo.jp/en_koenji.html"
+    },
+    {
+      "id": "st04515-007",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "馬橋稲荷神社",
+        "en": "Mabashi Shrine",
+        "zh": "马桥稲荷神社"
+      },
+      "desc": {
+        "ja": "駅から約723mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 723 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约723米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 723,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.mabashiinari.org/",
+      "tel": "+81-3-33118588",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7029604,
+      "lon": 139.6425699
+    },
+    {
+      "id": "st04515-008",
+      "category": "medical",
+      "name": {
+        "ja": "東京警察病院",
+        "en": "Tokyo Metropolitan Police Hospital",
+        "zh": "东京警察病院"
+      },
+      "desc": {
+        "ja": "駅から約943mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 943 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约943米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 943,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/66661822",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7090522,
+      "lon": 139.6594203
+    },
+    {
+      "id": "st04515-009",
+      "category": "police",
+      "name": {
+        "ja": "杉並警察署高円寺駅前交番",
+        "en": "Koenji Station Police Box",
+        "zh": "杉並警察署高円寺站前交番"
+      },
+      "desc": {
+        "ja": "駅から約38mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 38 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约38米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 38,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420782226",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.705591,
+      "lon": 139.650354
+    },
+    {
+      "id": "st04515-010",
+      "category": "medical",
+      "name": {
+        "ja": "トモズ (Tomod's)",
+        "en": "Tomod's",
+        "zh": "トモズ (Tomod's)"
+      },
+      "desc": {
+        "ja": "駅から約954mにある薬局。体調を崩した際の受診や薬の購入に対応する。受付はMo-Su 09:00-22:00（JST）。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 954 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约954米的药房，Mo-Su 09:00-22:00（JST），旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 954,
+      "walk_min": 12,
+      "hours": "Mo-Su 09:00-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.tomods.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.697628,
+      "lon": 139.6456513
+    },
+    {
+      "id": "st04515-011",
+      "category": "park",
+      "name": {
+        "ja": "梅里公園",
+        "en": "Umezato park",
+        "zh": "梅里公园"
+      },
+      "desc": {
+        "ja": "駅から約1165mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1165 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1165米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1165,
+      "walk_min": 15,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/481363203",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6954523,
+      "lon": 139.6537797
+    },
+    {
+      "id": "st04515-012",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "阿佐谷神明宮",
+        "en": "Asagaya Shinmeiguu",
+        "zh": "阿佐谷神明宫"
+      },
+      "desc": {
+        "ja": "駅から約1188mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1188 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1188米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1188,
+      "walk_min": 15,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://shinmeiguu.com/",
+      "tel": "+81-3-33304824",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7072214,
+      "lon": 139.6369883
+    },
+    {
+      "id": "st04515-013",
+      "category": "bank_atm",
+      "name": {
+        "ja": "西武信用金庫",
+        "en": "Seibu Shinkin Bank",
+        "zh": "西武信用金庫"
+      },
+      "desc": {
+        "ja": "西武信用金庫の支店。駅から約1291mにあり、預け入れ・引き出しやATMの利用に対応する。窓口はMo-Fr 09:00-15:00（JST）。",
+        "en": "Bank about 1291 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约1291米的银行网点，Mo-Fr 09:00-15:00（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 1291,
+      "walk_min": 17,
+      "hours": "Mo-Fr 09:00-15:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1870418874",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7027912,
+      "lon": 139.6360442
+    },
+    {
+      "id": "st04515-014",
+      "category": "public_service",
+      "name": {
+        "ja": "杉並区役所",
+        "en": "Suginami City Hall",
+        "zh": "杉並区役所"
+      },
+      "desc": {
+        "ja": "駅から約1397mにある役所・行政施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Civic office about 1397 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1397米的行政机构，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1397,
+      "walk_min": 18,
+      "hours": "Mo-Fr 08:30-17:00; PH off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.city.suginami.tokyo.jp/",
+      "tel": "+81-3-33122111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6996212,
+      "lon": 139.6362553
+    },
+    {
+      "id": "st04515-015",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "堀之内妙法寺",
+        "en": "Horinouchi Myohoji",
+        "zh": "堀之内妙法寺"
+      },
+      "desc": {
+        "ja": "駅から約1433mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 1433 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1433米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1433,
+      "walk_min": 18,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "http://www.yakuyoke.or.jp",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6927247,
+      "lon": 139.6523866
+    },
+    {
+      "id": "st04515-016",
+      "category": "police",
+      "name": {
+        "ja": "杉並警察署",
+        "en": "Suginami Police Station",
+        "zh": "杉並警察署"
+      },
+      "desc": {
+        "ja": "駅から約1442mにある警察署。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1442 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1442米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1442,
+      "walk_min": 19,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/1391320011",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6988265,
+      "lon": 139.6362362,
+      "official_url_pending": "https://www.keishicho.metro.tokyo.jp/4/suginami/"
+    },
+    {
+      "id": "st04515-017",
+      "category": "post_office",
+      "name": {
+        "ja": "中野サンクォーレ内郵便局",
+        "en": "中野sankuo-re内郵便局",
+        "zh": "中野サンクォーレ内邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1373mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1373 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1373米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 1373,
+      "walk_min": 18,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420766424",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7089352,
+      "lon": 139.6645473,
+      "official_url_pending": "https://map.japanpost.jp/p/search/dtl/300100001000/"
+    },
+    {
+      "id": "st04515-018",
+      "category": "post_office",
+      "name": {
+        "ja": "杉並松ノ木郵便局",
+        "en": "杉並松no木郵便局",
+        "zh": "杉並松ノ木邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1529mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1529 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1529米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 1529,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420782193",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.692061,
+      "lon": 139.646149
+    },
+    {
+      "id": "st04515-019",
+      "category": "lodging",
+      "name": {
+        "ja": "ホテルルートイン 東京阿佐ヶ谷",
+        "en": "HOTEL ROUTE-INN TOKYO ASAGAYA",
+        "zh": "ホテルルートイン 东京阿佐ヶ谷"
+      },
+      "desc": {
+        "ja": "駅から約1603mにある宿泊施設。観光やビジネスの拠点として利用できる。チェックイン時間は予約時に確認を。",
+        "en": "Lodging about 1603 m from the station, a convenient base for sightseeing or business.",
+        "zh": "距站约1603米的住宿设施，可作为观光或商务出行的落脚点，入住方式以预订信息为准。"
+      },
+      "distance_m": 1603,
+      "walk_min": 21,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.route-inn.co.jp/hotel_list/tokyo/index_hotel_id_599/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7000807,
+      "lon": 139.633486
+    },
+    {
+      "id": "st04515-020",
+      "category": "park",
+      "name": {
+        "ja": "堀ノ内三丁目公園",
+        "en": "堀no内三丁目公園",
+        "zh": "堀ノ内三丁目公园"
+      },
+      "desc": {
+        "ja": "駅から約1311mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1311 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1311米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1311,
+      "walk_min": 17,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/495145780",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6937018,
+      "lon": 139.6510314
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 1299,
+    "floor_check": {
+      "medical": {
+        "candidates": 158,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 49,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 146,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 24,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 26,
+        "selected": 2
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}

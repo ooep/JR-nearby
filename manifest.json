@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-05T21:40:34Z",
+  "updated_at": "2026-11-05T21:41:02Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 99,
+  "done": 100,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -17,7 +17,7 @@
     "宮城県": 1,
     "広島県": 1,
     "徳島県": 1,
-    "東京都": 91,
+    "東京都": 92,
     "群馬県": 1
   },
   "batches": [
@@ -159,37 +159,38 @@
         "st04506",
         "st04508",
         "st04510",
-        "st04513"
+        "st04513",
+        "st04515"
       ],
-      "poi_total": 1770,
+      "poi_total": 1790,
       "category_counts": {
-        "bank_atm": 95,
+        "bank_atm": 96,
         "cafe": 80,
-        "convenience": 99,
-        "food": 101,
-        "lodging": 82,
-        "medical": 109,
+        "convenience": 100,
+        "food": 104,
+        "lodging": 84,
+        "medical": 111,
         "onsen_sento": 8,
-        "park": 97,
-        "police": 92,
-        "post_office": 96,
-        "public_service": 103,
+        "park": 99,
+        "police": 94,
+        "post_office": 98,
+        "public_service": 105,
         "shopping": 134,
-        "shrine_temple": 188,
+        "shrine_temple": 191,
         "sight": 414,
         "tourist_info": 72
       },
-      "hours_null": 774,
-      "official_url_own": 1042,
+      "hours_null": 787,
+      "official_url_own": 1052,
       "official_url_map": 0,
-      "official_url_pending": 254,
-      "official_site_hours_coverage": 0.724,
+      "official_url_pending": 257,
+      "official_site_hours_coverage": 0.722,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "荻窪 (st04513): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=844（精确）"
+        "note": "高円寺 (st04515): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=1299（精确）"
       }
     }
   ]
