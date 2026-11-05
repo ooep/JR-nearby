@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-05T21:00:11Z",
+  "updated_at": "2026-11-05T21:00:50Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 84,
+  "done": 85,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -17,7 +17,7 @@
     "宮城県": 1,
     "広島県": 1,
     "徳島県": 1,
-    "東京都": 76,
+    "東京都": 77,
     "群馬県": 1
   },
   "batches": [
@@ -144,37 +144,38 @@
         "st03185",
         "st03187",
         "st03430",
-        "st03685"
+        "st03685",
+        "st03824"
       ],
-      "poi_total": 1475,
+      "poi_total": 1495,
       "category_counts": {
-        "bank_atm": 78,
-        "cafe": 67,
-        "convenience": 80,
-        "food": 81,
+        "bank_atm": 80,
+        "cafe": 68,
+        "convenience": 82,
+        "food": 83,
         "lodging": 70,
-        "medical": 88,
-        "onsen_sento": 6,
-        "park": 77,
-        "police": 76,
-        "post_office": 77,
-        "public_service": 83,
-        "shopping": 113,
-        "shrine_temple": 154,
+        "medical": 90,
+        "onsen_sento": 7,
+        "park": 79,
+        "police": 77,
+        "post_office": 78,
+        "public_service": 85,
+        "shopping": 114,
+        "shrine_temple": 157,
         "sight": 361,
         "tourist_info": 64
       },
-      "hours_null": 628,
-      "official_url_own": 889,
+      "hours_null": 638,
+      "official_url_own": 895,
       "official_url_map": 0,
-      "official_url_pending": 209,
-      "official_site_hours_coverage": 0.73,
+      "official_url_pending": 212,
+      "official_site_hours_coverage": 0.731,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "五反田 (st03685): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=1034（精确）"
+        "note": "新小岩 (st03824): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=340（精确）"
       }
     }
   ]
