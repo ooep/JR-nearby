@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-05T17:32:33Z",
+  "updated_at": "2026-11-05T17:33:08Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 54,
+  "done": 55,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -17,7 +17,7 @@
     "宮城県": 1,
     "広島県": 1,
     "徳島県": 1,
-    "東京都": 46,
+    "東京都": 47,
     "群馬県": 1
   },
   "batches": [
@@ -114,37 +114,38 @@
         "st01919",
         "st01921",
         "st01923",
-        "st02084"
+        "st02084",
+        "st02086"
       ],
-      "poi_total": 877,
+      "poi_total": 897,
       "category_counts": {
-        "bank_atm": 47,
-        "cafe": 41,
-        "convenience": 47,
-        "food": 58,
-        "lodging": 40,
-        "medical": 53,
+        "bank_atm": 48,
+        "cafe": 42,
+        "convenience": 48,
+        "food": 61,
+        "lodging": 41,
+        "medical": 54,
         "onsen_sento": 4,
         "park": 46,
-        "police": 45,
-        "post_office": 46,
+        "police": 46,
+        "post_office": 47,
         "public_service": 49,
-        "shopping": 66,
+        "shopping": 69,
         "shrine_temple": 93,
-        "sight": 203,
-        "tourist_info": 39
+        "sight": 209,
+        "tourist_info": 40
       },
-      "hours_null": 357,
-      "official_url_own": 521,
+      "hours_null": 363,
+      "official_url_own": 537,
       "official_url_map": 0,
-      "official_url_pending": 141,
-      "official_site_hours_coverage": 0.743,
+      "official_url_pending": 142,
+      "official_site_hours_coverage": 0.745,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "清澄白河 (st02084): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=1178（精确）"
+        "note": "三越前 (st02086): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=3394（窗口下限，细分重抓后仍有残漏）"
       }
     }
   ]
