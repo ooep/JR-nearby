@@ -1,0 +1,596 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st05485",
+    "name": {
+      "ja": "小岩",
+      "en": "Koiwa",
+      "zh": "小岩"
+    },
+    "line_group": [
+      "山手線",
+      "総武本線"
+    ],
+    "pref": "東京都",
+    "lat": 35.73318,
+    "lon": 139.88189
+  },
+  "generated_at": "2026-11-05T22:16:20Z",
+  "pois": [
+    {
+      "id": "st05485-001",
+      "category": "police",
+      "name": {
+        "ja": "小岩警察署 小岩駅前交番",
+        "en": "Koban",
+        "zh": "小岩警察署 小岩站前交番"
+      },
+      "desc": {
+        "ja": "駅から約11mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 11 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约11米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 11,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420775579",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7330816,
+      "lon": 139.8819066
+    },
+    {
+      "id": "st05485-002",
+      "category": "cafe",
+      "name": {
+        "ja": "ドトールコーヒーショップ",
+        "en": "Doutor Coffee Shop",
+        "zh": "多特咖啡"
+      },
+      "desc": {
+        "ja": "駅から約26mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。Mo-Su 07:00-22:00（JST）。",
+        "en": "Cafe about 26 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约26米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 26,
+      "walk_min": 1,
+      "hours": "Mo-Su 07:00-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.doutor.co.jp/dcs/",
+      "tel": "+81 3-3658-2117",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7330761,
+      "lon": 139.8816353
+    },
+    {
+      "id": "st05485-003",
+      "category": "food",
+      "name": {
+        "ja": "Bar Basement(バー ベースメント)",
+        "en": "Bar Basement(ba- be-sumento)",
+        "zh": "Bar Basement(バー ベースメント)"
+      },
+      "desc": {
+        "ja": "駅から約109mにある飲食店。burger料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はTu-Su 17:30-01:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 109 m from the station. Serves burger cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约109米的餐馆主营burger，适合旅途中用餐，Tu-Su 17:30-01:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 109,
+      "walk_min": 2,
+      "hours": "Tu-Su 17:30-01:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/13741599402",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7340244,
+      "lon": 139.8824986
+    },
+    {
+      "id": "st05485-004",
+      "category": "shopping",
+      "name": {
+        "ja": "成城石井 シャポー小岩店",
+        "en": "Eeijoishii - Shapo Koiwa",
+        "zh": "成城石井 シャポー小岩店"
+      },
+      "desc": {
+        "ja": "駅から約117mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 117 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约117米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 117,
+      "walk_min": 2,
+      "hours": "Mo-Sa 10:00-21:00; Su 10:00-20:30 (JST)",
+      "hours_source": "osm",
+      "url": "https://shop.seijoishii.com/seijoishii/spot/detail?code=0284",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7325699,
+      "lon": 139.8808393
+    },
+    {
+      "id": "st05485-005",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "セブン-イレブンのコンビニエンスストア。駅から約164mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 164 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约164米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 164,
+      "walk_min": 3,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.sej.co.jp/",
+      "tel": "+81 3-3672-0339",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.732107,
+      "lon": 139.8831335
+    },
+    {
+      "id": "st05485-006",
+      "category": "convenience",
+      "name": {
+        "ja": "サンドラッグ ＣＶＳ小岩北口店",
+        "en": "Sundrug ＣＶＳ Koiwa North Exit Shop",
+        "zh": "サンドラッグ ＣＶＳ小岩北口店"
+      },
+      "desc": {
+        "ja": "サンドラッグ ＣＶＳ小岩北口店のコンビニエンスストア。駅から約180mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 180 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约180米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 180,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://sundrug-online.com/blogs/search-store/194",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.733684,
+      "lon": 139.8799989
+    },
+    {
+      "id": "st05485-007",
+      "category": "food",
+      "name": {
+        "ja": "ケンタッキーフライドチキン",
+        "en": "KFC",
+        "zh": "肯德基"
+      },
+      "desc": {
+        "ja": "駅から約201mにある飲食店。chicken料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Su 10:00-22:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 201 m from the station. Serves chicken cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约201米的餐馆主营chicken，适合旅途中用餐，Mo-Su 10:00-22:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 201,
+      "walk_min": 3,
+      "hours": "Mo-Su 10:00-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1942463663",
+      "tel": "+81-3-56937281",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7314097,
+      "lon": 139.8814381
+    },
+    {
+      "id": "st05485-008",
+      "category": "food",
+      "name": {
+        "ja": "ラーメン二郎　小岩店",
+        "en": "Ramen Jiro Koiwa",
+        "zh": "ラーメン二郎　小岩店"
+      },
+      "desc": {
+        "ja": "駅から約259mにある飲食店。ramen料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Fr 10:30-15:00; PH off（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 259 m from the station. Serves ramen cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约259米的餐馆主营ramen，适合旅途中用餐，Mo-Fr 10:30-15:00; PH off（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 259,
+      "walk_min": 4,
+      "hours": "Mo-Fr 10:30-15:00; PH off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6191254190",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7349556,
+      "lon": 139.8800324
+    },
+    {
+      "id": "st05485-009",
+      "category": "bank_atm",
+      "name": {
+        "ja": "みずほ銀行",
+        "en": "Mizuho Bank",
+        "zh": "瑞穗银行"
+      },
+      "desc": {
+        "ja": "みずほ銀行の支店。駅から約391mにあり、預け入れ・引き出しやATMの利用に対応する。窓口はMo-Fr 09:00-15:00（JST）。",
+        "en": "Bank about 391 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约391米的银行网点，Mo-Fr 09:00-15:00（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 391,
+      "walk_min": 5,
+      "hours": "Mo-Fr 09:00-15:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/514642455",
+      "tel": "+81-3-56931211",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7296628,
+      "lon": 139.8817969,
+      "official_url_pending": "https://www.mizuhobank.co.jp/"
+    },
+    {
+      "id": "st05485-010",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "浄光院",
+        "en": "Jōkōin Temple",
+        "zh": "浄光院"
+      },
+      "desc": {
+        "ja": "駅から約1159mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 1159 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1159米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1159,
+      "walk_min": 15,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/7028251227",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.743541,
+      "lon": 139.8804877
+    },
+    {
+      "id": "st05485-011",
+      "category": "police",
+      "name": {
+        "ja": "小岩警察署",
+        "en": "Koiwa Police Station",
+        "zh": "小岩警察署"
+      },
+      "desc": {
+        "ja": "駅から約520mにある警察署。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 520 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约520米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 520,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/514642458",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7338178,
+      "lon": 139.8875961
+    },
+    {
+      "id": "st05485-012",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "善養寺",
+        "en": "Zen'yo-ji Temple",
+        "zh": "善養寺"
+      },
+      "desc": {
+        "ja": "駅から約1205mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 1205 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1205米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1205,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4402395498",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7278655,
+      "lon": 139.8935214
+    },
+    {
+      "id": "st05485-013",
+      "category": "post_office",
+      "name": {
+        "ja": "小岩郵便局",
+        "en": "Koiwa Post Office",
+        "zh": "小岩邮政局"
+      },
+      "desc": {
+        "ja": "駅から約698mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 698 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约698米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 698,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/330646682",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7281866,
+      "lon": 139.8865677
+    },
+    {
+      "id": "st05485-014",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "十念寺",
+        "en": "Tennen-ji",
+        "zh": "十念寺"
+      },
+      "desc": {
+        "ja": "駅から約1229mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 1229 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1229米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1229,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5731502064",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7408986,
+      "lon": 139.8916311
+    },
+    {
+      "id": "st05485-015",
+      "category": "medical",
+      "name": {
+        "ja": "仁生社江戸川病院",
+        "en": "Edogawa Hospital",
+        "zh": "仁生社江户川病院"
+      },
+      "desc": {
+        "ja": "駅から約1136mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 1136 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1136米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1136,
+      "walk_min": 15,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/141027185",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7284157,
+      "lon": 139.8930244
+    },
+    {
+      "id": "st05485-016",
+      "category": "shopping",
+      "name": {
+        "ja": "イトーヨーカドー",
+        "en": "Ito-Yokado",
+        "zh": "伊藤洋华堂"
+      },
+      "desc": {
+        "ja": "駅から約71mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 71 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约71米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 71,
+      "walk_min": 1,
+      "hours": "10:00-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/355814452",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.733764,
+      "lon": 139.8815672
+    },
+    {
+      "id": "st05485-017",
+      "category": "shopping",
+      "name": {
+        "ja": "Shapo",
+        "en": "Shapo",
+        "zh": "Shapo"
+      },
+      "desc": {
+        "ja": "駅から約53mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 53 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约53米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 53,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/7099902254",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7328997,
+      "lon": 139.881409
+    },
+    {
+      "id": "st05485-018",
+      "category": "park",
+      "name": {
+        "ja": "柴又公園",
+        "en": "Shibamata Park",
+        "zh": "柴又公园"
+      },
+      "desc": {
+        "ja": "駅から約1435mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1435 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1435米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1435,
+      "walk_min": 18,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.city.katsushika.lg.jp/institution/1000096/1006896.html",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7344699,
+      "lon": 139.8977129
+    },
+    {
+      "id": "st05485-019",
+      "category": "park",
+      "name": {
+        "ja": "西小岩公園",
+        "en": "Nishi-Koiwa Park",
+        "zh": "西小岩公园"
+      },
+      "desc": {
+        "ja": "駅から約430mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 430 m from the station, with paths and benches for a rest.",
+        "zh": "距站约430米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 430,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/363447510",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7370215,
+      "lon": 139.8813668
+    }
+  ],
+  "coverage": {
+    "poi_count": 19,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 444,
+    "floor_check": {
+      "medical": {
+        "candidates": 26,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 17,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 64,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 19,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 17,
+        "selected": 2
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
