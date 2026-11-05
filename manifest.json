@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-05T22:15:35Z",
+  "updated_at": "2026-11-05T22:16:00Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 108,
+  "done": 109,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -17,7 +17,7 @@
     "宮城県": 1,
     "広島県": 1,
     "徳島県": 1,
-    "東京都": 100,
+    "東京都": 101,
     "群馬県": 1
   },
   "batches": [
@@ -168,37 +168,38 @@
         "st04516",
         "st04519",
         "st05463",
-        "st05464"
+        "st05464",
+        "st05466"
       ],
-      "poi_total": 1943,
+      "poi_total": 1963,
       "category_counts": {
-        "bank_atm": 106,
-        "cafe": 87,
-        "convenience": 111,
+        "bank_atm": 107,
+        "cafe": 88,
+        "convenience": 112,
         "food": 116,
-        "lodging": 88,
-        "medical": 123,
+        "lodging": 89,
+        "medical": 124,
         "onsen_sento": 10,
-        "park": 110,
-        "police": 102,
-        "post_office": 108,
-        "public_service": 115,
-        "shopping": 142,
-        "shrine_temple": 204,
-        "sight": 446,
+        "park": 112,
+        "police": 104,
+        "post_office": 110,
+        "public_service": 116,
+        "shopping": 144,
+        "shrine_temple": 207,
+        "sight": 449,
         "tourist_info": 75
       },
-      "hours_null": 868,
-      "official_url_own": 1126,
+      "hours_null": 880,
+      "official_url_own": 1137,
       "official_url_map": 0,
-      "official_url_pending": 281,
-      "official_site_hours_coverage": 0.719,
+      "official_url_pending": 282,
+      "official_site_hours_coverage": 0.718,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "西葛西 (st05464): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=445（精确）"
+        "note": "東陽町 (st05466): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=540（精确）"
       }
     }
   ]
