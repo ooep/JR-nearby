@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-05T18:50:32Z",
+  "updated_at": "2026-11-05T18:59:31Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 63,
+  "done": 64,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -17,7 +17,7 @@
     "宮城県": 1,
     "広島県": 1,
     "徳島県": 1,
-    "東京都": 55,
+    "東京都": 56,
     "群馬県": 1
   },
   "batches": [
@@ -120,40 +120,41 @@
         "st02084",
         "st02086",
         "st02088",
+        "st02091",
         "st02097",
         "st02136",
         "st02137",
         "st02139"
       ],
-      "poi_total": 1055,
+      "poi_total": 1075,
       "category_counts": {
-        "bank_atm": 56,
-        "cafe": 49,
-        "convenience": 58,
+        "bank_atm": 57,
+        "cafe": 50,
+        "convenience": 59,
         "food": 64,
-        "lodging": 51,
-        "medical": 63,
+        "lodging": 52,
+        "medical": 65,
         "onsen_sento": 5,
         "park": 54,
-        "police": 55,
-        "post_office": 55,
+        "police": 56,
+        "post_office": 56,
         "public_service": 58,
         "shopping": 85,
-        "shrine_temple": 105,
-        "sight": 251,
-        "tourist_info": 46
+        "shrine_temple": 108,
+        "sight": 259,
+        "tourist_info": 47
       },
-      "hours_null": 431,
-      "official_url_own": 628,
+      "hours_null": 438,
+      "official_url_own": 643,
       "official_url_map": 0,
-      "official_url_pending": 164,
+      "official_url_pending": 166,
       "official_site_hours_coverage": 0.75,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "有楽町 (st01922): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=2186（窗口下限，细分重抓后仍有残漏）"
+        "note": "青山一丁目 (st02091): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=2851（窗口下限，细分重抓后仍有残漏）"
       }
     }
   ]
