@@ -1,0 +1,631 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st01663",
+    "name": {
+      "ja": "赤羽",
+      "en": "Akabane",
+      "zh": "赤羽"
+    },
+    "line_group": [
+      "吾妻線",
+      "山手線",
+      "川越線",
+      "東北本線",
+      "東海道本線",
+      "相鉄本線",
+      "赤羽線",
+      "高崎線"
+    ],
+    "pref": "東京都",
+    "lat": 35.77817,
+    "lon": 139.72085
+  },
+  "generated_at": "2026-11-05T14:45:24Z",
+  "pois": [
+    {
+      "id": "st01663-001",
+      "category": "cafe",
+      "name": {
+        "ja": "ドトールコーヒーショップ",
+        "en": "Doutor Coffee Shop",
+        "zh": "多特咖啡"
+      },
+      "desc": {
+        "ja": "駅から約140mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。Mo-Sa 07:30-22:00; Su,PH 08:00-21:00（JST）。",
+        "en": "Cafe about 140 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约140米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 140,
+      "walk_min": 2,
+      "hours": "Mo-Sa 07:30-22:00; Su,PH 08:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.doutor.co.jp/dcs/",
+      "tel": "+81 3 5963-3380",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7790472,
+      "lon": 139.7197293
+    },
+    {
+      "id": "st01663-002",
+      "category": "food",
+      "name": {
+        "ja": "ケンタッキーフライドチキン",
+        "en": "KFC",
+        "zh": "肯德基"
+      },
+      "desc": {
+        "ja": "駅から約140mにある飲食店。chicken料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Su 10:00-22:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 140 m from the station. Serves chicken cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约140米的餐馆主营chicken，适合旅途中用餐，Mo-Su 10:00-22:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 140,
+      "walk_min": 2,
+      "hours": "Mo-Su 10:00-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.kfc.co.jp/",
+      "tel": "+81-3-52497188",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.779318,
+      "lon": 139.7214764
+    },
+    {
+      "id": "st01663-003",
+      "category": "food",
+      "name": {
+        "ja": "マクドナルド",
+        "en": "McDonald's",
+        "zh": "麦当劳"
+      },
+      "desc": {
+        "ja": "駅から約126mにある飲食店。burger料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は24時間営業。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 126 m from the station. Serves burger cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约126米的餐馆主营burger，适合旅途中用餐，全天24小时营业，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 126,
+      "walk_min": 2,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1941086849",
+      "tel": "+81-3-35982831",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7792983,
+      "lon": 139.7209966
+    },
+    {
+      "id": "st01663-004",
+      "category": "food",
+      "name": {
+        "ja": "モスバーガー",
+        "en": "MOS Burger",
+        "zh": "摩斯汉堡"
+      },
+      "desc": {
+        "ja": "駅から約134mにある飲食店。burger料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Sa 07:00-01:00; Su,PH 07:00-23:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 134 m from the station. Serves burger cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约134米的餐馆主营burger，适合旅途中用餐，Mo-Sa 07:00-01:00; Su,PH 07:00-23:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 134,
+      "walk_min": 2,
+      "hours": "Mo-Sa 07:00-01:00; Su,PH 07:00-23:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.mos.jp/",
+      "tel": "+81 3-3598-9399",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7773458,
+      "lon": 139.7219261
+    },
+    {
+      "id": "st01663-005",
+      "category": "bank_atm",
+      "name": {
+        "ja": "みずほ銀行",
+        "en": "Mizuho Bank",
+        "zh": "瑞穗银行"
+      },
+      "desc": {
+        "ja": "みずほ銀行の支店。駅から約141mにあり、預け入れ・引き出しやATMの利用に対応する。窓口はMo-Fr 09:00-15:00（JST）。",
+        "en": "Bank about 141 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约141米的银行网点，Mo-Fr 09:00-15:00（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 141,
+      "walk_min": 2,
+      "hours": "Mo-Fr 09:00-15:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2000688923",
+      "tel": "+81-3-39061111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7789985,
+      "lon": 139.7220352,
+      "official_url_pending": "https://www.mizuhobank.co.jp/"
+    },
+    {
+      "id": "st01663-006",
+      "category": "convenience",
+      "name": {
+        "ja": "ミニストップ",
+        "en": "Ministop",
+        "zh": "迷你岛便利店"
+      },
+      "desc": {
+        "ja": "MINISTOPのコンビニエンスストア。駅から約148mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 148 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约148米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 148,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.ministop.co.jp/",
+      "tel": "+81-3-5249-1136",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.778551,
+      "lon": 139.7224179
+    },
+    {
+      "id": "st01663-007",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "7-ELEVENのコンビニエンスストア。駅から約165mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 165 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约165米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 165,
+      "walk_min": 2,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.sej.co.jp/",
+      "tel": "+81-3-39071160",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7769626,
+      "lon": 139.71979
+    },
+    {
+      "id": "st01663-008",
+      "category": "lodging",
+      "name": {
+        "ja": "ホテルテトラ赤羽",
+        "en": "Hotel Tetora Akabane",
+        "zh": "ホテルテトラ赤羽"
+      },
+      "desc": {
+        "ja": "駅から約252mにある宿泊施設。観光やビジネスの拠点として利用できる。チェックイン時間は予約時に確認を。",
+        "en": "Lodging about 252 m from the station, a convenient base for sightseeing or business.",
+        "zh": "距站约252米的住宿设施，可作为观光或商务出行的落脚点，入住方式以预订信息为准。"
+      },
+      "distance_m": 252,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4360818598",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7802531,
+      "lon": 139.7197411
+    },
+    {
+      "id": "st01663-009",
+      "category": "post_office",
+      "name": {
+        "ja": "赤羽郵便局",
+        "en": "Akabane Post Office",
+        "zh": "赤羽邮政局"
+      },
+      "desc": {
+        "ja": "駅から約292mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 292 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约292米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 292,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/166908465",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7771209,
+      "lon": 139.7238178
+    },
+    {
+      "id": "st01663-010",
+      "category": "shopping",
+      "name": {
+        "ja": "イトーヨーカドー",
+        "en": "Ito-Yokado",
+        "zh": "伊藤洋华堂"
+      },
+      "desc": {
+        "ja": "駅から約181mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 181 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约181米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 181,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1405245954",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7771727,
+      "lon": 139.7192711
+    },
+    {
+      "id": "st01663-011",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "鳳生寺",
+        "en": "Ohshoji Temple",
+        "zh": "鳳生寺"
+      },
+      "desc": {
+        "ja": "駅から約917mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 917 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约917米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 917,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4473601860",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7703696,
+      "lon": 139.7175406
+    },
+    {
+      "id": "st01663-012",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "赤羽八幡神社",
+        "en": "Akabane Hachiman Shrine",
+        "zh": "赤羽八幡神社"
+      },
+      "desc": {
+        "ja": "駅から約640mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 640 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约640米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 640,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/166908524",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7830641,
+      "lon": 139.7171057
+    },
+    {
+      "id": "st01663-013",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "八雲神社",
+        "en": "Yakumo-jinja Shrine",
+        "zh": "八雲神社"
+      },
+      "desc": {
+        "ja": "駅から約956mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 956 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约956米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 956,
+      "walk_min": 13,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/249229824",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7860998,
+      "lon": 139.7249443
+    },
+    {
+      "id": "st01663-014",
+      "category": "park",
+      "name": {
+        "ja": "赤羽自然観察公園",
+        "en": "Akabane Nature Observation Park",
+        "zh": "赤羽自然观察公园"
+      },
+      "desc": {
+        "ja": "駅から約1037mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1037 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1037米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1037,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/242000513",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7737761,
+      "lon": 139.7107135
+    },
+    {
+      "id": "st01663-015",
+      "category": "medical",
+      "name": {
+        "ja": "東京北医療センター",
+        "en": "Tokyo-kita Medical Center",
+        "zh": "东京北医療センター"
+      },
+      "desc": {
+        "ja": "駅から約1042mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 1042 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1042米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1042,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/177637558",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7836792,
+      "lon": 139.7115012
+    },
+    {
+      "id": "st01663-016",
+      "category": "shopping",
+      "name": {
+        "ja": "赤羽越後屋",
+        "en": "Akabane Echigoya",
+        "zh": "赤羽越後屋"
+      },
+      "desc": {
+        "ja": "駅から約741mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 741 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约741米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 741,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2558151881",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.784448,
+      "lon": 139.723613
+    },
+    {
+      "id": "st01663-017",
+      "category": "park",
+      "name": {
+        "ja": "赤羽公園",
+        "en": "Akabane Park",
+        "zh": "赤羽公园"
+      },
+      "desc": {
+        "ja": "駅から約360mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 360 m from the station, with paths and benches for a rest.",
+        "zh": "距站约360米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 360,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/157633618",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.777556,
+      "lon": 139.7247647
+    },
+    {
+      "id": "st01663-018",
+      "category": "police",
+      "name": {
+        "ja": "赤羽警察署",
+        "en": "Akabane Police Station",
+        "zh": "赤羽警察署"
+      },
+      "desc": {
+        "ja": "駅から約1252mにある警察署。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1252 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1252米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1252,
+      "walk_min": 17,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/1348019634",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7743369,
+      "lon": 139.7338966
+    },
+    {
+      "id": "st01663-019",
+      "category": "public_service",
+      "name": {
+        "ja": "足立区立新田コミュニティ図書館",
+        "en": "Shinden Community Library",
+        "zh": "足立区立新田コミュニティ图书馆"
+      },
+      "desc": {
+        "ja": "駅から約1723mにある図書館。手続きや調べ物、休憩に利用できる公共の施設。詳細は現地の案内を参照。",
+        "en": "Library about 1723 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1723米的图书馆，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1723,
+      "walk_min": 23,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "http://www.lib.adachi.tokyo.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.77142,
+      "lon": 139.738043
+    },
+    {
+      "id": "st01663-020",
+      "category": "lodging",
+      "name": {
+        "ja": "フレックステイイン 東十条",
+        "en": "Flexstay Inn Higashi Jujo",
+        "zh": "フレックステイイン 东十条"
+      },
+      "desc": {
+        "ja": "駅から約1810mにある宿泊施設。観光やビジネスの拠点として利用できる。チェックイン時間は予約時に確認を。",
+        "en": "Lodging about 1810 m from the station, a convenient base for sightseeing or business.",
+        "zh": "距站约1810米的住宿设施，可作为观光或商务出行的落脚点，入住方式以预订信息为准。"
+      },
+      "distance_m": 1810,
+      "walk_min": 24,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/575673352",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7626927,
+      "lon": 139.7270545
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 606,
+    "floor_check": {
+      "medical": {
+        "candidates": 90,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 18,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 85,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 20,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 17,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
