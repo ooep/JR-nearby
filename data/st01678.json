@@ -1,0 +1,598 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st01678",
+    "name": {
+      "ja": "茅ケ崎",
+      "en": "Chigasaki",
+      "zh": "茅ケ崎"
+    },
+    "line_group": [
+      "山手線",
+      "東海道本線",
+      "相模線"
+    ],
+    "pref": "神奈川県",
+    "lat": 35.330298,
+    "lon": 139.40683
+  },
+  "generated_at": "2026-11-05T23:32:37Z",
+  "pois": [
+    {
+      "id": "st01678-001",
+      "category": "shopping",
+      "name": {
+        "ja": "ラスカ茅ヶ崎",
+        "en": "LUSCA CHIGASAKI",
+        "zh": "ラスカ茅ヶ崎"
+      },
+      "desc": {
+        "ja": "駅から約42mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 42 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约42米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 42,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/904184681",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3303531,
+      "lon": 139.4063743
+    },
+    {
+      "id": "st01678-002",
+      "category": "police",
+      "name": {
+        "ja": "茅ヶ崎駅前交番",
+        "en": "茅ga崎站前 Police Box",
+        "zh": "茅ヶ崎站前交番"
+      },
+      "desc": {
+        "ja": "駅から約105mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 105 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约105米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 105,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420832625",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3303961,
+      "lon": 139.4056802
+    },
+    {
+      "id": "st01678-003",
+      "category": "cafe",
+      "name": {
+        "ja": "ドトールコーヒーショップ",
+        "en": "Doutor Coffee Shop",
+        "zh": "多特咖啡"
+      },
+      "desc": {
+        "ja": "駅から約90mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。Mo-Su,PH 07:15-21:00（JST）。",
+        "en": "Cafe about 90 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约90米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 90,
+      "walk_min": 2,
+      "hours": "Mo-Su,PH 07:15-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/4540277961",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3296897,
+      "lon": 139.4061743
+    },
+    {
+      "id": "st01678-004",
+      "category": "bank_atm",
+      "name": {
+        "ja": "スルガ銀行",
+        "en": "Suruga Bank",
+        "zh": "スルガ银行"
+      },
+      "desc": {
+        "ja": "スルガ銀行の支店。駅から約95mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 95 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约95米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 95,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2686214028",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3311227,
+      "lon": 139.4065562
+    },
+    {
+      "id": "st01678-005",
+      "category": "food",
+      "name": {
+        "ja": "松屋",
+        "en": "Matsuya",
+        "zh": "松屋"
+      },
+      "desc": {
+        "ja": "駅から約165mにある飲食店。beef_bowl料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 165 m from the station. Serves beef_bowl cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约165米的餐馆主营beef_bowl，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 165,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/3677340114",
+      "tel": "+81-467-84-5331",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3304436,
+      "lon": 139.4050244
+    },
+    {
+      "id": "st01678-006",
+      "category": "post_office",
+      "name": {
+        "ja": "茅ヶ崎海岸郵便局",
+        "en": "茅ga崎海岸 Post Office",
+        "zh": "茅ヶ崎海岸邮政局"
+      },
+      "desc": {
+        "ja": "駅から約371mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 371 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约371米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 371,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420832596",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.327055,
+      "lon": 139.407777
+    },
+    {
+      "id": "st01678-007",
+      "category": "food",
+      "name": {
+        "ja": "サイゼリヤ",
+        "en": "Saizeriya",
+        "zh": "萨莉亚"
+      },
+      "desc": {
+        "ja": "駅から約402mにある飲食店。italian料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は11:00-02:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 402 m from the station. Serves italian cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约402米的餐馆主营italian，适合旅途中用餐，11:00-02:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 402,
+      "walk_min": 6,
+      "hours": "11:00-02:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/4914926297",
+      "tel": "0467-59-1781",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3329521,
+      "lon": 139.4038157
+    },
+    {
+      "id": "st01678-008",
+      "category": "public_service",
+      "name": {
+        "ja": "茅ヶ崎市立図書館",
+        "en": "Chigasaki City Library",
+        "zh": "茅ヶ崎市立图书馆"
+      },
+      "desc": {
+        "ja": "駅から約436mにある図書館。手続きや調べ物、休憩に利用できる公共の施設。詳細は現地の案内を参照。",
+        "en": "Library about 436 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约436米的图书馆，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 436,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.lib.chigasaki.kanagawa.jp/TOSHOW/asp/index.aspx",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.326448,
+      "lon": 139.405934
+    },
+    {
+      "id": "st01678-009",
+      "category": "medical",
+      "name": {
+        "ja": "湘南健康管理クリニック",
+        "en": "湘南健康管理kuriniku",
+        "zh": "湘南健康管理クリニック"
+      },
+      "desc": {
+        "ja": "駅から約458mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 458 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约458米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 458,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.fureai-g.or.jp/kensin/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3343877,
+      "lon": 139.4062355
+    },
+    {
+      "id": "st01678-010",
+      "category": "sight",
+      "name": {
+        "ja": "茅ヶ崎市美術館",
+        "en": "Chigasaki City Museum of Art",
+        "zh": "茅ヶ崎市美术馆"
+      },
+      "desc": {
+        "ja": "駅から約461mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。入場は有料。",
+        "en": "Museum about 461 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约461米的博物馆·美术馆，入场收费，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 461,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.chigasaki-museum.jp/",
+      "tel": "+81-467-88-1177",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.326173,
+      "lon": 139.406344
+    },
+    {
+      "id": "st01678-011",
+      "category": "food",
+      "name": {
+        "ja": "生そば箱根",
+        "en": "生soba箱根",
+        "zh": "生soba箱根"
+      },
+      "desc": {
+        "ja": "駅から約110mにある飲食店。noodle料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 110 m from the station. Serves noodle cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约110米的餐馆主营noodle，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 110,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2647646754",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3307482,
+      "lon": 139.4057489
+    },
+    {
+      "id": "st01678-012",
+      "category": "public_service",
+      "name": {
+        "ja": "茅ヶ崎市役所",
+        "en": "Chigasaki City Hall",
+        "zh": "茅ヶ崎市役所"
+      },
+      "desc": {
+        "ja": "駅から約485mにある役所・行政施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Civic office about 485 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约485米的行政机构，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 485,
+      "walk_min": 7,
+      "hours": "Mo-Fr 08:30-17:00;PH off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.city.chigasaki.kanagawa.jp/",
+      "tel": "+81-467-821111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3338565,
+      "lon": 139.4037343
+    },
+    {
+      "id": "st01678-013",
+      "category": "police",
+      "name": {
+        "ja": "茅ケ崎警察署",
+        "en": "茅ke崎警察署",
+        "zh": "茅ケ崎警察署"
+      },
+      "desc": {
+        "ja": "駅から約890mにある警察署。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 890 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约890米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 890,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.police.pref.kanagawa.jp/ps/chigasaki/",
+      "tel": "+81 467 82 0110",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3374989,
+      "lon": 139.4025421
+    },
+    {
+      "id": "st01678-014",
+      "category": "sight",
+      "name": {
+        "ja": "赤とんぼの碑",
+        "en": "赤tonbono碑",
+        "zh": "赤tonbono碑"
+      },
+      "desc": {
+        "ja": "駅から約528mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Memorial about 528 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约528米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 528,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/14113880798",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3349067,
+      "lon": 139.405414
+    },
+    {
+      "id": "st01678-015",
+      "category": "convenience",
+      "name": {
+        "ja": "ミニストップ",
+        "en": "Ministop",
+        "zh": "迷你岛便利店"
+      },
+      "desc": {
+        "ja": "MINISTOPのコンビニエンスストア。駅から約1038mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 1038 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约1038米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 1038,
+      "walk_min": 13,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.ministop.co.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3390655,
+      "lon": 139.4107644
+    },
+    {
+      "id": "st01678-016",
+      "category": "medical",
+      "name": {
+        "ja": "薬局みらい",
+        "en": "薬局mirai",
+        "zh": "薬局mirai"
+      },
+      "desc": {
+        "ja": "駅から約362mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 362 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约362米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 362,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6165734994",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3335515,
+      "lon": 139.4067501
+    },
+    {
+      "id": "st01678-017",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "7-ELEVENのコンビニエンスストア。駅から約1389mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 1389 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约1389米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 1389,
+      "walk_min": 18,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.sej.co.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3375058,
+      "lon": 139.4193293
+    },
+    {
+      "id": "st01678-018",
+      "category": "sight",
+      "name": {
+        "ja": "南湖の左富士之碑",
+        "en": "南湖no左富士之碑",
+        "zh": "南湖no左富士之碑"
+      },
+      "desc": {
+        "ja": "駅から約1557mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Memorial about 1557 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1557米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1557,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6140213944",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3298835,
+      "lon": 139.3896778
+    },
+    {
+      "id": "st01678-019",
+      "category": "shopping",
+      "name": {
+        "ja": "マックスバリュエキスプレス",
+        "en": "makusubariyuekisupuresu",
+        "zh": "Makusubariyuekisupuresu"
+      },
+      "desc": {
+        "ja": "駅から約855mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 855 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约855米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 855,
+      "walk_min": 11,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6142184033",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3324414,
+      "lon": 139.4158759
+    }
+  ],
+  "coverage": {
+    "poi_count": 19,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 162,
+    "floor_check": {
+      "medical": {
+        "candidates": 14,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 9,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 18,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 10,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 7,
+        "selected": 2
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
