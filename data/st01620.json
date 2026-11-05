@@ -1,0 +1,625 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st01620",
+    "name": {
+      "ja": "町田",
+      "en": "Machida",
+      "zh": "町田"
+    },
+    "line_group": [
+      "千代田線",
+      "小田原線",
+      "横浜線"
+    ],
+    "pref": "東京都",
+    "lat": 35.543119,
+    "lon": 139.444793
+  },
+  "generated_at": "2026-11-05T18:29:02Z",
+  "pois": [
+    {
+      "id": "st01620-001",
+      "category": "bank_atm",
+      "name": {
+        "ja": "ゆうちょ銀行",
+        "en": "Japan Post Bank",
+        "zh": "邮储银行"
+      },
+      "desc": {
+        "ja": "ゆうちょ銀行のATM。駅から約51mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 51 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约51米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 51,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/9047129813",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5434827,
+      "lon": 139.4451345
+    },
+    {
+      "id": "st01620-002",
+      "category": "cafe",
+      "name": {
+        "ja": "タリーズコーヒー",
+        "en": "Tully's Coffee",
+        "zh": "塔利咖啡"
+      },
+      "desc": {
+        "ja": "駅から約40mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。Mo-Su 07:00-22:30（JST）。",
+        "en": "Cafe about 40 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约40米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 40,
+      "walk_min": 1,
+      "hours": "Mo-Su 07:00-22:30 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.tullys.co.jp/",
+      "tel": "+81-42-7108002",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5429153,
+      "lon": 139.4444308
+    },
+    {
+      "id": "st01620-003",
+      "category": "shopping",
+      "name": {
+        "ja": "町田東急ツインズウエスト",
+        "en": "Machida Tokyu Twins West",
+        "zh": "町田东急ツインズウエスト"
+      },
+      "desc": {
+        "ja": "駅から約109mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 109 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约109米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 109,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/259011740",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.542913,
+      "lon": 139.4459729
+    },
+    {
+      "id": "st01620-004",
+      "category": "shopping",
+      "name": {
+        "ja": "ルミネ町田",
+        "en": "rumine町田",
+        "zh": "ルミネ町田"
+      },
+      "desc": {
+        "ja": "駅から約166mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 166 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约166米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 166,
+      "walk_min": 3,
+      "hours": "Mo-Fr 10:00-21:00; Sa-Su,PH 10:00-20:30 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.lumine.ne.jp/machida/",
+      "tel": "042-739-3111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5420615,
+      "lon": 139.446083
+    },
+    {
+      "id": "st01620-005",
+      "category": "shopping",
+      "name": {
+        "ja": "町田東急ツインズイースト",
+        "en": "Machida Tokyu Twins East",
+        "zh": "町田东急ツインズイースト"
+      },
+      "desc": {
+        "ja": "駅から約189mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 189 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约189米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 189,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/254328495",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5424523,
+      "lon": 139.4467161
+    },
+    {
+      "id": "st01620-006",
+      "category": "tourist_info",
+      "name": {
+        "ja": "はっとまちだ",
+        "en": "hatomachida",
+        "zh": "Hatomachida"
+      },
+      "desc": {
+        "ja": "駅から約227mにある観光案内所。周辺の観光情報や地図、施設案内を提供している。散策の前に立ち寄ると便利。",
+        "en": "Tourist information office about 227 m from the station, with maps and local guidance.",
+        "zh": "距站约227米的观光服务台，提供周边旅游信息、地图与咨询服务，可先在此规划行程。"
+      },
+      "distance_m": 227,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/12741003526",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5434702,
+      "lon": 139.4472623
+    },
+    {
+      "id": "st01620-007",
+      "category": "convenience",
+      "name": {
+        "ja": "ミニストップ",
+        "en": "Ministop",
+        "zh": "迷你岛便利店"
+      },
+      "desc": {
+        "ja": "MINISTOPのコンビニエンスストア。駅から約228mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 228 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约228米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 228,
+      "walk_min": 3,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.ministop.co.jp/",
+      "tel": "+81 42-766-0835",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.541766,
+      "lon": 139.442894
+    },
+    {
+      "id": "st01620-008",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "母智丘神社",
+        "en": "Mochio Shrine",
+        "zh": "母智丘神社"
+      },
+      "desc": {
+        "ja": "駅から約669mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 669 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约669米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 669,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/1111103334",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5471687,
+      "lon": 139.4502607,
+      "official_url_pending": "http://www7b.biglobe.ne.jp/~mochiojinjya/"
+    },
+    {
+      "id": "st01620-009",
+      "category": "public_service",
+      "name": {
+        "ja": "町田市文化交流センター",
+        "en": "町田市文化交流senta-",
+        "zh": "町田市文化交流センター"
+      },
+      "desc": {
+        "ja": "駅から約390mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 390 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约390米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 390,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6182541844",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5409626,
+      "lon": 139.4481913
+    },
+    {
+      "id": "st01620-010",
+      "category": "sight",
+      "name": {
+        "ja": "泰巌歴史美術館",
+        "en": "Taigan Historical Museum",
+        "zh": "泰巌历史美术馆"
+      },
+      "desc": {
+        "ja": "駅から約517mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 517 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约517米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 517,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.museum.or.jp/museum/17915",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5477715,
+      "lon": 139.444724
+    },
+    {
+      "id": "st01620-011",
+      "category": "public_service",
+      "name": {
+        "ja": "都営町田金森一丁目 アパート第2集会室",
+        "en": "都営町田金森一丁目 apa-to第2集会室",
+        "zh": "都営町田金森一丁目 アパート第2集会室"
+      },
+      "desc": {
+        "ja": "駅から約882mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 882 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约882米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 882,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6268844544",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5359906,
+      "lon": 139.4490585
+    },
+    {
+      "id": "st01620-012",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "浄運寺",
+        "en": "Jounji Temple",
+        "zh": "浄運寺"
+      },
+      "desc": {
+        "ja": "駅から約322mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 322 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约322米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 322,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/257050001",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5433098,
+      "lon": 139.4483483
+    },
+    {
+      "id": "st01620-013",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "町田天満宮",
+        "en": "Machida Tenmangu",
+        "zh": "町田天満宫"
+      },
+      "desc": {
+        "ja": "駅から約813mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 813 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约813米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 813,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://tenmangu.newsinet.com",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5384643,
+      "lon": 139.451726
+    },
+    {
+      "id": "st01620-014",
+      "category": "park",
+      "name": {
+        "ja": "芹ヶ谷公園",
+        "en": "Serigaya Park",
+        "zh": "芹ヶ谷公园"
+      },
+      "desc": {
+        "ja": "駅から約844mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 844 m from the station, with paths and benches for a rest.",
+        "zh": "距站约844米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 844,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/relation/14042118",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5462993,
+      "lon": 139.4532582
+    },
+    {
+      "id": "st01620-015",
+      "category": "sight",
+      "name": {
+        "ja": "町田市立国際版画美術館",
+        "en": "Machida City Museum of Graphic Arts",
+        "zh": "町田市立国際版影美术馆"
+      },
+      "desc": {
+        "ja": "駅から約932mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 932 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约932米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 932,
+      "walk_min": 12,
+      "hours": "Tu-Fr 10:00-17:00; Sa,Su 10:00-17:30 (JST)",
+      "hours_source": "osm",
+      "url": "https://hanga-museum.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5440324,
+      "lon": 139.4550352
+    },
+    {
+      "id": "st01620-016",
+      "category": "post_office",
+      "name": {
+        "ja": "町田郵便局",
+        "en": "Machida Post Office",
+        "zh": "町田邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1361mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1361 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1361米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 1361,
+      "walk_min": 18,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420790259",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.555355,
+      "lon": 139.444853
+    },
+    {
+      "id": "st01620-017",
+      "category": "lodging",
+      "name": {
+        "ja": "小田急ホテルセンチュリー相模大野",
+        "en": "小田急hoterusenchiyuri-相模大野",
+        "zh": "小田急ホテルセンチュリー相模大野"
+      },
+      "desc": {
+        "ja": "駅から約1481mにある宿泊施設。観光やビジネスの拠点として利用できる。チェックイン時間は予約時に確認を。",
+        "en": "Lodging about 1481 m from the station, a convenient base for sightseeing or business.",
+        "zh": "距站约1481米的住宿设施，可作为观光或商务出行的落脚点，入住方式以预订信息为准。"
+      },
+      "distance_m": 1481,
+      "walk_min": 19,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1533309088",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5314329,
+      "lon": 139.436931
+    },
+    {
+      "id": "st01620-018",
+      "category": "park",
+      "name": {
+        "ja": "上鶴間本町二丁目桜ノ絆公園",
+        "en": "上鶴間本町二丁目桜no絆公園",
+        "zh": "上鶴間本町二丁目樱ノ絆公园"
+      },
+      "desc": {
+        "ja": "駅から約458mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 458 m from the station, with paths and benches for a rest.",
+        "zh": "距站约458米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 458,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/1103597868",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5395189,
+      "lon": 139.4423246
+    },
+    {
+      "id": "st01620-019",
+      "category": "medical",
+      "name": {
+        "ja": "町田市民病院",
+        "en": "Machida Municipal Hospital",
+        "zh": "町田市民病院"
+      },
+      "desc": {
+        "ja": "駅から約1636mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 1636 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1636米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1636,
+      "walk_min": 21,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/131209860",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.556874,
+      "lon": 139.4383788
+    },
+    {
+      "id": "st01620-020",
+      "category": "police",
+      "name": {
+        "ja": "相模原南警察署",
+        "en": "相模原南 Police Station",
+        "zh": "相模原南警察署"
+      },
+      "desc": {
+        "ja": "駅から約1721mにある警察署。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1721 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1721米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1721,
+      "walk_min": 22,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.police.pref.kanagawa.jp/ps/sagamiharaminami/",
+      "tel": "+81 42 749 0110",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5463217,
+      "lon": 139.4261849
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 705,
+    "floor_check": {
+      "medical": {
+        "candidates": 94,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 39,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 78,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 13,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 16,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 2,
+        "selected": 1
+      }
+    }
+  }
+}
