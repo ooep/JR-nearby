@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-05T22:39:37Z",
+  "updated_at": "2026-11-05T22:39:59Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 116,
+  "done": 117,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -19,6 +19,7 @@
     "広島県": 1,
     "徳島県": 1,
     "東京都": 107,
+    "福岡県": 1,
     "群馬県": 1
   },
   "batches": [
@@ -213,33 +214,35 @@
       "batch": "t1-b-20261104",
       "committed_at": null,
       "stations": [
-        "st00028"
+        "st00028",
+        "st00030"
       ],
-      "poi_total": 17,
+      "poi_total": 34,
       "category_counts": {
-        "bank_atm": 1,
-        "cafe": 1,
-        "convenience": 1,
-        "food": 3,
-        "medical": 2,
-        "police": 2,
-        "post_office": 2,
-        "public_service": 1,
-        "shopping": 1,
+        "bank_atm": 2,
+        "cafe": 2,
+        "convenience": 3,
+        "food": 6,
+        "medical": 4,
+        "park": 2,
+        "police": 3,
+        "post_office": 3,
+        "public_service": 2,
+        "shopping": 4,
         "sight": 2,
         "tourist_info": 1
       },
-      "hours_null": 14,
-      "official_url_own": 0,
+      "hours_null": 28,
+      "official_url_own": 2,
       "official_url_map": 0,
       "official_url_pending": 0,
-      "official_site_hours_coverage": 0,
+      "official_site_hours_coverage": 1.0,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "橋本 (st00028): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=125（精确）"
+        "note": "橋本 (st00030): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=270（精确）"
       }
     }
   ]
