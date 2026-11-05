@@ -1,0 +1,631 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st01888",
+    "name": {
+      "ja": "関内",
+      "en": "Kannai",
+      "zh": "关内"
+    },
+    "line_group": [
+      "東海道本線",
+      "横浜市営地下鉄1号線",
+      "横浜線"
+    ],
+    "pref": "神奈川県",
+    "lat": 35.444532,
+    "lon": 139.635861
+  },
+  "generated_at": "2026-11-05T23:42:30Z",
+  "pois": [
+    {
+      "id": "st01888-001",
+      "category": "bank_atm",
+      "name": {
+        "ja": "みずほ銀行",
+        "en": "Mizuho Bank",
+        "zh": "瑞穗银行"
+      },
+      "desc": {
+        "ja": "みずほ銀行のATM。駅から約29mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 29 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约29米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 29,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/9850773897",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.4447924,
+      "lon": 139.6358741
+    },
+    {
+      "id": "st01888-002",
+      "category": "food",
+      "name": {
+        "ja": "勝烈庵 本店",
+        "en": "Katsuretsu An",
+        "zh": "勝烈庵 本店"
+      },
+      "desc": {
+        "ja": "駅から約304mにある飲食店。japanese料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は11:00-21:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 304 m from the station. Serves japanese cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约304米的餐馆主营japanese，适合旅途中用餐，11:00-21:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 304,
+      "walk_min": 4,
+      "hours": "11:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://katsuretsuan.co.jp/restaurants/",
+      "tel": "+81 45-681-4411",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.4471544,
+      "lon": 139.6349091
+    },
+    {
+      "id": "st01888-003",
+      "category": "sight",
+      "name": {
+        "ja": "神奈川県立歴史博物館",
+        "en": "Kanagawa Prefectural Museum of Cultural History",
+        "zh": "神奈川县立历史博物馆"
+      },
+      "desc": {
+        "ja": "駅から約512mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 512 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约512米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 512,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "http://ch.kanagawa-museum.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.4491293,
+      "lon": 139.636229
+    },
+    {
+      "id": "st01888-004",
+      "category": "post_office",
+      "name": {
+        "ja": "横浜中華街郵便局",
+        "en": "横滨中华街 Post Office",
+        "zh": "横滨中华街邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1135mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1135 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1135米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 1135,
+      "walk_min": 15,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/10951530954",
+      "tel": "+81-45-651-0083",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.4418052,
+      "lon": 139.6479389,
+      "official_url_pending": "https://map.japanpost.jp/p/search/dtl/300102166000/"
+    },
+    {
+      "id": "st01888-005",
+      "category": "police",
+      "name": {
+        "ja": "伊勢佐木町交番",
+        "en": "伊勢佐木町 Police Box",
+        "zh": "伊勢佐木町交番"
+      },
+      "desc": {
+        "ja": "駅から約769mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 769 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约769米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 769,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/1476720440",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.4413185,
+      "lon": 139.6283403
+    },
+    {
+      "id": "st01888-006",
+      "category": "sight",
+      "name": {
+        "ja": "横浜ユーラシア文化館",
+        "en": "Yokohama Museum of EurAsian Cultures",
+        "zh": "横滨ユーラシア文化馆"
+      },
+      "desc": {
+        "ja": "駅から約698mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 698 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约698米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 698,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "http://www.eurasia.city.yokohama.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.4462299,
+      "lon": 139.6432801
+    },
+    {
+      "id": "st01888-007",
+      "category": "sight",
+      "name": {
+        "ja": "横浜都市発展記念館",
+        "en": "Museum of Yokohama Urban History",
+        "zh": "横滨都市发展纪念馆"
+      },
+      "desc": {
+        "ja": "駅から約708mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 708 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约708米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 708,
+      "walk_min": 9,
+      "hours": "Tu-Su 09:30-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1420825726",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.4461073,
+      "lon": 139.6434318,
+      "official_url_pending": "http://www.tohatsu.city.yokohama.jp/"
+    },
+    {
+      "id": "st01888-008",
+      "category": "police",
+      "name": {
+        "ja": "加賀町警察署",
+        "en": "Kagacho Police Station",
+        "zh": "加賀町警察署"
+      },
+      "desc": {
+        "ja": "駅から約708mにある警察署。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 708 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约708米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 708,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.police.pref.kanagawa.jp/ps/kagacyou/",
+      "tel": "+81 45 641 0110",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.4435395,
+      "lon": 139.6435839
+    },
+    {
+      "id": "st01888-009",
+      "category": "cafe",
+      "name": {
+        "ja": "CHIKI CHIKI TAN TAN",
+        "en": "CHIKI CHIKI TAN TAN",
+        "zh": "CHIKI CHIKI TAN TAN"
+      },
+      "desc": {
+        "ja": "駅から約427mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。Tu-Su 12:00-24:00（JST）。",
+        "en": "Cafe about 427 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约427米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 427,
+      "walk_min": 6,
+      "hours": "Tu-Su 12:00-24:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2309168023",
+      "tel": "+81 45-260-2670",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.4464923,
+      "lon": 139.6318019,
+      "official_url_pending": "http://www.chiki2-tan2.com"
+    },
+    {
+      "id": "st01888-010",
+      "category": "sight",
+      "name": {
+        "ja": "日本郵船歴史博物館",
+        "en": "NYK Maritime Museum",
+        "zh": "日本邮船历史博物馆"
+      },
+      "desc": {
+        "ja": "駅から約724mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 724 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约724米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 724,
+      "walk_min": 10,
+      "hours": "Tu-Su 11:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1420822813",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.450362,
+      "lon": 139.639421
+    },
+    {
+      "id": "st01888-011",
+      "category": "medical",
+      "name": {
+        "ja": "横浜中央病院",
+        "en": "Yokohama Chuo Hospital",
+        "zh": "横滨中央病院"
+      },
+      "desc": {
+        "ja": "駅から約832mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 832 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约832米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 832,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://yokohama.jcho.go.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.4408703,
+      "lon": 139.6438722
+    },
+    {
+      "id": "st01888-012",
+      "category": "sight",
+      "name": {
+        "ja": "横浜中華街",
+        "en": "Yokohama Chinatown",
+        "zh": "横滨中华街"
+      },
+      "desc": {
+        "ja": "駅から約866mにある観光スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Attraction about 866 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约866米的观光景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 866,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.chinatown.or.jp/",
+      "tel": "+81 45 662 1252",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.4428847,
+      "lon": 139.6451998
+    },
+    {
+      "id": "st01888-013",
+      "category": "public_service",
+      "name": {
+        "ja": "横浜市竹之丸地区センター",
+        "en": "横浜市竹之丸地区senta-",
+        "zh": "横滨市竹之丸地区センター"
+      },
+      "desc": {
+        "ja": "駅から約1733mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 1733 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1733米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1733,
+      "walk_min": 22,
+      "hours": "Mo-Sa 09:00-21:00; Su 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6371939386",
+      "tel": "0456515575",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.4306323,
+      "lon": 139.6445093,
+      "official_url_pending": "https://takenomaruchikusen.com/"
+    },
+    {
+      "id": "st01888-014",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "成田山横浜別院",
+        "en": "Naritasan Yokohama Betsuin Enmei- in",
+        "zh": "成田山横滨別院"
+      },
+      "desc": {
+        "ja": "駅から約917mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 917 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约917米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 917,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://yokohamanaritasan.com/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.4491416,
+      "lon": 139.627462
+    },
+    {
+      "id": "st01888-015",
+      "category": "tourist_info",
+      "name": {
+        "ja": "China Town 80",
+        "en": "China Town 80",
+        "zh": "China Town 80"
+      },
+      "desc": {
+        "ja": "駅から約1082mにある観光案内所。周辺の観光情報や地図、施設案内を提供している。散策の前に立ち寄ると便利。",
+        "en": "Tourist information office about 1082 m from the station, with maps and local guidance.",
+        "zh": "距站约1082米的观光服务台，提供周边旅游信息、地图与咨询服务，可先在此规划行程。"
+      },
+      "distance_m": 1082,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/608956503",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.4437011,
+      "lon": 139.6477582
+    },
+    {
+      "id": "st01888-016",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "伊勢山皇大神宮",
+        "en": "Iseyama Kotai Shrine",
+        "zh": "伊勢山皇大神宫"
+      },
+      "desc": {
+        "ja": "駅から約1087mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1087 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1087米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1087,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.iseyama.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.4503736,
+      "lon": 139.6262336
+    },
+    {
+      "id": "st01888-017",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "7-ELEVENのコンビニエンスストア。駅から約1339mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 1339 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约1339米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 1339,
+      "walk_min": 17,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/11889136522",
+      "tel": "+81-45-212-0772",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.455583,
+      "lon": 139.6417467
+    },
+    {
+      "id": "st01888-018",
+      "category": "sight",
+      "name": {
+        "ja": "横浜美術館",
+        "en": "Yokohama Museum of Art",
+        "zh": "横滨美术馆"
+      },
+      "desc": {
+        "ja": "駅から約1475mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。入場は有料。",
+        "en": "Museum about 1475 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1475米的博物馆·美术馆，入场收费，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1475,
+      "walk_min": 19,
+      "hours": "Fr-We 10:00-18:00 (JST)",
+      "hours_source": "osm",
+      "url": "http://www.yaf.or.jp/yma/index.php",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.4570856,
+      "lon": 139.6305994
+    },
+    {
+      "id": "st01888-019",
+      "category": "sight",
+      "name": {
+        "ja": "よこはまコスモワールド",
+        "en": "Yokohama Cosmo World",
+        "zh": "Yokohamakosumowa-rudo"
+      },
+      "desc": {
+        "ja": "駅から約1237mにあるテーマパーク。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Theme park about 1237 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1237米的主题乐园，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1237,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "http://cosmoworld.jp/",
+      "tel": "+81 45-641-6591",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.4556562,
+      "lon": 139.6355492
+    },
+    {
+      "id": "st01888-020",
+      "category": "sight",
+      "name": {
+        "ja": "横浜市イギリス館",
+        "en": "British House Yokohama",
+        "zh": "横滨市イギリス馆"
+      },
+      "desc": {
+        "ja": "駅から約1776mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。入場は無料。",
+        "en": "Museum about 1776 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1776米的博物馆·美术馆，免费开放，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1776,
+      "walk_min": 23,
+      "hours": "Mo-Su 09:30-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/47403148",
+      "tel": "045-623-7812",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.4394095,
+      "lon": 139.6544356
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [],
+    "fetch_truncated": true,
+    "selected_cap": 20,
+    "candidate_count": 1792,
+    "floor_check": {
+      "medical": {
+        "candidates": 76,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 32,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 125,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 24,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 15,
+        "selected": 2
+      },
+      "tourist_info": {
+        "candidates": 1,
+        "selected": 1
+      }
+    }
+  }
+}
