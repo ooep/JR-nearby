@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-05T19:37:07Z",
+  "updated_at": "2026-11-05T19:41:58Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 69,
+  "done": 70,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -17,7 +17,7 @@
     "宮城県": 1,
     "広島県": 1,
     "徳島県": 1,
-    "東京都": 61,
+    "東京都": 62,
     "群馬県": 1
   },
   "batches": [
@@ -129,37 +129,38 @@
         "st02142",
         "st02144",
         "st02166",
-        "st03137"
+        "st03137",
+        "st03143"
       ],
-      "poi_total": 1175,
+      "poi_total": 1195,
       "category_counts": {
-        "bank_atm": 62,
-        "cafe": 55,
-        "convenience": 64,
-        "food": 69,
-        "lodging": 59,
-        "medical": 70,
+        "bank_atm": 63,
+        "cafe": 56,
+        "convenience": 66,
+        "food": 71,
+        "lodging": 60,
+        "medical": 72,
         "onsen_sento": 5,
-        "park": 59,
-        "police": 61,
-        "post_office": 61,
-        "public_service": 64,
-        "shopping": 96,
-        "shrine_temple": 115,
+        "park": 61,
+        "police": 62,
+        "post_office": 62,
+        "public_service": 65,
+        "shopping": 99,
+        "shrine_temple": 118,
         "sight": 283,
         "tourist_info": 52
       },
-      "hours_null": 482,
-      "official_url_own": 708,
+      "hours_null": 494,
+      "official_url_own": 715,
       "official_url_map": 0,
-      "official_url_pending": 179,
-      "official_site_hours_coverage": 0.747,
+      "official_url_pending": 181,
+      "official_site_hours_coverage": 0.748,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "新宿三丁目 (st03137): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=2406（窗口下限，细分重抓后仍有残漏）"
+        "note": "小竹向原 (st03143): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=415（精确）"
       }
     }
   ]
