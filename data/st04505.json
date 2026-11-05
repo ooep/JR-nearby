@@ -1,0 +1,631 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st04505",
+    "name": {
+      "ja": "立川",
+      "en": "Tachikawa",
+      "zh": "立川"
+    },
+    "line_group": [
+      "中央本線",
+      "五日市線",
+      "南武線",
+      "大糸線",
+      "山手線",
+      "篠ノ井線",
+      "青梅線"
+    ],
+    "pref": "東京都",
+    "lat": 35.69804,
+    "lon": 139.41355
+  },
+  "generated_at": "2026-11-05T21:35:32Z",
+  "pois": [
+    {
+      "id": "st04505-001",
+      "category": "tourist_info",
+      "name": {
+        "ja": "東京観光案内所",
+        "en": "Tokyo Tourist Information Center",
+        "zh": "东京观光案内所"
+      },
+      "desc": {
+        "ja": "駅から約27mにある観光案内所。周辺の観光情報や地図、施設案内を提供している。散策の前に立ち寄ると便利。",
+        "en": "Tourist information office about 27 m from the station, with maps and local guidance.",
+        "zh": "距站约27米的观光服务台，提供周边旅游信息、地图与咨询服务，可先在此规划行程，具体信息以现场为准。"
+      },
+      "distance_m": 27,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/10127979817",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6978408,
+      "lon": 139.413714
+    },
+    {
+      "id": "st04505-002",
+      "category": "cafe",
+      "name": {
+        "ja": "タリーズコーヒー",
+        "en": "Tully's Coffee",
+        "zh": "塔利咖啡"
+      },
+      "desc": {
+        "ja": "駅から約82mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。Mo-Su 10:00-21:00（JST）。",
+        "en": "Cafe about 82 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约82米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 82,
+      "walk_min": 2,
+      "hours": "Mo-Su 10:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.tullys.co.jp/",
+      "tel": "+81 42-540-2280",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.697458,
+      "lon": 139.4141163
+    },
+    {
+      "id": "st04505-003",
+      "category": "bank_atm",
+      "name": {
+        "ja": "三井住友銀行",
+        "en": "Sumitomo Mitsui Banking Corporation",
+        "zh": "三井住友银行"
+      },
+      "desc": {
+        "ja": "三井住友銀行の支店。駅から約133mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 133 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约133米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 133,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1943975642",
+      "tel": "+81 42 522 2151",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6992185,
+      "lon": 139.4138221
+    },
+    {
+      "id": "st04505-004",
+      "category": "food",
+      "name": {
+        "ja": "ケンタッキーフライドチキン",
+        "en": "KFC",
+        "zh": "肯德基"
+      },
+      "desc": {
+        "ja": "駅から約153mにある飲食店。chicken料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Su 07:00-22:30（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 153 m from the station. Serves chicken cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约153米的餐馆主营chicken，适合旅途中用餐，Mo-Su 07:00-22:30（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 153,
+      "walk_min": 2,
+      "hours": "Mo-Su 07:00-22:30 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.kfc.co.jp/",
+      "tel": "+81-42-5287320",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6990545,
+      "lon": 139.4147004
+    },
+    {
+      "id": "st04505-005",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "7-ELEVENのコンビニエンスストア。駅から約162mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 162 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约162米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 162,
+      "walk_min": 3,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.sej.co.jp/",
+      "tel": "+81 42-527-1763",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6966252,
+      "lon": 139.4139744
+    },
+    {
+      "id": "st04505-006",
+      "category": "shopping",
+      "name": {
+        "ja": "伊勢丹",
+        "en": "ISETAN",
+        "zh": "伊势丹"
+      },
+      "desc": {
+        "ja": "駅から約180mにある百貨店。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Department store about 180 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约180米的百货店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 180,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/93417200",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6996004,
+      "lon": 139.4130301
+    },
+    {
+      "id": "st04505-007",
+      "category": "post_office",
+      "name": {
+        "ja": "立川郵便局",
+        "en": "Tachikawa Post Office",
+        "zh": "立川邮政局"
+      },
+      "desc": {
+        "ja": "駅から約208mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 208 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约208米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 208,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/93417198",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6990311,
+      "lon": 139.4155038
+    },
+    {
+      "id": "st04505-008",
+      "category": "convenience",
+      "name": {
+        "ja": "ファミリーマート",
+        "en": "FamilyMart",
+        "zh": "全家便利店"
+      },
+      "desc": {
+        "ja": "FamilyMartのコンビニエンスストア。駅から約224mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 224 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约224米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 224,
+      "walk_min": 3,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "http://as.chizumaru.com/famima/detailMap?account=famima&bid=24416",
+      "tel": "+81 42 540 6026",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6985877,
+      "lon": 139.4159392
+    },
+    {
+      "id": "st04505-009",
+      "category": "food",
+      "name": {
+        "ja": "立川 田田",
+        "en": "Tachikawa dada",
+        "zh": "立川 田田"
+      },
+      "desc": {
+        "ja": "駅から約254mにある飲食店。ramen料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Su 11:00-02:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 254 m from the station. Serves ramen cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约254米的餐馆主营ramen，适合旅途中用餐，Mo-Su 11:00-02:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 254,
+      "walk_min": 4,
+      "hours": "Mo-Su 11:00-02:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5514131723",
+      "tel": "+81 42 595 6664",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6964868,
+      "lon": 139.4114933
+    },
+    {
+      "id": "st04505-010",
+      "category": "food",
+      "name": {
+        "ja": "立川マシマシ",
+        "en": "Tachikawa mashimashi",
+        "zh": "立川マシマシ"
+      },
+      "desc": {
+        "ja": "駅から約266mにある飲食店。ramen料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 266 m from the station. Serves ramen cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约266米的餐馆主营ramen，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 266,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5520500024",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6971551,
+      "lon": 139.4162924
+    },
+    {
+      "id": "st04505-011",
+      "category": "sight",
+      "name": {
+        "ja": "Faret Tachikawa",
+        "en": "Faret Tachikawa",
+        "zh": "Faret Tachikawa"
+      },
+      "desc": {
+        "ja": "駅から約385mにある観光スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Attraction about 385 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约385米的观光景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 385,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/10126140921",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7014984,
+      "lon": 139.4137667
+    },
+    {
+      "id": "st04505-012",
+      "category": "public_service",
+      "name": {
+        "ja": "立川市役所",
+        "en": "Tachikawa City Hall",
+        "zh": "立川市役所"
+      },
+      "desc": {
+        "ja": "駅から約1836mにある役所・行政施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Civic office about 1836 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1836米的行政机构，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1836,
+      "walk_min": 23,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.city.tachikawa.lg.jp/",
+      "tel": "+81-42-5232111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7138884,
+      "lon": 139.4078496
+    },
+    {
+      "id": "st04505-013",
+      "category": "sight",
+      "name": {
+        "ja": "国立極地研究所南極・北極科学館",
+        "en": "Polar Science Museum",
+        "zh": "国立極地研究所南極・北極科学馆"
+      },
+      "desc": {
+        "ja": "駅から約1575mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1575 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1575米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1575,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.nipr.ac.jp/science-museum/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7118027,
+      "lon": 139.4094381
+    },
+    {
+      "id": "st04505-014",
+      "category": "lodging",
+      "name": {
+        "ja": "ホテル日航立川東京",
+        "en": "hotel nikko tachikawa tokyo",
+        "zh": "ホテル日航立川东京"
+      },
+      "desc": {
+        "ja": "駅から約549mにある宿泊施設。観光やビジネスの拠点として利用できる。チェックイン時間は予約時に確認を。",
+        "en": "Lodging about 549 m from the station, a convenient base for sightseeing or business.",
+        "zh": "距站约549米的住宿设施，可作为观光或商务出行的落脚点，入住方式以预订信息为准。"
+      },
+      "distance_m": 549,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/655323325",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.696599,
+      "lon": 139.4193705
+    },
+    {
+      "id": "st04505-015",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "諏訪神社",
+        "en": "Suwa Shrine",
+        "zh": "諏訪神社"
+      },
+      "desc": {
+        "ja": "駅から約767mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 767 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约767米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 767,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "http://suwajinja.or.jp",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6948813,
+      "lon": 139.4059966
+    },
+    {
+      "id": "st04505-016",
+      "category": "sight",
+      "name": {
+        "ja": "昭和天皇記念館",
+        "en": "Emperor Shōwa Memorial Museum",
+        "zh": "昭和天皇纪念馆"
+      },
+      "desc": {
+        "ja": "駅から約781mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 781 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约781米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 781,
+      "walk_min": 10,
+      "hours": "Tu-Su 09:30-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://f-showa.or.jp/museum/",
+      "tel": "+81 42-540-0429",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7033315,
+      "lon": 139.4078602
+    },
+    {
+      "id": "st04505-017",
+      "category": "medical",
+      "name": {
+        "ja": "クリエイトSD",
+        "en": "Create SD",
+        "zh": "クリエイトSD"
+      },
+      "desc": {
+        "ja": "駅から約1439mにある薬局。体調を崩した際の受診や薬の購入に対応する。受付は10:00-22:00（JST）。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 1439 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1439米的药房，10:00-22:00（JST），旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1439,
+      "walk_min": 18,
+      "hours": "10:00-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.create-sd.co.jp/",
+      "tel": "+81-42-540-8131",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.708814,
+      "lon": 139.422376
+    },
+    {
+      "id": "st04505-018",
+      "category": "medical",
+      "name": {
+        "ja": "国立病院機構災害医療センター",
+        "en": "国立病院機構災害医療senta-",
+        "zh": "国立病院機構災害医療センター"
+      },
+      "desc": {
+        "ja": "駅から約1006mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 1006 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1006米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1006,
+      "walk_min": 13,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420771706",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.706531,
+      "lon": 139.409712
+    },
+    {
+      "id": "st04505-019",
+      "category": "police",
+      "name": {
+        "ja": "警視庁航空隊立川飛行センター",
+        "en": "警視庁航空隊立川飛行senta-",
+        "zh": "警視厅航空隊立川飛行センター"
+      },
+      "desc": {
+        "ja": "駅から約1666mにある警察署。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1666 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1666米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1666,
+      "walk_min": 21,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/400921583",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7117029,
+      "lon": 139.4059673
+    },
+    {
+      "id": "st04505-020",
+      "category": "park",
+      "name": {
+        "ja": "国営昭和記念公園",
+        "en": "Shōwa Memorial Park",
+        "zh": "国営昭和纪念公园"
+      },
+      "desc": {
+        "ja": "駅から約1912mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1912 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1912米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1912,
+      "walk_min": 24,
+      "hours": "Mar 01-Oct 31 Mo-Su 09:00-17:30; Nov 01-Feb 29 Mo-Su 09:30-16:30; Apr 01-Sep 30 Mo-Su 09:30-18:00; Dec 31-Jan 01 off; Jan Mo [4] off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.showakinen-koen.jp/",
+      "tel": "+81 42-540-0429",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7112497,
+      "lon": 139.4000016
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 549,
+    "floor_check": {
+      "medical": {
+        "candidates": 33,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 23,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 68,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 11,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 15,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 1,
+        "selected": 1
+      }
+    }
+  }
+}
