@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-05T21:35:34Z",
+  "updated_at": "2026-11-05T21:36:00Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 95,
+  "done": 96,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -17,7 +17,7 @@
     "宮城県": 1,
     "広島県": 1,
     "徳島県": 1,
-    "東京都": 87,
+    "東京都": 88,
     "群馬県": 1
   },
   "batches": [
@@ -155,37 +155,38 @@
         "st04471",
         "st04472",
         "st04483",
-        "st04505"
+        "st04505",
+        "st04506"
       ],
-      "poi_total": 1695,
+      "poi_total": 1714,
       "category_counts": {
-        "bank_atm": 90,
-        "cafe": 76,
-        "convenience": 94,
-        "food": 91,
+        "bank_atm": 91,
+        "cafe": 77,
+        "convenience": 95,
+        "food": 94,
         "lodging": 81,
-        "medical": 102,
+        "medical": 104,
         "onsen_sento": 8,
         "park": 94,
-        "police": 87,
-        "post_office": 90,
-        "public_service": 96,
-        "shopping": 125,
+        "police": 88,
+        "post_office": 92,
+        "public_service": 98,
+        "shopping": 128,
         "shrine_temple": 183,
-        "sight": 406,
+        "sight": 409,
         "tourist_info": 72
       },
-      "hours_null": 732,
-      "official_url_own": 1009,
+      "hours_null": 740,
+      "official_url_own": 1017,
       "official_url_map": 0,
       "official_url_pending": 244,
-      "official_site_hours_coverage": 0.727,
+      "official_site_hours_coverage": 0.728,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "立川 (st04505): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=549（精确）"
+        "note": "国立 (st04506): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=349（精确）"
       }
     }
   ]
