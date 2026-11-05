@@ -1,0 +1,639 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st01893",
+    "name": {
+      "ja": "新横浜",
+      "en": "Shin-Yokohama",
+      "zh": "新横滨"
+    },
+    "line_group": [
+      "埼玉高速鉄道線",
+      "東急新横浜線",
+      "東横線",
+      "東海道新幹線",
+      "横浜市営地下鉄1号線",
+      "横浜市営地下鉄3号線",
+      "横浜線",
+      "目黒線",
+      "相鉄新横浜線",
+      "相鉄本線"
+    ],
+    "pref": "神奈川県",
+    "lat": 35.508123,
+    "lon": 139.617129
+  },
+  "generated_at": "2026-11-05T23:56:46Z",
+  "pois": [
+    {
+      "id": "st01893-001",
+      "category": "cafe",
+      "name": {
+        "ja": "タリーズコーヒー",
+        "en": "Tully's Coffee",
+        "zh": "塔利咖啡"
+      },
+      "desc": {
+        "ja": "駅から約237mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。Mo-Fr 07:30-20:00; Sa-Su 08:00-19:00（JST）。",
+        "en": "Cafe about 237 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约237米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 237,
+      "walk_min": 3,
+      "hours": "Mo-Fr 07:30-20:00; Sa-Su 08:00-19:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://shop.tullys.co.jp/detail/1000159",
+      "tel": "045-478-3343",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5088127,
+      "lon": 139.6146468
+    },
+    {
+      "id": "st01893-002",
+      "category": "bank_atm",
+      "name": {
+        "ja": "横浜銀行",
+        "en": "Bank of Yokohama",
+        "zh": "横滨银行"
+      },
+      "desc": {
+        "ja": "横浜銀行の支店。駅から約104mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 104 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约104米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 104,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4507519515",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5087466,
+      "lon": 139.6179835
+    },
+    {
+      "id": "st01893-003",
+      "category": "food",
+      "name": {
+        "ja": "キリンシティ新横浜",
+        "en": "kirinshitei新横浜",
+        "zh": "キリンシティ新横滨"
+      },
+      "desc": {
+        "ja": "駅から約181mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 181 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约181米的餐馆适合旅途中用餐，菜单与价格以店内展示内容为准，具体信息以现场为准。"
+      },
+      "distance_m": 181,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.kirincity.co.jp/",
+      "tel": "+81 45-470-2378",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.508562,
+      "lon": 139.619056
+    },
+    {
+      "id": "st01893-004",
+      "category": "post_office",
+      "name": {
+        "ja": "横浜篠原郵便局",
+        "en": "横滨篠原 Post Office",
+        "zh": "横滨篠原邮政局"
+      },
+      "desc": {
+        "ja": "駅から約194mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 194 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约194米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 194,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/10179693111",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5082359,
+      "lon": 139.6192681,
+      "official_url_pending": "https://map.japanpost.jp/p/search/dtl/300102626000/"
+    },
+    {
+      "id": "st01893-005",
+      "category": "convenience",
+      "name": {
+        "ja": "ファミリーマート",
+        "en": "FamilyMart",
+        "zh": "全家便利店"
+      },
+      "desc": {
+        "ja": "FamilyMartのコンビニエンスストア。駅から約246mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 246 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约246米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 246,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "http://as.chizumaru.com/famima/detailMap?account=famima&bid=19228",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5097627,
+      "lon": 139.6189524
+    },
+    {
+      "id": "st01893-006",
+      "category": "lodging",
+      "name": {
+        "ja": "新横浜国際ホテル",
+        "en": "新横浜国際hoteru",
+        "zh": "新横滨国際ホテル"
+      },
+      "desc": {
+        "ja": "駅から約213mにある宿泊施設。観光やビジネスの拠点として利用できる。チェックイン時間は予約時に確認を。",
+        "en": "Lodging about 213 m from the station, a convenient base for sightseeing or business.",
+        "zh": "距站约213米的住宿设施，可作为观光或商务出行的落脚点，入住方式以预订信息为准。"
+      },
+      "distance_m": 213,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1912329743",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5100088,
+      "lon": 139.6166965
+    },
+    {
+      "id": "st01893-007",
+      "category": "food",
+      "name": {
+        "ja": "ROOF TOP BBQ BREEZE TERRACE",
+        "en": "ROOF TOP BBQ BREEZE TERRACE",
+        "zh": "ROOF TOP BBQ BREEZE TERRACE"
+      },
+      "desc": {
+        "ja": "駅から約295mにある飲食店。barbecue料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 295 m from the station. Serves barbecue cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约295米的餐馆主营barbecue，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 295,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.princehotels.co.jp/shinyokohama/restaurant/contents/rooftop-bbq/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5096308,
+      "lon": 139.6198053
+    },
+    {
+      "id": "st01893-008",
+      "category": "lodging",
+      "name": {
+        "ja": "新横浜プリンスホテル",
+        "en": "Shin Yokohama Prince Hotel",
+        "zh": "新橫濱王子大飯店"
+      },
+      "desc": {
+        "ja": "駅から約302mにある宿泊施設。観光やビジネスの拠点として利用できる。チェックイン時間は予約時に確認を。",
+        "en": "Lodging about 302 m from the station, a convenient base for sightseeing or business.",
+        "zh": "距站约302米的住宿设施，可作为观光或商务出行的落脚点，入住方式以预订信息为准。"
+      },
+      "distance_m": 302,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1704637305",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5100187,
+      "lon": 139.6195177
+    },
+    {
+      "id": "st01893-009",
+      "category": "sight",
+      "name": {
+        "ja": "新横浜ラーメン博物館",
+        "en": "Shin-Yokohama Ramen Museum",
+        "zh": "新横滨ラーメン博物馆"
+      },
+      "desc": {
+        "ja": "駅から約304mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 304 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约304米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 304,
+      "walk_min": 4,
+      "hours": "Su-Fr 11:00-22:00; Sa 10:30-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.raumen.co.jp/",
+      "tel": "+81454710503",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5098496,
+      "lon": 139.6145269
+    },
+    {
+      "id": "st01893-010",
+      "category": "food",
+      "name": {
+        "ja": "Cocorotus Foodtruck",
+        "en": "Cocorotus Foodtruck",
+        "zh": "Cocorotus Foodtruck"
+      },
+      "desc": {
+        "ja": "駅から約347mにある飲食店。asian料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はWe 11:00-14:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 347 m from the station. Serves asian cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约347米的餐馆主营asian，适合旅途中用餐，We 11:00-14:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 347,
+      "walk_min": 5,
+      "hours": "We 11:00-14:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://cocorotus.com",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5112325,
+      "lon": 139.6173964
+    },
+    {
+      "id": "st01893-011",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "7-ELEVENのコンビニエンスストア。駅から約538mの場所にあり、Mo-Fr 08:00-20:00（JST）。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 538 m from the station. Mo-Fr 08:00-20:00 (JST). Stocks meals, drinks and daily necessities.",
+        "zh": "距站约538米的便利店，Mo-Fr 08:00-20:00（JST），可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 538,
+      "walk_min": 7,
+      "hours": "Mo-Fr 08:00-20:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.sej.co.jp",
+      "tel": "+81 45 471 3037",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5072965,
+      "lon": 139.6112696
+    },
+    {
+      "id": "st01893-012",
+      "category": "medical",
+      "name": {
+        "ja": "横浜労災病院",
+        "en": "Yokohama Rosai Hospital",
+        "zh": "横滨労災病院"
+      },
+      "desc": {
+        "ja": "駅から約622mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 622 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约622米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 622,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/131931098",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5110184,
+      "lon": 139.6112516
+    },
+    {
+      "id": "st01893-013",
+      "category": "police",
+      "name": {
+        "ja": "港北警察署",
+        "en": "Kohoku Police Station",
+        "zh": "港北警察署"
+      },
+      "desc": {
+        "ja": "駅から約813mにある警察署。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 813 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约813米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 813,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.police.pref.kanagawa.jp/ps/kouhoku/",
+      "tel": "+81 45 546 0110",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5144062,
+      "lon": 139.6217251
+    },
+    {
+      "id": "st01893-014",
+      "category": "shopping",
+      "name": {
+        "ja": "デューカ ディ カマストラ",
+        "en": "Duca di Camastra",
+        "zh": "Deyu-ka Dei Kamasutora"
+      },
+      "desc": {
+        "ja": "駅から約1763mにあるベーカリー。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Bakery about 1763 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1763米的面包店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1763,
+      "walk_min": 23,
+      "hours": "Mo-Sa 08:30-19:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1950969648",
+      "tel": "+81 45-717-5993",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.4982401,
+      "lon": 139.6323532,
+      "official_url_pending": "http://www.camastra.jp"
+    },
+    {
+      "id": "st01893-015",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "篠原八幡神社",
+        "en": "Shinohara Hachiman Shrine",
+        "zh": "篠原八幡神社"
+      },
+      "desc": {
+        "ja": "駅から約669mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 669 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约669米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 669,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/124771990",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.505148,
+      "lon": 139.6235489
+    },
+    {
+      "id": "st01893-016",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "菊名池弁財天",
+        "en": "Kikuna ike benzai-ten",
+        "zh": "菊名池弁財天"
+      },
+      "desc": {
+        "ja": "駅から約1691mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1691 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1691米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1691,
+      "walk_min": 22,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/547374856",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.4989808,
+      "lon": 139.632061
+    },
+    {
+      "id": "st01893-017",
+      "category": "park",
+      "name": {
+        "ja": "岸根公園",
+        "en": "Kishine park",
+        "zh": "岸根公园"
+      },
+      "desc": {
+        "ja": "駅から約1537mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1537 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1537米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1537,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/123421352",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.4944322,
+      "lon": 139.6148108
+    },
+    {
+      "id": "st01893-018",
+      "category": "post_office",
+      "name": {
+        "ja": "港北郵便局",
+        "en": "Kouhoku Post Office",
+        "zh": "港北邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1583mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1583 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1583米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 1583,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1396727079",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.514826,
+      "lon": 139.632556,
+      "official_url_pending": "https://map.japanpost.jp/p/search/dtl/300102386000/"
+    },
+    {
+      "id": "st01893-019",
+      "category": "medical",
+      "name": {
+        "ja": "ホッペ薬局 新横浜駅店",
+        "en": "hope薬局 新横浜駅店",
+        "zh": "ホッペ薬局 新横滨站店"
+      },
+      "desc": {
+        "ja": "駅から約129mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 129 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约129米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 129,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.sinseido.info/",
+      "tel": "045-624-9182",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5070449,
+      "lon": 139.6176609
+    },
+    {
+      "id": "st01893-020",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "長光山 妙蓮寺",
+        "en": "Choukouzan Myourenji",
+        "zh": "长光山 妙蓮寺"
+      },
+      "desc": {
+        "ja": "駅から約1884mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 1884 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1884米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1884,
+      "walk_min": 24,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://myorenji.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.4982903,
+      "lon": 139.6340838
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 417,
+    "floor_check": {
+      "medical": {
+        "candidates": 48,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 20,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 69,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 13,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 5,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
