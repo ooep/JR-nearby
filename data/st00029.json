@@ -1,0 +1,540 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st00029",
+    "name": {
+      "ja": "橋本",
+      "en": "Hashimoto",
+      "zh": "桥本"
+    },
+    "line_group": [
+      "横浜線",
+      "相模原線",
+      "相模線"
+    ],
+    "pref": "神奈川県",
+    "lat": 35.594869,
+    "lon": 139.344435
+  },
+  "generated_at": "2026-11-05T22:42:44Z",
+  "pois": [
+    {
+      "id": "st00029-001",
+      "category": "cafe",
+      "name": {
+        "ja": "BECK'S COFFEE SHOP",
+        "en": "BECK'S COFFEE SHOP",
+        "zh": "BECK'S COFFEE SHOP"
+      },
+      "desc": {
+        "ja": "駅から約34mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。Mo-Fr 06:30-22:00; Sa-Su 07:00-21:00（JST）。",
+        "en": "Cafe about 34 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约34米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 34,
+      "walk_min": 1,
+      "hours": "Mo-Fr 06:30-22:00; Sa-Su 07:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1832070668",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.594912,
+      "lon": 139.3448096,
+      "official_url_pending": "https://www.jefb.co.jp/becks/shop/"
+    },
+    {
+      "id": "st00029-002",
+      "category": "bank_atm",
+      "name": {
+        "ja": "VIEW ALTTE",
+        "en": "VIEW ALTTE",
+        "zh": "VIEW ALTTE"
+      },
+      "desc": {
+        "ja": "VIEW ALTTEのATM。駅から約39mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 39 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约39米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 39,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/10983338560",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5946279,
+      "lon": 139.344743
+    },
+    {
+      "id": "st00029-003",
+      "category": "food",
+      "name": {
+        "ja": "日高屋",
+        "en": "Hidakaya",
+        "zh": "日高屋"
+      },
+      "desc": {
+        "ja": "駅から約43mにある飲食店。noodle料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Sa 08:00-01:00; PH,Su 08:00-23:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 43 m from the station. Serves noodle cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约43米的餐馆主营noodle，适合旅途中用餐，Mo-Sa 08:00-01:00; PH,Su 08:00-23:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 43,
+      "walk_min": 1,
+      "hours": "Mo-Sa 08:00-01:00; PH,Su 08:00-23:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/9582797773",
+      "tel": "+81 42 772 0103",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5952202,
+      "lon": 139.3446468
+    },
+    {
+      "id": "st00029-004",
+      "category": "food",
+      "name": {
+        "ja": "マクドナルド",
+        "en": "McDonald's",
+        "zh": "麦当劳"
+      },
+      "desc": {
+        "ja": "駅から約90mにある飲食店。burger料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Su 06:00-01:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 90 m from the station. Serves burger cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约90米的餐馆主营burger，适合旅途中用餐，Mo-Su 06:00-01:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 90,
+      "walk_min": 2,
+      "hours": "Mo-Su 06:00-01:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://map.mcdonalds.co.jp/map/14654",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5942665,
+      "lon": 139.3451011
+    },
+    {
+      "id": "st00029-005",
+      "category": "shopping",
+      "name": {
+        "ja": "ミウィ橋本",
+        "en": "Mewe Hashimoto",
+        "zh": "ミウィ桥本"
+      },
+      "desc": {
+        "ja": "駅から約119mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 119 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约119米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 119,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/58199839",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5950155,
+      "lon": 139.3457394
+    },
+    {
+      "id": "st00029-006",
+      "category": "public_service",
+      "name": {
+        "ja": "橋本ライフタウン自治センター",
+        "en": "橋本raifutaun自治senta-",
+        "zh": "桥本ライフタウン自治センター"
+      },
+      "desc": {
+        "ja": "駅から約660mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 660 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约660米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 660,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/791630978",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5893793,
+      "lon": 139.3416669
+    },
+    {
+      "id": "st00029-007",
+      "category": "shopping",
+      "name": {
+        "ja": "イオン",
+        "en": "AEON",
+        "zh": "永旺"
+      },
+      "desc": {
+        "ja": "駅から約146mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 146 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约146米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 146,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/172138436",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5961454,
+      "lon": 139.3448175
+    },
+    {
+      "id": "st00029-008",
+      "category": "convenience",
+      "name": {
+        "ja": "ローソン",
+        "en": "Lawson",
+        "zh": "罗森"
+      },
+      "desc": {
+        "ja": "LAWSONのコンビニエンスストア。駅から約163mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 163 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约163米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 163,
+      "walk_min": 3,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/4713689392",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5962691,
+      "lon": 139.3439145,
+      "official_url_pending": "https://www.e-map.ne.jp/p/lawson/dtl/120804/"
+    },
+    {
+      "id": "st00029-009",
+      "category": "tourist_info",
+      "name": {
+        "ja": "相模原観光協会",
+        "en": "相模原 Tourist Association",
+        "zh": "相模原观光協会"
+      },
+      "desc": {
+        "ja": "駅から約224mにある観光案内所。周辺の観光情報や地図、施設案内を提供している。散策の前に立ち寄ると便利。",
+        "en": "Tourist information office about 224 m from the station, with maps and local guidance.",
+        "zh": "距站约224米的观光服务台，提供周边旅游信息、地图与咨询服务，可先在此规划行程。"
+      },
+      "distance_m": 224,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4929724897",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5966265,
+      "lon": 139.3456438
+    },
+    {
+      "id": "st00029-010",
+      "category": "post_office",
+      "name": {
+        "ja": "ヤマト運輸",
+        "en": "yamato運輸",
+        "zh": "ヤマト運輸"
+      },
+      "desc": {
+        "ja": "駅から約1535mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1535 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1535米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 1535,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/12372322140",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5811855,
+      "lon": 139.3421769
+    },
+    {
+      "id": "st00029-011",
+      "category": "shopping",
+      "name": {
+        "ja": "アリオ橋本",
+        "en": "Ario",
+        "zh": "アリオ桥本"
+      },
+      "desc": {
+        "ja": "駅から約630mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 630 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约630米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 630,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/84880106",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5909206,
+      "lon": 139.349425
+    },
+    {
+      "id": "st00029-012",
+      "category": "food",
+      "name": {
+        "ja": "松屋",
+        "en": "Matsuya",
+        "zh": "松屋"
+      },
+      "desc": {
+        "ja": "駅から約168mにある飲食店。beef_bowl料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は24時間営業。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 168 m from the station. Serves beef_bowl cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约168米的餐馆主营beef_bowl，适合旅途中用餐，全天24小时营业，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 168,
+      "walk_min": 3,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2708085958",
+      "tel": "+81-42-700-1531",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5962147,
+      "lon": 139.3452774
+    },
+    {
+      "id": "st00029-013",
+      "category": "post_office",
+      "name": {
+        "ja": "橋本郵便局",
+        "en": "桥本 Post Office",
+        "zh": "桥本邮政局"
+      },
+      "desc": {
+        "ja": "駅から約823mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 823 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约823米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 823,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/500001344",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5975719,
+      "lon": 139.3359666,
+      "official_url_pending": "http://map.japanpost.jp/p/search/dtl/300109033000/"
+    },
+    {
+      "id": "st00029-014",
+      "category": "police",
+      "name": {
+        "ja": "相模原北警察署",
+        "en": "相模原北 Police Station",
+        "zh": "相模原北警察署"
+      },
+      "desc": {
+        "ja": "駅から約933mにある警察署。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 933 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约933米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 933,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.police.pref.kanagawa.jp/ps/sagamiharakita/",
+      "tel": "+81 42 700 0110",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.595452,
+      "lon": 139.3341391
+    },
+    {
+      "id": "st00029-015",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "7-ELEVENのコンビニエンスストア。駅から約1521mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 1521 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约1521米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 1521,
+      "walk_min": 20,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.sej.co.jp/",
+      "tel": "+81 42-771-1019",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6068942,
+      "lon": 139.3524466
+    },
+    {
+      "id": "st00029-016",
+      "category": "medical",
+      "name": {
+        "ja": "相模原協同病院",
+        "en": "Sagamihara Kyodo Hospital",
+        "zh": "相模原協同病院"
+      },
+      "desc": {
+        "ja": "駅から約1966mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 1966 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1966米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1966,
+      "walk_min": 25,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/680627376",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5889844,
+      "lon": 139.3239357
+    },
+    {
+      "id": "st00029-017",
+      "category": "medical",
+      "name": {
+        "ja": "オレンジ薬局",
+        "en": "orenji薬局",
+        "zh": "オレンジ薬局"
+      },
+      "desc": {
+        "ja": "駅から約1992mにある薬局。体調を崩した際の受診や薬の購入に対応する。受付はMo-Su 09:00-18:00（JST）。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 1992 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1992米的药房，Mo-Su 09:00-18:00（JST），旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1992,
+      "walk_min": 25,
+      "hours": "Mo-Su 09:00-18:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/10996137200",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6127639,
+      "lon": 139.3454564,
+      "official_url_pending": "https://www.kusurinomadoguchi.com/tokyo/s1000003886"
+    }
+  ],
+  "coverage": {
+    "poi_count": 17,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 368,
+    "floor_check": {
+      "medical": {
+        "candidates": 31,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 13,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 58,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 7,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 6,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 1,
+        "selected": 1
+      }
+    }
+  }
+}
