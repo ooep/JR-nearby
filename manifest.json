@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-05T07:25:05Z",
+  "updated_at": "2026-11-05T07:56:44Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 36,
+  "done": 37,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -17,7 +17,7 @@
     "宮城県": 1,
     "広島県": 1,
     "徳島県": 1,
-    "東京都": 28,
+    "東京都": 29,
     "群馬県": 1
   },
   "batches": [
@@ -96,37 +96,38 @@
         "st01491",
         "st01494",
         "st01496",
-        "st01516"
+        "st01516",
+        "st01518"
       ],
-      "poi_total": 518,
+      "poi_total": 538,
       "category_counts": {
-        "bank_atm": 28,
-        "cafe": 25,
-        "convenience": 26,
-        "food": 36,
+        "bank_atm": 29,
+        "cafe": 26,
+        "convenience": 27,
+        "food": 39,
         "lodging": 20,
-        "medical": 30,
+        "medical": 31,
         "onsen_sento": 3,
-        "park": 30,
-        "police": 27,
-        "post_office": 26,
+        "park": 31,
+        "police": 28,
+        "post_office": 27,
         "public_service": 30,
-        "shopping": 35,
+        "shopping": 37,
         "shrine_temple": 56,
-        "sight": 121,
-        "tourist_info": 25
+        "sight": 128,
+        "tourist_info": 26
       },
-      "hours_null": 202,
-      "official_url_own": 319,
+      "hours_null": 206,
+      "official_url_own": 333,
       "official_url_map": 0,
-      "official_url_pending": 83,
-      "official_site_hours_coverage": 0.74,
+      "official_url_pending": 86,
+      "official_site_hours_coverage": 0.748,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "日暮里 (st01516): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=4586（精确）"
+        "note": "大手町 (st01518): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=7908（精确）"
       }
     }
   ]
