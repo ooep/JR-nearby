@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-05T21:20:33Z",
+  "updated_at": "2026-11-05T21:21:02Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 91,
+  "done": 92,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -17,7 +17,7 @@
     "宮城県": 1,
     "広島県": 1,
     "徳島県": 1,
-    "東京都": 83,
+    "東京都": 84,
     "群馬県": 1
   },
   "batches": [
@@ -151,37 +151,38 @@
         "st04342",
         "st04365",
         "st04463",
-        "st04464"
+        "st04464",
+        "st04471"
       ],
-      "poi_total": 1615,
+      "poi_total": 1635,
       "category_counts": {
-        "bank_atm": 86,
-        "cafe": 72,
-        "convenience": 89,
+        "bank_atm": 87,
+        "cafe": 73,
+        "convenience": 90,
         "food": 87,
-        "lodging": 77,
-        "medical": 97,
+        "lodging": 79,
+        "medical": 98,
         "onsen_sento": 8,
-        "park": 89,
-        "police": 83,
-        "post_office": 86,
-        "public_service": 93,
+        "park": 90,
+        "police": 84,
+        "post_office": 87,
+        "public_service": 94,
         "shopping": 123,
-        "shrine_temple": 173,
-        "sight": 384,
-        "tourist_info": 68
+        "shrine_temple": 176,
+        "sight": 390,
+        "tourist_info": 69
       },
-      "hours_null": 704,
-      "official_url_own": 958,
+      "hours_null": 710,
+      "official_url_own": 971,
       "official_url_map": 0,
-      "official_url_pending": 235,
-      "official_site_hours_coverage": 0.722,
+      "official_url_pending": 239,
+      "official_site_hours_coverage": 0.726,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "東中野 (st04464): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=1207（精确）"
+        "note": "代々木 (st04471): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=1556（窗口下限，细分重抓后仍有残漏）"
       }
     }
   ]
