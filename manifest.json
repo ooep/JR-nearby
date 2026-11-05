@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-05T19:17:58Z",
+  "updated_at": "2026-11-05T19:18:28Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 66,
+  "done": 67,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -17,7 +17,7 @@
     "宮城県": 1,
     "広島県": 1,
     "徳島県": 1,
-    "東京都": 58,
+    "東京都": 59,
     "群馬県": 1
   },
   "batches": [
@@ -126,37 +126,38 @@
         "st02136",
         "st02137",
         "st02139",
-        "st02142"
+        "st02142",
+        "st02144"
       ],
-      "poi_total": 1115,
+      "poi_total": 1135,
       "category_counts": {
-        "bank_atm": 59,
-        "cafe": 52,
-        "convenience": 61,
-        "food": 66,
-        "lodging": 54,
-        "medical": 67,
+        "bank_atm": 60,
+        "cafe": 53,
+        "convenience": 62,
+        "food": 68,
+        "lodging": 55,
+        "medical": 68,
         "onsen_sento": 5,
         "park": 56,
-        "police": 58,
-        "post_office": 58,
-        "public_service": 61,
-        "shopping": 90,
-        "shrine_temple": 111,
-        "sight": 268,
-        "tourist_info": 49
+        "police": 59,
+        "post_office": 59,
+        "public_service": 62,
+        "shopping": 92,
+        "shrine_temple": 112,
+        "sight": 274,
+        "tourist_info": 50
       },
-      "hours_null": 459,
-      "official_url_own": 668,
+      "hours_null": 463,
+      "official_url_own": 683,
       "official_url_map": 0,
-      "official_url_pending": 172,
-      "official_site_hours_coverage": 0.744,
+      "official_url_pending": 175,
+      "official_site_hours_coverage": 0.747,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "吉祥寺 (st01857): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=925（精确）"
+        "note": "茅場町 (st02144): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=2214（窗口下限，细分重抓后仍有残漏）"
       }
     }
   ]
