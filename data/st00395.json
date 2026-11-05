@@ -1,0 +1,634 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st00395",
+    "name": {
+      "ja": "博多",
+      "en": "Hakata",
+      "zh": "博多"
+    },
+    "line_group": [
+      "七隈線",
+      "九州新幹線",
+      "博多南線",
+      "大村線",
+      "宮崎空港線",
+      "山陽新幹線",
+      "東海道新幹線",
+      "福岡市地下鉄空港線",
+      "筑肥線",
+      "鹿児島本線"
+    ],
+    "pref": "福岡県",
+    "lat": 33.590491,
+    "lon": 130.420844
+  },
+  "generated_at": "2026-11-05T22:51:31Z",
+  "pois": [
+    {
+      "id": "st00395-001",
+      "category": "food",
+      "name": {
+        "ja": "AMU PLAZA",
+        "en": "AMU PLAZA",
+        "zh": "AMU PLAZA"
+      },
+      "desc": {
+        "ja": "駅から約120mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 120 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约120米的餐馆适合旅途中用餐，菜单与价格以店内展示内容为准，具体信息以现场为准。"
+      },
+      "distance_m": 120,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6837241587",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.5898031,
+      "lon": 130.4198413
+    },
+    {
+      "id": "st00395-002",
+      "category": "shopping",
+      "name": {
+        "ja": "Kitte Hakata",
+        "en": "Kitte Hakata",
+        "zh": "Kitte Hakata"
+      },
+      "desc": {
+        "ja": "駅から約220mにある百貨店。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Department store about 220 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约220米的百货店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 220,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/683271777",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.5888886,
+      "lon": 130.4194425
+    },
+    {
+      "id": "st00395-003",
+      "category": "shopping",
+      "name": {
+        "ja": "マルイ",
+        "en": "Marui",
+        "zh": "丸井"
+      },
+      "desc": {
+        "ja": "駅から約233mにある百貨店。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Department store about 233 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约233米的百货店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 233,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.0101.co.jp/090/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.5889104,
+      "lon": 130.4191923
+    },
+    {
+      "id": "st00395-004",
+      "category": "lodging",
+      "name": {
+        "ja": "コンフォートホテル博多",
+        "en": "Comfort Hotel Hakata",
+        "zh": "コンフォートホテル博多"
+      },
+      "desc": {
+        "ja": "駅から約245mにある宿泊施設。観光やビジネスの拠点として利用できる。チェックイン時間は予約時に確認を。",
+        "en": "Lodging about 245 m from the station, a convenient base for sightseeing or business.",
+        "zh": "距站约245米的住宿设施，可作为观光或商务出行的落脚点，入住方式以预订信息为准。"
+      },
+      "distance_m": 245,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1692661069",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.5908072,
+      "lon": 130.4182216
+    },
+    {
+      "id": "st00395-005",
+      "category": "convenience",
+      "name": {
+        "ja": "ローソン",
+        "en": "Lawson",
+        "zh": "Lawson 博多站筑紫口店"
+      },
+      "desc": {
+        "ja": "LAWSONのコンビニエンスストア。駅から約247mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 247 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约247米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 247,
+      "walk_min": 4,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2294069429",
+      "tel": "092-472-7557",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.5898275,
+      "lon": 130.4233932
+    },
+    {
+      "id": "st00395-006",
+      "category": "bank_atm",
+      "name": {
+        "ja": "西日本シティ銀行",
+        "en": "Nishi Nippon City Bank",
+        "zh": "西日本シティ银行"
+      },
+      "desc": {
+        "ja": "西日本シティ銀行の支店。駅から約288mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 288 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约288米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 288,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/719950083",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.5891542,
+      "lon": 130.4181832
+    },
+    {
+      "id": "st00395-007",
+      "category": "post_office",
+      "name": {
+        "ja": "博多郵便局",
+        "en": "Hakata Post Office",
+        "zh": "博多邮局"
+      },
+      "desc": {
+        "ja": "駅から約303mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 303 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约303米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 303,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423757661",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.5882035,
+      "lon": 130.4190615
+    },
+    {
+      "id": "st00395-008",
+      "category": "lodging",
+      "name": {
+        "ja": "ホテル日航福岡",
+        "en": "Hotel Nikko Fukuoka",
+        "zh": "ホテル日航福冈"
+      },
+      "desc": {
+        "ja": "駅から約357mにある宿泊施設。観光やビジネスの拠点として利用できる。チェックイン時間は予約時に確認を。",
+        "en": "Lodging about 357 m from the station, a convenient base for sightseeing or business.",
+        "zh": "距站约357米的住宿设施，可作为观光或商务出行的落脚点，入住方式以预订信息为准。"
+      },
+      "distance_m": 357,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.hotelnikko-fukuoka.com/",
+      "tel": "+81 92-482-1111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.5915085,
+      "lon": 130.4171923
+    },
+    {
+      "id": "st00395-009",
+      "category": "bank_atm",
+      "name": {
+        "ja": "三井住友銀行",
+        "en": "Sumitomo Mitsui Banking Corporation",
+        "zh": "三井住友银行"
+      },
+      "desc": {
+        "ja": "三井住友銀行の支店。駅から約230mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 230 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约230米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 230,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5694388053",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.5913809,
+      "lon": 130.4186076
+    },
+    {
+      "id": "st00395-010",
+      "category": "food",
+      "name": {
+        "ja": "博多一幸舎 総本店",
+        "en": "Hakata Ikkousha",
+        "zh": "博多一幸舍"
+      },
+      "desc": {
+        "ja": "駅から約429mにある飲食店。ramen料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Sa 11:00-24:00; Su 11:00-21:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 429 m from the station. Serves ramen cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约429米的餐馆主营ramen，适合旅途中用餐，Mo-Sa 11:00-24:00; Su 11:00-21:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 429,
+      "walk_min": 6,
+      "hours": "Mo-Sa 11:00-24:00; Su 11:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.ikkousha.com/",
+      "tel": "092-432-1190",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.5882444,
+      "lon": 130.4170779
+    },
+    {
+      "id": "st00395-011",
+      "category": "sight",
+      "name": {
+        "ja": "博多千年門",
+        "en": "Hakata Sennen-no-Mon Gate",
+        "zh": "博多千年门"
+      },
+      "desc": {
+        "ja": "駅から約556mにある観光スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Attraction about 556 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约556米的观光景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 556,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/611032667",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.5944126,
+      "lon": 130.4171219
+    },
+    {
+      "id": "st00395-012",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "若八幡宮",
+        "en": "Wakahachimangu",
+        "zh": "若八幡宫"
+      },
+      "desc": {
+        "ja": "駅から約579mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 579 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约579米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 579,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/1227177910",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.5951008,
+      "lon": 130.4179485
+    },
+    {
+      "id": "st00395-013",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "東長寺",
+        "en": "Tōchō Temple",
+        "zh": "东长寺"
+      },
+      "desc": {
+        "ja": "駅から約827mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 827 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约827米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 827,
+      "walk_min": 11,
+      "hours": "Mo-Su 09:00-16:45 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.tochoji.net/",
+      "tel": "+81 92-291-4459",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.5951689,
+      "lon": 130.4139072
+    },
+    {
+      "id": "st00395-014",
+      "category": "sight",
+      "name": {
+        "ja": "博多町家鄉土館",
+        "en": "Hakata Machiya Folk Museum",
+        "zh": "博多町家鄉土馆"
+      },
+      "desc": {
+        "ja": "駅から約934mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 934 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约934米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 934,
+      "walk_min": 12,
+      "hours": "Mo-Su 10:00-18:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.hakatamachiya.com/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.5936544,
+      "lon": 130.4115066
+    },
+    {
+      "id": "st00395-015",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "櫛田神社",
+        "en": "Kushida Shrine",
+        "zh": "櫛田神社"
+      },
+      "desc": {
+        "ja": "駅から約983mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 983 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约983米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 983,
+      "walk_min": 13,
+      "hours": "Mo-Su 04:00-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/45779975",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.5930723,
+      "lon": 130.4106976
+    },
+    {
+      "id": "st00395-016",
+      "category": "police",
+      "name": {
+        "ja": "福岡中央警察署",
+        "en": "Chuo Police Station",
+        "zh": "福冈中央警察署"
+      },
+      "desc": {
+        "ja": "駅から約1761mにある警察署。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1761 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1761米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1761,
+      "walk_min": 23,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/178655085",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.5892435,
+      "lon": 130.4018903
+    },
+    {
+      "id": "st00395-017",
+      "category": "public_service",
+      "name": {
+        "ja": "福岡市役所",
+        "en": "Fukuoka City Hall",
+        "zh": "福冈市役所"
+      },
+      "desc": {
+        "ja": "駅から約1802mにある役所・行政施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Civic office about 1802 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1802米的行政机构，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1802,
+      "walk_min": 23,
+      "hours": "Mo-Fr 08:45-18:00; PH off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.city.fukuoka.lg.jp/",
+      "tel": "+81 92 711 4111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.5900714,
+      "lon": 130.4013982
+    },
+    {
+      "id": "st00395-018",
+      "category": "medical",
+      "name": {
+        "ja": "済生会福岡総合病院",
+        "en": "Saiseikai Fukuoka General Hospital",
+        "zh": "济生会福冈総合病院"
+      },
+      "desc": {
+        "ja": "駅から約1666mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 1666 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1666米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1666,
+      "walk_min": 21,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/315455100",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.589397,
+      "lon": 130.4029102
+    },
+    {
+      "id": "st00395-019",
+      "category": "shopping",
+      "name": {
+        "ja": "三越",
+        "en": "MITSUKOSHI",
+        "zh": "福冈三越"
+      },
+      "desc": {
+        "ja": "駅から約1924mにある百貨店。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Department store about 1924 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1924米的百货店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1924,
+      "walk_min": 25,
+      "hours": "Mo-Su 10:00-20:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.iwataya-mitsukoshi.mistore.jp/mitsukoshi.html",
+      "tel": "+81-92-724-3111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.5886542,
+      "lon": 130.4001852
+    },
+    {
+      "id": "st00395-020",
+      "category": "sight",
+      "name": {
+        "ja": "九州大学 医学歴史館",
+        "en": "Medical Museum of Kyushu University",
+        "zh": "九州大学 医学历史馆"
+      },
+      "desc": {
+        "ja": "駅から約1934mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。入場は無料。",
+        "en": "Museum about 1934 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1934米的博物馆·美术馆，免费开放，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1934,
+      "walk_min": 25,
+      "hours": "We-Su 10:00-16:00 open \"年末年始休館\", We-Su 16:00-16:30 open \"入館終了\" (JST)",
+      "hours_source": "osm",
+      "url": "https://www.lab.med.kyushu-u.ac.jp/rekishikan/",
+      "tel": "+81-092-642-4856",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.6075023,
+      "lon": 130.4164801
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 992,
+    "floor_check": {
+      "medical": {
+        "candidates": 52,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 35,
+        "selected": 2
+      },
+      "convenience": {
+        "candidates": 183,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 28,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 12,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
