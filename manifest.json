@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-05T05:38:24Z",
+  "updated_at": "2026-11-05T06:01:24Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 31,
+  "done": 32,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -17,7 +17,7 @@
     "宮城県": 1,
     "広島県": 1,
     "徳島県": 1,
-    "東京都": 23,
+    "東京都": 24,
     "群馬県": 1
   },
   "batches": [
@@ -91,37 +91,38 @@
         "st01078",
         "st01080",
         "st01081",
-        "st01120"
+        "st01120",
+        "st01333"
       ],
-      "poi_total": 419,
+      "poi_total": 439,
       "category_counts": {
-        "bank_atm": 22,
-        "cafe": 21,
-        "convenience": 21,
-        "food": 30,
+        "bank_atm": 23,
+        "cafe": 22,
+        "convenience": 22,
+        "food": 31,
         "lodging": 20,
-        "medical": 24,
+        "medical": 25,
         "onsen_sento": 2,
-        "park": 21,
-        "police": 22,
-        "post_office": 21,
-        "public_service": 23,
-        "shopping": 32,
-        "shrine_temple": 42,
-        "sight": 97,
-        "tourist_info": 21
+        "park": 23,
+        "police": 23,
+        "post_office": 22,
+        "public_service": 24,
+        "shopping": 33,
+        "shrine_temple": 44,
+        "sight": 103,
+        "tourist_info": 22
       },
-      "hours_null": 159,
-      "official_url_own": 269,
+      "hours_null": 165,
+      "official_url_own": 281,
       "official_url_map": 0,
-      "official_url_pending": 64,
+      "official_url_pending": 69,
       "official_site_hours_coverage": 0.74,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "京橋 (st01120): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=5740（精确）"
+        "note": "上野 (st01333): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=12290（精确）"
       }
     }
   ]
