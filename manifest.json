@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-05T21:50:59Z",
+  "updated_at": "2026-11-05T21:59:22Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 101,
+  "done": 102,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -17,7 +17,7 @@
     "宮城県": 1,
     "広島県": 1,
     "徳島県": 1,
-    "東京都": 93,
+    "東京都": 94,
     "群馬県": 1
   },
   "batches": [
@@ -141,6 +141,7 @@
         "st03166",
         "st03170",
         "st03174",
+        "st03175",
         "st03176",
         "st03185",
         "st03187",
@@ -163,35 +164,35 @@
         "st04513",
         "st04515"
       ],
-      "poi_total": 1807,
+      "poi_total": 1827,
       "category_counts": {
-        "bank_atm": 98,
-        "cafe": 80,
-        "convenience": 102,
+        "bank_atm": 99,
+        "cafe": 81,
+        "convenience": 103,
         "food": 107,
         "lodging": 84,
-        "medical": 113,
+        "medical": 114,
         "onsen_sento": 8,
         "park": 100,
-        "police": 95,
-        "post_office": 99,
-        "public_service": 106,
+        "police": 96,
+        "post_office": 100,
+        "public_service": 108,
         "shopping": 136,
-        "shrine_temple": 191,
-        "sight": 416,
-        "tourist_info": 72
+        "shrine_temple": 194,
+        "sight": 424,
+        "tourist_info": 73
       },
-      "hours_null": 798,
-      "official_url_own": 1058,
+      "hours_null": 805,
+      "official_url_own": 1072,
       "official_url_map": 0,
-      "official_url_pending": 257,
-      "official_site_hours_coverage": 0.722,
+      "official_url_pending": 260,
+      "official_site_hours_coverage": 0.723,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "拝島 (st02396): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=271（精确）"
+        "note": "市ケ谷 (st03175): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=2599（窗口下限，细分重抓后仍有残漏）"
       }
     }
   ]
