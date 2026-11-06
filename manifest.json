@@ -1,16 +1,16 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-06T00:56:24Z",
+  "updated_at": "2026-11-06T00:56:52Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 155,
+  "done": 156,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
-    "京都府": 4,
+    "京都府": 5,
     "北海道": 1,
     "和歌山県": 1,
     "大阪府": 1,
@@ -255,37 +255,38 @@
         "st01910",
         "st01997",
         "st02101",
-        "st02265"
+        "st02265",
+        "st02834"
       ],
-      "poi_total": 773,
+      "poi_total": 793,
       "category_counts": {
-        "bank_atm": 44,
+        "bank_atm": 45,
         "cafe": 21,
-        "convenience": 59,
-        "food": 85,
-        "lodging": 31,
-        "medical": 68,
+        "convenience": 61,
+        "food": 88,
+        "lodging": 32,
+        "medical": 70,
         "onsen_sento": 2,
         "park": 43,
-        "police": 48,
-        "post_office": 52,
+        "police": 49,
+        "post_office": 53,
         "public_service": 44,
-        "shopping": 83,
-        "shrine_temple": 74,
-        "sight": 99,
+        "shopping": 85,
+        "shrine_temple": 77,
+        "sight": 103,
         "tourist_info": 20
       },
-      "hours_null": 476,
-      "official_url_own": 272,
+      "hours_null": 490,
+      "official_url_own": 281,
       "official_url_map": 0,
       "official_url_pending": 56,
-      "official_site_hours_coverage": 0.599,
+      "official_site_hours_coverage": 0.591,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "金山 (st02265): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=211（精确）"
+        "note": "伏見 (st02834): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=609（精确）"
       }
     }
   ]
