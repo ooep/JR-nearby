@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-06T12:41:11Z",
+  "updated_at": "2026-11-06T13:26:18Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 270,
+  "done": 271,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -16,7 +16,7 @@
     "千葉県": 14,
     "和歌山県": 1,
     "埼玉県": 19,
-    "大阪府": 30,
+    "大阪府": 31,
     "奈良県": 1,
     "宮城県": 1,
     "岡山県": 3,
@@ -323,6 +323,7 @@
         "st00907",
         "st01084",
         "st01086",
+        "st01119",
         "st01124",
         "st01258",
         "st01310",
@@ -365,35 +366,35 @@
         "st06789",
         "st06794"
       ],
-      "poi_total": 939,
+      "poi_total": 959,
       "category_counts": {
-        "bank_atm": 53,
+        "bank_atm": 54,
         "cafe": 11,
-        "convenience": 61,
+        "convenience": 62,
         "food": 78,
-        "lodging": 59,
-        "medical": 75,
+        "lodging": 61,
+        "medical": 76,
         "onsen_sento": 5,
-        "park": 42,
-        "police": 53,
-        "post_office": 76,
-        "public_service": 58,
-        "shopping": 102,
-        "shrine_temple": 96,
-        "sight": 143,
-        "tourist_info": 27
+        "park": 44,
+        "police": 54,
+        "post_office": 77,
+        "public_service": 59,
+        "shopping": 105,
+        "shrine_temple": 98,
+        "sight": 147,
+        "tourist_info": 28
       },
-      "hours_null": 549,
-      "official_url_own": 379,
+      "hours_null": 562,
+      "official_url_own": 388,
       "official_url_map": 0,
-      "official_url_pending": 100,
-      "official_site_hours_coverage": 0.517,
+      "official_url_pending": 101,
+      "official_site_hours_coverage": 0.518,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "北浜 (st03966): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=6（精确）"
+        "note": "京橋 (st01119): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=1856（精确）"
       }
     },
     {
