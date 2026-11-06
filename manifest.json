@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-06T02:04:18Z",
+  "updated_at": "2026-11-06T02:13:58Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 173,
+  "done": 174,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -14,7 +14,7 @@
     "北海道": 1,
     "千葉県": 2,
     "和歌山県": 1,
-    "大阪府": 7,
+    "大阪府": 8,
     "奈良県": 1,
     "宮城県": 1,
     "岡山県": 3,
@@ -309,38 +309,39 @@
         "st00073",
         "st00469",
         "st00565",
+        "st00886",
         "st01084",
         "st01086"
       ],
-      "poi_total": 155,
+      "poi_total": 175,
       "category_counts": {
-        "bank_atm": 8,
+        "bank_atm": 9,
         "cafe": 2,
-        "convenience": 12,
-        "food": 12,
-        "lodging": 6,
-        "medical": 16,
+        "convenience": 13,
+        "food": 15,
+        "lodging": 7,
+        "medical": 17,
         "onsen_sento": 3,
         "park": 12,
-        "police": 8,
-        "post_office": 11,
-        "public_service": 12,
-        "shopping": 18,
-        "shrine_temple": 18,
-        "sight": 15,
-        "tourist_info": 2
+        "police": 9,
+        "post_office": 13,
+        "public_service": 13,
+        "shopping": 19,
+        "shrine_temple": 20,
+        "sight": 20,
+        "tourist_info": 3
       },
-      "hours_null": 90,
-      "official_url_own": 59,
+      "hours_null": 102,
+      "official_url_own": 70,
       "official_url_map": 0,
-      "official_url_pending": 15,
-      "official_site_hours_coverage": 0.559,
+      "official_url_pending": 16,
+      "official_site_hours_coverage": 0.543,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "南流山 (st01086): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=320（精确）"
+        "note": "日本橋 (st00886): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=1625（窗口下限，细分重抓后仍有残漏）"
       }
     }
   ]
