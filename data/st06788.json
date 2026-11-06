@@ -1,0 +1,632 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st06788",
+    "name": {
+      "ja": "舞浜",
+      "en": "Maihama",
+      "zh": "舞滨"
+    },
+    "line_group": [
+      "京葉線",
+      "外房線"
+    ],
+    "pref": "千葉県",
+    "lat": 35.63619,
+    "lon": 139.88356
+  },
+  "generated_at": "2026-11-06T05:21:33Z",
+  "pois": [
+    {
+      "id": "st06788-001",
+      "category": "bank_atm",
+      "name": {
+        "ja": "千葉銀行 (Chiba Bank)",
+        "en": "Chiba Bank",
+        "zh": "千葉银行 (Chiba Bank)"
+      },
+      "desc": {
+        "ja": "千葉銀行 (Chiba Bank)のATM。駅から約31mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 31 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约31米的银行网点，Mo-Fr 08:00-23:00, Sa, PH 08:00-21:00, Su 08:00-19:00（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 31,
+      "walk_min": 1,
+      "hours": "Mo-Fr 08:00-23:00; Sa,PH 08:00-21:00; Su 08:00-19:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.chibabank.co.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6360379,
+      "lon": 139.883842
+    },
+    {
+      "id": "st06788-002",
+      "category": "tourist_info",
+      "name": {
+        "ja": "パークインフォメーション",
+        "en": "pa-kuinfuome-shiyon",
+        "zh": "Pa-kuinfuome-shiyon"
+      },
+      "desc": {
+        "ja": "駅から約1059mにある観光案内所。周辺の観光情報や地図、施設案内を提供している。散策の前に立ち寄ると便利。",
+        "en": "Tourist information office about 1059 m from the station, with maps and local guidance.",
+        "zh": "距站约1059米的观光服务台，提供周边旅游信息、地图与咨询服务，可先在此规划行程。"
+      },
+      "distance_m": 1059,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/12071983621",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6283993,
+      "lon": 139.876824
+    },
+    {
+      "id": "st06788-003",
+      "category": "police",
+      "name": {
+        "ja": "浦安警察署舞浜駅前交番",
+        "en": "Koban",
+        "zh": "浦安警察署舞滨站前交番"
+      },
+      "desc": {
+        "ja": "駅から約201mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 201 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约201米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 201,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/97767469",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6368502,
+      "lon": 139.8814847
+    },
+    {
+      "id": "st06788-004",
+      "category": "sight",
+      "name": {
+        "ja": "白雪姫と七人のこびと",
+        "en": "Snow White's Adventures",
+        "zh": "白雪姫to七人nokobito"
+      },
+      "desc": {
+        "ja": "駅から約520mにある観光スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Attraction about 520 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约520米的观光景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 520,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/12385810200",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6318542,
+      "lon": 139.8814139,
+      "official_url_pending": "https://www.tokyodisneyresort.co.jp/tdl/fl/atr_snow.html"
+    },
+    {
+      "id": "st06788-005",
+      "category": "shopping",
+      "name": {
+        "ja": "ママンドータ",
+        "en": "mamando-ta",
+        "zh": "Mamando-ta"
+      },
+      "desc": {
+        "ja": "駅から約923mにあるベーカリー。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Bakery about 923 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约923米的面包店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 923,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/9247351064",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6383844,
+      "lon": 139.893406
+    },
+    {
+      "id": "st06788-006",
+      "category": "food",
+      "name": {
+        "ja": "トゥモローランド・テラス",
+        "en": "Tomorrowland Terrace",
+        "zh": "Toumoro-rando・terasu"
+      },
+      "desc": {
+        "ja": "駅から約595mにある飲食店。burger料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Su 09:00-20:30（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 595 m from the station. Serves burger cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约595米的餐馆主营burger，适合旅途中用餐，Mo-Su 09:00-20:30（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 595,
+      "walk_min": 8,
+      "hours": "Mo-Su 09:00-20:30 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/217930860",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6319715,
+      "lon": 139.8795054,
+      "official_url_pending": "https://www.tokyodisneyresort.co.jp/tdl/tl/rst_terrace.html"
+    },
+    {
+      "id": "st06788-007",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "7-ELEVENのコンビニエンスストア。駅から約353mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 353 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约353米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 353,
+      "walk_min": 5,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.sej.co.jp/",
+      "tel": "+81-47-3553755",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6392451,
+      "lon": 139.8825051
+    },
+    {
+      "id": "st06788-008",
+      "category": "sight",
+      "name": {
+        "ja": "ウエスタンリバー鉄道",
+        "en": "Western River Railway",
+        "zh": "ウエスタンリバー铁道"
+      },
+      "desc": {
+        "ja": "駅から約387mにある観光スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Attraction about 387 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约387米的观光景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 387,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/relation/3557458",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6327526,
+      "lon": 139.8842432,
+      "official_url_pending": "https://www.tokyodisneyresort.jp/tdl/attraction/detail/154/"
+    },
+    {
+      "id": "st06788-009",
+      "category": "sight",
+      "name": {
+        "ja": "シンデレラのフェアリーテイル・ホール Cinderella's Fairy Tale Hall",
+        "en": "Cinderella's Fairy Tale Hall",
+        "zh": "迪士尼樂园"
+      },
+      "desc": {
+        "ja": "駅から約532mにある観光スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Attraction about 532 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约532米的观光景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 532,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1272804708",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6319456,
+      "lon": 139.8808501,
+      "official_url_pending": "https://www.tokyodisneyresort.jp/attraction/detail/str_id:fl_cinderella/"
+    },
+    {
+      "id": "st06788-010",
+      "category": "cafe",
+      "name": {
+        "ja": "タリーズコーヒー イクスピアリ店",
+        "en": "Tully's Coffee",
+        "zh": "タリーズコーヒー イクスピアリ店"
+      },
+      "desc": {
+        "ja": "駅から約421mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。Mo-Su 08:00-22:00（JST）。",
+        "en": "Cafe about 421 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约421米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 421,
+      "walk_min": 6,
+      "hours": "Mo-Su 08:00-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://shop.tullys.co.jp/detail/1000472",
+      "tel": "047-316-5266",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6336354,
+      "lon": 139.8869949
+    },
+    {
+      "id": "st06788-011",
+      "category": "sight",
+      "name": {
+        "ja": "東京ディズニーランド",
+        "en": "Tokyo Disneyland",
+        "zh": "东京迪士尼樂园"
+      },
+      "desc": {
+        "ja": "駅から約449mにあるテーマパーク。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Theme park about 449 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约449米的主题乐园，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 449,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/1282875870",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6326606,
+      "lon": 139.8811441,
+      "official_url_pending": "https://www.tokyodisneyresort.jp/tdl/"
+    },
+    {
+      "id": "st06788-012",
+      "category": "lodging",
+      "name": {
+        "ja": "東京ディズニーランドホテル",
+        "en": "Tokyo Disneyland Hotel",
+        "zh": "东京迪士尼乐园大饭店"
+      },
+      "desc": {
+        "ja": "駅から約467mにある宿泊施設（5つ星）。観光やビジネスの拠点として利用できる。チェックイン時間は予約時に確認を。",
+        "en": "Lodging about 467 m from the station, a convenient base for sightseeing or business.",
+        "zh": "距站约467米的住宿设施（5星），可作为观光或商务出行的落脚点，入住方式以预订信息为准。"
+      },
+      "distance_m": 467,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/218553057",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": "¥¥¥¥",
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6368233,
+      "lon": 139.878446,
+      "official_url_pending": "http://www.disneyhotels.jp/tdh/"
+    },
+    {
+      "id": "st06788-013",
+      "category": "lodging",
+      "name": {
+        "ja": "舞浜ビューホテル by HULIC",
+        "en": "Maihama View Hotel by HULIC",
+        "zh": "舞滨ビューホテル by HULIC"
+      },
+      "desc": {
+        "ja": "駅から約1062mにある宿泊施設。観光やビジネスの拠点として利用できる。チェックイン時間は予約時に確認を。",
+        "en": "Lodging about 1062 m from the station, a convenient base for sightseeing or business.",
+        "zh": "距站约1062米的住宿设施，可作为观光或商务出行的落脚点，入住方式以预订信息为准。"
+      },
+      "distance_m": 1062,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.maihamahotel.jp/",
+      "tel": "+81 47 355 1222",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6307335,
+      "lon": 139.8739201
+    },
+    {
+      "id": "st06788-014",
+      "category": "sight",
+      "name": {
+        "ja": "蒸気船マークトウェイン号",
+        "en": "Mark Twain Riverboat",
+        "zh": "蒸気船マークトウェイン号"
+      },
+      "desc": {
+        "ja": "駅から約512mにある観光スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Attraction about 512 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约512米的观光景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 512,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/218979636",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6316122,
+      "lon": 139.8829532,
+      "official_url_pending": "https://www.tokyodisneyresort.jp/attraction/detail/str_id:wl_mark/"
+    },
+    {
+      "id": "st06788-015",
+      "category": "sight",
+      "name": {
+        "ja": "シンデレラ城",
+        "en": "Cinderella Castle",
+        "zh": "シンデレラ城"
+      },
+      "desc": {
+        "ja": "駅から約519mにある観光スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Attraction about 519 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约519米的观光景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 519,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://disneyparks.disney.go.com/jp/disneyland/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6320774,
+      "lon": 139.8808499
+    },
+    {
+      "id": "st06788-016",
+      "category": "sight",
+      "name": {
+        "ja": "海底2万マイル",
+        "en": "20,000 Leagues Under the Sea",
+        "zh": "海底两万里"
+      },
+      "desc": {
+        "ja": "駅から約1095mにある観光スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Attraction about 1095 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1095米的观光景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1095,
+      "walk_min": 14,
+      "hours": "09:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2770576773",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6263849,
+      "lon": 139.884684,
+      "official_url_pending": "https://www.tokyodisneyresort.jp/attraction/detail/str_id:mi_20000/"
+    },
+    {
+      "id": "st06788-017",
+      "category": "sight",
+      "name": {
+        "ja": "スター・ツアーズザ・アドベンチャーズ・コンティニュー",
+        "en": "Star Tours – The Adventures Continue",
+        "zh": "Suta-・tsua-zuza・adobenchiya-zu・konteiniyu-"
+      },
+      "desc": {
+        "ja": "駅から約582mにある観光スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Attraction about 582 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约582米的观光景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 582,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/217930682",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6335434,
+      "lon": 139.8780085,
+      "official_url_pending": "https://www.tokyodisneyresort.jp/en/attraction/detail/str_id:tl_monster/"
+    },
+    {
+      "id": "st06788-018",
+      "category": "park",
+      "name": {
+        "ja": "トゥーンパーク",
+        "en": "Toon Park",
+        "zh": "Tou-npa-ku"
+      },
+      "desc": {
+        "ja": "駅から約731mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 731 m from the station, with paths and benches for a rest.",
+        "zh": "距站约731米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 731,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/265740446",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.63053,
+      "lon": 139.8794527,
+      "official_url_pending": "https://www.tokyodisneyresort.jp/attraction/detail/str_id:tt_toon/"
+    },
+    {
+      "id": "st06788-019",
+      "category": "medical",
+      "name": {
+        "ja": "浦安中央病院",
+        "en": "Urayasu Central Hospital",
+        "zh": "浦安中央病院"
+      },
+      "desc": {
+        "ja": "駅から約1496mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 1496 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1496米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1496,
+      "walk_min": 19,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.urayasucentral.com/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6467156,
+      "lon": 139.8938784
+    },
+    {
+      "id": "st06788-020",
+      "category": "post_office",
+      "name": {
+        "ja": "浦安富岡郵便局",
+        "en": "Urayasu Tomioka Post Office",
+        "zh": "浦安富冈邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1670mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1670 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1670米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 1670,
+      "walk_min": 21,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1420741152",
+      "tel": "+81-47-354-5028",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.642575,
+      "lon": 139.9002864
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 348,
+    "floor_check": {
+      "medical": {
+        "candidates": 8,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 8,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 28,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 3,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 4,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 2,
+        "selected": 1
+      }
+    }
+  }
+}
