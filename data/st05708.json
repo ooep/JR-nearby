@@ -1,0 +1,628 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st05708",
+    "name": {
+      "ja": "天満橋",
+      "en": "Temmabashi",
+      "zh": "天満桥"
+    },
+    "line_group": [
+      "中之島線",
+      "京阪本線",
+      "谷町線"
+    ],
+    "pref": "大阪府",
+    "lat": 34.690114,
+    "lon": 135.516525
+  },
+  "generated_at": "2026-11-06T07:44:42Z",
+  "pois": [
+    {
+      "id": "st05708-001",
+      "category": "shopping",
+      "name": {
+        "ja": "京阪シティモール",
+        "en": "Keihan City Mall",
+        "zh": "京阪シティモール"
+      },
+      "desc": {
+        "ja": "駅から約20mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 20 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约20米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 20,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6640371676",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6900304,
+      "lon": 135.5167195
+    },
+    {
+      "id": "st05708-002",
+      "category": "police",
+      "name": {
+        "ja": "天満警察署天神橋北交番",
+        "en": "天満天神桥北交番 Police Station",
+        "zh": "天満警察署天神桥北交番"
+      },
+      "desc": {
+        "ja": "駅から約485mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 485 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约485米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 485,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1422991468",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6923991,
+      "lon": 135.512011
+    },
+    {
+      "id": "st05708-003",
+      "category": "lodging",
+      "name": {
+        "ja": "Hotel Noum",
+        "en": "Hotel Noum",
+        "zh": "Hotel Noum"
+      },
+      "desc": {
+        "ja": "駅から約292mにある宿泊施設。観光やビジネスの拠点として利用できる。チェックイン時間は予約時に確認を。",
+        "en": "Lodging about 292 m from the station, a convenient base for sightseeing or business.",
+        "zh": "距站约292米的住宿设施，可作为观光或商务出行的落脚点，入住方式以预订信息为准。"
+      },
+      "distance_m": 292,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.no-um.jp/en/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6922369,
+      "lon": 135.5146402
+    },
+    {
+      "id": "st05708-004",
+      "category": "public_service",
+      "name": {
+        "ja": "M&A総合研究所 都島図書館",
+        "en": "M&A総合研究所 都島図書館",
+        "zh": "M&A総合研究所 都岛图书馆"
+      },
+      "desc": {
+        "ja": "駅から約1591mにある図書館。手続きや調べ物、休憩に利用できる公共の施設。詳細は現地の案内を参照。",
+        "en": "Library about 1591 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1591米的图书馆，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1591,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1422989729",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7009583,
+      "lon": 135.5278713
+    },
+    {
+      "id": "st05708-005",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "少彦名神社",
+        "en": "Sukunahikona-jinja Shrine",
+        "zh": "少彦名神社"
+      },
+      "desc": {
+        "ja": "駅から約970mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 970 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约970米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 970,
+      "walk_min": 13,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/3180407485",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6888082,
+      "lon": 135.5060348
+    },
+    {
+      "id": "st05708-006",
+      "category": "food",
+      "name": {
+        "ja": "LE PONT DE CIEL",
+        "en": "LE PONT DE CIEL",
+        "zh": "LE PONT DE CIEL"
+      },
+      "desc": {
+        "ja": "駅から約504mにある飲食店。french料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 504 m from the station. Serves french cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约504米的餐馆主营french，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 504,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://pont-de-ciel.co.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6903879,
+      "lon": 135.511019
+    },
+    {
+      "id": "st05708-007",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "大阪天満宮",
+        "en": "Osaka Tenmangu Shrine (Ōsaka Tenmangū)",
+        "zh": "大阪天満宫"
+      },
+      "desc": {
+        "ja": "駅から約753mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 753 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约753米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 753,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://osakatemmangu.or.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6961478,
+      "lon": 135.5127788
+    },
+    {
+      "id": "st05708-008",
+      "category": "sight",
+      "name": {
+        "ja": "造幣博物館",
+        "en": "Mint Museum",
+        "zh": "造幣博物馆"
+      },
+      "desc": {
+        "ja": "駅から約797mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。入場は無料。",
+        "en": "Museum about 797 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约797米的博物馆·美术馆，免费开放，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 797,
+      "walk_min": 10,
+      "hours": "Mo-Su 09:00-16:45 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.mint.go.jp/enjoy/plant-osaka/plant_museum.html",
+      "tel": "+81 6-6351-5361",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6958942,
+      "lon": 135.5216842
+    },
+    {
+      "id": "st05708-009",
+      "category": "post_office",
+      "name": {
+        "ja": "大阪東郵便局",
+        "en": "Osaka Higashi post office",
+        "zh": "大阪东邮政局"
+      },
+      "desc": {
+        "ja": "駅から約898mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Sa 09:00-19:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 898 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约898米的邮局，Mo-Sa 09:00-19:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 898,
+      "walk_min": 12,
+      "hours": "Mo-Sa 09:00-19:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1422990792",
+      "tel": "+81-800-0800-111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.685005,
+      "lon": 135.508912
+    },
+    {
+      "id": "st05708-010",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "7-ELEVENのコンビニエンスストア。駅から約911mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 911 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约911米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 911,
+      "walk_min": 12,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2546432599",
+      "tel": "+81 6 6941 7011",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6819923,
+      "lon": 135.5152549,
+      "official_url_pending": "http://sej.co.jp"
+    },
+    {
+      "id": "st05708-011",
+      "category": "sight",
+      "name": {
+        "ja": "大阪歴史博物館",
+        "en": "Osaka Museum of History",
+        "zh": "大阪歷史博物馆"
+      },
+      "desc": {
+        "ja": "駅から約921mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 921 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约921米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 921,
+      "walk_min": 12,
+      "hours": "We-Mo 09:30-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.osakamushis.jp/",
+      "tel": "+81-6-6946-5728",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6826183,
+      "lon": 135.5208131
+    },
+    {
+      "id": "st05708-012",
+      "category": "sight",
+      "name": {
+        "ja": "城中焼亡埋骨墳",
+        "en": "Tomb for the deceased at the time of the fall of Osaka Castle",
+        "zh": "城中焼亡埋骨墳"
+      },
+      "desc": {
+        "ja": "駅から約1489mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Memorial about 1489 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1489米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1489,
+      "walk_min": 19,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/3127015507",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6818135,
+      "lon": 135.529305
+    },
+    {
+      "id": "st05708-013",
+      "category": "post_office",
+      "name": {
+        "ja": "北浜郵便局",
+        "en": "Kitahama Post Office",
+        "zh": "北滨邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1015mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1015 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1015米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 1015,
+      "walk_min": 13,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1422985291",
+      "tel": "+81-6-6231-0190",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6903847,
+      "lon": 135.5054313
+    },
+    {
+      "id": "st05708-014",
+      "category": "sight",
+      "name": {
+        "ja": "大阪市立東洋陶磁美術館",
+        "en": "Museum of Oriental Ceramics",
+        "zh": "大阪市立东洋陶磁美术馆"
+      },
+      "desc": {
+        "ja": "駅から約1071mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1071 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1071米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1071,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.moco.or.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6934159,
+      "lon": 135.5055152
+    },
+    {
+      "id": "st05708-015",
+      "category": "public_service",
+      "name": {
+        "ja": "まちライブラリー＠もりのみやキューズモール",
+        "en": "machiraiburari-＠morinomiyakiyu-zumo-ru",
+        "zh": "Machiraiburari-＠morinomiyakiyu-zumo-ru"
+      },
+      "desc": {
+        "ja": "駅から約1623mにある図書館。手続きや調べ物、休憩に利用できる公共の施設。詳細は現地の案内を参照。",
+        "en": "Library about 1623 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1623米的图书馆，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1623,
+      "walk_min": 21,
+      "hours": "10:00-20:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://machi-library.org/where/detail/563/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6810196,
+      "lon": 135.5304073
+    },
+    {
+      "id": "st05708-016",
+      "category": "bank_atm",
+      "name": {
+        "ja": "Bangkok Bank",
+        "en": "Bangkok Bank",
+        "zh": "Bangkok Bank"
+      },
+      "desc": {
+        "ja": "Bangkok Bankの支店。駅から約1370mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 1370 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约1370米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 1370,
+      "walk_min": 18,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4172621773",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6808399,
+      "lon": 135.5066614
+    },
+    {
+      "id": "st05708-017",
+      "category": "medical",
+      "name": {
+        "ja": "東天満クリニック",
+        "en": "東天満kuriniku",
+        "zh": "东天満クリニック"
+      },
+      "desc": {
+        "ja": "駅から約692mにあるクリニック。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Clinic about 692 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约692米的诊所，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 692,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2347064225",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.69628,
+      "lon": 135.517539,
+      "official_url_pending": "http://www.e-temma.jp"
+    },
+    {
+      "id": "st05708-018",
+      "category": "tourist_info",
+      "name": {
+        "ja": "JO-TERRACE OSAKA OFFICIAL SHOP",
+        "en": "JO-TERRACE OSAKA OFFICIAL SHOP",
+        "zh": "JO-TERRACE OSAKA OFFICIAL SHOP"
+      },
+      "desc": {
+        "ja": "駅から約1514mにある観光案内所。周辺の観光情報や地図、施設案内を提供している。散策の前に立ち寄ると便利。",
+        "en": "Tourist information office about 1514 m from the station, with maps and local guidance.",
+        "zh": "距站约1514米的观光服务台，提供周边旅游信息、地图与咨询服务，可先在此规划行程。"
+      },
+      "distance_m": 1514,
+      "walk_min": 19,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/7430229778",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6887132,
+      "lon": 135.5329932
+    },
+    {
+      "id": "st05708-019",
+      "category": "sight",
+      "name": {
+        "ja": "キッズプラザ大阪",
+        "en": "Kids Plaza Osaka",
+        "zh": "キッズプラザ大阪"
+      },
+      "desc": {
+        "ja": "駅から約1701mにあるテーマパーク。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Theme park about 1701 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1701米的主题乐园，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1701,
+      "walk_min": 22,
+      "hours": "Tu-Fr 09:30-17:00; Sa,Su,PH 09:30-19:00; Mo off; Dec 28-Jan 02 off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.kidsplaza.or.jp/",
+      "tel": "+81-6-6311-6601",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7045253,
+      "lon": 135.5102709
+    },
+    {
+      "id": "st05708-020",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "露 天神社",
+        "en": "Tsuyuno Tenjin Shrine",
+        "zh": "露 天神社"
+      },
+      "desc": {
+        "ja": "駅から約1749mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1749 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1749米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1749,
+      "walk_min": 22,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.tuyutenjin.com",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6991011,
+      "lon": 135.5008279
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [],
+    "fetch_truncated": true,
+    "selected_cap": 20,
+    "candidate_count": 1909,
+    "floor_check": {
+      "medical": {
+        "candidates": 102,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 75,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 237,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 40,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 18,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 1,
+        "selected": 1
+      }
+    }
+  }
+}
