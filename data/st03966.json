@@ -1,0 +1,173 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st03966",
+    "name": {
+      "ja": "北浜",
+      "en": "Kitahama",
+      "zh": "北滨"
+    },
+    "line_group": [
+      "石北本線",
+      "釧網本線"
+    ],
+    "pref": "北海道",
+    "lat": 43.95847,
+    "lon": 144.3527
+  },
+  "generated_at": "2026-11-06T07:46:48Z",
+  "pois": [
+    {
+      "id": "st03966-001",
+      "category": "cafe",
+      "name": {
+        "ja": "停車場",
+        "en": "Teishaba",
+        "zh": "停车场"
+      },
+      "desc": {
+        "ja": "駅から約11mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。",
+        "en": "Cafe about 11 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约11米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 11,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5963179163",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.9583901,
+      "lon": 144.3526147
+    },
+    {
+      "id": "st03966-002",
+      "category": "convenience",
+      "name": {
+        "ja": "セイコーマート",
+        "en": "Seicomart",
+        "zh": "セイコーマート便利店"
+      },
+      "desc": {
+        "ja": "Seicomartのコンビニエンスストア。駅から約271mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 271 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约271米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 271,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/411032569",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.9572807,
+      "lon": 144.3556493
+    },
+    {
+      "id": "st03966-003",
+      "category": "food",
+      "name": {
+        "ja": "麦わら帽子",
+        "en": "麦wara帽子",
+        "zh": "麦wara帽子"
+      },
+      "desc": {
+        "ja": "駅から約359mにある飲食店。coffee_shop,curry料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 359 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约359米的餐馆适合旅途中用餐，菜单与价格以店内展示内容为准，具体信息以现场为准。"
+      },
+      "distance_m": 359,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/411032570",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.9566597,
+      "lon": 144.3564128
+    },
+    {
+      "id": "st03966-004",
+      "category": "tourist_info",
+      "name": {
+        "ja": "濤沸湖水鳥・湿地センター",
+        "en": "濤沸湖水鸟 湿地 Center",
+        "zh": "濤沸湖水鸟・湿地センター"
+      },
+      "desc": {
+        "ja": "駅から約818mにある観光案内所。周辺の観光情報や地図、施設案内を提供している。散策の前に立ち寄ると便利。",
+        "en": "Tourist information office about 818 m from the station, with maps and local guidance.",
+        "zh": "距站约818米的观光服务台，提供周边旅游信息、地图与咨询服务，可先在此规划行程。"
+      },
+      "distance_m": 818,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/720684087",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.952493,
+      "lon": 144.3586611
+    }
+  ],
+  "coverage": {
+    "poi_count": 4,
+    "radius_m": 2000,
+    "confidence": "medium",
+    "gaps": [
+      "2公里圈内未检索到医疗机构候选",
+      "2公里圈内未检索到银行/ATM候选",
+      "2公里圈内未检索到邮局候选",
+      "2公里圈内未检索到警察设施候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 6,
+    "floor_check": {
+      "medical": {
+        "candidates": 0,
+        "selected": 0
+      },
+      "bank_atm": {
+        "candidates": 0,
+        "selected": 0
+      },
+      "convenience": {
+        "candidates": 1,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 0,
+        "selected": 0
+      },
+      "police": {
+        "candidates": 0,
+        "selected": 0
+      },
+      "tourist_info": {
+        "candidates": 1,
+        "selected": 1
+      }
+    }
+  }
+}
