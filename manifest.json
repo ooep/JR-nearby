@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-06T06:37:12Z",
+  "updated_at": "2026-11-06T06:45:44Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 222,
+  "done": 223,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -23,6 +23,7 @@
     "徳島県": 1,
     "愛知県": 1,
     "東京都": 107,
+    "熊本県": 1,
     "神奈川県": 34,
     "福岡県": 6,
     "群馬県": 2,
@@ -398,11 +399,12 @@
         "st00466",
         "st00467",
         "st00470",
+        "st00471",
         "st00558",
         "st00561",
         "st00572"
       ],
-      "poi_total": 145,
+      "poi_total": 148,
       "category_counts": {
         "bank_atm": 10,
         "cafe": 1,
@@ -410,17 +412,17 @@
         "food": 8,
         "lodging": 7,
         "medical": 10,
-        "onsen_sento": 1,
+        "onsen_sento": 2,
         "park": 11,
-        "police": 8,
-        "post_office": 11,
+        "police": 9,
+        "post_office": 12,
         "public_service": 6,
         "shopping": 10,
         "shrine_temple": 10,
         "sight": 37,
         "tourist_info": 3
       },
-      "hours_null": 99,
+      "hours_null": 102,
       "official_url_own": 61,
       "official_url_map": 0,
       "official_url_pending": 15,
@@ -430,7 +432,7 @@
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "栄 (st00572): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=1472（窗口下限，细分重抓后仍有残漏）"
+        "note": "住吉 (st00471): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=9（精确）"
       }
     }
   ]
