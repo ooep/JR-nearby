@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-06T08:22:46Z",
+  "updated_at": "2026-11-06T08:35:38Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 248,
+  "done": 249,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -15,7 +15,7 @@
     "北海道": 5,
     "千葉県": 14,
     "和歌山県": 1,
-    "埼玉県": 8,
+    "埼玉県": 9,
     "大阪府": 30,
     "奈良県": 1,
     "宮城県": 1,
@@ -419,6 +419,7 @@
         "st01264",
         "st01269",
         "st01309",
+        "st01331",
         "st01519",
         "st01523",
         "st01664",
@@ -431,35 +432,35 @@
         "st02263",
         "st02416"
       ],
-      "poi_total": 581,
+      "poi_total": 600,
       "category_counts": {
-        "bank_atm": 35,
+        "bank_atm": 36,
         "cafe": 15,
-        "convenience": 45,
+        "convenience": 46,
         "food": 43,
-        "lodging": 32,
-        "medical": 43,
+        "lodging": 34,
+        "medical": 45,
         "onsen_sento": 4,
-        "park": 44,
-        "police": 39,
-        "post_office": 49,
-        "public_service": 26,
-        "shopping": 50,
-        "shrine_temple": 48,
-        "sight": 95,
+        "park": 45,
+        "police": 40,
+        "post_office": 50,
+        "public_service": 27,
+        "shopping": 52,
+        "shrine_temple": 50,
+        "sight": 100,
         "tourist_info": 13
       },
-      "hours_null": 403,
-      "official_url_own": 176,
+      "hours_null": 411,
+      "official_url_own": 184,
       "official_url_map": 0,
-      "official_url_pending": 38,
-      "official_site_hours_coverage": 0.403,
+      "official_url_pending": 40,
+      "official_site_hours_coverage": 0.418,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "川越 (st02416): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=483（精确）"
+        "note": "大宮 (st01331): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=846（精确）"
       }
     }
   ]

@@ -1,0 +1,610 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st01331",
+    "name": {
+      "ja": "大宮",
+      "en": "Ōmiya",
+      "zh": "大宫"
+    },
+    "line_group": [
+      "上越新幹線",
+      "上越線",
+      "中央本線",
+      "京葉線",
+      "伊奈線",
+      "北海道新幹線",
+      "北陸新幹線",
+      "吾妻線",
+      "奥羽本線",
+      "山手線",
+      "川越線",
+      "東北新幹線"
+    ],
+    "pref": "埼玉県",
+    "lat": 35.906267,
+    "lon": 139.623826
+  },
+  "generated_at": "2026-11-06T08:35:36Z",
+  "pois": [
+    {
+      "id": "st01331-001",
+      "category": "police",
+      "name": {
+        "ja": "大宮警察署大宮駅西口交番",
+        "en": "大宫大宫站西口交番 Police Station",
+        "zh": "大宫警察署大宫站西口交番"
+      },
+      "desc": {
+        "ja": "駅から約27mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 27 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约27米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 27,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420170775",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9065103,
+      "lon": 139.6238495
+    },
+    {
+      "id": "st01331-002",
+      "category": "convenience",
+      "name": {
+        "ja": "ローソン",
+        "en": "Lawson",
+        "zh": "罗森"
+      },
+      "desc": {
+        "ja": "LAWSONのコンビニエンスストア。駅から約158mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 158 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约158米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 158,
+      "walk_min": 2,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5965407465",
+      "tel": "+81 48-642-1799",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9059054,
+      "lon": 139.6221279,
+      "official_url_pending": "https://www.e-map.ne.jp/p/lawson/dtl/225265/"
+    },
+    {
+      "id": "st01331-003",
+      "category": "shopping",
+      "name": {
+        "ja": "大宮マルイ",
+        "en": "Omiya Marui",
+        "zh": "大宫マルイ"
+      },
+      "desc": {
+        "ja": "駅から約221mにある百貨店。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Department store about 221 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约221米的百货店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 221,
+      "walk_min": 3,
+      "hours": "10:30-20:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.0101.co.jp/053/",
+      "tel": "+81-48-642-0101",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.907251,
+      "lon": 139.62169
+    },
+    {
+      "id": "st01331-004",
+      "category": "lodging",
+      "name": {
+        "ja": "パレスホテル大宮",
+        "en": "Palace Hotel Omiya",
+        "zh": "パレスホテル大宫"
+      },
+      "desc": {
+        "ja": "駅から約335mにある宿泊施設。観光やビジネスの拠点として利用できる。チェックイン時間は予約時に確認を。",
+        "en": "Lodging about 335 m from the station, a convenient base for sightseeing or business.",
+        "zh": "距站约335米的住宿设施，可作为观光或商务出行的落脚点，入住方式以预订信息为准。"
+      },
+      "distance_m": 335,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/298685196",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9052188,
+      "lon": 139.6203393
+    },
+    {
+      "id": "st01331-005",
+      "category": "public_service",
+      "name": {
+        "ja": "さいたま市立桜木図書館",
+        "en": "saitama市立桜木図書館",
+        "zh": "Saitama市立桜木図書館"
+      },
+      "desc": {
+        "ja": "駅から約464mにある図書館。手続きや調べ物、休憩に利用できる公共の施設。詳細は現地の案内を参照。",
+        "en": "Library about 464 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约464米的图书馆，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 464,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420189302",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9054604,
+      "lon": 139.6187703,
+      "official_url_pending": "https://www.lib.city.saitama.jp/contents?1&pid=31#0208"
+    },
+    {
+      "id": "st01331-006",
+      "category": "bank_atm",
+      "name": {
+        "ja": "八十二長野銀行",
+        "en": "Hachijuni Bank",
+        "zh": "八十二长野银行"
+      },
+      "desc": {
+        "ja": "八十二長野銀行の支店。駅から約527mにあり、預け入れ・引き出しやATMの利用に対応する。窓口はMo-Fr 09:00-15:00; PH closed（JST）。",
+        "en": "Bank about 527 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约527米的银行网点，Mo-Fr 09:00-15:00, PH closed（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 527,
+      "walk_min": 7,
+      "hours": "Mo-Fr 09:00-15:00; PH closed (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5696445942",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9041284,
+      "lon": 139.6186094
+    },
+    {
+      "id": "st01331-007",
+      "category": "sight",
+      "name": {
+        "ja": "さいたま市宇宙劇場",
+        "en": "saitama市宇宙劇場",
+        "zh": "Saitama市宇宙劇場"
+      },
+      "desc": {
+        "ja": "駅から約270mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 270 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约270米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 270,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2850153535",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9078062,
+      "lon": 139.621505
+    },
+    {
+      "id": "st01331-008",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "氷川神社",
+        "en": "Hikawa Shrine",
+        "zh": "氷川神社"
+      },
+      "desc": {
+        "ja": "駅から約1275mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1275 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1275米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1275,
+      "walk_min": 16,
+      "hours": "Nov-Feb Mo-Su 06:00-17:00; Mar-Apr, Sep-Oct Mo-Su 05:30-17:30; May-Aug Mo-Su 05:00-18:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://musashiichinomiya-hikawa.or.jp/",
+      "tel": "+81 48-641-0137",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9166734,
+      "lon": 139.629768
+    },
+    {
+      "id": "st01331-009",
+      "category": "sight",
+      "name": {
+        "ja": "さいたまスーパーアリーナ",
+        "en": "Saitama Super Arena",
+        "zh": "埼玉超級竞技场"
+      },
+      "desc": {
+        "ja": "駅から約1413mにある観光スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Attraction about 1413 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1413米的观光景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1413,
+      "walk_min": 18,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "http://www.saitama-arena.co.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8949531,
+      "lon": 139.630967
+    },
+    {
+      "id": "st01331-010",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "埼玉縣護國神社",
+        "en": "Saitama-ken Gokoku Shrine",
+        "zh": "埼玉縣護国神社"
+      },
+      "desc": {
+        "ja": "駅から約1524mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1524 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1524米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1524,
+      "walk_min": 20,
+      "hours": "Mo-Su 09:00-16:00 (JST)",
+      "hours_source": "osm",
+      "url": "http://www.saitama-jinjacho.or.jp/shrine/9107/",
+      "tel": "+81 48-641-6070",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9195698,
+      "lon": 139.6279129
+    },
+    {
+      "id": "st01331-011",
+      "category": "post_office",
+      "name": {
+        "ja": "大宮髙島屋郵便局",
+        "en": "大宫髙岛屋 Post Office",
+        "zh": "大宫髙岛屋邮政局"
+      },
+      "desc": {
+        "ja": "駅から約189mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Th 10:00-18:00; Sa 10:00-17:00; Sa,Su,PH off（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 189 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约189米的邮局，Mo-Th 10:00-18:00, Sa 10:00-17:00, Sa, Su, PH off（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 189,
+      "walk_min": 3,
+      "hours": "Mo-Th 10:00-18:00; Sa 10:00-17:00; Sa,Su,PH off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1420192546",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.906269,
+      "lon": 139.625919
+    },
+    {
+      "id": "st01331-012",
+      "category": "sight",
+      "name": {
+        "ja": "大宮公園小動物園",
+        "en": "Omiya Park Small Zoo",
+        "zh": "大宫公园小動物园"
+      },
+      "desc": {
+        "ja": "駅から約1559mにある動物園。周辺を代表する見どころの一つで、散策の目的地にしやすい。入場は無料。",
+        "en": "Zoo about 1559 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1559米的动物园，免费开放，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1559,
+      "walk_min": 20,
+      "hours": "Mo off; Tu-Su 10:00-16:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.parks.or.jp/omiyazoo/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9185467,
+      "lon": 139.6321863
+    },
+    {
+      "id": "st01331-013",
+      "category": "park",
+      "name": {
+        "ja": "大宮公園",
+        "en": "Ōmiya Park",
+        "zh": "大宫公园"
+      },
+      "desc": {
+        "ja": "駅から約1576mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1576 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1576米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1576,
+      "walk_min": 20,
+      "hours": "Mo-Su 08:30-17:15 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.pref.saitama.lg.jp/omiya-park/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9189845,
+      "lon": 139.6315441
+    },
+    {
+      "id": "st01331-014",
+      "category": "lodging",
+      "name": {
+        "ja": "eeGee STAYイージーステイ",
+        "en": "eeGee STAYi-ji-sutei",
+        "zh": "eeGee STAYイージーステイ"
+      },
+      "desc": {
+        "ja": "駅から約289mにある宿泊施設。観光やビジネスの拠点として利用できる。チェックイン時間は予約時に確認を。",
+        "en": "Lodging about 289 m from the station, a convenient base for sightseeing or business.",
+        "zh": "距站约289米的住宿设施，可作为观光或商务出行的落脚点，入住方式以预订信息为准。"
+      },
+      "distance_m": 289,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://eegeestay.jp",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9083548,
+      "lon": 139.6257328
+    },
+    {
+      "id": "st01331-015",
+      "category": "medical",
+      "name": {
+        "ja": "自治医科大学付属 さいたま医療センター",
+        "en": "自治医科大学付属 saitama医療senta-",
+        "zh": "自治医科大学付属 Saitama医療senta-"
+      },
+      "desc": {
+        "ja": "駅から約1918mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 1918 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1918米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1918,
+      "walk_min": 24,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/100584426",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.906755,
+      "lon": 139.6451085
+    },
+    {
+      "id": "st01331-016",
+      "category": "sight",
+      "name": {
+        "ja": "鉄道博物館",
+        "en": "The Railway Museum",
+        "zh": "铁道博物馆"
+      },
+      "desc": {
+        "ja": "駅から約1757mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。入場は有料。",
+        "en": "Museum about 1757 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1757米的博物馆·美术馆，入场收费，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1757,
+      "walk_min": 22,
+      "hours": "Mo-Su 10:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "http://www.railway-museum.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9213825,
+      "lon": 139.6181358
+    },
+    {
+      "id": "st01331-017",
+      "category": "sight",
+      "name": {
+        "ja": "土器の館",
+        "en": "土器no館",
+        "zh": "土器no館"
+      },
+      "desc": {
+        "ja": "駅から約1297mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。入場は無料。",
+        "en": "Museum about 1297 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1297米的博物馆·美术馆，免费开放，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1297,
+      "walk_min": 17,
+      "hours": "Mo-Fr 09:00-16:00; Sa,Su,PH off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/306341222",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9156559,
+      "lon": 139.6323749
+    },
+    {
+      "id": "st01331-018",
+      "category": "medical",
+      "name": {
+        "ja": "埼玉県立小児医療センター",
+        "en": "Saitama Prefectural Children's Medical Center",
+        "zh": "埼玉县立小児医療センター"
+      },
+      "desc": {
+        "ja": "駅から約1829mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 1829 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1829米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1829,
+      "walk_min": 23,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/624446766",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8911977,
+      "lon": 139.6319587
+    },
+    {
+      "id": "st01331-019",
+      "category": "shopping",
+      "name": {
+        "ja": "イオンモール与野",
+        "en": "AEON MALL Yono",
+        "zh": "永旺夢樂城 與野"
+      },
+      "desc": {
+        "ja": "駅から約1872mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 1872 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1872米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准。"
+      },
+      "distance_m": 1872,
+      "walk_min": 24,
+      "hours": "Mo-Su,PH 10:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/91657760",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.890916,
+      "lon": 139.6152972
+    }
+  ],
+  "coverage": {
+    "poi_count": 19,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 846,
+    "floor_check": {
+      "medical": {
+        "candidates": 114,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 34,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 89,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 18,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 9,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
