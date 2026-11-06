@@ -1,0 +1,536 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st01934",
+    "name": {
+      "ja": "北浦和",
+      "en": "Kita-Urawa",
+      "zh": "北浦和"
+    },
+    "line_group": [
+      "東北本線",
+      "東海道本線"
+    ],
+    "pref": "埼玉県",
+    "lat": 35.87212,
+    "lon": 139.64606
+  },
+  "generated_at": "2026-11-06T08:12:10Z",
+  "pois": [
+    {
+      "id": "st01934-001",
+      "category": "food",
+      "name": {
+        "ja": "KITCHEN STICK-TO（キッチン スティック-トゥ）",
+        "en": "KITCHEN STICK-TO（kichin suteiku-tou）",
+        "zh": "KITCHEN STICK-TO（キッチン スティック-トゥ）"
+      },
+      "desc": {
+        "ja": "駅から約262mにある飲食店。洋食;オムライス;ハンバーグ;ハヤシライス料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo off（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 262 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约262米的餐馆适合旅途中用餐，Mo off（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 262,
+      "walk_min": 4,
+      "hours": "Mo off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/13916614196",
+      "tel": "+81-48-834-4433",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8718433,
+      "lon": 139.6431699
+    },
+    {
+      "id": "st01934-002",
+      "category": "bank_atm",
+      "name": {
+        "ja": "武蔵野銀行北浦和支店",
+        "en": "武蔵野北浦和支店 Bank",
+        "zh": "武蔵野银行北浦和支店"
+      },
+      "desc": {
+        "ja": "武蔵野銀行北浦和支店の支店。駅から約148mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 148 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约148米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 148,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5851696291",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8732003,
+      "lon": 139.6470188
+    },
+    {
+      "id": "st01934-003",
+      "category": "convenience",
+      "name": {
+        "ja": "ミニストップ",
+        "en": "Ministop",
+        "zh": "迷你岛便利店"
+      },
+      "desc": {
+        "ja": "ミニストップのコンビニエンスストア。駅から約94mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 94 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约94米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 94,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.ministop.co.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8713277,
+      "lon": 139.6457001
+    },
+    {
+      "id": "st01934-004",
+      "category": "food",
+      "name": {
+        "ja": "キッチンきく",
+        "en": "kichinkiku",
+        "zh": "Kichinkiku"
+      },
+      "desc": {
+        "ja": "駅から約139mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Fr 11:45-14:00,17:30-21:00; Sa,PH 12:00-14:00,17:30-21:00; Su off（JST）。メニューや予。",
+        "en": "Restaurant about 139 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约139米的餐馆适合旅途中用餐，Mo-Fr 11:45-14:00, 17:30-21:00, Sa, PH 12:00-14:00, 17:30-21:00, Su off（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 139,
+      "walk_min": 2,
+      "hours": "Mo-Fr 11:45-14:00,17:30-21:00; Sa,PH 12:00-14:00,17:30-21:00; Su off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/13916614543",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8720224,
+      "lon": 139.6445203
+    },
+    {
+      "id": "st01934-005",
+      "category": "medical",
+      "name": {
+        "ja": "埼玉メディカルセンター",
+        "en": "埼玉medeikarusenta-",
+        "zh": "埼玉メディカルセンター"
+      },
+      "desc": {
+        "ja": "駅から約239mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 239 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约239米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 239,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2195182054",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8726144,
+      "lon": 139.643477
+    },
+    {
+      "id": "st01934-006",
+      "category": "cafe",
+      "name": {
+        "ja": "cinq",
+        "en": "cinq",
+        "zh": "cinq"
+      },
+      "desc": {
+        "ja": "駅から約297mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。",
+        "en": "Cafe about 297 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约297米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 297,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://cinqcafe.com/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8716432,
+      "lon": 139.6493038
+    },
+    {
+      "id": "st01934-007",
+      "category": "sight",
+      "name": {
+        "ja": "埼玉県立近代美術館",
+        "en": "The Museum of Modern Art, Saitama",
+        "zh": "埼玉县立近代美术馆"
+      },
+      "desc": {
+        "ja": "駅から約392mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 392 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约392米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 392,
+      "walk_min": 5,
+      "hours": "Tu-Su 10:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://pref.spec.ed.jp/momas/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.869598,
+      "lon": 139.643019
+    },
+    {
+      "id": "st01934-008",
+      "category": "police",
+      "name": {
+        "ja": "浦和警察署北浦和駅東口交番",
+        "en": "浦和北浦和站东口交番 Police Station",
+        "zh": "浦和警察署北浦和站东口交番"
+      },
+      "desc": {
+        "ja": "駅から約23mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 23 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约23米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 23,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420180052",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8723149,
+      "lon": 139.6461282
+    },
+    {
+      "id": "st01934-009",
+      "category": "public_service",
+      "name": {
+        "ja": "さいたま市北浦和駅市民の窓口",
+        "en": "saitama市北浦和駅市民no窓口",
+        "zh": "Saitama市北浦和駅市民no窓口"
+      },
+      "desc": {
+        "ja": "駅から約46mにある役所・行政施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Civic office about 46 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约46米的行政机构，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 46,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/11863002535",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8725298,
+      "lon": 139.6460067
+    },
+    {
+      "id": "st01934-010",
+      "category": "lodging",
+      "name": {
+        "ja": "浦和ロイヤルパインズホテル",
+        "en": "浦和roiyarupainzuhoteru",
+        "zh": "浦和ロイヤルパインズホテル"
+      },
+      "desc": {
+        "ja": "駅から約1394mにある宿泊施設。観光やビジネスの拠点として利用できる。チェックイン時間は予約時に確認を。",
+        "en": "Lodging about 1394 m from the station, a convenient base for sightseeing or business.",
+        "zh": "距站约1394米的住宿设施，可作为观光或商务出行的落脚点，入住方式以预订信息为准。"
+      },
+      "distance_m": 1394,
+      "walk_min": 18,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1487183978",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8606062,
+      "lon": 139.6521804
+    },
+    {
+      "id": "st01934-011",
+      "category": "sight",
+      "name": {
+        "ja": "童話の碑",
+        "en": "童話no碑",
+        "zh": "童話no碑"
+      },
+      "desc": {
+        "ja": "駅から約1173mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Memorial about 1173 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1173米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1173,
+      "walk_min": 15,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4419014487",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8624643,
+      "lon": 139.6513057
+    },
+    {
+      "id": "st01934-012",
+      "category": "police",
+      "name": {
+        "ja": "浦和警察署北浦和駅西口交番",
+        "en": "浦和北浦和站西口交番 Police Station",
+        "zh": "浦和警察署北浦和站西口交番"
+      },
+      "desc": {
+        "ja": "駅から約39mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 39 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约39米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 39,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420180053",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8717753,
+      "lon": 139.6461024
+    },
+    {
+      "id": "st01934-013",
+      "category": "sight",
+      "name": {
+        "ja": "市民憲章の碑",
+        "en": "市民憲章no碑",
+        "zh": "市民憲章no碑"
+      },
+      "desc": {
+        "ja": "駅から約1182mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Memorial about 1182 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1182米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1182,
+      "walk_min": 15,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4419014482",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8623861,
+      "lon": 139.65134
+    },
+    {
+      "id": "st01934-014",
+      "category": "post_office",
+      "name": {
+        "ja": "北浦和駅前郵便局",
+        "en": "北浦和站前 Post Office",
+        "zh": "北浦和站前邮政局"
+      },
+      "desc": {
+        "ja": "駅から約237mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 237 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约237米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 237,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420191169",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.870794,
+      "lon": 139.648117
+    },
+    {
+      "id": "st01934-015",
+      "category": "park",
+      "name": {
+        "ja": "さいたま市浦和北公園",
+        "en": "saitama市浦和北公園",
+        "zh": "Saitama市浦和北公園"
+      },
+      "desc": {
+        "ja": "駅から約393mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 393 m from the station, with paths and benches for a rest.",
+        "zh": "距站约393米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 393,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/693958908",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8691952,
+      "lon": 139.6436029
+    },
+    {
+      "id": "st01934-016",
+      "category": "tourist_info",
+      "name": {
+        "ja": "浦和観光案内所",
+        "en": "浦和 Tourist Information",
+        "zh": "浦和观光案内所"
+      },
+      "desc": {
+        "ja": "駅から約1822mにある観光案内所。周辺の観光情報や地図、施設案内を提供している。散策の前に立ち寄ると便利。",
+        "en": "Tourist information office about 1822 m from the station, with maps and local guidance.",
+        "zh": "距站约1822米的观光服务台，提供周边旅游信息、地图与咨询服务，可先在此规划行程。"
+      },
+      "distance_m": 1822,
+      "walk_min": 23,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4417178716",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8584962,
+      "lon": 139.6572971
+    },
+    {
+      "id": "st01934-017",
+      "category": "shopping",
+      "name": {
+        "ja": "PARCO",
+        "en": "PARCO",
+        "zh": "PARCO"
+      },
+      "desc": {
+        "ja": "駅から約1907mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 1907 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1907米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准。"
+      },
+      "distance_m": 1907,
+      "walk_min": 24,
+      "hours": "10:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://urawa.parco.jp/",
+      "tel": "+81 48-611-8000",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8586474,
+      "lon": 139.6591626
+    }
+  ],
+  "coverage": {
+    "poi_count": 17,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 549,
+    "floor_check": {
+      "medical": {
+        "candidates": 85,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 29,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 65,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 13,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 9,
+        "selected": 2
+      },
+      "tourist_info": {
+        "candidates": 1,
+        "selected": 1
+      }
+    }
+  }
+}
