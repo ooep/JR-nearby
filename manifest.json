@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-06T04:11:42Z",
+  "updated_at": "2026-11-06T04:21:08Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 193,
+  "done": 194,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -14,7 +14,7 @@
     "北海道": 1,
     "千葉県": 7,
     "和歌山県": 1,
-    "大阪府": 20,
+    "大阪府": 21,
     "奈良県": 1,
     "宮城県": 1,
     "岡山県": 3,
@@ -331,37 +331,38 @@
         "st03828",
         "st03967",
         "st04108",
-        "st04877"
+        "st04877",
+        "st04937"
       ],
-      "poi_total": 531,
+      "poi_total": 551,
       "category_counts": {
-        "bank_atm": 27,
+        "bank_atm": 28,
         "cafe": 6,
-        "convenience": 36,
-        "food": 46,
-        "lodging": 28,
-        "medical": 46,
-        "onsen_sento": 4,
-        "park": 23,
-        "police": 29,
-        "post_office": 43,
-        "public_service": 34,
+        "convenience": 37,
+        "food": 47,
+        "lodging": 30,
+        "medical": 48,
+        "onsen_sento": 5,
+        "park": 25,
+        "police": 30,
+        "post_office": 44,
+        "public_service": 35,
         "shopping": 60,
-        "shrine_temple": 56,
-        "sight": 79,
-        "tourist_info": 14
+        "shrine_temple": 58,
+        "sight": 83,
+        "tourist_info": 15
       },
-      "hours_null": 307,
-      "official_url_own": 198,
+      "hours_null": 319,
+      "official_url_own": 211,
       "official_url_map": 0,
-      "official_url_pending": 51,
-      "official_site_hours_coverage": 0.556,
+      "official_url_pending": 52,
+      "official_site_hours_coverage": 0.55,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "梅田 (st04877): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=2076（窗口下限，细分重抓后仍有残漏）"
+        "note": "大阪阿部野橋 (st04937): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=1194（精确）"
       }
     }
   ]
