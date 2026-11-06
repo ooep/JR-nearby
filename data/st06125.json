@@ -1,0 +1,541 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st06125",
+    "name": {
+      "ja": "北習志野",
+      "en": "Kita-Narashino",
+      "zh": "北習志野"
+    },
+    "line_group": [
+      "東葉高速線",
+      "松戸線"
+    ],
+    "pref": "千葉県",
+    "lat": 35.72147,
+    "lon": 140.041994
+  },
+  "generated_at": "2026-11-06T15:56:32Z",
+  "pois": [
+    {
+      "id": "st06125-001",
+      "category": "convenience",
+      "name": {
+        "ja": "デイリーヤマザキ",
+        "en": "Daily Yamazaki",
+        "zh": "Daily Yamazaki便利店"
+      },
+      "desc": {
+        "ja": "Daily YAMAZAKIのコンビニエンスストア。駅から約22mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 22 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约22米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 22,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/11261549309",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7215643,
+      "lon": 140.0422126
+    },
+    {
+      "id": "st06125-002",
+      "category": "food",
+      "name": {
+        "ja": "マクドナルド",
+        "en": "McDonald's",
+        "zh": "麦当劳"
+      },
+      "desc": {
+        "ja": "駅から約41mにある飲食店。burger料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は24時間営業。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 41 m from the station. Serves burger cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约41米的餐馆主营burger，适合旅途中用餐，全天24小时营业，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 41,
+      "walk_min": 1,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2183286102",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7218394,
+      "lon": 140.0419438
+    },
+    {
+      "id": "st06125-003",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "7-ELEVENのコンビニエンスストア。駅から約37mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 37 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约37米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 37,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/11261549307",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7212804,
+      "lon": 140.0423366
+    },
+    {
+      "id": "st06125-004",
+      "category": "bank_atm",
+      "name": {
+        "ja": "千葉銀行",
+        "en": "Chiba Bank",
+        "zh": "千葉银行"
+      },
+      "desc": {
+        "ja": "千葉銀行の支店。駅から約103mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 103 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约103米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 103,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1923396486",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7216858,
+      "lon": 140.0431003
+    },
+    {
+      "id": "st06125-005",
+      "category": "shopping",
+      "name": {
+        "ja": "西友",
+        "en": "Seiyu",
+        "zh": "西友"
+      },
+      "desc": {
+        "ja": "駅から約245mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 245 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约245米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 245,
+      "walk_min": 4,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.seiyu.co.jp/",
+      "tel": "+81-47-4631221",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7235498,
+      "lon": 140.041094
+    },
+    {
+      "id": "st06125-006",
+      "category": "medical",
+      "name": {
+        "ja": "共立習志野台病院",
+        "en": "Kyoritsu Narashinodai Hospital",
+        "zh": "共立習志野台病院"
+      },
+      "desc": {
+        "ja": "駅から約446mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 446 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约446米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 446,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.kyoritsunarasinodai.or.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7184616,
+      "lon": 140.0452547
+    },
+    {
+      "id": "st06125-007",
+      "category": "post_office",
+      "name": {
+        "ja": "船橋東郵便局",
+        "en": "Funabashi Higashi Post Office",
+        "zh": "船桥东邮政局"
+      },
+      "desc": {
+        "ja": "駅から約502mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 502 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约502米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 502,
+      "walk_min": 7,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1420742744",
+      "tel": "+81-800-0800-111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.723486,
+      "lon": 140.046964
+    },
+    {
+      "id": "st06125-008",
+      "category": "shopping",
+      "name": {
+        "ja": "Boulangerie Queue",
+        "en": "Boulangerie Queue",
+        "zh": "Boulangerie Queue"
+      },
+      "desc": {
+        "ja": "駅から約1934mにあるベーカリー。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Bakery about 1934 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1934米的面包店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1934,
+      "walk_min": 25,
+      "hours": "Th-Mo 07:00-16:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://ameblo.jp/qqky66rm9/",
+      "tel": "047-497-8340",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7302644,
+      "lon": 140.0604739
+    },
+    {
+      "id": "st06125-009",
+      "category": "shopping",
+      "name": {
+        "ja": "イオン",
+        "en": "AEON",
+        "zh": "永旺"
+      },
+      "desc": {
+        "ja": "駅から約871mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 871 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约871米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 871,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2161970988",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7270851,
+      "lon": 140.0352712
+    },
+    {
+      "id": "st06125-010",
+      "category": "police",
+      "name": {
+        "ja": "船橋東警察署習志野台交番",
+        "en": "船桥东習志野台交番 Police Station",
+        "zh": "船桥东警察署習志野台交番"
+      },
+      "desc": {
+        "ja": "駅から約434mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 434 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约434米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 434,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420742723",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7231126,
+      "lon": 140.0463496
+    },
+    {
+      "id": "st06125-011",
+      "category": "food",
+      "name": {
+        "ja": "ピザヨッカー 高根台店",
+        "en": "Pizza Yocker",
+        "zh": "ピザヨッカー 高根台店"
+      },
+      "desc": {
+        "ja": "駅から約1104mにある飲食店。pizza料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1104 m from the station. Serves pizza cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1104米的餐馆主营pizza，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1104,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.pizza-yocker.com/",
+      "tel": "047-466-6110",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7301919,
+      "lon": 140.0361527
+    },
+    {
+      "id": "st06125-012",
+      "category": "food",
+      "name": {
+        "ja": "珍來",
+        "en": "Chinrai",
+        "zh": "珍來"
+      },
+      "desc": {
+        "ja": "駅から約1167mにある飲食店。chinese;ramen料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はTh-Tu 11:00-20:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1167 m from the station. Serves chinese and ramen cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1167米的餐馆主营chinese and ramen，适合旅途中用餐，Th-Tu 11:00-20:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1167,
+      "walk_min": 15,
+      "hours": "Th-Tu 11:00-20:00 (JST)",
+      "hours_source": "osm",
+      "url": "http://www.chinrai.co.jp/tenpo/matsugaoka.html",
+      "tel": "+81-47-468-1666",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7316426,
+      "lon": 140.0451775
+    },
+    {
+      "id": "st06125-013",
+      "category": "park",
+      "name": {
+        "ja": "薬円台公園",
+        "en": "Yakuendai Park",
+        "zh": "薬円台公园"
+      },
+      "desc": {
+        "ja": "駅から約1186mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1186 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1186米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1186,
+      "walk_min": 15,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/121821604",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7119359,
+      "lon": 140.0478789
+    },
+    {
+      "id": "st06125-014",
+      "category": "sight",
+      "name": {
+        "ja": "船橋市郷土資料館",
+        "en": "Funabashi City Historical Museum",
+        "zh": "船桥市郷土资料馆"
+      },
+      "desc": {
+        "ja": "駅から約1296mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1296 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1296米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1296,
+      "walk_min": 17,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420742675",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.711599,
+      "lon": 140.04963
+    },
+    {
+      "id": "st06125-015",
+      "category": "medical",
+      "name": {
+        "ja": "千葉徳洲会病院",
+        "en": "Chiba Tokushukai Hospital",
+        "zh": "千葉徳洲会病院"
+      },
+      "desc": {
+        "ja": "駅から約1394mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 1394 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1394米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1394,
+      "walk_min": 18,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.chibatoku.or.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7316405,
+      "lon": 140.0329738
+    },
+    {
+      "id": "st06125-016",
+      "category": "post_office",
+      "name": {
+        "ja": "船橋高根台郵便局",
+        "en": "Funabashi Takanedai Post Office",
+        "zh": "船桥高根台邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1409mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1409 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1409米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 1409,
+      "walk_min": 18,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1420742917",
+      "tel": "+81-47-465-4291",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.730659,
+      "lon": 140.031239,
+      "official_url_pending": "https://map.japanpost.jp/p/search/dtl/300105352000/"
+    },
+    {
+      "id": "st06125-017",
+      "category": "public_service",
+      "name": {
+        "ja": "習志野台出張所",
+        "en": "Funabashi City Narashinodai Branch Office",
+        "zh": "習志野台出張所"
+      },
+      "desc": {
+        "ja": "駅から約398mにある役所・行政施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Civic office about 398 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约398米的行政机构，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 398,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/206967053",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7235009,
+      "lon": 140.0456262
+    }
+  ],
+  "coverage": {
+    "poi_count": 17,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 280,
+    "floor_check": {
+      "medical": {
+        "candidates": 24,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 4,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 42,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 11,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 4,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
