@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-06T01:02:24Z",
+  "updated_at": "2026-11-06T01:11:01Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 160,
+  "done": 161,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -20,7 +20,7 @@
     "広島県": 1,
     "徳島県": 1,
     "東京都": 107,
-    "神奈川県": 30,
+    "神奈川県": 31,
     "福岡県": 6,
     "群馬県": 1
   },
@@ -260,37 +260,38 @@
         "st03092",
         "st03129",
         "st03130",
-        "st03131"
+        "st03131",
+        "st03829"
       ],
-      "poi_total": 858,
+      "poi_total": 876,
       "category_counts": {
-        "bank_atm": 49,
-        "cafe": 24,
-        "convenience": 66,
-        "food": 95,
+        "bank_atm": 51,
+        "cafe": 25,
+        "convenience": 68,
+        "food": 98,
         "lodging": 34,
-        "medical": 76,
+        "medical": 78,
         "onsen_sento": 3,
-        "park": 50,
-        "police": 54,
-        "post_office": 59,
-        "public_service": 47,
-        "shopping": 92,
+        "park": 52,
+        "police": 55,
+        "post_office": 60,
+        "public_service": 48,
+        "shopping": 94,
         "shrine_temple": 82,
-        "sight": 107,
+        "sight": 108,
         "tourist_info": 20
       },
-      "hours_null": 536,
-      "official_url_own": 307,
+      "hours_null": 544,
+      "official_url_own": 310,
       "official_url_map": 0,
-      "official_url_pending": 61,
-      "official_site_hours_coverage": 0.583,
+      "official_url_pending": 62,
+      "official_site_hours_coverage": 0.587,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "武蔵小杉 (st03131): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=690（精确）"
+        "note": "東戸塚 (st03829): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=412（精确）"
       }
     }
   ]
