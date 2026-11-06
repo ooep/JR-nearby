@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-06T10:05:27Z",
+  "updated_at": "2026-11-06T10:33:27Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 263,
+  "done": 264,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -23,7 +23,7 @@
     "広島県": 4,
     "徳島県": 1,
     "愛媛県": 1,
-    "愛知県": 8,
+    "愛知県": 9,
     "東京都": 107,
     "熊本県": 1,
     "神奈川県": 34,
@@ -435,6 +435,7 @@
         "st02263",
         "st02264",
         "st02416",
+        "st02757",
         "st03149",
         "st03160",
         "st03199",
@@ -447,35 +448,35 @@
         "st06745",
         "st06746"
       ],
-      "poi_total": 856,
+      "poi_total": 876,
       "category_counts": {
-        "bank_atm": 55,
+        "bank_atm": 56,
         "cafe": 25,
-        "convenience": 70,
-        "food": 74,
+        "convenience": 71,
+        "food": 75,
         "lodging": 37,
-        "medical": 70,
+        "medical": 72,
         "onsen_sento": 6,
-        "park": 57,
-        "police": 53,
-        "post_office": 72,
-        "public_service": 43,
-        "shopping": 83,
-        "shrine_temple": 80,
-        "sight": 115,
-        "tourist_info": 16
+        "park": 59,
+        "police": 54,
+        "post_office": 74,
+        "public_service": 44,
+        "shopping": 84,
+        "shrine_temple": 83,
+        "sight": 119,
+        "tourist_info": 17
       },
-      "hours_null": 555,
-      "official_url_own": 266,
+      "hours_null": 567,
+      "official_url_own": 276,
       "official_url_map": 0,
-      "official_url_pending": 60,
-      "official_site_hours_coverage": 0.504,
+      "official_url_pending": 61,
+      "official_site_hours_coverage": 0.5,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "所沢 (st04383): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=344（精确）"
+        "note": "千種 (st02757): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=571（精确）"
       }
     }
   ]
