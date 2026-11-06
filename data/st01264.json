@@ -1,0 +1,602 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st01264",
+    "name": {
+      "ja": "尼崎",
+      "en": "Amagasaki",
+      "zh": "尼崎"
+    },
+    "line_group": [
+      "神戸高速線",
+      "近鉄奈良線",
+      "阪神なんば線",
+      "阪神本線"
+    ],
+    "pref": "兵庫県",
+    "lat": 34.71857,
+    "lon": 135.41752
+  },
+  "generated_at": "2026-11-06T07:12:51Z",
+  "pois": [
+    {
+      "id": "st01264-001",
+      "category": "cafe",
+      "name": {
+        "ja": "Holly's Cafe",
+        "en": "Holly's Cafe",
+        "zh": "Holly's Cafe"
+      },
+      "desc": {
+        "ja": "駅から約60mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。",
+        "en": "Cafe about 60 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约60米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 60,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://hollys-corp.jp/shop/hanshinamagasakiekimae/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7191003,
+      "lon": 135.4174178
+    },
+    {
+      "id": "st01264-002",
+      "category": "sight",
+      "name": {
+        "ja": "尼崎城",
+        "en": "Amagasaki castle",
+        "zh": "尼崎城"
+      },
+      "desc": {
+        "ja": "駅から約241mにある城郭。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Castle about 241 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约241米的城堡，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 241,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://amagasaki-castle.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7166719,
+      "lon": 135.4187981
+    },
+    {
+      "id": "st01264-003",
+      "category": "public_service",
+      "name": {
+        "ja": "尼崎市立中央図書館",
+        "en": "Amagasaki municipal central library",
+        "zh": "尼崎市立中央图书馆"
+      },
+      "desc": {
+        "ja": "駅から約254mにある図書館。手続きや調べ物、休憩に利用できる公共の施設。詳細は現地の案内を参照。",
+        "en": "Library about 254 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约254米的图书馆，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 254,
+      "walk_min": 4,
+      "hours": "Mo-Sa 09:00-20:00; Su, PH 09:00-17:15 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.amagasaki-library.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7163345,
+      "lon": 135.4180829
+    },
+    {
+      "id": "st01264-004",
+      "category": "bank_atm",
+      "name": {
+        "ja": "阿波銀行",
+        "en": "阿波 Bank",
+        "zh": "阿波银行"
+      },
+      "desc": {
+        "ja": "阿波銀行の支店。駅から約508mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 508 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约508米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 508,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "http://www.awabank.co.jp/kojin/tenpo/search/result/?todofuken=%E5%85%B5%E5%BA%AB%E7%9C%8C#510-00",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7199772,
+      "lon": 135.4228114
+    },
+    {
+      "id": "st01264-005",
+      "category": "police",
+      "name": {
+        "ja": "尼崎南警察署中央交番",
+        "en": "尼崎南中央交番 Police Station",
+        "zh": "尼崎南警察署中央交番"
+      },
+      "desc": {
+        "ja": "駅から約166mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 166 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约166米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 166,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/190448779",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7197069,
+      "lon": 135.4163444
+    },
+    {
+      "id": "st01264-006",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "正光寺",
+        "en": "Seikou Temple",
+        "zh": "正光寺"
+      },
+      "desc": {
+        "ja": "駅から約807mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 807 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约807米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 807,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "http://www.shoukouji.com/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7170921,
+      "lon": 135.4261629
+    },
+    {
+      "id": "st01264-007",
+      "category": "lodging",
+      "name": {
+        "ja": "都ホテル 尼崎",
+        "en": "都hoteru 尼崎",
+        "zh": "都ホテル 尼崎"
+      },
+      "desc": {
+        "ja": "駅から約401mにある宿泊施設。観光やビジネスの拠点として利用できる。チェックイン時間は予約時に確認を。",
+        "en": "Lodging about 401 m from the station, a convenient base for sightseeing or business.",
+        "zh": "距站约401米的住宿设施，可作为观光或商务出行的落脚点，入住方式以预订信息为准。"
+      },
+      "distance_m": 401,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.miyakohotels.ne.jp/amagasaki/",
+      "tel": "+81-6-6488-7777",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7204648,
+      "lon": 135.4212573
+    },
+    {
+      "id": "st01264-008",
+      "category": "sight",
+      "name": {
+        "ja": "尼信会館",
+        "en": "the Amagasaki Shinkin Bank Hall",
+        "zh": "尼信会馆"
+      },
+      "desc": {
+        "ja": "駅から約421mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 421 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约421米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 421,
+      "walk_min": 6,
+      "hours": "Tu-Su 10:00-16:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.amashin.co.jp/kaikan/index_fr.html",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7167278,
+      "lon": 135.4134953
+    },
+    {
+      "id": "st01264-009",
+      "category": "convenience",
+      "name": {
+        "ja": "ファミリーマート",
+        "en": "FamilyMart",
+        "zh": "全家便利店"
+      },
+      "desc": {
+        "ja": "FamilyMartのコンビニエンスストア。駅から約434mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 434 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约434米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 434,
+      "walk_min": 6,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "http://as.chizumaru.com/famima/detailMap?account=famima&accmd=0&bid=34477&c2=1&kkw001=%E5%B0%BC%E5%B4%8E%E5%8D%97%E8%AD%A6%E5%AF%9F%E7%BD%B2%E5%89%8D%E5%BA%97&pgret=2",
+      "tel": "+81-6-4868-5360",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7201726,
+      "lon": 135.4218556
+    },
+    {
+      "id": "st01264-010",
+      "category": "sight",
+      "name": {
+        "ja": "D51",
+        "en": "D51",
+        "zh": "D51"
+      },
+      "desc": {
+        "ja": "駅から約1038mにある観光スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Attraction about 1038 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1038米的观光景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1038,
+      "walk_min": 13,
+      "hours": "Apr-Nov: Su[3] 10:00-12:00,13:00-16:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/337827533",
+      "tel": "+81 6 6429 3020",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7190462,
+      "lon": 135.4288621
+    },
+    {
+      "id": "st01264-011",
+      "category": "tourist_info",
+      "name": {
+        "ja": "あまがさき観光案内所",
+        "en": "Amagasaki Tourist Information Center",
+        "zh": "Amagasaki観光案内所"
+      },
+      "desc": {
+        "ja": "駅から約98mにある観光案内所。周辺の観光情報や地図、施設案内を提供している。散策の前に立ち寄ると便利。",
+        "en": "Tourist information office about 98 m from the station, with maps and local guidance.",
+        "zh": "距站约98米的观光服务台，提供周边旅游信息、地图与咨询服务，可先在此规划行程，具体信息以现场为准。"
+      },
+      "distance_m": 98,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/8005566226",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7194179,
+      "lon": 135.4172304
+    },
+    {
+      "id": "st01264-012",
+      "category": "sight",
+      "name": {
+        "ja": "ユニチカ記念館",
+        "en": "Unitika Memorial Hall",
+        "zh": "ユニチカ纪念馆"
+      },
+      "desc": {
+        "ja": "駅から約1150mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1150 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1150米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1150,
+      "walk_min": 15,
+      "hours": "10:00-12:00, 13:00-15:00; We off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/385792446",
+      "tel": "+81-6-6481-0525",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7128032,
+      "lon": 135.4279596
+    },
+    {
+      "id": "st01264-013",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "吉備彦神社",
+        "en": "Kibihiko Shrine",
+        "zh": "吉備彦神社"
+      },
+      "desc": {
+        "ja": "駅から約1021mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1021 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1021米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1021,
+      "walk_min": 13,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/617281086",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7242533,
+      "lon": 135.4262961
+    },
+    {
+      "id": "st01264-014",
+      "category": "post_office",
+      "name": {
+        "ja": "尼崎郵便局",
+        "en": "Amagasaki Post Office",
+        "zh": "尼崎邮政局"
+      },
+      "desc": {
+        "ja": "駅から約595mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 595 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约595米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 595,
+      "walk_min": 8,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/12024101064",
+      "tel": "+81-6-6482-1189",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7207017,
+      "lon": 135.423488,
+      "official_url_pending": "http://map.japanpost.jp/pc/syousai.php?id=300143026000"
+    },
+    {
+      "id": "st01264-015",
+      "category": "park",
+      "name": {
+        "ja": "大物公園",
+        "en": "Daimotsu Park",
+        "zh": "大物公园"
+      },
+      "desc": {
+        "ja": "駅から約978mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 978 m from the station, with paths and benches for a rest.",
+        "zh": "距站约978米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 978,
+      "walk_min": 13,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/244646940",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7179922,
+      "lon": 135.4281954
+    },
+    {
+      "id": "st01264-016",
+      "category": "park",
+      "name": {
+        "ja": "芦原公園市民プール",
+        "en": "芦原公園市民pu-ru",
+        "zh": "芦原公园市民プール"
+      },
+      "desc": {
+        "ja": "駅から約1924mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1924 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1924米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1924,
+      "walk_min": 25,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/332467740",
+      "tel": "+81-6-6481-1200",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7350497,
+      "lon": 135.4111009
+    },
+    {
+      "id": "st01264-017",
+      "category": "sight",
+      "name": {
+        "ja": "あまらぶアートラボ　A-Lab",
+        "en": "amarabua-torabo　A-Lab",
+        "zh": "Amarabua-torabo A-Lab"
+      },
+      "desc": {
+        "ja": "駅から約678mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 678 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约678米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 678,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "http://www.ama-a-lab.com/",
+      "tel": "+81-6-7163-7108",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.72291,
+      "lon": 135.4227312
+    },
+    {
+      "id": "st01264-018",
+      "category": "medical",
+      "name": {
+        "ja": "兵庫県立尼崎総合医療センター",
+        "en": "Hyogo Prefectural Amagasaki General Medical Center",
+        "zh": "兵庫县立尼崎総合医療センター"
+      },
+      "desc": {
+        "ja": "駅から約1330mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 1330 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1330米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1330,
+      "walk_min": 17,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "http://agmc.hyogo.jp/",
+      "tel": "+81-6-6480-7000",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7300433,
+      "lon": 135.4134123
+    },
+    {
+      "id": "st01264-019",
+      "category": "public_service",
+      "name": {
+        "ja": "尼崎市役所",
+        "en": "Amagasaki Shiyakusho",
+        "zh": "尼崎市役所"
+      },
+      "desc": {
+        "ja": "駅から約1953mにある役所・行政施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Civic office about 1953 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1953米的行政机构，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1953,
+      "walk_min": 25,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.city.amagasaki.hyogo.jp/",
+      "tel": "06-6375-5639",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7335454,
+      "lon": 135.4063565
+    }
+  ],
+  "coverage": {
+    "poi_count": 19,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 799,
+    "floor_check": {
+      "medical": {
+        "candidates": 65,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 24,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 50,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 17,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 15,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 2,
+        "selected": 1
+      }
+    }
+  }
+}
