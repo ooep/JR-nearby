@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-06T12:28:31Z",
+  "updated_at": "2026-11-06T12:41:11Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 269,
+  "done": 270,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -26,7 +26,7 @@
     "愛知県": 11,
     "東京都": 107,
     "熊本県": 1,
-    "神奈川県": 34,
+    "神奈川県": 35,
     "福岡県": 6,
     "群馬県": 2,
     "長崎県": 2,
@@ -263,6 +263,7 @@
         "st01896",
         "st01900",
         "st01910",
+        "st01915",
         "st01997",
         "st02098",
         "st02101",
@@ -277,35 +278,35 @@
         "st04391",
         "st08866"
       ],
-      "poi_total": 955,
+      "poi_total": 973,
       "category_counts": {
-        "bank_atm": 55,
+        "bank_atm": 56,
         "cafe": 28,
-        "convenience": 75,
-        "food": 106,
+        "convenience": 77,
+        "food": 109,
         "lodging": 36,
-        "medical": 82,
+        "medical": 84,
         "onsen_sento": 4,
         "park": 57,
-        "police": 59,
-        "post_office": 64,
+        "police": 60,
+        "post_office": 66,
         "public_service": 54,
-        "shopping": 99,
-        "shrine_temple": 93,
-        "sight": 122,
-        "tourist_info": 21
+        "shopping": 102,
+        "shrine_temple": 95,
+        "sight": 123,
+        "tourist_info": 22
       },
-      "hours_null": 587,
-      "official_url_own": 349,
+      "hours_null": 599,
+      "official_url_own": 353,
       "official_url_map": 0,
-      "official_url_pending": 70,
-      "official_site_hours_coverage": 0.587,
+      "official_url_pending": 73,
+      "official_site_hours_coverage": 0.589,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "綱島 (st04391): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=391（精确）"
+        "note": "鶴見 (st01915): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=337（精确）"
       }
     },
     {
