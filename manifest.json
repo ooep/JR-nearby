@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-06T04:52:54Z",
+  "updated_at": "2026-11-06T05:01:14Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 201,
+  "done": 202,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -23,7 +23,7 @@
     "東京都": 107,
     "神奈川県": 34,
     "福岡県": 6,
-    "群馬県": 1,
+    "群馬県": 2,
     "静岡県": 2,
     "高知県": 1
   },
@@ -337,12 +337,13 @@
         "st03828",
         "st03967",
         "st04108",
+        "st04517",
         "st04877",
         "st04937",
         "st04997",
         "st04998"
       ],
-      "poi_total": 678,
+      "poi_total": 681,
       "category_counts": {
         "bank_atm": 37,
         "cafe": 7,
@@ -352,15 +353,15 @@
         "medical": 57,
         "onsen_sento": 5,
         "park": 33,
-        "police": 38,
-        "post_office": 55,
-        "public_service": 45,
+        "police": 39,
+        "post_office": 56,
+        "public_service": 46,
         "shopping": 75,
         "shrine_temple": 70,
         "sight": 93,
         "tourist_info": 18
       },
-      "hours_null": 402,
+      "hours_null": 405,
       "official_url_own": 281,
       "official_url_map": 0,
       "official_url_pending": 61,
@@ -370,7 +371,7 @@
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "津田沼 (st03827): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=332（精确）"
+        "note": "中野 (st04517): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=8（精确）"
       }
     }
   ]
