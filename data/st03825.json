@@ -1,0 +1,628 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st03825",
+    "name": {
+      "ja": "市川",
+      "en": "Ichikawa",
+      "zh": "市川"
+    },
+    "line_group": [
+      "外房線",
+      "山手線",
+      "成田線",
+      "東海道本線",
+      "総武本線"
+    ],
+    "pref": "千葉県",
+    "lat": 35.72871,
+    "lon": 139.90808
+  },
+  "generated_at": "2026-11-06T04:52:16Z",
+  "pois": [
+    {
+      "id": "st03825-001",
+      "category": "bank_atm",
+      "name": {
+        "ja": "千葉銀行 (Chiba Bank)",
+        "en": "Chiba Bank",
+        "zh": "千葉银行 (Chiba Bank)"
+      },
+      "desc": {
+        "ja": "千葉銀行 (Chiba Bank)のATM。駅から約46mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 46 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约46米的银行网点，Mo-Fr 08:00-23:00, Sa, PH 08:00-21:00, Su 08:00-19:00（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 46,
+      "walk_min": 1,
+      "hours": "Mo-Fr 08:00-23:00; Sa,PH 08:00-21:00; Su 08:00-19:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.chibabank.co.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.729077,
+      "lon": 139.907835
+    },
+    {
+      "id": "st03825-002",
+      "category": "food",
+      "name": {
+        "ja": "サイゼリヤ",
+        "en": "Saizeriya",
+        "zh": "萨莉亚"
+      },
+      "desc": {
+        "ja": "駅から約73mにある飲食店。italian料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は11:00-01:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 73 m from the station. Serves italian cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约73米的餐馆主营italian，适合旅途中用餐，11:00-01:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 73,
+      "walk_min": 1,
+      "hours": "11:00-01:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/3594014392",
+      "tel": "047-704-1012",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7282943,
+      "lon": 139.9087001
+    },
+    {
+      "id": "st03825-003",
+      "category": "convenience",
+      "name": {
+        "ja": "ファミリーマート",
+        "en": "FamilyMart",
+        "zh": "全家便利店"
+      },
+      "desc": {
+        "ja": "ファミリーマートのコンビニエンスストア。駅から約84mの場所にあり、Mo-Su 05:00-01:00（JST）。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 84 m from the station. Mo-Su 05:00-01:00 (JST). Stocks meals, drinks and daily necessities.",
+        "zh": "距站约84米的便利店，Mo-Su 05:00-01:00（JST），可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 84,
+      "walk_min": 2,
+      "hours": "Mo-Su 05:00-01:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.family.co.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7288401,
+      "lon": 139.9071683
+    },
+    {
+      "id": "st03825-004",
+      "category": "bank_atm",
+      "name": {
+        "ja": "みずほ銀行",
+        "en": "Mizuho Bank",
+        "zh": "瑞穗银行"
+      },
+      "desc": {
+        "ja": "みずほ銀行の支店。駅から約122mにあり、預け入れ・引き出しやATMの利用に対応する。窓口はMo-Fr 09:00-15:00（JST）。",
+        "en": "Bank about 122 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约122米的银行网点，Mo-Fr 09:00-15:00（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 122,
+      "walk_min": 2,
+      "hours": "Mo-Fr 09:00-15:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1533897780",
+      "tel": "+81-47-3264341",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7298097,
+      "lon": 139.9081094,
+      "official_url_pending": "https://www.mizuhobank.co.jp/"
+    },
+    {
+      "id": "st03825-005",
+      "category": "cafe",
+      "name": {
+        "ja": "タリーズコーヒー",
+        "en": "Tully's Coffee",
+        "zh": "塔利咖啡"
+      },
+      "desc": {
+        "ja": "駅から約128mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。Mo-Su 10:00-23:00（JST）。",
+        "en": "Cafe about 128 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约128米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 128,
+      "walk_min": 2,
+      "hours": "Mo-Su 10:00-23:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.tullys.co.jp/",
+      "tel": "+81-47-3293222",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.729386,
+      "lon": 139.906939
+    },
+    {
+      "id": "st03825-006",
+      "category": "lodging",
+      "name": {
+        "ja": "山崎製パン企業年金基金会館",
+        "en": "山崎製pan企業年金基金会館",
+        "zh": "山崎製パン企業年金基金会馆"
+      },
+      "desc": {
+        "ja": "駅から約150mにある宿泊施設。観光やビジネスの拠点として利用できる。チェックイン時間は予約時に確認を。",
+        "en": "Lodging about 150 m from the station, a convenient base for sightseeing or business.",
+        "zh": "距站约150米的住宿设施，可作为观光或商务出行的落脚点，入住方式以预订信息为准。"
+      },
+      "distance_m": 150,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.yamazakipan-nenkinkaikan.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7293257,
+      "lon": 139.9095545
+    },
+    {
+      "id": "st03825-007",
+      "category": "public_service",
+      "name": {
+        "ja": "小岩アーバンプラザ",
+        "en": "Koiwa Urban Plaza",
+        "zh": "小岩アーバンプラザ"
+      },
+      "desc": {
+        "ja": "駅から約1614mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 1614 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1614米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1614,
+      "walk_min": 21,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/3174761602",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7357151,
+      "lon": 139.8924223
+    },
+    {
+      "id": "st03825-008",
+      "category": "lodging",
+      "name": {
+        "ja": "市川グランドホテル",
+        "en": "市川gurandohoteru",
+        "zh": "市川グランドホテル"
+      },
+      "desc": {
+        "ja": "駅から約188mにある宿泊施設。観光やビジネスの拠点として利用できる。チェックイン時間は予約時に確認を。",
+        "en": "Lodging about 188 m from the station, a convenient base for sightseeing or business.",
+        "zh": "距站约188米的住宿设施，可作为观光或商务出行的落脚点，入住方式以预订信息为准。"
+      },
+      "distance_m": 188,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://breezbay-group.com/ichikawa-gh/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.729708,
+      "lon": 139.9097646
+    },
+    {
+      "id": "st03825-009",
+      "category": "food",
+      "name": {
+        "ja": "桃の屋台",
+        "en": "桃no屋台",
+        "zh": "桃no屋台"
+      },
+      "desc": {
+        "ja": "駅から約363mにある飲食店。japanese料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はTu-Su 17:30-24:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 363 m from the station. Serves japanese cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约363米的餐馆主营japanese，适合旅途中用餐，Tu-Su 17:30-24:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 363,
+      "walk_min": 5,
+      "hours": "Tu-Su 17:30-24:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2195200543",
+      "tel": "+81-47-379-2040",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.725447,
+      "lon": 139.907847
+    },
+    {
+      "id": "st03825-010",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "諏訪神社",
+        "en": "Suwa-jinja Shrine",
+        "zh": "諏訪神社"
+      },
+      "desc": {
+        "ja": "駅から約917mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 917 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约917米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 917,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/3619660107",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7277097,
+      "lon": 139.9181587
+    },
+    {
+      "id": "st03825-011",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "善養寺",
+        "en": "Zen'yo-ji Temple",
+        "zh": "善養寺"
+      },
+      "desc": {
+        "ja": "駅から約1318mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 1318 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1318米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1318,
+      "walk_min": 17,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4402395498",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7278655,
+      "lon": 139.8935214
+    },
+    {
+      "id": "st03825-012",
+      "category": "park",
+      "name": {
+        "ja": "柴又公園",
+        "en": "Shibamata Park",
+        "zh": "柴又公园"
+      },
+      "desc": {
+        "ja": "駅から約1134mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1134 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1134米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1134,
+      "walk_min": 15,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.city.katsushika.lg.jp/institution/1000096/1006896.html",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7344699,
+      "lon": 139.8977129
+    },
+    {
+      "id": "st03825-013",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "北野神社",
+        "en": "Kitano-jinja Shrine",
+        "zh": "北野神社"
+      },
+      "desc": {
+        "ja": "駅から約1476mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1476 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1476米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1476,
+      "walk_min": 19,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/3602745685",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7373816,
+      "lon": 139.8957062
+    },
+    {
+      "id": "st03825-014",
+      "category": "post_office",
+      "name": {
+        "ja": "市川郵便局",
+        "en": "Ichikawa Post Office",
+        "zh": "市川邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1297mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1297 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1297米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 1297,
+      "walk_min": 17,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1420734070",
+      "tel": "+81-800-0800-111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7252053,
+      "lon": 139.9217801
+    },
+    {
+      "id": "st03825-015",
+      "category": "medical",
+      "name": {
+        "ja": "仁生社江戸川病院",
+        "en": "Edogawa Hospital",
+        "zh": "仁生社江户川病院"
+      },
+      "desc": {
+        "ja": "駅から約1359mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 1359 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1359米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1359,
+      "walk_min": 17,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/141027185",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7284157,
+      "lon": 139.8930244
+    },
+    {
+      "id": "st03825-016",
+      "category": "sight",
+      "name": {
+        "ja": "和洋女子大学文化資料館",
+        "en": "Wayo Women's University Cultural Museum",
+        "zh": "和洋女子大学文化资料馆"
+      },
+      "desc": {
+        "ja": "駅から約1595mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1595 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1595米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1595,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420730690",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7427126,
+      "lon": 139.9042707
+    },
+    {
+      "id": "st03825-017",
+      "category": "public_service",
+      "name": {
+        "ja": "小岩図書館",
+        "en": "Koiwa Library",
+        "zh": "小岩图书馆"
+      },
+      "desc": {
+        "ja": "駅から約1614mにある図書館。手続きや調べ物、休憩に利用できる公共の施設。詳細は現地の案内を参照。",
+        "en": "Library about 1614 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1614米的图书馆，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1614,
+      "walk_min": 21,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/330646680",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7312942,
+      "lon": 139.8904873
+    },
+    {
+      "id": "st03825-018",
+      "category": "police",
+      "name": {
+        "ja": "小岩警察署",
+        "en": "Koiwa Police Station",
+        "zh": "小岩警察署"
+      },
+      "desc": {
+        "ja": "駅から約1934mにある警察署。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1934 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1934米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1934,
+      "walk_min": 25,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/514642458",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7338178,
+      "lon": 139.8875961
+    },
+    {
+      "id": "st03825-019",
+      "category": "post_office",
+      "name": {
+        "ja": "小岩郵便局",
+        "en": "Koiwa Post Office",
+        "zh": "小岩邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1943mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1943 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1943米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 1943,
+      "walk_min": 25,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/330646682",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7281866,
+      "lon": 139.8865677
+    },
+    {
+      "id": "st03825-020",
+      "category": "medical",
+      "name": {
+        "ja": "国立国府台医療センター",
+        "en": "国立国府台医療senta-",
+        "zh": "国立国府台医療センター"
+      },
+      "desc": {
+        "ja": "駅から約1955mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 1955 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1955米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1955,
+      "walk_min": 25,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/140487230",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7462645,
+      "lon": 139.9068444
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 304,
+    "floor_check": {
+      "medical": {
+        "candidates": 31,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 24,
+        "selected": 2
+      },
+      "convenience": {
+        "candidates": 53,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 15,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 13,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
