@@ -1,17 +1,17 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-06T07:13:35Z",
+  "updated_at": "2026-11-06T07:14:31Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 232,
+  "done": 233,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
     "京都府": 7,
-    "兵庫県": 10,
+    "兵庫県": 11,
     "北海道": 4,
     "千葉県": 14,
     "和歌山県": 1,
@@ -411,37 +411,38 @@
         "st01089",
         "st01263",
         "st01264",
-        "st01269"
+        "st01269",
+        "st01309"
       ],
-      "poi_total": 311,
+      "poi_total": 331,
       "category_counts": {
-        "bank_atm": 21,
+        "bank_atm": 22,
         "cafe": 6,
-        "convenience": 26,
+        "convenience": 27,
         "food": 20,
-        "lodging": 16,
-        "medical": 22,
+        "lodging": 18,
+        "medical": 23,
         "onsen_sento": 3,
         "park": 23,
-        "police": 20,
-        "post_office": 25,
+        "police": 21,
+        "post_office": 26,
         "public_service": 15,
-        "shopping": 23,
-        "shrine_temple": 23,
-        "sight": 60,
-        "tourist_info": 8
+        "shopping": 24,
+        "shrine_temple": 26,
+        "sight": 68,
+        "tourist_info": 9
       },
-      "hours_null": 216,
-      "official_url_own": 104,
+      "hours_null": 232,
+      "official_url_own": 111,
       "official_url_map": 0,
-      "official_url_pending": 26,
-      "official_site_hours_coverage": 0.317,
+      "official_url_pending": 27,
+      "official_site_hours_coverage": 0.306,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "宝塚 (st01269): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=300（精确）"
+        "note": "元町 (st01309): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=1478（窗口下限，细分重抓后仍有残漏）"
       }
     }
   ]
