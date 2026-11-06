@@ -1,0 +1,634 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st03092",
+    "name": {
+      "ja": "湘南台",
+      "en": "Shōnandai",
+      "zh": "湘南台"
+    },
+    "line_group": [
+      "いずみ野線",
+      "埼玉高速鉄道線",
+      "小田原線",
+      "横浜市営地下鉄1号線",
+      "相鉄本線"
+    ],
+    "pref": "神奈川県",
+    "lat": 35.396454,
+    "lon": 139.46689
+  },
+  "generated_at": "2026-11-06T01:01:05Z",
+  "pois": [
+    {
+      "id": "st03092-001",
+      "category": "cafe",
+      "name": {
+        "ja": "コメダ珈琲店",
+        "en": "Komeda's Coffee",
+        "zh": "コメダ珈琲店"
+      },
+      "desc": {
+        "ja": "駅から約88mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。",
+        "en": "Cafe about 88 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约88米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 88,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/12879159606",
+      "tel": "+81-466-21-7035",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3966102,
+      "lon": 139.465935,
+      "official_url_pending": "https://www.komeda.co.jp/shop/detail.html?id=1108"
+    },
+    {
+      "id": "st03092-002",
+      "category": "food",
+      "name": {
+        "ja": "bb.q オリーブチキンカフェ　湘南台店",
+        "en": "bb.q ori-buchikinkafue　湘南台店",
+        "zh": "bb.q オリーブチキンカフェ　湘南台店"
+      },
+      "desc": {
+        "ja": "駅から約110mにある飲食店。chicken料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Su 10:00-22:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 110 m from the station. Serves chicken cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约110米的餐馆主营chicken，适合旅途中用餐，Mo-Su 10:00-22:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 110,
+      "walk_min": 2,
+      "hours": "Mo-Su 10:00-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://bbq-olivechickencafe.jp/shop/shonandai/",
+      "tel": "+81-466-47-8529",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3962972,
+      "lon": 139.4656959
+    },
+    {
+      "id": "st03092-003",
+      "category": "lodging",
+      "name": {
+        "ja": "湘南台第一ホテル藤沢横浜",
+        "en": "湘南台第一hoteru藤沢横浜",
+        "zh": "湘南台第一ホテル藤泽横滨"
+      },
+      "desc": {
+        "ja": "駅から約138mにある宿泊施設。観光やビジネスの拠点として利用できる。チェックイン時間は予約時に確認を。",
+        "en": "Lodging about 138 m from the station, a convenient base for sightseeing or business.",
+        "zh": "距站约138米的住宿设施，可作为观光或商务出行的落脚点，入住方式以预订信息为准。"
+      },
+      "distance_m": 138,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.shonandai-dai1hotel.com/",
+      "tel": "+81-46-645-7200",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3967973,
+      "lon": 139.465428
+    },
+    {
+      "id": "st03092-004",
+      "category": "food",
+      "name": {
+        "ja": "スシロー",
+        "en": "Sushiro",
+        "zh": "壽司郎"
+      },
+      "desc": {
+        "ja": "駅から約190mにある飲食店。sushi料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Fr 11:00-23:00; Sa-Su 10:30-23:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 190 m from the station. Serves sushi cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约190米的餐馆主营sushi，适合旅途中用餐，Mo-Fr 11:00-23:00, Sa-Su 10:30-23:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 190,
+      "walk_min": 3,
+      "hours": "Mo-Fr 11:00-23:00; Sa-Su 10:30-23:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.akindo-sushiro.co.jp/shop/detail.php?id=2515",
+      "tel": "0466412617",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3962914,
+      "lon": 139.4648018
+    },
+    {
+      "id": "st03092-005",
+      "category": "medical",
+      "name": {
+        "ja": "セイジョー",
+        "en": "Seijo",
+        "zh": "Seijiyo-"
+      },
+      "desc": {
+        "ja": "駅から約68mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 68 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约68米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 68,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/3148750566",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3970532,
+      "lon": 139.4670211
+    },
+    {
+      "id": "st03092-006",
+      "category": "sight",
+      "name": {
+        "ja": "藤沢市湘南台文化センターこども館",
+        "en": "藤沢市湘南台文化senta-kodomo館",
+        "zh": "藤沢市湘南台文化senta-kodomo館"
+      },
+      "desc": {
+        "ja": "駅から約295mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 295 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约295米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 295,
+      "walk_min": 4,
+      "hours": "Tu-Su 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1420832785",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.397776,
+      "lon": 139.469711,
+      "official_url_pending": "http://www.kodomokan.fujisawa.kanagawa.jp/"
+    },
+    {
+      "id": "st03092-007",
+      "category": "food",
+      "name": {
+        "ja": "モスバーガー",
+        "en": "MOS Burger",
+        "zh": "摩斯汉堡"
+      },
+      "desc": {
+        "ja": "駅から約331mにある飲食店。burger料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Fr 07:00-24:00; Sa 09:00-01:00; Su,PH 09:00-24:00（JST）。メニューや予算は店。",
+        "en": "Restaurant about 331 m from the station. Serves burger cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约331米的餐馆主营burger，适合旅途中用餐，Mo-Fr 07:00-24:00, Sa 09:00-01:00, Su, PH 09:00-24:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 331,
+      "walk_min": 5,
+      "hours": "Mo-Fr 07:00-24:00; Sa 09:00-01:00; Su,PH 09:00-24:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.mos.co.jp/",
+      "tel": "+81-466-450102",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3970597,
+      "lon": 139.4633147
+    },
+    {
+      "id": "st03092-008",
+      "category": "park",
+      "name": {
+        "ja": "湘南台公園",
+        "en": "Shonandai Park",
+        "zh": "湘南台公园"
+      },
+      "desc": {
+        "ja": "駅から約400mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 400 m from the station, with paths and benches for a rest.",
+        "zh": "距站约400米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 400,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/220197825",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.397262,
+      "lon": 139.4711866
+    },
+    {
+      "id": "st03092-009",
+      "category": "convenience",
+      "name": {
+        "ja": "ミニストップ",
+        "en": "Ministop",
+        "zh": "迷你岛便利店"
+      },
+      "desc": {
+        "ja": "MINISTOPのコンビニエンスストア。駅から約517mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 517 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约517米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 517,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.ministop.co.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3926013,
+      "lon": 139.4636935
+    },
+    {
+      "id": "st03092-010",
+      "category": "police",
+      "name": {
+        "ja": "湘南台駅東口交番",
+        "en": "湘南台站东口 Police Box",
+        "zh": "湘南台站东口交番"
+      },
+      "desc": {
+        "ja": "駅から約29mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 29 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约29米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 29,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/530931044",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3966595,
+      "lon": 139.4666957
+    },
+    {
+      "id": "st03092-011",
+      "category": "post_office",
+      "name": {
+        "ja": "湘南台駅前郵便局",
+        "en": "湘南台站前 Post Office",
+        "zh": "湘南台站前邮政局"
+      },
+      "desc": {
+        "ja": "駅から約246mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 246 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约246米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 246,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/676016137",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3959872,
+      "lon": 139.4642357
+    },
+    {
+      "id": "st03092-012",
+      "category": "shopping",
+      "name": {
+        "ja": "OKストア",
+        "en": "OKsutoa",
+        "zh": "OKストア"
+      },
+      "desc": {
+        "ja": "駅から約66mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 66 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约66米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 66,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5552234979",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3958744,
+      "lon": 139.4670475
+    },
+    {
+      "id": "st03092-013",
+      "category": "medical",
+      "name": {
+        "ja": "ヤマグチ薬局",
+        "en": "yamaguchi薬局",
+        "zh": "ヤマグチ薬局"
+      },
+      "desc": {
+        "ja": "駅から約1685mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 1685 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1685米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1685,
+      "walk_min": 22,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "http://www.yamaguchi-pha.jp/store/chogo.html",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.4115198,
+      "lon": 139.4648666
+    },
+    {
+      "id": "st03092-014",
+      "category": "sight",
+      "name": {
+        "ja": "日本大学生物資源科学部 博物館",
+        "en": "Museum of Bones and Skeletons",
+        "zh": "日本大学生物资源科学部 博物馆"
+      },
+      "desc": {
+        "ja": "駅から約1714mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。入場は無料。",
+        "en": "Museum about 1714 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1714米的博物馆·美术馆，免费开放，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1714,
+      "walk_min": 22,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://hp.brs.nihon-u.ac.jp/~museum/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3813045,
+      "lon": 139.4704029
+    },
+    {
+      "id": "st03092-015",
+      "category": "convenience",
+      "name": {
+        "ja": "ファミリーマート",
+        "en": "FamilyMart",
+        "zh": "全家便利店"
+      },
+      "desc": {
+        "ja": "FamilyMartのコンビニエンスストア。駅から約1760mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 1760 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约1760米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 1760,
+      "walk_min": 22,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://as.chizumaru.com/famima/detailMap?kkw001=%e9%95%b7%e5%be%8c&account=famima&accmd=0&c2=1&bitemtype=0&bid=24985&pgret=2",
+      "tel": "+81 466 42 6401",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.4122524,
+      "lon": 139.4656526
+    },
+    {
+      "id": "st03092-016",
+      "category": "shopping",
+      "name": {
+        "ja": "Odakyu OX",
+        "en": "Odakyu OX",
+        "zh": "Odakyu OX"
+      },
+      "desc": {
+        "ja": "駅から約1824mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 1824 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1824米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1824,
+      "walk_min": 23,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.odakyu-ox.net/tenpo/chogo.html",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.4127925,
+      "lon": 139.4651363
+    },
+    {
+      "id": "st03092-017",
+      "category": "bank_atm",
+      "name": {
+        "ja": "りそな銀行",
+        "en": "Resona Bank",
+        "zh": "理索纳银行"
+      },
+      "desc": {
+        "ja": "りそな銀行の支店。駅から約1849mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 1849 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约1849米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 1849,
+      "walk_min": 24,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2973838817",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.4129733,
+      "lon": 139.46457,
+      "official_url_pending": "https://resona-map.jp/detail.php?id=436"
+    },
+    {
+      "id": "st03092-018",
+      "category": "bank_atm",
+      "name": {
+        "ja": "横浜銀行",
+        "en": "Bank of Yokohama",
+        "zh": "横滨银行"
+      },
+      "desc": {
+        "ja": "横浜銀行の支店。駅から約1840mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 1840 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约1840米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 1840,
+      "walk_min": 23,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://sasp.mapion.co.jp/b/boy/info/61500/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.412986,
+      "lon": 139.4659543
+    },
+    {
+      "id": "st03092-019",
+      "category": "public_service",
+      "name": {
+        "ja": "湘南台市民センター",
+        "en": "湘南台市民senta-",
+        "zh": "湘南台市民センター"
+      },
+      "desc": {
+        "ja": "駅から約292mにある役所・行政施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Civic office about 292 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约292米的行政机构，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 292,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/7775687257",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3979382,
+      "lon": 139.4695469
+    },
+    {
+      "id": "st03092-020",
+      "category": "post_office",
+      "name": {
+        "ja": "藤沢今田郵便局",
+        "en": "藤泽今田 Post Office",
+        "zh": "藤泽今田邮政局"
+      },
+      "desc": {
+        "ja": "駅から約573mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 573 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约573米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 573,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420832734",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.398604,
+      "lon": 139.472634
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 200,
+    "floor_check": {
+      "medical": {
+        "candidates": 19,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 14,
+        "selected": 2
+      },
+      "convenience": {
+        "candidates": 32,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 5,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 5,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
