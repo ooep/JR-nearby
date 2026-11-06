@@ -1,17 +1,17 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-06T14:27:47Z",
+  "updated_at": "2026-11-06T14:31:57Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 277,
+  "done": 278,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
     "京都府": 7,
-    "兵庫県": 15,
+    "兵庫県": 16,
     "北海道": 6,
     "千葉県": 15,
     "和歌山県": 1,
@@ -427,6 +427,7 @@
         "st01264",
         "st01269",
         "st01309",
+        "st01311",
         "st01331",
         "st01519",
         "st01523",
@@ -461,35 +462,35 @@
         "st06746",
         "st08140"
       ],
-      "poi_total": 995,
+      "poi_total": 1015,
       "category_counts": {
-        "bank_atm": 62,
-        "cafe": 28,
-        "convenience": 79,
-        "food": 83,
+        "bank_atm": 63,
+        "cafe": 29,
+        "convenience": 81,
+        "food": 85,
         "lodging": 42,
-        "medical": 81,
+        "medical": 83,
         "onsen_sento": 6,
-        "park": 67,
-        "police": 60,
-        "post_office": 83,
-        "public_service": 52,
-        "shopping": 97,
-        "shrine_temple": 96,
-        "sight": 138,
+        "park": 69,
+        "police": 62,
+        "post_office": 84,
+        "public_service": 54,
+        "shopping": 98,
+        "shrine_temple": 97,
+        "sight": 141,
         "tourist_info": 21
       },
-      "hours_null": 644,
-      "official_url_own": 334,
+      "hours_null": 657,
+      "official_url_own": 338,
       "official_url_map": 0,
-      "official_url_pending": 69,
-      "official_site_hours_coverage": 0.479,
+      "official_url_pending": 71,
+      "official_site_hours_coverage": 0.485,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "川口 (st01932): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=352（精确）"
+        "note": "新長田 (st01311): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=449（精确）"
       }
     }
   ]
