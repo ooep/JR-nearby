@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-06T09:04:58Z",
+  "updated_at": "2026-11-06T09:05:37Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 256,
+  "done": 257,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -23,7 +23,7 @@
     "広島県": 4,
     "徳島県": 1,
     "愛媛県": 1,
-    "愛知県": 6,
+    "愛知県": 7,
     "東京都": 107,
     "熊本県": 1,
     "神奈川県": 34,
@@ -437,37 +437,38 @@
         "st03160",
         "st03199",
         "st03200",
-        "st04341"
+        "st04341",
+        "st04485"
       ],
-      "poi_total": 728,
+      "poi_total": 748,
       "category_counts": {
-        "bank_atm": 45,
+        "bank_atm": 46,
         "cafe": 21,
-        "convenience": 59,
+        "convenience": 60,
         "food": 62,
         "lodging": 34,
-        "medical": 57,
+        "medical": 59,
         "onsen_sento": 6,
-        "park": 52,
-        "police": 46,
-        "post_office": 61,
-        "public_service": 35,
-        "shopping": 68,
-        "shrine_temple": 65,
-        "sight": 103,
+        "park": 53,
+        "police": 47,
+        "post_office": 63,
+        "public_service": 37,
+        "shopping": 69,
+        "shrine_temple": 68,
+        "sight": 109,
         "tourist_info": 14
       },
-      "hours_null": 480,
-      "official_url_own": 222,
+      "hours_null": 493,
+      "official_url_own": 228,
       "official_url_map": 0,
-      "official_url_pending": 51,
-      "official_site_hours_coverage": 0.5,
+      "official_url_pending": 52,
+      "official_site_hours_coverage": 0.496,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "大塚 (st04341): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=24（精确）"
+        "note": "森下 (st04485): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=406（精确）"
       }
     }
   ]
