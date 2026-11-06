@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-06T04:42:53Z",
+  "updated_at": "2026-11-06T04:43:33Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 198,
+  "done": 199,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -14,7 +14,7 @@
     "北海道": 4,
     "千葉県": 7,
     "和歌山県": 1,
-    "大阪府": 21,
+    "大阪府": 22,
     "奈良県": 1,
     "宮城県": 1,
     "岡山県": 3,
@@ -329,6 +329,7 @@
         "st02752",
         "st03239",
         "st03452",
+        "st03453",
         "st03454",
         "st03826",
         "st03828",
@@ -339,35 +340,35 @@
         "st04997",
         "st04998"
       ],
-      "poi_total": 618,
+      "poi_total": 638,
       "category_counts": {
-        "bank_atm": 33,
+        "bank_atm": 34,
         "cafe": 6,
-        "convenience": 42,
-        "food": 52,
-        "lodging": 35,
-        "medical": 53,
+        "convenience": 43,
+        "food": 54,
+        "lodging": 37,
+        "medical": 54,
         "onsen_sento": 5,
         "park": 30,
-        "police": 35,
-        "post_office": 49,
+        "police": 36,
+        "post_office": 51,
         "public_service": 42,
-        "shopping": 70,
-        "shrine_temple": 61,
-        "sight": 88,
-        "tourist_info": 17
+        "shopping": 72,
+        "shrine_temple": 64,
+        "sight": 92,
+        "tourist_info": 18
       },
-      "hours_null": 363,
-      "official_url_own": 260,
+      "hours_null": 375,
+      "official_url_own": 272,
       "official_url_map": 0,
-      "official_url_pending": 57,
-      "official_site_hours_coverage": 0.527,
+      "official_url_pending": 58,
+      "official_site_hours_coverage": 0.522,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "中山 (st01897): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=29（精确）"
+        "note": "堺筋本町 (st03453): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=2176（窗口下限，细分重抓后仍有残漏）"
       }
     }
   ]
