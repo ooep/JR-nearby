@@ -1,0 +1,631 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st00485",
+    "name": {
+      "ja": "姫路",
+      "en": "Himeji",
+      "zh": "姫路"
+    },
+    "line_group": [
+      "九州新幹線",
+      "伯備線",
+      "北陸本線",
+      "姫新線",
+      "山陰本線",
+      "山陽新幹線",
+      "山陽本線",
+      "播但線",
+      "東海道新幹線",
+      "東海道本線"
+    ],
+    "pref": "兵庫県",
+    "lat": 34.826601,
+    "lon": 134.690737
+  },
+  "generated_at": "2026-11-06T07:55:28Z",
+  "pois": [
+    {
+      "id": "st00485-001",
+      "category": "shopping",
+      "name": {
+        "ja": "ピオレ姫路",
+        "en": "Piole HIMEJI",
+        "zh": "ピオレ姫路"
+      },
+      "desc": {
+        "ja": "駅から約87mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 87 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约87米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 87,
+      "walk_min": 2,
+      "hours": "10:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/248278262",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8273325,
+      "lon": 134.6910686
+    },
+    {
+      "id": "st00485-002",
+      "category": "tourist_info",
+      "name": {
+        "ja": "姫路市観光案内所",
+        "en": "姫路市 Tourist Information",
+        "zh": "姫路市观光案内所"
+      },
+      "desc": {
+        "ja": "駅から約103mにある観光案内所。周辺の観光情報や地図、施設案内を提供している。散策の前に立ち寄ると便利。",
+        "en": "Tourist information office about 103 m from the station, with maps and local guidance.",
+        "zh": "距站约103米的观光服务台，提供周边旅游信息、地图与咨询服务，可先在此规划行程。"
+      },
+      "distance_m": 103,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2153230684",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8272365,
+      "lon": 134.6899224
+    },
+    {
+      "id": "st00485-003",
+      "category": "lodging",
+      "name": {
+        "ja": "ドーミーイン姫路",
+        "en": "Dormy Inn Himeji",
+        "zh": "ドーミーイン姫路"
+      },
+      "desc": {
+        "ja": "駅から約206mにある宿泊施設。観光やビジネスの拠点として利用できる。チェックイン時間は予約時に確認を。",
+        "en": "Lodging about 206 m from the station, a convenient base for sightseeing or business.",
+        "zh": "距站约206米的住宿设施，可作为观光或商务出行的落脚点，入住方式以预订信息为准。"
+      },
+      "distance_m": 206,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.hotespa.net/hotels/himeji/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8247517,
+      "lon": 134.690575
+    },
+    {
+      "id": "st00485-004",
+      "category": "shopping",
+      "name": {
+        "ja": "ボンマルシェ",
+        "en": "Le Marché",
+        "zh": "Bonmarushie"
+      },
+      "desc": {
+        "ja": "駅から約637mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 637 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约637米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 637,
+      "walk_min": 8,
+      "hours": "Mo-Su 08:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/236806292",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8321739,
+      "lon": 134.6923676
+    },
+    {
+      "id": "st00485-005",
+      "category": "shopping",
+      "name": {
+        "ja": "テラッソ姫路",
+        "en": "Terrasso Himeji",
+        "zh": "テラッソ姫路"
+      },
+      "desc": {
+        "ja": "駅から約286mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 286 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约286米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 286,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://terasso.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8272481,
+      "lon": 134.6937666
+    },
+    {
+      "id": "st00485-006",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "セブン-イレブンのコンビニエンスストア。駅から約318mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 318 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约318米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 318,
+      "walk_min": 4,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1934991562",
+      "tel": "+81-79-283-1117",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8294597,
+      "lon": 134.690545
+    },
+    {
+      "id": "st00485-007",
+      "category": "lodging",
+      "name": {
+        "ja": "リッチモンドホテル姫路",
+        "en": "Richmond Hotel Himeji",
+        "zh": "リッチモンドホテル姫路"
+      },
+      "desc": {
+        "ja": "駅から約394mにある宿泊施設。観光やビジネスの拠点として利用できる。チェックイン時間は予約時に確認を。",
+        "en": "Lodging about 394 m from the station, a convenient base for sightseeing or business.",
+        "zh": "距站约394米的住宿设施，可作为观光或商务出行的落脚点，入住方式以预订信息为准。"
+      },
+      "distance_m": 394,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://richmondhotel.jp/himeji/",
+      "tel": "+81-79-225-6255",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8242443,
+      "lon": 134.6875174
+    },
+    {
+      "id": "st00485-008",
+      "category": "bank_atm",
+      "name": {
+        "ja": "みなと銀行",
+        "en": "minato銀行",
+        "zh": "Minato銀行"
+      },
+      "desc": {
+        "ja": "みなと銀行の支店。駅から約154mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 154 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约154米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 154,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5372112853",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8256392,
+      "lon": 134.6895183
+    },
+    {
+      "id": "st00485-009",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "長壁神社",
+        "en": "Osakabe Shrine",
+        "zh": "长壁神社"
+      },
+      "desc": {
+        "ja": "駅から約546mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 546 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约546米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 546,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/238042932",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8314668,
+      "lon": 134.6899494
+    },
+    {
+      "id": "st00485-010",
+      "category": "post_office",
+      "name": {
+        "ja": "姫路郵便局",
+        "en": "Himeji Post Office",
+        "zh": "姫路邮政局"
+      },
+      "desc": {
+        "ja": "駅から約988mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 988 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约988米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 988,
+      "walk_min": 13,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423059152",
+      "tel": "+81-800-0800-111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.834422,
+      "lon": 134.695873
+    },
+    {
+      "id": "st00485-011",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "お菊神社",
+        "en": "o菊神社",
+        "zh": "O菊神社"
+      },
+      "desc": {
+        "ja": "駅から約580mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 580 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约580米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 580,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/251616834",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8303308,
+      "lon": 134.6862916
+    },
+    {
+      "id": "st00485-012",
+      "category": "medical",
+      "name": {
+        "ja": "国立病院機構姫路医療センター",
+        "en": "国立病院機構姫路医療senta-",
+        "zh": "国立病院機構姫路医療センター"
+      },
+      "desc": {
+        "ja": "駅から約1510mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 1510 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1510米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1510,
+      "walk_min": 19,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/657160085",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8385567,
+      "lon": 134.6985933
+    },
+    {
+      "id": "st00485-013",
+      "category": "sight",
+      "name": {
+        "ja": "姫路市立動物園",
+        "en": "Himeji City Zoo",
+        "zh": "姫路市立動物园"
+      },
+      "desc": {
+        "ja": "駅から約1245mにある動物園。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Zoo about 1245 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1245米的动物园，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1245,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/relation/3251534",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8371875,
+      "lon": 134.6951877
+    },
+    {
+      "id": "st00485-014",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "兵庫縣姫路護國神社",
+        "en": "Hyogo-ken Himeji Gokoku Shrine",
+        "zh": "兵庫縣姫路護国神社"
+      },
+      "desc": {
+        "ja": "駅から約1073mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1073 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1073米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1073,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/236855783",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8357086,
+      "lon": 134.6946079
+    },
+    {
+      "id": "st00485-015",
+      "category": "park",
+      "name": {
+        "ja": "好古園",
+        "en": "Kōko Garden",
+        "zh": "好古园"
+      },
+      "desc": {
+        "ja": "駅から約1271mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1271 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1271米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1271,
+      "walk_min": 16,
+      "hours": "Sep 01-May 31 Mo-Su 09:00-17:00; Jun 01-Aug 31 Mo-Su 09:00-18:00; Dec 29-Dec 30 off (JST)",
+      "hours_source": "osm",
+      "url": "http://www.himeji-machishin.jp/ryokka/kokoen/",
+      "tel": "+81 79-289-4120",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8379921,
+      "lon": 134.6895859
+    },
+    {
+      "id": "st00485-016",
+      "category": "police",
+      "name": {
+        "ja": "姫路警察署姫路駅前交番",
+        "en": "姫路姫路站前交番 Police Station",
+        "zh": "姫路警察署姫路站前交番"
+      },
+      "desc": {
+        "ja": "駅から約167mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 167 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约167米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 167,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/281325436",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8280169,
+      "lon": 134.690118
+    },
+    {
+      "id": "st00485-017",
+      "category": "park",
+      "name": {
+        "ja": "姫路公園",
+        "en": "Himeji Park",
+        "zh": "姫路公园"
+      },
+      "desc": {
+        "ja": "駅から約1412mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1412 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1412米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1412,
+      "walk_min": 18,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/relation/3743076",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8389647,
+      "lon": 134.6942836
+    },
+    {
+      "id": "st00485-018",
+      "category": "sight",
+      "name": {
+        "ja": "姫路城",
+        "en": "Himeji Castle",
+        "zh": "姬路城"
+      },
+      "desc": {
+        "ja": "駅から約1447mにある城郭。周辺を代表する見どころの一つで、散策の目的地にしやすい。入場は有料。",
+        "en": "Castle about 1447 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1447米的城堡，入场收费，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1447,
+      "walk_min": 19,
+      "hours": "Sep 01-Apr 26 Mo-Su 09:00-16:00; Apr 27-Aug 31: Mo-Su 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.himejicastle.jp/",
+      "tel": "+81 79-285-1146",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8393314,
+      "lon": 134.69402
+    },
+    {
+      "id": "st00485-019",
+      "category": "sight",
+      "name": {
+        "ja": "姫路市立美術館",
+        "en": "Himeji City Museum of Art",
+        "zh": "姬路市立美术馆"
+      },
+      "desc": {
+        "ja": "駅から約1514mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1514 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1514米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1514,
+      "walk_min": 19,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.city.himeji.lg.jp/art/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8393756,
+      "lon": 134.6964763
+    },
+    {
+      "id": "st00485-020",
+      "category": "sight",
+      "name": {
+        "ja": "兵庫県立歴史博物館",
+        "en": "Hyogo Perfectural Museum of History",
+        "zh": "兵庫县立历史博物馆"
+      },
+      "desc": {
+        "ja": "駅から約1708mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1708 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1708米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1708,
+      "walk_min": 22,
+      "hours": "Tu-Su 10:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://rekihaku.pref.hyogo.lg.jp",
+      "tel": "+81-79-288-9011",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.841115,
+      "lon": 134.696872
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 626,
+    "floor_check": {
+      "medical": {
+        "candidates": 39,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 36,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 36,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 18,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 10,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 1,
+        "selected": 1
+      }
+    }
+  }
+}
