@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-06T04:00:17Z",
+  "updated_at": "2026-11-06T04:01:24Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 190,
+  "done": 191,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -14,7 +14,7 @@
     "北海道": 1,
     "千葉県": 7,
     "和歌山県": 1,
-    "大阪府": 18,
+    "大阪府": 19,
     "奈良県": 1,
     "宮城県": 1,
     "岡山県": 3,
@@ -328,37 +328,38 @@
         "st03452",
         "st03454",
         "st03826",
-        "st03828"
+        "st03828",
+        "st03967"
       ],
-      "poi_total": 471,
+      "poi_total": 491,
       "category_counts": {
-        "bank_atm": 24,
+        "bank_atm": 25,
         "cafe": 6,
-        "convenience": 33,
+        "convenience": 34,
         "food": 42,
-        "lodging": 23,
-        "medical": 42,
+        "lodging": 25,
+        "medical": 43,
         "onsen_sento": 4,
         "park": 22,
-        "police": 26,
-        "post_office": 39,
+        "police": 27,
+        "post_office": 41,
         "public_service": 32,
-        "shopping": 51,
-        "shrine_temple": 49,
-        "sight": 66,
-        "tourist_info": 12
+        "shopping": 54,
+        "shrine_temple": 51,
+        "sight": 72,
+        "tourist_info": 13
       },
-      "hours_null": 275,
-      "official_url_own": 169,
+      "hours_null": 283,
+      "official_url_own": 181,
       "official_url_map": 0,
-      "official_url_pending": 38,
-      "official_site_hours_coverage": 0.55,
+      "official_url_pending": 42,
+      "official_site_hours_coverage": 0.552,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "稲毛 (st03828): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=352（精确）"
+        "note": "北浜 (st03967): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=1836（窗口下限，细分重抓后仍有残漏）"
       }
     }
   ]
