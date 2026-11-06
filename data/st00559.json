@@ -1,0 +1,119 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st00559",
+    "name": {
+      "ja": "神戸",
+      "en": "Gōdo",
+      "zh": "神户"
+    },
+    "line_group": [
+      "わたらせ渓谷線"
+    ],
+    "pref": "群馬県",
+    "lat": 36.53767,
+    "lon": 139.35699
+  },
+  "generated_at": "2026-11-06T13:56:45Z",
+  "pois": [
+    {
+      "id": "st00559-001",
+      "category": "sight",
+      "name": {
+        "ja": "草木ダム展望台",
+        "en": "草木damu展望台",
+        "zh": "草木ダム展望台"
+      },
+      "desc": {
+        "ja": "駅から約1286mにある展望スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Viewpoint about 1286 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1286米的观景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1286,
+      "walk_min": 17,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4347737860",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.5425352,
+      "lon": 139.3700439
+    },
+    {
+      "id": "st00559-002",
+      "category": "sight",
+      "name": {
+        "ja": "童謡ふるさと館",
+        "en": "童謡furusato館",
+        "zh": "童謡furusato館"
+      },
+      "desc": {
+        "ja": "駅から約1331mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1331 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1331米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1331,
+      "walk_min": 17,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420712842",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.536917,
+      "lon": 139.371862
+    }
+  ],
+  "coverage": {
+    "poi_count": 2,
+    "radius_m": 2000,
+    "confidence": "low",
+    "gaps": [
+      "2公里圈内未检索到医疗机构候选",
+      "2公里圈内未检索到银行/ATM候选",
+      "2公里圈内未检索到便利店候选",
+      "2公里圈内未检索到邮局候选",
+      "2公里圈内未检索到警察设施候选",
+      "2公里圈内未检索到观光案内所候选",
+      "站周边候选稀少，仅收录上述条目，商业与餐饮需前往邻近车站周边"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 3,
+    "floor_check": {
+      "medical": {
+        "candidates": 0,
+        "selected": 0
+      },
+      "bank_atm": {
+        "candidates": 0,
+        "selected": 0
+      },
+      "convenience": {
+        "candidates": 0,
+        "selected": 0
+      },
+      "post_office": {
+        "candidates": 0,
+        "selected": 0
+      },
+      "police": {
+        "candidates": 0,
+        "selected": 0
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}

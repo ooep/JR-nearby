@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-06T13:56:17Z",
+  "updated_at": "2026-11-06T13:56:48Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 274,
+  "done": 275,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -28,7 +28,7 @@
     "熊本県": 1,
     "神奈川県": 35,
     "福岡県": 7,
-    "群馬県": 2,
+    "群馬県": 3,
     "長崎県": 2,
     "長野県": 1,
     "静岡県": 2,
@@ -319,6 +319,7 @@
         "st00072",
         "st00073",
         "st00469",
+        "st00559",
         "st00565",
         "st00723",
         "st00886",
@@ -369,7 +370,7 @@
         "st06789",
         "st06794"
       ],
-      "poi_total": 999,
+      "poi_total": 1001,
       "category_counts": {
         "bank_atm": 57,
         "cafe": 11,
@@ -384,10 +385,10 @@
         "public_service": 63,
         "shopping": 110,
         "shrine_temple": 100,
-        "sight": 155,
+        "sight": 157,
         "tourist_info": 30
       },
-      "hours_null": 587,
+      "hours_null": 589,
       "official_url_own": 414,
       "official_url_map": 0,
       "official_url_pending": 104,
@@ -397,7 +398,7 @@
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "千葉 (st03798): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=720（精确）"
+        "note": "神戸 (st00559): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=3（精确）"
       }
     },
     {
