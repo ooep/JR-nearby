@@ -1,17 +1,17 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-06T12:25:29Z",
+  "updated_at": "2026-11-06T12:28:31Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 268,
+  "done": 269,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
     "京都府": 7,
-    "兵庫県": 14,
+    "兵庫県": 15,
     "北海道": 5,
     "千葉県": 14,
     "和歌山県": 1,
@@ -448,39 +448,40 @@
         "st04383",
         "st04485",
         "st04518",
+        "st06336",
         "st06745",
         "st06746",
         "st08140"
       ],
-      "poi_total": 955,
+      "poi_total": 975,
       "category_counts": {
-        "bank_atm": 60,
+        "bank_atm": 61,
         "cafe": 27,
-        "convenience": 76,
+        "convenience": 77,
         "food": 80,
-        "lodging": 40,
-        "medical": 78,
+        "lodging": 42,
+        "medical": 79,
         "onsen_sento": 6,
-        "park": 65,
-        "police": 58,
-        "post_office": 80,
-        "public_service": 49,
-        "shopping": 93,
-        "shrine_temple": 91,
-        "sight": 132,
-        "tourist_info": 20
+        "park": 67,
+        "police": 59,
+        "post_office": 81,
+        "public_service": 50,
+        "shopping": 94,
+        "shrine_temple": 93,
+        "sight": 138,
+        "tourist_info": 21
       },
-      "hours_null": 615,
-      "official_url_own": 315,
+      "hours_null": 630,
+      "official_url_own": 329,
       "official_url_map": 0,
       "official_url_pending": 68,
-      "official_site_hours_coverage": 0.486,
+      "official_site_hours_coverage": 0.474,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "神戸三宮 (st02687): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=1841（精确）"
+        "note": "三宮 (st06336): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=1874（精确）"
       }
     }
   ]
