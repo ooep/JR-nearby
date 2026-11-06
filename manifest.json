@@ -1,17 +1,17 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-06T07:12:53Z",
+  "updated_at": "2026-11-06T07:13:35Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 231,
+  "done": 232,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
     "京都府": 7,
-    "兵庫県": 9,
+    "兵庫県": 10,
     "北海道": 4,
     "千葉県": 14,
     "和歌山県": 1,
@@ -410,37 +410,38 @@
         "st00880",
         "st01089",
         "st01263",
-        "st01264"
+        "st01264",
+        "st01269"
       ],
-      "poi_total": 292,
+      "poi_total": 311,
       "category_counts": {
-        "bank_atm": 19,
-        "cafe": 5,
-        "convenience": 24,
-        "food": 18,
-        "lodging": 14,
-        "medical": 21,
-        "onsen_sento": 2,
+        "bank_atm": 21,
+        "cafe": 6,
+        "convenience": 26,
+        "food": 20,
+        "lodging": 16,
+        "medical": 22,
+        "onsen_sento": 3,
         "park": 23,
-        "police": 19,
-        "post_office": 24,
+        "police": 20,
+        "post_office": 25,
         "public_service": 15,
         "shopping": 23,
-        "shrine_temple": 21,
-        "sight": 57,
-        "tourist_info": 7
+        "shrine_temple": 23,
+        "sight": 60,
+        "tourist_info": 8
       },
-      "hours_null": 203,
-      "official_url_own": 99,
+      "hours_null": 216,
+      "official_url_own": 104,
       "official_url_map": 0,
-      "official_url_pending": 21,
-      "official_site_hours_coverage": 0.323,
+      "official_url_pending": 26,
+      "official_site_hours_coverage": 0.317,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "尼崎 (st01264): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=799（精确）"
+        "note": "宝塚 (st01269): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=300（精确）"
       }
     }
   ]
