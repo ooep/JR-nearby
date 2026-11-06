@@ -1,17 +1,17 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-06T06:52:19Z",
+  "updated_at": "2026-11-06T06:52:31Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 225,
+  "done": 226,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
     "京都府": 7,
-    "兵庫県": 5,
+    "兵庫県": 6,
     "北海道": 4,
     "千葉県": 14,
     "和歌山県": 1,
@@ -404,27 +404,28 @@
         "st00558",
         "st00560",
         "st00561",
-        "st00572"
+        "st00572",
+        "st00573"
       ],
-      "poi_total": 183,
+      "poi_total": 200,
       "category_counts": {
-        "bank_atm": 12,
+        "bank_atm": 14,
         "cafe": 2,
-        "convenience": 14,
-        "food": 10,
+        "convenience": 16,
+        "food": 12,
         "lodging": 9,
-        "medical": 12,
+        "medical": 14,
         "onsen_sento": 2,
-        "park": 15,
-        "police": 11,
-        "post_office": 14,
-        "public_service": 9,
-        "shopping": 11,
+        "park": 17,
+        "police": 12,
+        "post_office": 16,
+        "public_service": 11,
+        "shopping": 13,
         "shrine_temple": 12,
         "sight": 45,
         "tourist_info": 5
       },
-      "hours_null": 127,
+      "hours_null": 140,
       "official_url_own": 71,
       "official_url_map": 0,
       "official_url_pending": 16,
@@ -434,7 +435,7 @@
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "神戸 (st00560): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=91（精确）"
+        "note": "栄 (st00573): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=36（精确）"
       }
     }
   ]
