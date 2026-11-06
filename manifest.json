@@ -1,17 +1,17 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-06T06:45:44Z",
+  "updated_at": "2026-11-06T06:46:22Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 223,
+  "done": 224,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
     "京都府": 7,
-    "兵庫県": 4,
+    "兵庫県": 5,
     "北海道": 4,
     "千葉県": 14,
     "和歌山県": 1,
@@ -400,39 +400,40 @@
         "st00467",
         "st00470",
         "st00471",
+        "st00557",
         "st00558",
         "st00561",
         "st00572"
       ],
-      "poi_total": 148,
+      "poi_total": 168,
       "category_counts": {
-        "bank_atm": 10,
+        "bank_atm": 11,
         "cafe": 1,
-        "convenience": 12,
+        "convenience": 13,
         "food": 8,
-        "lodging": 7,
-        "medical": 10,
+        "lodging": 9,
+        "medical": 11,
         "onsen_sento": 2,
-        "park": 11,
-        "police": 9,
-        "post_office": 12,
-        "public_service": 6,
+        "park": 13,
+        "police": 10,
+        "post_office": 13,
+        "public_service": 7,
         "shopping": 10,
-        "shrine_temple": 10,
-        "sight": 37,
-        "tourist_info": 3
+        "shrine_temple": 12,
+        "sight": 44,
+        "tourist_info": 4
       },
-      "hours_null": 102,
-      "official_url_own": 61,
+      "hours_null": 116,
+      "official_url_own": 70,
       "official_url_map": 0,
       "official_url_pending": 15,
-      "official_site_hours_coverage": 0.311,
+      "official_site_hours_coverage": 0.314,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "住吉 (st00471): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=9（精确）"
+        "note": "三ノ宮 (st00557): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=1577（窗口下限，细分重抓后仍有残漏）"
       }
     }
   ]

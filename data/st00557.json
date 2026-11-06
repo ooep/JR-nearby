@@ -1,0 +1,628 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st00557",
+    "name": {
+      "ja": "三ノ宮",
+      "en": "Sannomiya",
+      "zh": "三ノ宫"
+    },
+    "line_group": [
+      "JR東西線",
+      "北陸本線",
+      "山陰本線",
+      "山陽本線",
+      "東海道本線"
+    ],
+    "pref": "兵庫県",
+    "lat": 34.69479,
+    "lon": 135.19522
+  },
+  "generated_at": "2026-11-06T06:46:20Z",
+  "pois": [
+    {
+      "id": "st00557-001",
+      "category": "lodging",
+      "name": {
+        "ja": "ANA クラウンプラザ神戸",
+        "en": "ANA Crowne Plaza Kobe",
+        "zh": "ANA クラウンプラザ神户"
+      },
+      "desc": {
+        "ja": "駅から約1106mにある宿泊施設。観光やビジネスの拠点として利用できる。チェックイン時間は予約時に確認を。",
+        "en": "Lodging about 1106 m from the station, a convenient base for sightseeing or business.",
+        "zh": "距站约1106米的住宿设施，可作为观光或商务出行的落脚点，入住方式以预订信息为准。"
+      },
+      "distance_m": 1106,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.anacrowneplaza-kobe.jp/",
+      "tel": "+81 078-291-1121",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7047387,
+      "lon": 135.1951723
+    },
+    {
+      "id": "st00557-002",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "北向地蔵",
+        "en": "Kitamuki Jizo",
+        "zh": "北向地蔵"
+      },
+      "desc": {
+        "ja": "駅から約218mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 218 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约218米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 218,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/3113540041",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6946414,
+      "lon": 135.1928475
+    },
+    {
+      "id": "st00557-003",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "生田神社",
+        "en": "Ikuta Shrine",
+        "zh": "生田神社"
+      },
+      "desc": {
+        "ja": "駅から約433mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 433 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约433米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 433,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://ikutajinja.or.jp",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6947669,
+      "lon": 135.1904861
+    },
+    {
+      "id": "st00557-004",
+      "category": "convenience",
+      "name": {
+        "ja": "ファミリーマート",
+        "en": "FamilyMart",
+        "zh": "全家便利店"
+      },
+      "desc": {
+        "ja": "ファミリーマートのコンビニエンスストア。駅から約452mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 452 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约452米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 452,
+      "walk_min": 6,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://store.family.co.jp/points/33139",
+      "tel": "078-334-7438",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6917035,
+      "lon": 135.1919956
+    },
+    {
+      "id": "st00557-005",
+      "category": "police",
+      "name": {
+        "ja": "生田警察署",
+        "en": "Ikuta Police",
+        "zh": "生田警察署"
+      },
+      "desc": {
+        "ja": "駅から約530mにある警察署。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 530 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约530米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 530,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423073909",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6948247,
+      "lon": 135.1894284
+    },
+    {
+      "id": "st00557-006",
+      "category": "public_service",
+      "name": {
+        "ja": "神戸市役所",
+        "en": "Kobe City",
+        "zh": "神户市役所"
+      },
+      "desc": {
+        "ja": "駅から約545mにある役所・行政施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Civic office about 545 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约545米的行政机构，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 545,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.city.kobe.lg.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6898859,
+      "lon": 135.1953161
+    },
+    {
+      "id": "st00557-007",
+      "category": "sight",
+      "name": {
+        "ja": "神戸北野美術館",
+        "en": "Kobe Kitano Museum",
+        "zh": "神户北野美术馆"
+      },
+      "desc": {
+        "ja": "駅から約795mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 795 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约795米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 795,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/302852218",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7012726,
+      "lon": 135.1915638
+    },
+    {
+      "id": "st00557-008",
+      "category": "sight",
+      "name": {
+        "ja": "神戸ドールミュージアム",
+        "en": "Kobe Doll Museum",
+        "zh": "神户ドールミュージアム"
+      },
+      "desc": {
+        "ja": "駅から約734mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 734 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约734米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 734,
+      "walk_min": 10,
+      "hours": "10:00-18:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://timeroman.com/kobedollmuseum/",
+      "tel": "+81 78 327 4680",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6894002,
+      "lon": 135.1905765
+    },
+    {
+      "id": "st00557-009",
+      "category": "sight",
+      "name": {
+        "ja": "ラインの館",
+        "en": "Rhine House",
+        "zh": "Rainno館"
+      },
+      "desc": {
+        "ja": "駅から約797mにある観光スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Attraction about 797 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约797米的观光景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 797,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/302852205",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.701156,
+      "lon": 135.1912135
+    },
+    {
+      "id": "st00557-010",
+      "category": "sight",
+      "name": {
+        "ja": "カワサキワールド",
+        "en": "Kawasaki World",
+        "zh": "Kawasakiwa-rudo"
+      },
+      "desc": {
+        "ja": "駅から約1474mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。入場は有料。",
+        "en": "Museum about 1474 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1474米的博物馆·美术馆，入场收费，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1474,
+      "walk_min": 19,
+      "hours": "Mo-Su,PH 10:00-18:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5164131671",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6829242,
+      "lon": 135.1880309
+    },
+    {
+      "id": "st00557-011",
+      "category": "sight",
+      "name": {
+        "ja": "洋館長屋",
+        "en": "Yokan Nagaya French House",
+        "zh": "洋馆长屋"
+      },
+      "desc": {
+        "ja": "駅から約762mにある観光スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Attraction about 762 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约762米的观光景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 762,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/302852207",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7008575,
+      "lon": 135.1913346
+    },
+    {
+      "id": "st00557-012",
+      "category": "park",
+      "name": {
+        "ja": "東遊園地",
+        "en": "Kobe East Park",
+        "zh": "东游园地"
+      },
+      "desc": {
+        "ja": "駅から約804mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 804 m from the station, with paths and benches for a rest.",
+        "zh": "距站约804米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 804,
+      "walk_min": 11,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "http://eastpark.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6876646,
+      "lon": 135.1966874
+    },
+    {
+      "id": "st00557-013",
+      "category": "lodging",
+      "name": {
+        "ja": "神戸メリケンパークオリエンタルホテル",
+        "en": "KOBE MERIKEN PARK ORIENTAL HOTEL",
+        "zh": "神戸merikenpa-kuorientaruhoteru"
+      },
+      "desc": {
+        "ja": "駅から約1780mにある宿泊施設。観光やビジネスの拠点として利用できる。チェックイン時間は予約時に確認を。",
+        "en": "Lodging about 1780 m from the station, a convenient base for sightseeing or business.",
+        "zh": "距站约1780米的住宿设施，可作为观光或商务出行的落脚点，入住方式以预订信息为准。"
+      },
+      "distance_m": 1780,
+      "walk_min": 23,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5164285758",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6796554,
+      "lon": 135.1888838
+    },
+    {
+      "id": "st00557-014",
+      "category": "sight",
+      "name": {
+        "ja": "風見鶏の館",
+        "en": "Weathercock House",
+        "zh": "神戶市風見雞馆"
+      },
+      "desc": {
+        "ja": "駅から約900mにある観光スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Attraction about 900 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约900米的观光景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 900,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "http://www.kobe-kazamidori.com/kazamidori/",
+      "tel": "+81 78 242 3223",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7013806,
+      "lon": 135.189503
+    },
+    {
+      "id": "st00557-015",
+      "category": "medical",
+      "name": {
+        "ja": "パルモア病院",
+        "en": "Palmore Hospital",
+        "zh": "パルモア病院"
+      },
+      "desc": {
+        "ja": "駅から約907mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 907 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约907米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 907,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423047485",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6906457,
+      "lon": 135.186675
+    },
+    {
+      "id": "st00557-016",
+      "category": "park",
+      "name": {
+        "ja": "神戸震災復興記念公園",
+        "en": "Minato no Mori Park",
+        "zh": "神户震后重建纪念公园"
+      },
+      "desc": {
+        "ja": "駅から約985mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 985 m from the station, with paths and benches for a rest.",
+        "zh": "距站约985米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 985,
+      "walk_min": 13,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "http://www.eonet.ne.jp/~sya-oooo-rin/minamori/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6869518,
+      "lon": 135.2002364
+    },
+    {
+      "id": "st00557-017",
+      "category": "bank_atm",
+      "name": {
+        "ja": "三菱UFJ信託銀行",
+        "en": "三菱UFJ信託銀行",
+        "zh": "三菱UFJ信託银行"
+      },
+      "desc": {
+        "ja": "三菱UFJ信託銀行の支店。駅から約873mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 873 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约873米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 873,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.tr.mufg.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6882462,
+      "lon": 135.1899514
+    },
+    {
+      "id": "st00557-018",
+      "category": "post_office",
+      "name": {
+        "ja": "葺合郵便局",
+        "en": "Fukiai Post Office",
+        "zh": "葺合邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1296mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1296 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1296米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 1296,
+      "walk_min": 17,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1423090575",
+      "tel": "+81-78-251-0071",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.699498,
+      "lon": 135.208187
+    },
+    {
+      "id": "st00557-019",
+      "category": "tourist_info",
+      "name": {
+        "ja": "観光案内",
+        "en": "Tourist information",
+        "zh": "观光案内"
+      },
+      "desc": {
+        "ja": "駅から約1313mにある観光案内所。周辺の観光情報や地図、施設案内を提供している。散策の前に立ち寄ると便利。",
+        "en": "Tourist information office about 1313 m from the station, with maps and local guidance.",
+        "zh": "距站约1313米的观光服务台，提供周边旅游信息、地图与咨询服务，可先在此规划行程。"
+      },
+      "distance_m": 1313,
+      "walk_min": 17,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6536320402",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7065812,
+      "lon": 135.1960612
+    },
+    {
+      "id": "st00557-020",
+      "category": "sight",
+      "name": {
+        "ja": "神戸海洋博物館",
+        "en": "Kobe Maritime Museum",
+        "zh": "神户海洋博物馆"
+      },
+      "desc": {
+        "ja": "駅から約1455mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。入場は有料。",
+        "en": "Museum about 1455 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1455米的博物馆·美术馆，入场收费，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1455,
+      "walk_min": 19,
+      "hours": "Mo-Su,PH 10:00-18:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1423083509",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6829503,
+      "lon": 135.1884501
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [],
+    "fetch_truncated": true,
+    "selected_cap": 20,
+    "candidate_count": 1577,
+    "floor_check": {
+      "medical": {
+        "candidates": 53,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 37,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 109,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 21,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 10,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 1,
+        "selected": 1
+      }
+    }
+  }
+}
