@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-06T06:09:09Z",
+  "updated_at": "2026-11-06T06:17:51Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 219,
+  "done": 220,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -15,7 +15,7 @@
     "北海道": 4,
     "千葉県": 14,
     "和歌山県": 1,
-    "大阪府": 26,
+    "大阪府": 27,
     "奈良県": 1,
     "宮城県": 1,
     "岡山県": 3,
@@ -345,6 +345,7 @@
         "st04871",
         "st04877",
         "st04878",
+        "st04879",
         "st04937",
         "st04997",
         "st04998",
@@ -355,35 +356,35 @@
         "st06789",
         "st06794"
       ],
-      "poi_total": 855,
+      "poi_total": 875,
       "category_counts": {
-        "bank_atm": 49,
+        "bank_atm": 50,
         "cafe": 10,
-        "convenience": 56,
-        "food": 72,
+        "convenience": 57,
+        "food": 75,
         "lodging": 54,
-        "medical": 71,
+        "medical": 72,
         "onsen_sento": 5,
         "park": 42,
-        "police": 49,
-        "post_office": 69,
-        "public_service": 55,
-        "shopping": 92,
-        "shrine_temple": 86,
-        "sight": 123,
-        "tourist_info": 22
+        "police": 50,
+        "post_office": 71,
+        "public_service": 56,
+        "shopping": 95,
+        "shrine_temple": 88,
+        "sight": 127,
+        "tourist_info": 23
       },
-      "hours_null": 500,
-      "official_url_own": 341,
+      "hours_null": 515,
+      "official_url_own": 349,
       "official_url_map": 0,
-      "official_url_pending": 87,
-      "official_site_hours_coverage": 0.528,
+      "official_url_pending": 89,
+      "official_site_hours_coverage": 0.521,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "大阪梅田 (st02751): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=3142（窗口下限，细分重抓后仍有残漏）"
+        "note": "心斎橋 (st04879): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=2667（窗口下限，细分重抓后仍有残漏）"
       }
     },
     {
