@@ -1,0 +1,256 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st01918",
+    "name": {
+      "ja": "大森",
+      "en": "Ōmori",
+      "zh": "大森"
+    },
+    "line_group": [
+      "天竜浜名湖線"
+    ],
+    "pref": "静岡県",
+    "lat": 34.73794,
+    "lon": 137.50976
+  },
+  "generated_at": "2026-11-06T02:51:22Z",
+  "pois": [
+    {
+      "id": "st01918-001",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "才ノ神神社",
+        "en": "才no神神社",
+        "zh": "才ノ神神社"
+      },
+      "desc": {
+        "ja": "駅から約773mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 773 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约773米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 773,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4220050339",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7447183,
+      "lon": 137.5116378
+    },
+    {
+      "id": "st01918-002",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "セブン-イレブンのコンビニエンスストア。駅から約705mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 705 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约705米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 705,
+      "walk_min": 9,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2178070339",
+      "tel": "053-578-3811",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7414453,
+      "lon": 137.5161938
+    },
+    {
+      "id": "st01918-003",
+      "category": "sight",
+      "name": {
+        "ja": "トキワマンサク群生地",
+        "en": "tokiwamansaku群生地",
+        "zh": "トキワマンサク群生地"
+      },
+      "desc": {
+        "ja": "駅から約1256mにある観光スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Attraction about 1256 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1256米的观光景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1256,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.city.kosai.shizuoka.jp/soshikiichiran/kanko/spot/1278.html",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7417227,
+      "lon": 137.496804
+    },
+    {
+      "id": "st01918-004",
+      "category": "convenience",
+      "name": {
+        "ja": "Mini Stop",
+        "en": "Mini Stop",
+        "zh": "Mini Stop"
+      },
+      "desc": {
+        "ja": "Mini Stopのコンビニエンスストア。駅から約1259mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 1259 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约1259米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 1259,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4205819326",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7266246,
+      "lon": 137.5093917
+    },
+    {
+      "id": "st01918-005",
+      "category": "post_office",
+      "name": {
+        "ja": "新所郵便局",
+        "en": "新所 Post Office",
+        "zh": "新所邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1597mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1597 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1597米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 1597,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420989028",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.728684,
+      "lon": 137.523122
+    },
+    {
+      "id": "st01918-006",
+      "category": "post_office",
+      "name": {
+        "ja": "知波田簡易郵便局",
+        "en": "知波田簡易 Post Office",
+        "zh": "知波田簡易邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1667mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1667 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1667米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 1667,
+      "walk_min": 21,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420998581",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7528729,
+      "lon": 137.5114039
+    },
+    {
+      "id": "st01918-007",
+      "category": "police",
+      "name": {
+        "ja": "湖西警察署知波田交番",
+        "en": "湖西知波田交番 Police Station",
+        "zh": "湖西警察署知波田交番"
+      },
+      "desc": {
+        "ja": "駅から約1707mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1707 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1707米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1707,
+      "walk_min": 22,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420989021",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7532031,
+      "lon": 137.5117259
+    }
+  ],
+  "coverage": {
+    "poi_count": 7,
+    "radius_m": 2000,
+    "confidence": "medium",
+    "gaps": [
+      "2公里圈内未检索到医疗机构候选",
+      "2公里圈内未检索到银行/ATM候选",
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 16,
+    "floor_check": {
+      "medical": {
+        "candidates": 0,
+        "selected": 0
+      },
+      "bank_atm": {
+        "candidates": 0,
+        "selected": 0
+      },
+      "convenience": {
+        "candidates": 2,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 2,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 1,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
