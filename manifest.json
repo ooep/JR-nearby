@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-06T06:52:50Z",
+  "updated_at": "2026-11-06T06:53:04Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 227,
+  "done": 228,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -19,7 +19,7 @@
     "奈良県": 1,
     "宮城県": 1,
     "岡山県": 3,
-    "広島県": 2,
+    "広島県": 3,
     "徳島県": 1,
     "愛知県": 2,
     "東京都": 107,
@@ -406,27 +406,28 @@
         "st00561",
         "st00572",
         "st00573",
-        "st00878"
+        "st00878",
+        "st00880"
       ],
-      "poi_total": 219,
+      "poi_total": 233,
       "category_counts": {
         "bank_atm": 16,
         "cafe": 3,
-        "convenience": 18,
+        "convenience": 20,
         "food": 15,
         "lodging": 10,
-        "medical": 15,
+        "medical": 17,
         "onsen_sento": 2,
-        "park": 17,
-        "police": 14,
-        "post_office": 18,
+        "park": 18,
+        "police": 16,
+        "post_office": 20,
         "public_service": 12,
-        "shopping": 16,
-        "shrine_temple": 12,
-        "sight": 46,
+        "shopping": 19,
+        "shrine_temple": 13,
+        "sight": 47,
         "tourist_info": 5
       },
-      "hours_null": 154,
+      "hours_null": 166,
       "official_url_own": 73,
       "official_url_map": 0,
       "official_url_pending": 16,
@@ -436,7 +437,7 @@
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "三田 (st00878): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=150（精确）"
+        "note": "大門 (st00880): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=64（精确）"
       }
     }
   ]
