@@ -1,0 +1,598 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st06789",
+    "name": {
+      "ja": "新浦安",
+      "en": "Shin-Urayasu",
+      "zh": "新浦安"
+    },
+    "line_group": [
+      "京葉線",
+      "外房線"
+    ],
+    "pref": "千葉県",
+    "lat": 35.64943,
+    "lon": 139.91262
+  },
+  "generated_at": "2026-11-06T05:30:21Z",
+  "pois": [
+    {
+      "id": "st06789-001",
+      "category": "bank_atm",
+      "name": {
+        "ja": "千葉銀行",
+        "en": "Chiba Bank",
+        "zh": "千葉银行"
+      },
+      "desc": {
+        "ja": "千葉銀行の支店。駅から約33mにあり、預け入れ・引き出しやATMの利用に対応する。窓口はMo-Fr 09:00-15:00（JST）。",
+        "en": "Bank about 33 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约33米的银行网点，Mo-Fr 09:00-15:00（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 33,
+      "walk_min": 1,
+      "hours": "Mo-Fr 09:00-15:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.chibabank.co.jp/",
+      "tel": "+81-47-3542011",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6492163,
+      "lon": 139.9128773
+    },
+    {
+      "id": "st06789-002",
+      "category": "cafe",
+      "name": {
+        "ja": "ドトールコーヒーショップ",
+        "en": "Doutor Coffee Shop",
+        "zh": "多特咖啡"
+      },
+      "desc": {
+        "ja": "駅から約37mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。Mo-Su 07:00-20:00（JST）。",
+        "en": "Cafe about 37 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约37米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 37,
+      "walk_min": 1,
+      "hours": "Mo-Su 07:00-20:00 (JST)",
+      "hours_source": "osm",
+      "url": "http://www.doutor.co.jp/dcs/",
+      "tel": "+81-47-3906841",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6497597,
+      "lon": 139.9126348
+    },
+    {
+      "id": "st06789-003",
+      "category": "bank_atm",
+      "name": {
+        "ja": "みずほ銀行",
+        "en": "Mizuho Bank",
+        "zh": "瑞穗银行"
+      },
+      "desc": {
+        "ja": "みずほ銀行の支店。駅から約91mにあり、預け入れ・引き出しやATMの利用に対応する。窓口はMo-Fr 09:00-15:00（JST）。",
+        "en": "Bank about 91 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约91米的银行网点，Mo-Fr 09:00-15:00（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 91,
+      "walk_min": 2,
+      "hours": "Mo-Fr 09:00-15:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2001423151",
+      "tel": "+81-47-3502211",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6486646,
+      "lon": 139.9129606,
+      "official_url_pending": "https://www.mizuhobank.co.jp/"
+    },
+    {
+      "id": "st06789-004",
+      "category": "police",
+      "name": {
+        "ja": "浦安警察署日の出交番",
+        "en": "Koban",
+        "zh": "浦安警察署日no出交番"
+      },
+      "desc": {
+        "ja": "駅から約1135mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1135 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1135米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1135,
+      "walk_min": 15,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420741203",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6441603,
+      "lon": 139.9233796
+    },
+    {
+      "id": "st06789-005",
+      "category": "post_office",
+      "name": {
+        "ja": "新浦安駅前郵便局",
+        "en": "Shin-Urayasu Ekimae Post Office",
+        "zh": "新浦安站前邮政局"
+      },
+      "desc": {
+        "ja": "駅から約104mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 104 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约104米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 104,
+      "walk_min": 2,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1420739705",
+      "tel": "+81-47-381-2700",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6486514,
+      "lon": 139.9132611
+    },
+    {
+      "id": "st06789-006",
+      "category": "lodging",
+      "name": {
+        "ja": "浦安ブライトンホテル",
+        "en": "Urayasu Brighton Hotel",
+        "zh": "浦安ブライトンホテル"
+      },
+      "desc": {
+        "ja": "駅から約111mにある宿泊施設。観光やビジネスの拠点として利用できる。チェックイン時間は予約時に確認を。",
+        "en": "Lodging about 111 m from the station, a convenient base for sightseeing or business.",
+        "zh": "距站约111米的住宿设施，可作为观光或商务出行的落脚点，入住方式以预订信息为准。"
+      },
+      "distance_m": 111,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.brightonhotels.co.jp/urayasu/global/english/",
+      "tel": "+81-47-380-6666",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6499964,
+      "lon": 139.9116148
+    },
+    {
+      "id": "st06789-007",
+      "category": "shopping",
+      "name": {
+        "ja": "イオン新浦安ショッピングセンター",
+        "en": "ion新浦安shiyopingusenta-",
+        "zh": "イオン新浦安ショッピングセンター"
+      },
+      "desc": {
+        "ja": "駅から約212mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 212 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约212米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 212,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/26322912",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6489623,
+      "lon": 139.914895
+    },
+    {
+      "id": "st06789-008",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "セブン-イレブンのコンビニエンスストア。駅から約551mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 551 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约551米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 551,
+      "walk_min": 7,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.sej.co.jp/",
+      "tel": "+81-47-3051217",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6479541,
+      "lon": 139.9184417
+    },
+    {
+      "id": "st06789-009",
+      "category": "police",
+      "name": {
+        "ja": "浦安警察署",
+        "en": "Urayasu Police Station",
+        "zh": "浦安警察署"
+      },
+      "desc": {
+        "ja": "駅から約575mにある警察署。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 575 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约575米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 575,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/154150832",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6538075,
+      "lon": 139.9160091
+    },
+    {
+      "id": "st06789-010",
+      "category": "medical",
+      "name": {
+        "ja": "順天堂大学医学部附属浦安病院",
+        "en": "Juntendo Urayasu Hospital",
+        "zh": "順天堂大学医学部附属浦安病院"
+      },
+      "desc": {
+        "ja": "駅から約629mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 629 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约629米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 629,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420743647",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.646023,
+      "lon": 139.907061
+    },
+    {
+      "id": "st06789-011",
+      "category": "medical",
+      "name": {
+        "ja": "浦安中央病院",
+        "en": "Urayasu Central Hospital",
+        "zh": "浦安中央病院"
+      },
+      "desc": {
+        "ja": "駅から約1720mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 1720 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1720米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1720,
+      "walk_min": 22,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.urayasucentral.com/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6467156,
+      "lon": 139.8938784
+    },
+    {
+      "id": "st06789-012",
+      "category": "park",
+      "name": {
+        "ja": "若潮公園",
+        "en": "Wakashio Park",
+        "zh": "若潮公园"
+      },
+      "desc": {
+        "ja": "駅から約382mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 382 m from the station, with paths and benches for a rest.",
+        "zh": "距站约382米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 382,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/286376794",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6481301,
+      "lon": 139.9087076
+    },
+    {
+      "id": "st06789-013",
+      "category": "public_service",
+      "name": {
+        "ja": "浦安市役所",
+        "en": "Urayasu City Hall",
+        "zh": "浦安市役所"
+      },
+      "desc": {
+        "ja": "駅から約1048mにある役所・行政施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Civic office about 1048 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1048米的行政机构，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1048,
+      "walk_min": 14,
+      "hours": "Mo-Fr 08:30-17:00; PH off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/165507972",
+      "tel": "+81-47-3511111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6531544,
+      "lon": 139.9019663
+    },
+    {
+      "id": "st06789-014",
+      "category": "post_office",
+      "name": {
+        "ja": "浦安郵便局",
+        "en": "Urayasu Post Office",
+        "zh": "浦安邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1135mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1135 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1135米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 1135,
+      "walk_min": 15,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1420741206",
+      "tel": "+81-800-0800-111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.651772,
+      "lon": 139.900395
+    },
+    {
+      "id": "st06789-015",
+      "category": "public_service",
+      "name": {
+        "ja": "浦安市立中央図書館",
+        "en": "Urayasu City Central Library",
+        "zh": "浦安市立中央图书馆"
+      },
+      "desc": {
+        "ja": "駅から約1179mにある図書館。手続きや調べ物、休憩に利用できる公共の施設。詳細は現地の案内を参照。",
+        "en": "Library about 1179 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1179米的图书馆，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1179,
+      "walk_min": 15,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420741174",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.655541,
+      "lon": 139.901957
+    },
+    {
+      "id": "st06789-016",
+      "category": "sight",
+      "name": {
+        "ja": "浦安市郷土博物館",
+        "en": "Urayasu City Folk Museum",
+        "zh": "浦安市郷土博物馆"
+      },
+      "desc": {
+        "ja": "駅から約1218mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1218 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1218米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1218,
+      "walk_min": 16,
+      "hours": "Tu-Su 09:30-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1420741192",
+      "tel": "047-305-4300",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.655169,
+      "lon": 139.901136,
+      "official_url_pending": "https://assarikunn.wixsite.com/website"
+    },
+    {
+      "id": "st06789-017",
+      "category": "lodging",
+      "name": {
+        "ja": "三井ガーデンホテルプラナ東京ベイ",
+        "en": "三井ga-denhoterupurana東京bei",
+        "zh": "三井ガーデンホテルプラナ东京ベイ"
+      },
+      "desc": {
+        "ja": "駅から約1818mにある宿泊施設。観光やビジネスの拠点として利用できる。チェックイン時間は予約時に確認を。",
+        "en": "Lodging about 1818 m from the station, a convenient base for sightseeing or business.",
+        "zh": "距站约1818米的住宿设施，可作为观光或商务出行的落脚点，入住方式以预订信息为准。"
+      },
+      "distance_m": 1818,
+      "walk_min": 23,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/1239338802",
+      "tel": "047-381-3499",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6361198,
+      "lon": 139.9242957
+    },
+    {
+      "id": "st06789-018",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "豊受神社",
+        "en": "Toyouke Shrine",
+        "zh": "豊受神社"
+      },
+      "desc": {
+        "ja": "駅から約1827mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1827 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1827米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1827,
+      "walk_min": 23,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://urayasu-toyoukejinja.com",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6604275,
+      "lon": 139.8975971
+    },
+    {
+      "id": "st06789-019",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "東学寺",
+        "en": "Togakuji",
+        "zh": "东学寺"
+      },
+      "desc": {
+        "ja": "駅から約1914mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 1914 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1914米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1914,
+      "walk_min": 24,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6951001783",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6596778,
+      "lon": 139.8955977
+    }
+  ],
+  "coverage": {
+    "poi_count": 19,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 172,
+    "floor_check": {
+      "medical": {
+        "candidates": 15,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 6,
+        "selected": 2
+      },
+      "convenience": {
+        "candidates": 38,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 7,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 4,
+        "selected": 2
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}

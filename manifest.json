@@ -1,18 +1,18 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-06T05:21:36Z",
+  "updated_at": "2026-11-06T05:30:23Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 208,
+  "done": 209,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
     "京都府": 7,
     "北海道": 4,
-    "千葉県": 12,
+    "千葉県": 13,
     "和歌山県": 1,
     "大阪府": 25,
     "奈良県": 1,
@@ -347,37 +347,38 @@
         "st05462",
         "st05483",
         "st06572",
-        "st06788"
+        "st06788",
+        "st06789"
       ],
-      "poi_total": 797,
+      "poi_total": 816,
       "category_counts": {
-        "bank_atm": 45,
-        "cafe": 9,
-        "convenience": 53,
+        "bank_atm": 47,
+        "cafe": 10,
+        "convenience": 54,
         "food": 69,
-        "lodging": 48,
-        "medical": 66,
+        "lodging": 50,
+        "medical": 68,
         "onsen_sento": 5,
-        "park": 40,
-        "police": 45,
-        "post_office": 64,
-        "public_service": 51,
-        "shopping": 85,
-        "shrine_temple": 79,
-        "sight": 117,
+        "park": 41,
+        "police": 47,
+        "post_office": 66,
+        "public_service": 53,
+        "shopping": 86,
+        "shrine_temple": 81,
+        "sight": 118,
         "tourist_info": 21
       },
-      "hours_null": 464,
-      "official_url_own": 320,
+      "hours_null": 475,
+      "official_url_own": 326,
       "official_url_map": 0,
-      "official_url_pending": 82,
+      "official_url_pending": 84,
       "official_site_hours_coverage": 0.537,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "舞浜 (st06788): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=348（精确）"
+        "note": "新浦安 (st06789): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=172（精确）"
       }
     }
   ]
