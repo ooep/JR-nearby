@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-06T03:17:18Z",
+  "updated_at": "2026-11-06T03:24:16Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 183,
+  "done": 184,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -14,7 +14,7 @@
     "北海道": 1,
     "千葉県": 5,
     "和歌山県": 1,
-    "大阪府": 13,
+    "大阪府": 14,
     "奈良県": 1,
     "宮城県": 1,
     "岡山県": 3,
@@ -321,37 +321,38 @@
         "st01776",
         "st01918",
         "st01949",
+        "st01990",
         "st02752"
       ],
-      "poi_total": 337,
+      "poi_total": 356,
       "category_counts": {
-        "bank_atm": 17,
+        "bank_atm": 18,
         "cafe": 4,
-        "convenience": 24,
-        "food": 29,
-        "lodging": 17,
-        "medical": 30,
+        "convenience": 25,
+        "food": 30,
+        "lodging": 18,
+        "medical": 32,
         "onsen_sento": 4,
-        "park": 16,
-        "police": 19,
-        "post_office": 27,
-        "public_service": 22,
-        "shopping": 38,
-        "shrine_temple": 37,
-        "sight": 44,
+        "park": 18,
+        "police": 20,
+        "post_office": 29,
+        "public_service": 23,
+        "shopping": 40,
+        "shrine_temple": 39,
+        "sight": 47,
         "tourist_info": 9
       },
-      "hours_null": 197,
-      "official_url_own": 129,
+      "hours_null": 210,
+      "official_url_own": 132,
       "official_url_map": 0,
       "official_url_pending": 33,
-      "official_site_hours_coverage": 0.527,
+      "official_site_hours_coverage": 0.523,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "柏 (st01484): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=501（精确）"
+        "note": "高槻 (st01990): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=740（精确）"
       }
     }
   ]
