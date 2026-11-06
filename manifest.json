@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-06T08:13:01Z",
+  "updated_at": "2026-11-06T08:13:23Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 246,
+  "done": 247,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -23,7 +23,7 @@
     "広島県": 3,
     "徳島県": 1,
     "愛媛県": 1,
-    "愛知県": 5,
+    "愛知県": 6,
     "東京都": 107,
     "熊本県": 1,
     "神奈川県": 34,
@@ -427,37 +427,38 @@
         "st01803",
         "st01930",
         "st01934",
-        "st02079"
+        "st02079",
+        "st02263"
       ],
-      "poi_total": 541,
+      "poi_total": 561,
       "category_counts": {
-        "bank_atm": 33,
-        "cafe": 13,
-        "convenience": 43,
+        "bank_atm": 34,
+        "cafe": 14,
+        "convenience": 44,
         "food": 40,
-        "lodging": 29,
-        "medical": 40,
+        "lodging": 31,
+        "medical": 42,
         "onsen_sento": 4,
-        "park": 41,
-        "police": 37,
-        "post_office": 45,
-        "public_service": 25,
-        "shopping": 46,
-        "shrine_temple": 42,
-        "sight": 91,
-        "tourist_info": 12
+        "park": 43,
+        "police": 38,
+        "post_office": 47,
+        "public_service": 26,
+        "shopping": 48,
+        "shrine_temple": 45,
+        "sight": 92,
+        "tourist_info": 13
       },
-      "hours_null": 380,
-      "official_url_own": 166,
+      "hours_null": 392,
+      "official_url_own": 170,
       "official_url_map": 0,
-      "official_url_pending": 33,
-      "official_site_hours_coverage": 0.398,
+      "official_url_pending": 36,
+      "official_site_hours_coverage": 0.406,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "新越谷 (st02079): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=159（精确）"
+        "note": "名鉄名古屋 (st02263): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=1559（窗口下限，细分重抓后仍有残漏）"
       }
     }
   ]

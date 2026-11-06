@@ -1,0 +1,628 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st02263",
+    "name": {
+      "ja": "名鉄名古屋",
+      "en": "Meitetsu-Nagoya",
+      "zh": "名铁名古屋"
+    },
+    "line_group": [
+      "名古屋本線",
+      "常滑線",
+      "河和線",
+      "津島線",
+      "犬山線",
+      "西尾線",
+      "豊川線"
+    ],
+    "pref": "愛知県",
+    "lat": 35.1698,
+    "lon": 136.88403
+  },
+  "generated_at": "2026-11-06T08:13:21Z",
+  "pois": [
+    {
+      "id": "st02263-001",
+      "category": "lodging",
+      "name": {
+        "ja": "名古屋マリオットアソシアホテル",
+        "en": "Nagoya Marriott Associa Hotel",
+        "zh": "名古屋マリオットアソシアホテル"
+      },
+      "desc": {
+        "ja": "駅から約118mにある宿泊施設。観光やビジネスの拠点として利用できる。チェックイン時間は予約時に確認を。",
+        "en": "Lodging about 118 m from the station, a convenient base for sightseeing or business.",
+        "zh": "距站约118米的住宿设施，可作为观光或商务出行的落脚点，入住方式以预订信息为准。"
+      },
+      "distance_m": 118,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/3161489709",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1704487,
+      "lon": 136.883009
+    },
+    {
+      "id": "st02263-002",
+      "category": "shopping",
+      "name": {
+        "ja": "JRセントラルタワーズ",
+        "en": "JR Central Towers",
+        "zh": "JR中央大廈"
+      },
+      "desc": {
+        "ja": "駅から約158mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 158 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约158米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 158,
+      "walk_min": 2,
+      "hours": "10:00-23:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.towers.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1708711,
+      "lon": 136.8828903
+    },
+    {
+      "id": "st02263-003",
+      "category": "police",
+      "name": {
+        "ja": "愛知県警察本部",
+        "en": "爱知县 Police Headquarters",
+        "zh": "爱知县警察本部"
+      },
+      "desc": {
+        "ja": "駅から約1985mにある警察署。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1985 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1985米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1985,
+      "walk_min": 25,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/48998029",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1808009,
+      "lon": 136.901231
+    },
+    {
+      "id": "st02263-004",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "7-ELEVENのコンビニエンスストア。駅から約338mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 338 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约338米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 338,
+      "walk_min": 5,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.sej.co.jp/",
+      "tel": "+81-52-4535455",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1689985,
+      "lon": 136.8804469
+    },
+    {
+      "id": "st02263-005",
+      "category": "bank_atm",
+      "name": {
+        "ja": "みずほ銀行",
+        "en": "Mizuho Bank",
+        "zh": "瑞穗银行"
+      },
+      "desc": {
+        "ja": "みずほ銀行の支店。駅から約356mにあり、預け入れ・引き出しやATMの利用に対応する。窓口はMo-Fr 09:00-15:00（JST）。",
+        "en": "Bank about 356 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约356米的银行网点，Mo-Fr 09:00-15:00（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 356,
+      "walk_min": 5,
+      "hours": "Mo-Fr 09:00-15:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2023821127",
+      "tel": "+81-52-5413211",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1720434,
+      "lon": 136.8868295,
+      "official_url_pending": "https://www.mizuhobank.co.jp/"
+    },
+    {
+      "id": "st02263-006",
+      "category": "medical",
+      "name": {
+        "ja": "名古屋セントラル病院",
+        "en": "名古屋sentoraru病院",
+        "zh": "名古屋セントラル病院"
+      },
+      "desc": {
+        "ja": "駅から約611mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 611 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约611米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 611,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://nagoya-central-hospital.com/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1656653,
+      "lon": 136.8796009
+    },
+    {
+      "id": "st02263-007",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "椿神明社",
+        "en": "Tsubaki Shinmeisha Shrine",
+        "zh": "椿神明社"
+      },
+      "desc": {
+        "ja": "駅から約566mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 566 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约566米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 566,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/726399371",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1704073,
+      "lon": 136.8778512
+    },
+    {
+      "id": "st02263-008",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "白山神社",
+        "en": "Hakusan Shrine",
+        "zh": "白山神社"
+      },
+      "desc": {
+        "ja": "駅から約1021mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1021 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1021米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1021,
+      "walk_min": 13,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/12415951727",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1731086,
+      "lon": 136.8945063
+    },
+    {
+      "id": "st02263-009",
+      "category": "lodging",
+      "name": {
+        "ja": "Hilton Nagoya",
+        "en": "Hilton Nagoya",
+        "zh": "Hilton Nagoya"
+      },
+      "desc": {
+        "ja": "駅から約985mにある宿泊施設（4つ星）。観光やビジネスの拠点として利用できる。チェックイン時間は予約時に確認を。",
+        "en": "Lodging about 985 m from the station, a convenient base for sightseeing or business.",
+        "zh": "距站约985米的住宿设施（4星），可作为观光或商务出行的落脚点，入住方式以预订信息为准。"
+      },
+      "distance_m": 985,
+      "walk_min": 13,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/906574024",
+      "tel": "+81 52-212-1111",
+      "tel_source": "osm",
+      "price_level": "¥¥¥¥",
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1675472,
+      "lon": 136.8945087,
+      "official_url_pending": "https://www.hilton.com/en/hotels/naghitw-hilton-nagoya/"
+    },
+    {
+      "id": "st02263-010",
+      "category": "cafe",
+      "name": {
+        "ja": "Mammy's Coffee",
+        "en": "Mammy's Coffee",
+        "zh": "Mammy's Coffee"
+      },
+      "desc": {
+        "ja": "駅から約969mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。",
+        "en": "Cafe about 969 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约969米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 969,
+      "walk_min": 13,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/7054525500",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1761893,
+      "lon": 136.8912721
+    },
+    {
+      "id": "st02263-011",
+      "category": "park",
+      "name": {
+        "ja": "白川公園",
+        "en": "Shirakawa Park",
+        "zh": "白川公园"
+      },
+      "desc": {
+        "ja": "駅から約1579mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1579 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1579米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1579,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/43631530",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.164137,
+      "lon": 136.8999619
+    },
+    {
+      "id": "st02263-012",
+      "category": "shopping",
+      "name": {
+        "ja": "マックスバリュ",
+        "en": "MaxValu",
+        "zh": "Makusubariyu"
+      },
+      "desc": {
+        "ja": "駅から約488mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 488 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约488米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 488,
+      "walk_min": 7,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1998203629",
+      "tel": "+81 52-459-3880",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1659121,
+      "lon": 136.8815345
+    },
+    {
+      "id": "st02263-013",
+      "category": "park",
+      "name": {
+        "ja": "アポロどんぐりひろば",
+        "en": "aporodongurihiroba",
+        "zh": "Aporodongurihiroba"
+      },
+      "desc": {
+        "ja": "駅から約440mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 440 m from the station, with paths and benches for a rest.",
+        "zh": "距站约440米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 440,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/547222115",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1659614,
+      "lon": 136.8828527
+    },
+    {
+      "id": "st02263-014",
+      "category": "public_service",
+      "name": {
+        "ja": "愛知芸術文化センター愛知県図書館",
+        "en": "Aichi Prefecture Library",
+        "zh": "爱知艺术文化センター爱知县图书馆"
+      },
+      "desc": {
+        "ja": "駅から約1403mにある図書館。手続きや調べ物、休憩に利用できる公共の施設。詳細は現地の案内を参照。",
+        "en": "Library about 1403 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1403米的图书馆，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1403,
+      "walk_min": 18,
+      "hours": "Tu-Fr 10:00-20:00; Sa-Su 10:00-18:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/73419031",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1784907,
+      "lon": 136.8952233
+    },
+    {
+      "id": "st02263-015",
+      "category": "sight",
+      "name": {
+        "ja": "トヨタ産業技術記念館",
+        "en": "Toyota Commemorative Museum of Industry and Technology",
+        "zh": "トヨタ産業技术纪念馆"
+      },
+      "desc": {
+        "ja": "駅から約1577mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1577 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1577米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1577,
+      "walk_min": 20,
+      "hours": "Tu-Su 09:30-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.tcmit.org/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1825679,
+      "lon": 136.8764843
+    },
+    {
+      "id": "st02263-016",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "名古屋東照宮",
+        "en": "Nagoya Toshogu Shrine",
+        "zh": "名古屋东照宫"
+      },
+      "desc": {
+        "ja": "駅から約1634mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1634 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1634米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1634,
+      "walk_min": 21,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/12420431175",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1775431,
+      "lon": 136.899303
+    },
+    {
+      "id": "st02263-017",
+      "category": "post_office",
+      "name": {
+        "ja": "名古屋中郵便局",
+        "en": "Nagoya Naka Post Office",
+        "zh": "名古屋中邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1949mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su 09:00-12:30（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1949 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1949米的邮局，Mo-Fr 09:00-19:00, Sa 09:00-17:00, Su 09:00-12:30（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 1949,
+      "walk_min": 25,
+      "hours": "Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su 09:00-12:30 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1423949686",
+      "tel": "+81-800-0800-111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.161784,
+      "lon": 136.903101
+    },
+    {
+      "id": "st02263-018",
+      "category": "post_office",
+      "name": {
+        "ja": "中村郵便局",
+        "en": "Nakamura Post Office",
+        "zh": "中村邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1905mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-19:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1905 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1905米的邮局，Mo-Fr 09:00-19:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 1905,
+      "walk_min": 24,
+      "hours": "Mo-Fr 09:00-19:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1423948411",
+      "tel": "+81-800-0800-111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1666663,
+      "lon": 136.8634268
+    },
+    {
+      "id": "st02263-019",
+      "category": "medical",
+      "name": {
+        "ja": "愛知県済生会リハビリテーション病院",
+        "en": "Aichi Saiseikai Hospital",
+        "zh": "爱知县济生会リハビリテーション病院"
+      },
+      "desc": {
+        "ja": "駅から約1928mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 1928 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1928米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1928,
+      "walk_min": 25,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423986063",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1865842,
+      "lon": 136.8787086,
+      "official_url_pending": "http://www.aichi.saiseikai.or.jp/"
+    },
+    {
+      "id": "st02263-020",
+      "category": "tourist_info",
+      "name": {
+        "ja": "総合案内所",
+        "en": "総合 Information Center",
+        "zh": "総合案内所"
+      },
+      "desc": {
+        "ja": "駅から約1976mにある観光案内所。周辺の観光情報や地図、施設案内を提供している。散策の前に立ち寄ると便利。",
+        "en": "Tourist information office about 1976 m from the station, with maps and local guidance.",
+        "zh": "距站约1976米的观光服务台，提供周边旅游信息、地图与咨询服务，可先在此规划行程。"
+      },
+      "distance_m": 1976,
+      "walk_min": 25,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5554181569",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1835127,
+      "lon": 136.8978547
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [],
+    "fetch_truncated": true,
+    "selected_cap": 20,
+    "candidate_count": 1559,
+    "floor_check": {
+      "medical": {
+        "candidates": 69,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 60,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 176,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 31,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 16,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 1,
+        "selected": 1
+      }
+    }
+  }
+}
