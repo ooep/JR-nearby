@@ -1,17 +1,18 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-06T01:39:15Z",
+  "updated_at": "2026-11-06T01:45:04Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 169,
+  "done": 170,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
     "京都府": 7,
     "北海道": 1,
+    "千葉県": 1,
     "和歌山県": 1,
     "大阪府": 7,
     "奈良県": 1,
@@ -305,37 +306,38 @@
         "st00072",
         "st00073",
         "st00469",
-        "st00565"
+        "st00565",
+        "st01084"
       ],
-      "poi_total": 117,
+      "poi_total": 135,
       "category_counts": {
-        "bank_atm": 6,
-        "cafe": 1,
-        "convenience": 8,
+        "bank_atm": 7,
+        "cafe": 2,
+        "convenience": 10,
         "food": 10,
         "lodging": 6,
-        "medical": 12,
-        "onsen_sento": 2,
-        "park": 8,
-        "police": 6,
-        "post_office": 8,
-        "public_service": 9,
-        "shopping": 12,
-        "shrine_temple": 14,
-        "sight": 13,
+        "medical": 14,
+        "onsen_sento": 3,
+        "park": 10,
+        "police": 7,
+        "post_office": 10,
+        "public_service": 10,
+        "shopping": 15,
+        "shrine_temple": 15,
+        "sight": 14,
         "tourist_info": 2
       },
-      "hours_null": 69,
-      "official_url_own": 45,
+      "hours_null": 79,
+      "official_url_own": 51,
       "official_url_map": 0,
       "official_url_pending": 12,
-      "official_site_hours_coverage": 0.511,
+      "official_site_hours_coverage": 0.529,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "新大阪 (st00565): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=1446（窗口下限，细分重抓后仍有残漏）"
+        "note": "流山おおたかの森 (st01084): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=261（精确）"
       }
     }
   ]
