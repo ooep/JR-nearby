@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-06T07:23:06Z",
+  "updated_at": "2026-11-06T07:32:10Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 235,
+  "done": 236,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -15,7 +15,7 @@
     "北海道": 4,
     "千葉県": 14,
     "和歌山県": 1,
-    "埼玉県": 1,
+    "埼玉県": 2,
     "大阪府": 29,
     "奈良県": 1,
     "宮城県": 1,
@@ -416,37 +416,38 @@
         "st01269",
         "st01309",
         "st01519",
-        "st01523"
+        "st01523",
+        "st01664"
       ],
-      "poi_total": 370,
+      "poi_total": 389,
       "category_counts": {
-        "bank_atm": 24,
-        "cafe": 6,
-        "convenience": 30,
-        "food": 24,
-        "lodging": 20,
-        "medical": 26,
+        "bank_atm": 25,
+        "cafe": 7,
+        "convenience": 31,
+        "food": 25,
+        "lodging": 21,
+        "medical": 27,
         "onsen_sento": 3,
-        "park": 27,
-        "police": 24,
-        "post_office": 30,
-        "public_service": 18,
-        "shopping": 26,
-        "shrine_temple": 29,
-        "sight": 74,
-        "tourist_info": 9
+        "park": 28,
+        "police": 26,
+        "post_office": 32,
+        "public_service": 19,
+        "shopping": 27,
+        "shrine_temple": 31,
+        "sight": 77,
+        "tourist_info": 10
       },
-      "hours_null": 261,
-      "official_url_own": 121,
+      "hours_null": 275,
+      "official_url_own": 125,
       "official_url_map": 0,
       "official_url_pending": 27,
-      "official_site_hours_coverage": 0.322,
+      "official_site_hours_coverage": 0.344,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "霞ケ関 (st01523): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=147（精确）"
+        "note": "浦和 (st01664): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=573（精确）"
       }
     }
   ]
