@@ -1,17 +1,17 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-06T05:46:52Z",
+  "updated_at": "2026-11-06T05:56:06Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 216,
+  "done": 217,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
     "京都府": 7,
-    "兵庫県": 3,
+    "兵庫県": 4,
     "北海道": 4,
     "千葉県": 14,
     "和歌山県": 1,
@@ -393,36 +393,37 @@
         "st00466",
         "st00467",
         "st00470",
-        "st00558"
+        "st00558",
+        "st00561"
       ],
-      "poi_total": 107,
+      "poi_total": 125,
       "category_counts": {
-        "bank_atm": 7,
-        "convenience": 9,
-        "food": 5,
+        "bank_atm": 9,
+        "convenience": 11,
+        "food": 8,
         "lodging": 6,
-        "medical": 7,
+        "medical": 9,
         "onsen_sento": 1,
-        "park": 8,
-        "police": 6,
-        "post_office": 9,
-        "public_service": 3,
+        "park": 9,
+        "police": 7,
+        "post_office": 10,
+        "public_service": 4,
         "shopping": 8,
-        "shrine_temple": 7,
-        "sight": 29,
+        "shrine_temple": 8,
+        "sight": 33,
         "tourist_info": 2
       },
-      "hours_null": 78,
-      "official_url_own": 40,
+      "hours_null": 88,
+      "official_url_own": 46,
       "official_url_map": 0,
-      "official_url_pending": 11,
-      "official_site_hours_coverage": 0.25,
+      "official_url_pending": 14,
+      "official_site_hours_coverage": 0.261,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "神戸 (st00558): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=1029（精确）"
+        "note": "明石 (st00561): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=604（精确）"
       }
     }
   ]
