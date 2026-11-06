@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-06T02:23:30Z",
+  "updated_at": "2026-11-06T02:32:41Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 176,
+  "done": 177,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -14,7 +14,7 @@
     "北海道": 1,
     "千葉県": 3,
     "和歌山県": 1,
-    "大阪府": 9,
+    "大阪府": 10,
     "奈良県": 1,
     "宮城県": 1,
     "岡山県": 3,
@@ -313,37 +313,38 @@
         "st00907",
         "st01084",
         "st01086",
-        "st01124"
+        "st01124",
+        "st01258"
       ],
-      "poi_total": 215,
+      "poi_total": 233,
       "category_counts": {
-        "bank_atm": 11,
+        "bank_atm": 12,
         "cafe": 3,
-        "convenience": 15,
-        "food": 18,
-        "lodging": 9,
-        "medical": 21,
+        "convenience": 16,
+        "food": 19,
+        "lodging": 11,
+        "medical": 22,
         "onsen_sento": 3,
         "park": 14,
-        "police": 12,
-        "post_office": 16,
-        "public_service": 16,
-        "shopping": 24,
-        "shrine_temple": 26,
-        "sight": 23,
-        "tourist_info": 4
+        "police": 13,
+        "post_office": 18,
+        "public_service": 17,
+        "shopping": 26,
+        "shrine_temple": 27,
+        "sight": 27,
+        "tourist_info": 5
       },
-      "hours_null": 130,
-      "official_url_own": 79,
+      "hours_null": 137,
+      "official_url_own": 87,
       "official_url_map": 0,
-      "official_url_pending": 17,
-      "official_site_hours_coverage": 0.519,
+      "official_url_pending": 21,
+      "official_site_hours_coverage": 0.529,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "鶴橋 (st01124): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=1453（窗口下限，细分重抓后仍有残漏）"
+        "note": "北新地 (st01258): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=2412（窗口下限，细分重抓后仍有残漏）"
       }
     }
   ]
