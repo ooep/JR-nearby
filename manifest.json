@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-06T08:13:23Z",
+  "updated_at": "2026-11-06T08:22:46Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 247,
+  "done": 248,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -15,7 +15,7 @@
     "北海道": 5,
     "千葉県": 14,
     "和歌山県": 1,
-    "埼玉県": 7,
+    "埼玉県": 8,
     "大阪府": 30,
     "奈良県": 1,
     "宮城県": 1,
@@ -428,37 +428,38 @@
         "st01930",
         "st01934",
         "st02079",
-        "st02263"
+        "st02263",
+        "st02416"
       ],
-      "poi_total": 561,
+      "poi_total": 581,
       "category_counts": {
-        "bank_atm": 34,
-        "cafe": 14,
-        "convenience": 44,
-        "food": 40,
-        "lodging": 31,
-        "medical": 42,
+        "bank_atm": 35,
+        "cafe": 15,
+        "convenience": 45,
+        "food": 43,
+        "lodging": 32,
+        "medical": 43,
         "onsen_sento": 4,
-        "park": 43,
-        "police": 38,
-        "post_office": 47,
+        "park": 44,
+        "police": 39,
+        "post_office": 49,
         "public_service": 26,
-        "shopping": 48,
-        "shrine_temple": 45,
-        "sight": 92,
+        "shopping": 50,
+        "shrine_temple": 48,
+        "sight": 95,
         "tourist_info": 13
       },
-      "hours_null": 392,
-      "official_url_own": 170,
+      "hours_null": 403,
+      "official_url_own": 176,
       "official_url_map": 0,
-      "official_url_pending": 36,
-      "official_site_hours_coverage": 0.406,
+      "official_url_pending": 38,
+      "official_site_hours_coverage": 0.403,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "名鉄名古屋 (st02263): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=1559（窗口下限，细分重抓后仍有残漏）"
+        "note": "川越 (st02416): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=483（精确）"
       }
     }
   ]
