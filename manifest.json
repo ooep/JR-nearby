@@ -1,18 +1,18 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-06T02:32:41Z",
+  "updated_at": "2026-11-06T02:41:50Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 177,
+  "done": 178,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
     "京都府": 7,
     "北海道": 1,
-    "千葉県": 3,
+    "千葉県": 4,
     "和歌山県": 1,
     "大阪府": 10,
     "奈良県": 1,
@@ -314,37 +314,38 @@
         "st01084",
         "st01086",
         "st01124",
-        "st01258"
+        "st01258",
+        "st01483"
       ],
-      "poi_total": 233,
+      "poi_total": 253,
       "category_counts": {
-        "bank_atm": 12,
-        "cafe": 3,
-        "convenience": 16,
-        "food": 19,
+        "bank_atm": 13,
+        "cafe": 4,
+        "convenience": 17,
+        "food": 22,
         "lodging": 11,
-        "medical": 22,
+        "medical": 24,
         "onsen_sento": 3,
         "park": 14,
-        "police": 13,
-        "post_office": 18,
-        "public_service": 17,
-        "shopping": 26,
-        "shrine_temple": 27,
-        "sight": 27,
-        "tourist_info": 5
+        "police": 14,
+        "post_office": 19,
+        "public_service": 19,
+        "shopping": 29,
+        "shrine_temple": 30,
+        "sight": 28,
+        "tourist_info": 6
       },
-      "hours_null": 137,
-      "official_url_own": 87,
+      "hours_null": 147,
+      "official_url_own": 92,
       "official_url_map": 0,
-      "official_url_pending": 21,
-      "official_site_hours_coverage": 0.529,
+      "official_url_pending": 22,
+      "official_site_hours_coverage": 0.543,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "北新地 (st01258): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=2412（窗口下限，细分重抓后仍有残漏）"
+        "note": "松戸 (st01483): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=746（精确）"
       }
     }
   ]
