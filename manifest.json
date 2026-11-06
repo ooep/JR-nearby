@@ -1,17 +1,17 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-06T04:21:08Z",
+  "updated_at": "2026-11-06T04:22:19Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 194,
+  "done": 195,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
     "京都府": 7,
-    "北海道": 1,
+    "北海道": 2,
     "千葉県": 7,
     "和歌山県": 1,
     "大阪府": 21,
@@ -332,37 +332,38 @@
         "st03967",
         "st04108",
         "st04877",
-        "st04937"
+        "st04937",
+        "st04997"
       ],
-      "poi_total": 551,
+      "poi_total": 571,
       "category_counts": {
-        "bank_atm": 28,
+        "bank_atm": 30,
         "cafe": 6,
-        "convenience": 37,
-        "food": 47,
-        "lodging": 30,
-        "medical": 48,
+        "convenience": 38,
+        "food": 48,
+        "lodging": 32,
+        "medical": 49,
         "onsen_sento": 5,
-        "park": 25,
-        "police": 30,
-        "post_office": 44,
-        "public_service": 35,
-        "shopping": 60,
+        "park": 26,
+        "police": 32,
+        "post_office": 45,
+        "public_service": 37,
+        "shopping": 63,
         "shrine_temple": 58,
-        "sight": 83,
-        "tourist_info": 15
+        "sight": 86,
+        "tourist_info": 16
       },
-      "hours_null": 319,
-      "official_url_own": 211,
+      "hours_null": 330,
+      "official_url_own": 230,
       "official_url_map": 0,
-      "official_url_pending": 52,
-      "official_site_hours_coverage": 0.55,
+      "official_url_pending": 53,
+      "official_site_hours_coverage": 0.543,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "大阪阿部野橋 (st04937): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=1194（精确）"
+        "note": "さっぽろ (st04997): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=1562（窗口下限，细分重抓后仍有残漏）"
       }
     }
   ]
