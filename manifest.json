@@ -1,18 +1,18 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-06T03:15:18Z",
+  "updated_at": "2026-11-06T03:17:18Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 182,
+  "done": 183,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
     "京都府": 7,
     "北海道": 1,
-    "千葉県": 4,
+    "千葉県": 5,
     "和歌山県": 1,
     "大阪府": 13,
     "奈良県": 1,
@@ -317,40 +317,41 @@
         "st01124",
         "st01258",
         "st01483",
+        "st01484",
         "st01776",
         "st01918",
         "st01949",
         "st02752"
       ],
-      "poi_total": 320,
+      "poi_total": 337,
       "category_counts": {
-        "bank_atm": 16,
+        "bank_atm": 17,
         "cafe": 4,
-        "convenience": 22,
-        "food": 26,
-        "lodging": 16,
-        "medical": 28,
+        "convenience": 24,
+        "food": 29,
+        "lodging": 17,
+        "medical": 30,
         "onsen_sento": 4,
         "park": 16,
-        "police": 18,
-        "post_office": 26,
-        "public_service": 20,
-        "shopping": 35,
+        "police": 19,
+        "post_office": 27,
+        "public_service": 22,
+        "shopping": 38,
         "shrine_temple": 37,
         "sight": 44,
-        "tourist_info": 8
+        "tourist_info": 9
       },
-      "hours_null": 188,
-      "official_url_own": 123,
+      "hours_null": 197,
+      "official_url_own": 129,
       "official_url_map": 0,
-      "official_url_pending": 32,
-      "official_site_hours_coverage": 0.52,
+      "official_url_pending": 33,
+      "official_site_hours_coverage": 0.527,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "天下茶屋 (st01949): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=790（精确）"
+        "note": "柏 (st01484): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=501（精确）"
       }
     }
   ]
