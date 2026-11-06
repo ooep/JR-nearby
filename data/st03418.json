@@ -1,0 +1,627 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st03418",
+    "name": {
+      "ja": "武蔵浦和",
+      "en": "Musashi-Urawa",
+      "zh": "武蔵浦和"
+    },
+    "line_group": [
+      "京葉線",
+      "山手線",
+      "川越線",
+      "東北本線",
+      "東海道本線",
+      "武蔵野線",
+      "相鉄本線",
+      "赤羽線"
+    ],
+    "pref": "埼玉県",
+    "lat": 35.845688,
+    "lon": 139.647303
+  },
+  "generated_at": "2026-11-06T10:05:01Z",
+  "pois": [
+    {
+      "id": "st03418-001",
+      "category": "bank_atm",
+      "name": {
+        "ja": "埼玉りそな銀行 武蔵浦和支店",
+        "en": "Resona Bank",
+        "zh": "埼玉risona銀行 武蔵浦和支店"
+      },
+      "desc": {
+        "ja": "埼玉りそな銀行 武蔵浦和支店の支店。駅から約156mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 156 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约156米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 156,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/8395658122",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8443889,
+      "lon": 139.6466391
+    },
+    {
+      "id": "st03418-002",
+      "category": "medical",
+      "name": {
+        "ja": "マツモトキヨシ",
+        "en": "Matsukiyo",
+        "zh": "Matsumotokiyoshi"
+      },
+      "desc": {
+        "ja": "駅から約77mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 77 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约77米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 77,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/9557262058",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8450402,
+      "lon": 139.6469881
+    },
+    {
+      "id": "st03418-003",
+      "category": "cafe",
+      "name": {
+        "ja": "タリーズコーヒー 武蔵浦和駅前店",
+        "en": "Tully's Coffee",
+        "zh": "タリーズコーヒー 武蔵浦和站前店"
+      },
+      "desc": {
+        "ja": "駅から約170mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。Mo-Fr 07:30-21:00; Sa 08:00-21:00; Su 08:00-20:00（JST）。",
+        "en": "Cafe about 170 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约170米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 170,
+      "walk_min": 3,
+      "hours": "Mo-Fr 07:30-21:00; Sa 08:00-21:00; Su 08:00-20:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://shop.tullys.co.jp/detail/5000726",
+      "tel": "048-710-6778",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8457822,
+      "lon": 139.6454159
+    },
+    {
+      "id": "st03418-004",
+      "category": "post_office",
+      "name": {
+        "ja": "浦和岸町郵便局",
+        "en": "浦和岸町 Post Office",
+        "zh": "浦和岸町邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1057mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1057 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1057米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 1057,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420180000",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.85222,
+      "lon": 139.655829
+    },
+    {
+      "id": "st03418-005",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "睦神社",
+        "en": "Mutsumi jinja shrine",
+        "zh": "睦神社"
+      },
+      "desc": {
+        "ja": "駅から約600mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 600 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约600米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 600,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/460264240",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.847068,
+      "lon": 139.6537346
+    },
+    {
+      "id": "st03418-006",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "調神社",
+        "en": "Tsuki Jinja Shrine",
+        "zh": "調神社"
+      },
+      "desc": {
+        "ja": "駅から約1144mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1144 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1144米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1144,
+      "walk_min": 15,
+      "hours": "Mo-Su 09:00-16:30 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/353033223",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8534177,
+      "lon": 139.6556849
+    },
+    {
+      "id": "st03418-007",
+      "category": "food",
+      "name": {
+        "ja": "Femme Fatale",
+        "en": "Femme Fatale",
+        "zh": "Femme Fatale"
+      },
+      "desc": {
+        "ja": "駅から約1172mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。営業はSu-Mo, Th 20:30-02:00; Fr-Sa 20:30-03:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1172 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约1172米的餐馆适合旅途中用餐，Su-Mo, Th 20:30-02:00, Fr-Sa 20:30-03:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1172,
+      "walk_min": 15,
+      "hours": "Su-Mo, Th 20:30-02:00; Fr-Sa 20:30-03:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/14082452701",
+      "tel": "070-3517-1177",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8367536,
+      "lon": 139.6404061,
+      "official_url_pending": "https://s.tabelog.com/saitama/A1101/A110102/11068425/"
+    },
+    {
+      "id": "st03418-008",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "真言宗智山派日輪山一乗院",
+        "en": "Ichijouin temple",
+        "zh": "真言宗智山派日輪山一乗院"
+      },
+      "desc": {
+        "ja": "駅から約1508mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 1508 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1508米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1508,
+      "walk_min": 19,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/460218558",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8339524,
+      "lon": 139.6389122
+    },
+    {
+      "id": "st03418-009",
+      "category": "shopping",
+      "name": {
+        "ja": "MEGAドン・キホーテ武蔵浦和店",
+        "en": "MEGA Don Quijote",
+        "zh": "MEGAドン・キホーテ武蔵浦和店"
+      },
+      "desc": {
+        "ja": "駅から約310mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 310 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约310米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 310,
+      "walk_min": 4,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/8567859940",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8430872,
+      "lon": 139.648533
+    },
+    {
+      "id": "st03418-010",
+      "category": "police",
+      "name": {
+        "ja": "浦和警察署武蔵浦和駅前交番",
+        "en": "浦和武蔵浦和站前交番 Police Station",
+        "zh": "浦和警察署武蔵浦和站前交番"
+      },
+      "desc": {
+        "ja": "駅から約118mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 118 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约118米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 118,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420198669",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.845849,
+      "lon": 139.646005
+    },
+    {
+      "id": "st03418-011",
+      "category": "post_office",
+      "name": {
+        "ja": "浦和曲本郵便局",
+        "en": "浦和曲本 Post Office",
+        "zh": "浦和曲本邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1144mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1144 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1144米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 1144,
+      "walk_min": 15,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420180021",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8377031,
+      "lon": 139.639294
+    },
+    {
+      "id": "st03418-012",
+      "category": "tourist_info",
+      "name": {
+        "ja": "浦和観光案内所",
+        "en": "浦和 Tourist Information",
+        "zh": "浦和观光案内所"
+      },
+      "desc": {
+        "ja": "駅から約1685mにある観光案内所。周辺の観光情報や地図、施設案内を提供している。散策の前に立ち寄ると便利。",
+        "en": "Tourist information office about 1685 m from the station, with maps and local guidance.",
+        "zh": "距站约1685米的观光服务台，提供周边旅游信息、地图与咨询服务，可先在此规划行程。"
+      },
+      "distance_m": 1685,
+      "walk_min": 22,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4417178716",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8584962,
+      "lon": 139.6572971
+    },
+    {
+      "id": "st03418-013",
+      "category": "lodging",
+      "name": {
+        "ja": "浦和ロイヤルパインズホテル",
+        "en": "浦和roiyarupainzuhoteru",
+        "zh": "浦和ロイヤルパインズホテル"
+      },
+      "desc": {
+        "ja": "駅から約1716mにある宿泊施設。観光やビジネスの拠点として利用できる。チェックイン時間は予約時に確認を。",
+        "en": "Lodging about 1716 m from the station, a convenient base for sightseeing or business.",
+        "zh": "距站约1716米的住宿设施，可作为观光或商务出行的落脚点，入住方式以预订信息为准。"
+      },
+      "distance_m": 1716,
+      "walk_min": 22,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1487183978",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8606062,
+      "lon": 139.6521804
+    },
+    {
+      "id": "st03418-014",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "セブン-イレブンのコンビニエンスストア。駅から約1723mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 1723 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约1723米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 1723,
+      "walk_min": 22,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.sej.co.jp/",
+      "tel": "+81 488390077",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8451523,
+      "lon": 139.6664086
+    },
+    {
+      "id": "st03418-015",
+      "category": "sight",
+      "name": {
+        "ja": "器ギャラリーハセガワ",
+        "en": "器giyarari-hasegawa",
+        "zh": "器ギャラリーハセガワ"
+      },
+      "desc": {
+        "ja": "駅から約459mにあるギャラリー。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Gallery about 459 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约459米的画廊，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 459,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/8403794539",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.843997,
+      "lon": 139.6426565
+    },
+    {
+      "id": "st03418-016",
+      "category": "public_service",
+      "name": {
+        "ja": "さいたま市立武蔵浦和図書館",
+        "en": "saitama市立武蔵浦和図書館",
+        "zh": "Saitama市立武蔵浦和図書館"
+      },
+      "desc": {
+        "ja": "駅から約175mにある図書館。手続きや調べ物、休憩に利用できる公共の施設。詳細は現地の案内を参照。",
+        "en": "Library about 175 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约175米的图书馆，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 175,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/8389098986",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8451429,
+      "lon": 139.6454808
+    },
+    {
+      "id": "st03418-017",
+      "category": "park",
+      "name": {
+        "ja": "武蔵浦和駅西口緑地",
+        "en": "Musashi Urawa sta. Nishiguchi green space",
+        "zh": "武蔵浦和站西口緑地"
+      },
+      "desc": {
+        "ja": "駅から約245mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 245 m from the station, with paths and benches for a rest.",
+        "zh": "距站约245米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 245,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/460178176",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8468447,
+      "lon": 139.6449838
+    },
+    {
+      "id": "st03418-018",
+      "category": "shopping",
+      "name": {
+        "ja": "PARCO",
+        "en": "PARCO",
+        "zh": "PARCO"
+      },
+      "desc": {
+        "ja": "駅から約1794mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 1794 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1794米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准。"
+      },
+      "distance_m": 1794,
+      "walk_min": 23,
+      "hours": "10:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://urawa.parco.jp/",
+      "tel": "+81 48-611-8000",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8586474,
+      "lon": 139.6591626
+    },
+    {
+      "id": "st03418-019",
+      "category": "police",
+      "name": {
+        "ja": "浦和警察署 六辻交番",
+        "en": "浦和 六辻交番 Police Station",
+        "zh": "浦和警察署 六辻交番"
+      },
+      "desc": {
+        "ja": "駅から約1344mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1344 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1344米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1344,
+      "walk_min": 17,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420180051",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8394255,
+      "lon": 139.6600553
+    },
+    {
+      "id": "st03418-020",
+      "category": "sight",
+      "name": {
+        "ja": "鴻沼資料館",
+        "en": "Konuma Museum",
+        "zh": "鴻沼资料馆"
+      },
+      "desc": {
+        "ja": "駅から約1818mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1818 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1818米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1818,
+      "walk_min": 23,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.city.saitama.lg.jp/004/005/004/005/009/konuma_shiryokan.html",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8511714,
+      "lon": 139.6282963
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 494,
+    "floor_check": {
+      "medical": {
+        "candidates": 57,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 38,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 78,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 12,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 9,
+        "selected": 2
+      },
+      "tourist_info": {
+        "candidates": 1,
+        "selected": 1
+      }
+    }
+  }
+}
