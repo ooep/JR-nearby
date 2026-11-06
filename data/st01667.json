@@ -1,0 +1,598 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st01667",
+    "name": {
+      "ja": "久喜",
+      "en": "Kuki",
+      "zh": "久喜"
+    },
+    "line_group": [
+      "伊勢崎線",
+      "佐野線",
+      "山手線",
+      "日比谷線",
+      "東北本線",
+      "東海道本線",
+      "桐生線",
+      "田園都市線"
+    ],
+    "pref": "埼玉県",
+    "lat": 36.065609,
+    "lon": 139.677407
+  },
+  "generated_at": "2026-11-06T07:32:24Z",
+  "pois": [
+    {
+      "id": "st01667-001",
+      "category": "cafe",
+      "name": {
+        "ja": "スターバックス",
+        "en": "Starbucks",
+        "zh": "Suta-bakusu"
+      },
+      "desc": {
+        "ja": "駅から約18mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。",
+        "en": "Cafe about 18 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约18米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 18,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/10569360753",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.0655035,
+      "lon": 139.6775644
+    },
+    {
+      "id": "st01667-002",
+      "category": "police",
+      "name": {
+        "ja": "久喜警察署久喜駅東口交番",
+        "en": "久喜久喜站东口交番 Police Station",
+        "zh": "久喜警察署久喜站东口交番"
+      },
+      "desc": {
+        "ja": "駅から約137mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 137 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约137米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 137,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420168261",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.06638,
+      "lon": 139.678592
+    },
+    {
+      "id": "st01667-003",
+      "category": "food",
+      "name": {
+        "ja": "ビッグボーイ",
+        "en": "Big Boy",
+        "zh": "Bigubo-i"
+      },
+      "desc": {
+        "ja": "駅から約587mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 587 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约587米的餐馆适合旅途中用餐，菜单与价格以店内展示内容为准，具体信息以现场为准。"
+      },
+      "distance_m": 587,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/7046640287",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.0629351,
+      "lon": 139.6717777
+    },
+    {
+      "id": "st01667-004",
+      "category": "shopping",
+      "name": {
+        "ja": "ドラッグストアセキ 久喜本町店",
+        "en": "doragusutoaseki 久喜本町店",
+        "zh": "ドラッグストアセキ 久喜本町店"
+      },
+      "desc": {
+        "ja": "駅から約1190mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 1190 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1190米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1190,
+      "walk_min": 15,
+      "hours": "Mo-Su 09:00-23:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/7179800701",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.0704202,
+      "lon": 139.665585
+    },
+    {
+      "id": "st01667-005",
+      "category": "food",
+      "name": {
+        "ja": "マクドナルド",
+        "en": "McDonald's",
+        "zh": "麦当劳"
+      },
+      "desc": {
+        "ja": "駅から約105mにある飲食店。burger料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 105 m from the station. Serves burger cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约105米的餐馆主营burger，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 105,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6821576111",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.066102,
+      "lon": 139.676411
+    },
+    {
+      "id": "st01667-006",
+      "category": "bank_atm",
+      "name": {
+        "ja": "栃木銀行",
+        "en": "栃木 Bank",
+        "zh": "栃木银行"
+      },
+      "desc": {
+        "ja": "栃木銀行の支店。駅から約779mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 779 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约779米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 779,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6821601046",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.062479,
+      "lon": 139.6851664
+    },
+    {
+      "id": "st01667-007",
+      "category": "shopping",
+      "name": {
+        "ja": "三越サテライト",
+        "en": "三越sateraito",
+        "zh": "三越サテライト"
+      },
+      "desc": {
+        "ja": "駅から約634mにある百貨店。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Department store about 634 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约634米的百货店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 634,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/12832548970",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.0713064,
+      "lon": 139.6772622
+    },
+    {
+      "id": "st01667-008",
+      "category": "lodging",
+      "name": {
+        "ja": "スーパーホテル 久喜",
+        "en": "Super Hotel Kuki",
+        "zh": "スーパーホテル 久喜"
+      },
+      "desc": {
+        "ja": "駅から約482mにある宿泊施設。観光やビジネスの拠点として利用できる。チェックイン時間は予約時に確認を。",
+        "en": "Lodging about 482 m from the station, a convenient base for sightseeing or business.",
+        "zh": "距站约482米的住宿设施，可作为观光或商务出行的落脚点，入住方式以预订信息为准。"
+      },
+      "distance_m": 482,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/11281170669",
+      "tel": "+81-480-80-9000",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.0695138,
+      "lon": 139.6750721
+    },
+    {
+      "id": "st01667-009",
+      "category": "medical",
+      "name": {
+        "ja": "カワチ薬品",
+        "en": "Cawachi",
+        "zh": "カワチ薬品"
+      },
+      "desc": {
+        "ja": "駅から約548mにある薬局。体調を崩した際の受診や薬の購入に対応する。受付はMo-Su 09:00-21:00（JST）。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 548 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约548米的药房，Mo-Su 09:00-21:00（JST），旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 548,
+      "walk_min": 7,
+      "hours": "Mo-Su 09:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.cawachi.co.jp/",
+      "tel": "+81-480-213738",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.0705368,
+      "lon": 139.6773005
+    },
+    {
+      "id": "st01667-010",
+      "category": "convenience",
+      "name": {
+        "ja": "ファミリーマート",
+        "en": "FamilyMart",
+        "zh": "全家便利店"
+      },
+      "desc": {
+        "ja": "ファミリーマートのコンビニエンスストア。駅から約564mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 564 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约564米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 564,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5379777885",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.0699197,
+      "lon": 139.6807081
+    },
+    {
+      "id": "st01667-011",
+      "category": "post_office",
+      "name": {
+        "ja": "久喜東町郵便局",
+        "en": "久喜东町 Post Office",
+        "zh": "久喜东町邮政局"
+      },
+      "desc": {
+        "ja": "駅から約815mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 815 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约815米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 815,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420190364",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.059298,
+      "lon": 139.682009
+    },
+    {
+      "id": "st01667-012",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "Seven-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "7 ELEVENのコンビニエンスストア。駅から約800mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 800 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约800米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 800,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6240878582",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.069439,
+      "lon": 139.6698758
+    },
+    {
+      "id": "st01667-013",
+      "category": "food",
+      "name": {
+        "ja": "十八番ラーメン",
+        "en": "十八番ra-men",
+        "zh": "十八番ラーメン"
+      },
+      "desc": {
+        "ja": "駅から約899mにある飲食店。chinese料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 899 m from the station. Serves chinese cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约899米的餐馆主营chinese，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 899,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/9150790269",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.062219,
+      "lon": 139.6683216
+    },
+    {
+      "id": "st01667-014",
+      "category": "park",
+      "name": {
+        "ja": "パークタウンけやき公園",
+        "en": "pa-kutaunkeyaki公園",
+        "zh": "Pa-kutaunkeyaki公園"
+      },
+      "desc": {
+        "ja": "駅から約1230mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1230 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1230米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1230,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/666570304",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.0757004,
+      "lon": 139.6717999
+    },
+    {
+      "id": "st01667-015",
+      "category": "post_office",
+      "name": {
+        "ja": "久喜青葉団地内郵便局",
+        "en": "久喜青葉団地内 Post Office",
+        "zh": "久喜青葉団地内邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1709mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1709 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1709米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 1709,
+      "walk_min": 22,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420168310",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.06988,
+      "lon": 139.695674
+    },
+    {
+      "id": "st01667-016",
+      "category": "shopping",
+      "name": {
+        "ja": "ヤオコー久喜吉羽店",
+        "en": "yaoko-久喜吉羽店",
+        "zh": "ヤオコー久喜吉羽店"
+      },
+      "desc": {
+        "ja": "駅から約1219mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 1219 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1219米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1219,
+      "walk_min": 16,
+      "hours": "Mo-Su 09:00-21:30 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.yaoko-net.com/store/store01/228.html",
+      "tel": "+81-480-53-9870",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.0611377,
+      "lon": 139.6897861
+    },
+    {
+      "id": "st01667-017",
+      "category": "police",
+      "name": {
+        "ja": "久喜警察署",
+        "en": "久喜 Police Station",
+        "zh": "久喜警察署"
+      },
+      "desc": {
+        "ja": "駅から約1558mにある警察署。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1558 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1558米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1558,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420190365",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.0676375,
+      "lon": 139.660254
+    },
+    {
+      "id": "st01667-018",
+      "category": "park",
+      "name": {
+        "ja": "青葉公園",
+        "en": "Aoba Park",
+        "zh": "青葉公园"
+      },
+      "desc": {
+        "ja": "駅から約1792mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1792 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1792米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1792,
+      "walk_min": 23,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/553664303",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.071304,
+      "lon": 139.6960606
+    },
+    {
+      "id": "st01667-019",
+      "category": "medical",
+      "name": {
+        "ja": "大壮会久喜すずのき病院",
+        "en": "大壮会久喜suzunoki病院",
+        "zh": "大壮会久喜suzunoki病院"
+      },
+      "desc": {
+        "ja": "駅から約1988mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 1988 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1988米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1988,
+      "walk_min": 25,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420170714",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.052269,
+      "lon": 139.662677
+    }
+  ],
+  "coverage": {
+    "poi_count": 19,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 61,
+    "floor_check": {
+      "medical": {
+        "candidates": 7,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 3,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 9,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 4,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 3,
+        "selected": 2
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}

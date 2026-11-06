@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-06T07:32:10Z",
+  "updated_at": "2026-11-06T07:32:26Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 236,
+  "done": 237,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -15,7 +15,7 @@
     "北海道": 4,
     "千葉県": 14,
     "和歌山県": 1,
-    "埼玉県": 2,
+    "埼玉県": 3,
     "大阪府": 29,
     "奈良県": 1,
     "宮城県": 1,
@@ -417,37 +417,38 @@
         "st01309",
         "st01519",
         "st01523",
-        "st01664"
+        "st01664",
+        "st01667"
       ],
-      "poi_total": 389,
+      "poi_total": 408,
       "category_counts": {
-        "bank_atm": 25,
-        "cafe": 7,
-        "convenience": 31,
-        "food": 25,
-        "lodging": 21,
-        "medical": 27,
+        "bank_atm": 26,
+        "cafe": 8,
+        "convenience": 33,
+        "food": 28,
+        "lodging": 22,
+        "medical": 29,
         "onsen_sento": 3,
-        "park": 28,
-        "police": 26,
-        "post_office": 32,
+        "park": 30,
+        "police": 28,
+        "post_office": 34,
         "public_service": 19,
-        "shopping": 27,
+        "shopping": 30,
         "shrine_temple": 31,
         "sight": 77,
         "tourist_info": 10
       },
-      "hours_null": 275,
-      "official_url_own": 125,
+      "hours_null": 291,
+      "official_url_own": 127,
       "official_url_map": 0,
       "official_url_pending": 27,
-      "official_site_hours_coverage": 0.344,
+      "official_site_hours_coverage": 0.354,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "浦和 (st01664): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=573（精确）"
+        "note": "久喜 (st01667): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=61（精确）"
       }
     }
   ]
