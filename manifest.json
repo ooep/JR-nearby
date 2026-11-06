@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-06T05:01:50Z",
+  "updated_at": "2026-11-06T05:03:02Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 203,
+  "done": 204,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -14,7 +14,7 @@
     "北海道": 4,
     "千葉県": 9,
     "和歌山県": 1,
-    "大阪府": 23,
+    "大阪府": 24,
     "奈良県": 1,
     "宮城県": 1,
     "岡山県": 3,
@@ -340,39 +340,40 @@
         "st04517",
         "st04871",
         "st04877",
+        "st04878",
         "st04937",
         "st04997",
         "st04998"
       ],
-      "poi_total": 698,
+      "poi_total": 718,
       "category_counts": {
-        "bank_atm": 38,
+        "bank_atm": 39,
         "cafe": 7,
-        "convenience": 47,
-        "food": 62,
-        "lodging": 40,
-        "medical": 59,
+        "convenience": 48,
+        "food": 63,
+        "lodging": 42,
+        "medical": 60,
         "onsen_sento": 5,
         "park": 35,
-        "police": 40,
-        "post_office": 58,
-        "public_service": 48,
-        "shopping": 76,
-        "shrine_temple": 70,
-        "sight": 95,
-        "tourist_info": 18
+        "police": 41,
+        "post_office": 59,
+        "public_service": 49,
+        "shopping": 79,
+        "shrine_temple": 71,
+        "sight": 101,
+        "tourist_info": 19
       },
-      "hours_null": 414,
-      "official_url_own": 287,
+      "hours_null": 422,
+      "official_url_own": 297,
       "official_url_map": 0,
-      "official_url_pending": 62,
-      "official_site_hours_coverage": 0.512,
+      "official_url_pending": 67,
+      "official_site_hours_coverage": 0.519,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "江坂 (st04871): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=569（精确）"
+        "note": "淀屋橋 (st04878): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=3137（窗口下限，细分重抓后仍有残漏）"
       }
     }
   ]
