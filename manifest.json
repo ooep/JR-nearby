@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-06T00:48:57Z",
+  "updated_at": "2026-11-06T00:49:45Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 153,
+  "done": 154,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -20,7 +20,7 @@
     "広島県": 1,
     "徳島県": 1,
     "東京都": 107,
-    "神奈川県": 26,
+    "神奈川県": 27,
     "福岡県": 5,
     "群馬県": 1
   },
@@ -253,37 +253,38 @@
         "st01896",
         "st01900",
         "st01910",
-        "st01997"
+        "st01997",
+        "st02101"
       ],
-      "poi_total": 737,
+      "poi_total": 756,
       "category_counts": {
-        "bank_atm": 42,
-        "cafe": 19,
-        "convenience": 55,
-        "food": 79,
+        "bank_atm": 43,
+        "cafe": 20,
+        "convenience": 57,
+        "food": 82,
         "lodging": 31,
-        "medical": 64,
+        "medical": 66,
         "onsen_sento": 2,
         "park": 41,
-        "police": 46,
-        "post_office": 48,
-        "public_service": 42,
-        "shopping": 77,
-        "shrine_temple": 72,
+        "police": 47,
+        "post_office": 50,
+        "public_service": 44,
+        "shopping": 80,
+        "shrine_temple": 74,
         "sight": 99,
         "tourist_info": 20
       },
-      "hours_null": 455,
-      "official_url_own": 258,
+      "hours_null": 463,
+      "official_url_own": 271,
       "official_url_map": 0,
-      "official_url_pending": 53,
-      "official_site_hours_coverage": 0.597,
+      "official_url_pending": 55,
+      "official_site_hours_coverage": 0.598,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "山科 (st01997): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=219（精确）"
+        "note": "あざみ野 (st02101): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=464（精确）"
       }
     }
   ]
