@@ -1,0 +1,593 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st06572",
+    "name": {
+      "ja": "中百舌鳥",
+      "en": "Nakamozu",
+      "zh": "中百舌鸟"
+    },
+    "line_group": [
+      "南海本線",
+      "泉北線"
+    ],
+    "pref": "大阪府",
+    "lat": 34.55635,
+    "lon": 135.50426
+  },
+  "generated_at": "2026-11-06T05:18:35Z",
+  "pois": [
+    {
+      "id": "st06572-001",
+      "category": "bank_atm",
+      "name": {
+        "ja": "セブン銀行",
+        "en": "Seven Bank",
+        "zh": "セブン银行"
+      },
+      "desc": {
+        "ja": "セブン銀行のATM。駅から約185mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 185 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约185米的银行网点，06:00-22:00（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 185,
+      "walk_min": 3,
+      "hours": "06:00-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/10775230181",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5564637,
+      "lon": 135.506275
+    },
+    {
+      "id": "st06572-002",
+      "category": "shopping",
+      "name": {
+        "ja": "サンプラザ",
+        "en": "Sunplaza",
+        "zh": "Sanpuraza"
+      },
+      "desc": {
+        "ja": "駅から約1243mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 1243 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1243米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1243,
+      "walk_min": 16,
+      "hours": "09:00-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1105767275",
+      "tel": "+81-72-246-4741",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5668858,
+      "lon": 135.4997319,
+      "official_url_pending": "https://www.super-sunplaza.com/shop/detail/381"
+    },
+    {
+      "id": "st06572-003",
+      "category": "food",
+      "name": {
+        "ja": "G831 Natural Kitchen & Cafe",
+        "en": "G831 Natural Kitchen & Cafe",
+        "zh": "G831 Natural Kitchen & Cafe"
+      },
+      "desc": {
+        "ja": "駅から約174mにある飲食店。italian料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はWe-Mo 11:00-23:30（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 174 m from the station. Serves italian cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约174米的餐馆主营italian，适合旅途中用餐，We-Mo 11:00-23:30（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 174,
+      "walk_min": 3,
+      "hours": "We-Mo 11:00-23:30 (JST)",
+      "hours_source": "osm",
+      "url": "http://g831.com",
+      "tel": "+81 72 275 7827",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5565631,
+      "lon": 135.5061455
+    },
+    {
+      "id": "st06572-004",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "金岡神社",
+        "en": "Kanaoka Shrine",
+        "zh": "金冈神社"
+      },
+      "desc": {
+        "ja": "駅から約1481mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1481 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1481米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1481,
+      "walk_min": 19,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/733796740",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5595575,
+      "lon": 135.5199543
+    },
+    {
+      "id": "st06572-005",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "百舌鳥八幡宮",
+        "en": "Mozu Hachiman Shrine",
+        "zh": "百舌鸟八幡宫"
+      },
+      "desc": {
+        "ja": "駅から約936mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 936 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约936米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 936,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/525649092",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5534864,
+      "lon": 135.4946498
+    },
+    {
+      "id": "st06572-006",
+      "category": "sight",
+      "name": {
+        "ja": "土師ニサンザイ古墳",
+        "en": "Haji Nisanzai Kofun",
+        "zh": "土師ニサンザイ古墳"
+      },
+      "desc": {
+        "ja": "駅から約1138mにある観光スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Attraction about 1138 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1138米的观光景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1138,
+      "walk_min": 15,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/43055381",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5472799,
+      "lon": 135.4985013
+    },
+    {
+      "id": "st06572-007",
+      "category": "sight",
+      "name": {
+        "ja": "御廟山古墳",
+        "en": "Gobyoyama Kofun",
+        "zh": "御庙山古墳"
+      },
+      "desc": {
+        "ja": "駅から約1278mにある観光スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Attraction about 1278 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1278米的观光景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1278,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/41287671",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5549206,
+      "lon": 135.4904078
+    },
+    {
+      "id": "st06572-008",
+      "category": "medical",
+      "name": {
+        "ja": "ダイコクドラッグ",
+        "en": "Daikoku Drug",
+        "zh": "Daikokudoragu"
+      },
+      "desc": {
+        "ja": "駅から約125mにある薬局。体調を崩した際の受診や薬の購入に対応する。受付はMo-Fr 09:05-22:00; Sa,Su 09:05-21:00（JST）。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 125 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约125米的药房，Mo-Fr 09:05-22:00, Sa, Su 09:05-21:00（JST），旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 125,
+      "walk_min": 2,
+      "hours": "Mo-Fr 09:05-22:00; Sa,Su 09:05-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/7998767155",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.556215,
+      "lon": 135.5056187
+    },
+    {
+      "id": "st06572-009",
+      "category": "police",
+      "name": {
+        "ja": "堺東警察署中百舌鳥交番",
+        "en": "Koban",
+        "zh": "堺东警察署中百舌鸟交番"
+      },
+      "desc": {
+        "ja": "駅から約417mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 417 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约417米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 417,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1422987877",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.552759,
+      "lon": 135.5029515
+    },
+    {
+      "id": "st06572-010",
+      "category": "sight",
+      "name": {
+        "ja": "収塚古墳",
+        "en": "Osamezuka Kofun",
+        "zh": "収塚古墳"
+      },
+      "desc": {
+        "ja": "駅から約1505mにある観光スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Attraction about 1505 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1505米的观光景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1505,
+      "walk_min": 19,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/481572656",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5588051,
+      "lon": 135.4880945
+    },
+    {
+      "id": "st06572-011",
+      "category": "sight",
+      "name": {
+        "ja": "長塚古墳",
+        "en": "Nagatsuka Kofun",
+        "zh": "长塚古墳"
+      },
+      "desc": {
+        "ja": "駅から約1536mにある観光スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Attraction about 1536 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1536米的观光景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1536,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/1460254599",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.557773,
+      "lon": 135.4875796
+    },
+    {
+      "id": "st06572-012",
+      "category": "medical",
+      "name": {
+        "ja": "近畿中央胸部疾患センター",
+        "en": "近畿中央胸部疾患senta-",
+        "zh": "近畿中央胸部疾患センター"
+      },
+      "desc": {
+        "ja": "駅から約1568mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 1568 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1568米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1568,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/47478842",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5704343,
+      "lon": 135.5034401
+    },
+    {
+      "id": "st06572-013",
+      "category": "park",
+      "name": {
+        "ja": "大泉緑地",
+        "en": "Oizumi Ryokuchi Park",
+        "zh": "大泉緑地"
+      },
+      "desc": {
+        "ja": "駅から約1651mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1651 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1651米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1651,
+      "walk_min": 21,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/1053085802",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5661674,
+      "lon": 135.5177877
+    },
+    {
+      "id": "st06572-014",
+      "category": "tourist_info",
+      "name": {
+        "ja": "大仙公園観光案内所",
+        "en": "大仙公园 Tourist Information",
+        "zh": "大仙公园观光案内所"
+      },
+      "desc": {
+        "ja": "駅から約1698mにある観光案内所。周辺の観光情報や地図、施設案内を提供している。散策の前に立ち寄ると便利。",
+        "en": "Tourist information office about 1698 m from the station, with maps and local guidance.",
+        "zh": "距站约1698米的观光服务台，提供周边旅游信息、地图与咨询服务，可先在此规划行程。"
+      },
+      "distance_m": 1698,
+      "walk_min": 22,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2440048961",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5601446,
+      "lon": 135.4862957
+    },
+    {
+      "id": "st06572-015",
+      "category": "sight",
+      "name": {
+        "ja": "石段奉納の碑",
+        "en": "石段奉納no碑",
+        "zh": "石段奉納no碑"
+      },
+      "desc": {
+        "ja": "駅から約921mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Memorial about 921 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约921米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 921,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5125733432",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5537747,
+      "lon": 135.4947014
+    },
+    {
+      "id": "st06572-016",
+      "category": "post_office",
+      "name": {
+        "ja": "堺金岡郵便局",
+        "en": "Sakai Kanaoka Post Office",
+        "zh": "堺金冈邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1826mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1826 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1826米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 1826,
+      "walk_min": 23,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/12021449217",
+      "tel": "+81-800-0800-111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5693897,
+      "lon": 135.5163847
+    },
+    {
+      "id": "st06572-017",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "セブン-イレブンのコンビニエンスストア。駅から約1828mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 1828 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约1828米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 1828,
+      "walk_min": 23,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/798474901",
+      "tel": "+81 72 252 7011",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5599888,
+      "lon": 135.5237277,
+      "official_url_pending": "http://sej.co.jp"
+    },
+    {
+      "id": "st06572-018",
+      "category": "sight",
+      "name": {
+        "ja": "堺市博物館",
+        "en": "Sakai City Museum",
+        "zh": "堺市博物馆"
+      },
+      "desc": {
+        "ja": "駅から約1848mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。入場は有料。",
+        "en": "Museum about 1848 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1848米的博物馆·美术馆，入场收费，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1848,
+      "walk_min": 24,
+      "hours": "Mo off; Tu-Su 09:30-17:15 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.city.sakai.lg.jp/kanko/hakubutsukan/",
+      "tel": "+81 72-245-6201",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5587741,
+      "lon": 135.4842909
+    },
+    {
+      "id": "st06572-019",
+      "category": "park",
+      "name": {
+        "ja": "大仙公園",
+        "en": "Daisen Park",
+        "zh": "大仙公园"
+      },
+      "desc": {
+        "ja": "駅から約1986mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1986 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1986米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1986,
+      "walk_min": 25,
+      "hours": "Mo-Su 09:30-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.city.sakai.lg.jp/smph/kurashi/koen/shokai/daisenkouen.html",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5586774,
+      "lon": 135.4827552
+    }
+  ],
+  "coverage": {
+    "poi_count": 19,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 660,
+    "floor_check": {
+      "medical": {
+        "candidates": 78,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 21,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 46,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 13,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 8,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 1,
+        "selected": 1
+      }
+    }
+  }
+}
