@@ -1,0 +1,597 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st00878",
+    "name": {
+      "ja": "三田",
+      "en": "Mita",
+      "zh": "三田"
+    },
+    "line_group": [
+      "JR東西線",
+      "公園都市線",
+      "宮豊線",
+      "山陰本線",
+      "有馬線",
+      "東海道本線",
+      "神鉄三田線"
+    ],
+    "pref": "兵庫県",
+    "lat": 34.888726,
+    "lon": 135.229876
+  },
+  "generated_at": "2026-11-06T06:52:48Z",
+  "pois": [
+    {
+      "id": "st00878-001",
+      "category": "cafe",
+      "name": {
+        "ja": "Vie de France",
+        "en": "Vie de France",
+        "zh": "Vie de France"
+      },
+      "desc": {
+        "ja": "駅から約35mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。",
+        "en": "Cafe about 35 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约35米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 35,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/3483416225",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8887151,
+      "lon": 135.2294901
+    },
+    {
+      "id": "st00878-002",
+      "category": "convenience",
+      "name": {
+        "ja": "ファミリーマート",
+        "en": "FamilyMart",
+        "zh": "全家便利店"
+      },
+      "desc": {
+        "ja": "FamilyMartのコンビニエンスストア。駅から約393mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 393 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约393米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 393,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/500980050",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8913947,
+      "lon": 135.2270519
+    },
+    {
+      "id": "st00878-003",
+      "category": "police",
+      "name": {
+        "ja": "三田警察署三田南交番",
+        "en": "三田三田南交番 Police Station",
+        "zh": "三田警察署三田南交番"
+      },
+      "desc": {
+        "ja": "駅から約1631mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1631 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1631米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1631,
+      "walk_min": 21,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423048577",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8794461,
+      "lon": 135.2160332
+    },
+    {
+      "id": "st00878-004",
+      "category": "convenience",
+      "name": {
+        "ja": "ローソン",
+        "en": "Lawson",
+        "zh": "罗森"
+      },
+      "desc": {
+        "ja": "LAWSONのコンビニエンスストア。駅から約97mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 97 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约97米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 97,
+      "walk_min": 2,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/3483416223",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8895474,
+      "lon": 135.2302416
+    },
+    {
+      "id": "st00878-005",
+      "category": "shopping",
+      "name": {
+        "ja": "阪急オアシス",
+        "en": "阪急oashisu",
+        "zh": "阪急オアシス"
+      },
+      "desc": {
+        "ja": "駅から約113mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 113 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约113米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 113,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/13195744243",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8880409,
+      "lon": 135.2289627
+    },
+    {
+      "id": "st00878-006",
+      "category": "shopping",
+      "name": {
+        "ja": "サンポッポベーカリー",
+        "en": "sanpopobe-kari-",
+        "zh": "Sanpopobe-kari-"
+      },
+      "desc": {
+        "ja": "駅から約289mにあるベーカリー。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Bakery about 289 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约289米的面包店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 289,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/13240348077",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8907914,
+      "lon": 135.2279469
+    },
+    {
+      "id": "st00878-007",
+      "category": "food",
+      "name": {
+        "ja": "宮本むなし",
+        "en": "宮本munashi",
+        "zh": "宮本munashi"
+      },
+      "desc": {
+        "ja": "駅から約64mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 64 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约64米的餐馆适合旅途中用餐，菜单与价格以店内展示内容为准，具体信息以现场为准。"
+      },
+      "distance_m": 64,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/3508393154",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8887628,
+      "lon": 135.2291726
+    },
+    {
+      "id": "st00878-008",
+      "category": "lodging",
+      "name": {
+        "ja": "Melxe",
+        "en": "Melxe",
+        "zh": "Melxe"
+      },
+      "desc": {
+        "ja": "駅から約220mにある宿泊施設。観光やビジネスの拠点として利用できる。チェックイン時間は予約時に確認を。",
+        "en": "Lodging about 220 m from the station, a convenient base for sightseeing or business.",
+        "zh": "距站约220米的住宿设施，可作为观光或商务出行的落脚点，入住方式以预订信息为准。"
+      },
+      "distance_m": 220,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.hotel-melxe.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8869705,
+      "lon": 135.2309978
+    },
+    {
+      "id": "st00878-009",
+      "category": "food",
+      "name": {
+        "ja": "炭焼きホルモン水産",
+        "en": "炭焼kihorumon水産",
+        "zh": "炭焼kihorumon水産"
+      },
+      "desc": {
+        "ja": "駅から約134mにある飲食店。japanese料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 134 m from the station. Serves japanese cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约134米的餐馆主营japanese，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 134,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4933638019",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8876187,
+      "lon": 135.2293025
+    },
+    {
+      "id": "st00878-010",
+      "category": "post_office",
+      "name": {
+        "ja": "三輪郵便局",
+        "en": "Miwa Post Office",
+        "zh": "三輪邮政局"
+      },
+      "desc": {
+        "ja": "駅から約236mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 236 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约236米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 236,
+      "walk_min": 3,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/12036909889",
+      "tel": "+81-79-563-2597",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8896378,
+      "lon": 135.2275413
+    },
+    {
+      "id": "st00878-011",
+      "category": "bank_atm",
+      "name": {
+        "ja": "りそな銀行",
+        "en": "Resona Bank",
+        "zh": "理索纳银行"
+      },
+      "desc": {
+        "ja": "りそな銀行の支店。駅から約350mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 350 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约350米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 350,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/387349673",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8903343,
+      "lon": 135.2265729
+    },
+    {
+      "id": "st00878-012",
+      "category": "shopping",
+      "name": {
+        "ja": "業務スーパー",
+        "en": "Gyōmu sūpā",
+        "zh": "業務スーパー"
+      },
+      "desc": {
+        "ja": "駅から約436mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 436 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约436米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 436,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/501089840",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8879875,
+      "lon": 135.2251842
+    },
+    {
+      "id": "st00878-013",
+      "category": "bank_atm",
+      "name": {
+        "ja": "三井住友銀行",
+        "en": "Sumitomo Mitsui Banking Corporation",
+        "zh": "三井住友银行"
+      },
+      "desc": {
+        "ja": "三井住友銀行の支店。駅から約339mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 339 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约339米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 339,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/452895280",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8892663,
+      "lon": 135.2262137
+    },
+    {
+      "id": "st00878-014",
+      "category": "food",
+      "name": {
+        "ja": "三田キッピー食堂",
+        "en": "三田kipi-食堂",
+        "zh": "三田キッピー食堂"
+      },
+      "desc": {
+        "ja": "駅から約455mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Fr 11:00-15:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 455 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约455米的餐馆适合旅途中用餐，Mo-Fr 11:00-15:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 455,
+      "walk_min": 6,
+      "hours": "Mo-Fr 11:00-15:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/8384780717",
+      "tel": "079-559-5505",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8896929,
+      "lon": 135.2250238
+    },
+    {
+      "id": "st00878-015",
+      "category": "medical",
+      "name": {
+        "ja": "スギ薬局",
+        "en": "Sugi Pharmacy",
+        "zh": "スギ薬局"
+      },
+      "desc": {
+        "ja": "駅から約906mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 906 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约906米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 906,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4717659372",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.895308,
+      "lon": 135.2240185
+    },
+    {
+      "id": "st00878-016",
+      "category": "post_office",
+      "name": {
+        "ja": "三田本町郵便局",
+        "en": "Sanda Hommachi Post Office",
+        "zh": "三田本町邮政局"
+      },
+      "desc": {
+        "ja": "駅から約596mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 596 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约596米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 596,
+      "walk_min": 8,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1423048520",
+      "tel": "+81-79-564-6800",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8839659,
+      "lon": 135.2268612
+    },
+    {
+      "id": "st00878-017",
+      "category": "police",
+      "name": {
+        "ja": "三田警察署",
+        "en": "三田 Police Station",
+        "zh": "三田警察署"
+      },
+      "desc": {
+        "ja": "駅から約1052mにある警察署。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1052 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1052米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1052,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423048552",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.890812,
+      "lon": 135.218629
+    },
+    {
+      "id": "st00878-018",
+      "category": "sight",
+      "name": {
+        "ja": "カラオケまねきねこ 三田店",
+        "en": "karaokemanekineko 三田店",
+        "zh": "Karaokemanekineko 三田店"
+      },
+      "desc": {
+        "ja": "駅から約1063mにある観光スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Attraction about 1063 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1063米的观光景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1063,
+      "walk_min": 14,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://karaokemanekineko.jp/",
+      "tel": "0795536377",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8806388,
+      "lon": 135.2236539
+    },
+    {
+      "id": "st00878-019",
+      "category": "public_service",
+      "name": {
+        "ja": "ほんまち交流会館縁",
+        "en": "honmachi交流会館縁",
+        "zh": "Honmachi交流会館縁"
+      },
+      "desc": {
+        "ja": "駅から約560mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 560 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约560米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 560,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/542690496",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8855115,
+      "lon": 135.225149
+    }
+  ],
+  "coverage": {
+    "poi_count": 19,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 150,
+    "floor_check": {
+      "medical": {
+        "candidates": 7,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 6,
+        "selected": 2
+      },
+      "convenience": {
+        "candidates": 9,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 4,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 3,
+        "selected": 2
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
