@@ -1,0 +1,631 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st01086",
+    "name": {
+      "ja": "南流山",
+      "en": "Minami-Nagareyama",
+      "zh": "南流山"
+    },
+    "line_group": [
+      "つくばエクスプレス線",
+      "京葉線",
+      "東北本線",
+      "武蔵野線"
+    ],
+    "pref": "千葉県",
+    "lat": 35.838052,
+    "lon": 139.903784
+  },
+  "generated_at": "2026-11-06T01:45:42Z",
+  "pois": [
+    {
+      "id": "st01086-001",
+      "category": "food",
+      "name": {
+        "ja": "ラーメン花月嵐",
+        "en": "Ramen Kagetsu Arashi",
+        "zh": "ラーメン花月嵐"
+      },
+      "desc": {
+        "ja": "駅から約49mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Su 11:00-01:30（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 49 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约49米的餐馆适合旅途中用餐，Mo-Su 11:00-01:30（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 49,
+      "walk_min": 1,
+      "hours": "Mo-Su 11:00-01:30 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.kg2.jp/1071.html",
+      "tel": "04-7150-0411",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8384723,
+      "lon": 139.903634
+    },
+    {
+      "id": "st01086-002",
+      "category": "police",
+      "name": {
+        "ja": "流山警察署南流山駅前交番",
+        "en": "Minami Nagareyama Station Front Police Post",
+        "zh": "流山警察署南流山站前交番"
+      },
+      "desc": {
+        "ja": "駅から約50mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 50 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约50米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 50,
+      "walk_min": 1,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1420741135",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.838207,
+      "lon": 139.904306
+    },
+    {
+      "id": "st01086-003",
+      "category": "shopping",
+      "name": {
+        "ja": "京北スーパー",
+        "en": "京北su-pa-",
+        "zh": "京北スーパー"
+      },
+      "desc": {
+        "ja": "駅から約1164mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 1164 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1164米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1164,
+      "walk_min": 15,
+      "hours": "Mo-Su 10:00-19:45 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5237525223",
+      "tel": "04-7158-7711",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8425908,
+      "lon": 139.9154151,
+      "official_url_pending": "http://keihokusuper.co.jp"
+    },
+    {
+      "id": "st01086-004",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "金蔵院",
+        "en": "Konzoin",
+        "zh": "金蔵院"
+      },
+      "desc": {
+        "ja": "駅から約1649mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 1649 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1649米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1649,
+      "walk_min": 21,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/584504355",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8239133,
+      "lon": 139.8982553
+    },
+    {
+      "id": "st01086-005",
+      "category": "shopping",
+      "name": {
+        "ja": "丘の上のサフラン 西平井店",
+        "en": "Oka no ue no Saffron",
+        "zh": "丘no上nosafuran 西平井店"
+      },
+      "desc": {
+        "ja": "駅から約1299mにあるベーカリー。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Bakery about 1299 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1299米的面包店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1299,
+      "walk_min": 17,
+      "hours": "Th-Tu 07:00-18:00 (JST)",
+      "hours_source": "osm",
+      "url": "http://saffron-pan.jp/",
+      "tel": "0471966816",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8488317,
+      "lon": 139.909333
+    },
+    {
+      "id": "st01086-006",
+      "category": "convenience",
+      "name": {
+        "ja": "ファミリーマート",
+        "en": "FamilyMart",
+        "zh": "全家便利店"
+      },
+      "desc": {
+        "ja": "FamilyMartのコンビニエンスストア。駅から約320mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 320 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约320米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 320,
+      "walk_min": 4,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.family.co.jp/",
+      "tel": "04-7157-6150",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8351741,
+      "lon": 139.9039037
+    },
+    {
+      "id": "st01086-007",
+      "category": "food",
+      "name": {
+        "ja": "目利きの銀次　南流山店",
+        "en": "目利kino銀次　南流山店",
+        "zh": "目利kino銀次 南流山店"
+      },
+      "desc": {
+        "ja": "駅から約46mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 46 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约46米的餐馆适合旅途中用餐，菜单与价格以店内展示内容为准，具体信息以现场为准。"
+      },
+      "distance_m": 46,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/9174855254",
+      "tel": "04-7159-9888",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8376771,
+      "lon": 139.9035723
+    },
+    {
+      "id": "st01086-008",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "セブン-イレブンのコンビニエンスストア。駅から約389mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 389 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约389米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 389,
+      "walk_min": 5,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.sej.co.jp/",
+      "tel": "047-150-7162",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.836792,
+      "lon": 139.8997567
+    },
+    {
+      "id": "st01086-009",
+      "category": "park",
+      "name": {
+        "ja": "新松戸中央公園",
+        "en": "Shin-Matsudo Chuo Park",
+        "zh": "新松户中央公园"
+      },
+      "desc": {
+        "ja": "駅から約1493mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1493 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1493米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1493,
+      "walk_min": 19,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.city.matsudo.chiba.jp/chuumoku/houshasen/taisaku_taiou/kouenhiroba/kouen_map/kouen_map_sa.files/159.pdf",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8261047,
+      "lon": 139.9113368
+    },
+    {
+      "id": "st01086-010",
+      "category": "park",
+      "name": {
+        "ja": "新松戸南公園",
+        "en": "Shin-Matsudo Minami Park",
+        "zh": "新松户南公园"
+      },
+      "desc": {
+        "ja": "駅から約1979mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1979 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1979米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1979,
+      "walk_min": 25,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.city.matsudo.chiba.jp/chuumoku/houshasen/taisaku_taiou/kouenhiroba/kouen_map/kouen_map_sa.files/162.pdf",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8211304,
+      "lon": 139.9105781
+    },
+    {
+      "id": "st01086-011",
+      "category": "shopping",
+      "name": {
+        "ja": "アコレ",
+        "en": "A Colle",
+        "zh": "Akore"
+      },
+      "desc": {
+        "ja": "駅から約1378mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 1378 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1378米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1378,
+      "walk_min": 18,
+      "hours": "Mo-Su 08:00-23:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5909011389",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8317929,
+      "lon": 139.9169815,
+      "official_url_pending": "https://acolle.co.jp/page/store/chiba/matsudo/shin-matsudo-kita-1.html"
+    },
+    {
+      "id": "st01086-012",
+      "category": "medical",
+      "name": {
+        "ja": "西山動物病院",
+        "en": "Nishiyama Animal Clinic",
+        "zh": "西山動物病院"
+      },
+      "desc": {
+        "ja": "駅から約1104mにあるクリニック。体調を崩した際の受診や薬の購入に対応する。受付はSu 09:00-12:00; Mo-Tu, Th-Sa 09:00-12:00, 15:00-19:00（JST）。旅先でも頼れる医療施設。",
+        "en": "Clinic about 1104 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1104米的诊所，Su 09:00-12:00, Mo-Tu, Th-Sa 09:00-12:00, 15:00-19:00（JST），旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1104,
+      "walk_min": 14,
+      "hours": "Su 09:00-12:00; Mo-Tu, Th-Sa 09:00-12:00, 15:00-19:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://nishiyama-ac.jp/",
+      "tel": "04-7159-5401",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8443986,
+      "lon": 139.913209
+    },
+    {
+      "id": "st01086-013",
+      "category": "medical",
+      "name": {
+        "ja": "タケモト動物病院",
+        "en": "takemoto動物病院",
+        "zh": "タケモト動物病院"
+      },
+      "desc": {
+        "ja": "駅から約1474mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 1474 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1474米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1474,
+      "walk_min": 19,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/3178304994",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8390667,
+      "lon": 139.9200903
+    },
+    {
+      "id": "st01086-014",
+      "category": "public_service",
+      "name": {
+        "ja": "新松戸市民センター",
+        "en": "新松戸市民senta-",
+        "zh": "新松户市民センター"
+      },
+      "desc": {
+        "ja": "駅から約1538mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 1538 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1538米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1538,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/304612591",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8263604,
+      "lon": 139.91289
+    },
+    {
+      "id": "st01086-015",
+      "category": "public_service",
+      "name": {
+        "ja": "南流山センター",
+        "en": "南流山senta-",
+        "zh": "南流山センター"
+      },
+      "desc": {
+        "ja": "駅から約206mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 206 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约206米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 206,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/1115704340",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8388011,
+      "lon": 139.901694
+    },
+    {
+      "id": "st01086-016",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "観音寺",
+        "en": "Kanon-ji",
+        "zh": "观音寺"
+      },
+      "desc": {
+        "ja": "駅から約1004mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 1004 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1004米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1004,
+      "walk_min": 13,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5237500629",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8354378,
+      "lon": 139.8931275
+    },
+    {
+      "id": "st01086-017",
+      "category": "bank_atm",
+      "name": {
+        "ja": "みずほ銀行",
+        "en": "Mizuho Bank",
+        "zh": "瑞穗银行"
+      },
+      "desc": {
+        "ja": "みずほ銀行の支店。駅から約1802mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 1802 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约1802米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 1802,
+      "walk_min": 23,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5886798311",
+      "tel": "+81 48-953-2141",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.843806,
+      "lon": 139.88509,
+      "official_url_pending": "https://www.mizuho-fg.co.jp/"
+    },
+    {
+      "id": "st01086-018",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "香取神社",
+        "en": "Katori Shrine",
+        "zh": "香取神社"
+      },
+      "desc": {
+        "ja": "駅から約1075mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1075 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1075米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1075,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5237500628",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8357081,
+      "lon": 139.8922114
+    },
+    {
+      "id": "st01086-019",
+      "category": "post_office",
+      "name": {
+        "ja": "流山平和台郵便局",
+        "en": "Nagareyama Heiwadai Post Office",
+        "zh": "流山平和台邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1888mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1888 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1888米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 1888,
+      "walk_min": 24,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.post.japanpost.jp/",
+      "tel": "+81-4-7158-4760",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.854912,
+      "lon": 139.906248
+    },
+    {
+      "id": "st01086-020",
+      "category": "sight",
+      "name": {
+        "ja": "坂川道路完成之碑",
+        "en": "Memorial for completing the Sakagawa Road",
+        "zh": "坂川道路完成之碑"
+      },
+      "desc": {
+        "ja": "駅から約1167mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Memorial about 1167 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1167米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1167,
+      "walk_min": 15,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/9593910804",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8275695,
+      "lon": 139.903076
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 320,
+    "floor_check": {
+      "medical": {
+        "candidates": 65,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 10,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 38,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 8,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 3,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
