@@ -1,0 +1,636 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st04998",
+    "name": {
+      "ja": "大通",
+      "en": "Ōdōri",
+      "zh": "大通"
+    },
+    "line_group": [
+      "札幌市営地下鉄南北線",
+      "札幌市営地下鉄東西線",
+      "東豊線"
+    ],
+    "pref": "北海道",
+    "lat": 43.060243,
+    "lon": 141.353531
+  },
+  "generated_at": "2026-11-06T04:32:06Z",
+  "pois": [
+    {
+      "id": "st04998-001",
+      "category": "convenience",
+      "name": {
+        "ja": "セイコーマート",
+        "en": "Seicomart",
+        "zh": "セイコーマート便利店"
+      },
+      "desc": {
+        "ja": "Seicomartのコンビニエンスストア。駅から約45mの場所にあり、07:00-22:00（JST）。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 45 m from the station. 07:00-22:00 (JST). Stocks meals, drinks and daily necessities.",
+        "zh": "距站约45米的便利店，07:00-22:00（JST），可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 45,
+      "walk_min": 1,
+      "hours": "07:00-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://store.seicomart.co.jp/detail.php?nbr=22463",
+      "tel": "+81-11-200-9877",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.0602426,
+      "lon": 141.3540846
+    },
+    {
+      "id": "st04998-002",
+      "category": "shopping",
+      "name": {
+        "ja": "札幌三越",
+        "en": "Sapporo Mitsukoshi",
+        "zh": "札幌三越"
+      },
+      "desc": {
+        "ja": "駅から約86mにある百貨店。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Department store about 86 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约86米的百货店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 86,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.mitsukoshi.mistore.jp/sapporo.html",
+      "tel": "+81 11 271 3311",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.0595726,
+      "lon": 141.3529921
+    },
+    {
+      "id": "st04998-003",
+      "category": "shopping",
+      "name": {
+        "ja": "札幌PARCO",
+        "en": "Sapporo PARCO",
+        "zh": "PARCO"
+      },
+      "desc": {
+        "ja": "駅から約168mにある百貨店。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Department store about 168 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约168米的百货店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 168,
+      "walk_min": 3,
+      "hours": "10:00-20:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://sapporo.parco.jp/",
+      "tel": "011-214-2111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.0587572,
+      "lon": 141.3531575
+    },
+    {
+      "id": "st04998-004",
+      "category": "bank_atm",
+      "name": {
+        "ja": "秋田銀行",
+        "en": "Akita Bank",
+        "zh": "秋田银行"
+      },
+      "desc": {
+        "ja": "秋田銀行の支店。駅から約174mにあり、預け入れ・引き出しやATMの利用に対応する。窓口はMo-Fr 09:00-12:00,13:00-15:00; Sa off; Su off; PH off（JST）。",
+        "en": "Bank about 174 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约174米的银行网点，Mo-Fr 09:00-12:00, 13:00-15:00, Sa off, Su off, PH off（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 174,
+      "walk_min": 3,
+      "hours": "Mo-Fr 09:00-12:00,13:00-15:00; Sa off; Su off; PH off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.akita-bank.co.jp/",
+      "tel": "+81-11-241-9291",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.061036,
+      "lon": 141.351688
+    },
+    {
+      "id": "st04998-005",
+      "category": "public_service",
+      "name": {
+        "ja": "札幌市役所",
+        "en": "Sapporo City Hall",
+        "zh": "札幌市公所"
+      },
+      "desc": {
+        "ja": "駅から約211mにある役所・行政施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Civic office about 211 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约211米的行政机构，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 211,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.city.sapporo.jp/",
+      "tel": "+81 011 211-2111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.0620312,
+      "lon": 141.3543859
+    },
+    {
+      "id": "st04998-006",
+      "category": "police",
+      "name": {
+        "ja": "札幌方面中央警察署 薄野交番",
+        "en": "札幌方面中央 薄野交番 Police Station",
+        "zh": "札幌方面中央警察署 薄野交番"
+      },
+      "desc": {
+        "ja": "駅から約532mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 532 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约532米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 532,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.police.pref.hokkaido.lg.jp/00ps/chuou-syo/04_kouban-tyuzai.html",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.0554759,
+      "lon": 141.3540529
+    },
+    {
+      "id": "st04998-007",
+      "category": "shopping",
+      "name": {
+        "ja": "狸小路商店街",
+        "en": "Tanukikoji Shopping Street",
+        "zh": "狸小路商店街"
+      },
+      "desc": {
+        "ja": "駅から約357mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 357 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约357米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 357,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://tanukikoji.or.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.0571899,
+      "lon": 141.3521802
+    },
+    {
+      "id": "st04998-008",
+      "category": "public_service",
+      "name": {
+        "ja": "札幌市民交流プラザ",
+        "en": "Sapporo Community Plaza",
+        "zh": "札幌市民交流プラザ"
+      },
+      "desc": {
+        "ja": "駅から約363mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 363 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约363米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 363,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.sapporo-community-plaza.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.0629759,
+      "lon": 141.3559677
+    },
+    {
+      "id": "st04998-009",
+      "category": "lodging",
+      "name": {
+        "ja": "札幌グランドホテル",
+        "en": "Sapporo Grand Hotel",
+        "zh": "札幌格蘭飯店"
+      },
+      "desc": {
+        "ja": "駅から約372mにある宿泊施設。観光やビジネスの拠点として利用できる。チェックイン時間は予約時に確認を。",
+        "en": "Lodging about 372 m from the station, a convenient base for sightseeing or business.",
+        "zh": "距站约372米的住宿设施，可作为观光或商务出行的落脚点，入住方式以预订信息为准。"
+      },
+      "distance_m": 372,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://grand1934.com/",
+      "tel": "+81-11-261-3311",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.062792,
+      "lon": 141.3505593
+    },
+    {
+      "id": "st04998-010",
+      "category": "bank_atm",
+      "name": {
+        "ja": "北海道労働金庫",
+        "en": "Hokkaido Labour Bank",
+        "zh": "北海道労働金庫"
+      },
+      "desc": {
+        "ja": "北海道労働金庫の支店。駅から約377mにあり、預け入れ・引き出しやATMの利用に対応する。窓口はMo-Fr 09:00-15:00; Sa off; Su off; PH off; Dec 31-Jan 3 off（JST）。",
+        "en": "Bank about 377 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约377米的银行网点，Mo-Fr 09:00-15:00, Sa off, Su off, PH off, Dec 31-Jan 3 off（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 377,
+      "walk_min": 5,
+      "hours": "Mo-Fr 09:00-15:00; Sa off; Su off; PH off; Dec 31-Jan 3 off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.rokin-hokkaido.or.jp/",
+      "tel": "+81-11-271-2001",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.0614172,
+      "lon": 141.3491827
+    },
+    {
+      "id": "st04998-011",
+      "category": "post_office",
+      "name": {
+        "ja": "札幌中央郵便局",
+        "en": "Sapporo Chuo Post Office",
+        "zh": "札幌中央邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1045mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1045 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1045米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 1045,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.post.japanpost.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.0694627,
+      "lon": 141.3560344
+    },
+    {
+      "id": "st04998-012",
+      "category": "tourist_info",
+      "name": {
+        "ja": "Hokkaido Tourist Information Center",
+        "en": "Hokkaido Tourist Information Center",
+        "zh": "Hokkaido Tourist Information Center"
+      },
+      "desc": {
+        "ja": "駅から約446mにある観光案内所。周辺の観光情報や地図、施設案内を提供している。散策の前に立ち寄ると便利。",
+        "en": "Tourist information office about 446 m from the station, with maps and local guidance.",
+        "zh": "距站约446米的观光服务台，提供周边旅游信息、地图与咨询服务，可先在此规划行程。"
+      },
+      "distance_m": 446,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4252086592",
+      "tel": "+8011-2182005",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.0569021,
+      "lon": 141.3504995,
+      "official_url_pending": "https://www.tourist-information-center.jp/hokkaido/"
+    },
+    {
+      "id": "st04998-013",
+      "category": "park",
+      "name": {
+        "ja": "大通公園",
+        "en": "Ōdōri Park",
+        "zh": "大通公园"
+      },
+      "desc": {
+        "ja": "駅から約562mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 562 m from the station, with paths and benches for a rest.",
+        "zh": "距站约562米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 562,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://odori-park.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.0597595,
+      "lon": 141.3466418
+    },
+    {
+      "id": "st04998-014",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "北海道神宮頓宮",
+        "en": "Hokkaido Jingu Tongu",
+        "zh": "北海道神宫頓宫"
+      },
+      "desc": {
+        "ja": "駅から約642mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 642 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约642米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 642,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/794322581",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.0599769,
+      "lon": 141.3614254
+    },
+    {
+      "id": "st04998-015",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "日本キリスト教団 札幌教会",
+        "en": "Old Sapporo Methodist Church",
+        "zh": "日本キリスト教団 札幌教会"
+      },
+      "desc": {
+        "ja": "駅から約459mにある礼拝所。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "place of worship about 459 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约459米的宗教场所，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 459,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "http://www.jcu-sapporo.com/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.0634883,
+      "lon": 141.3570316
+    },
+    {
+      "id": "st04998-016",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "経王寺",
+        "en": "Kyo-o-ji Temple",
+        "zh": "経王寺"
+      },
+      "desc": {
+        "ja": "駅から約1590mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 1590 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1590米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1590,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://keiouji.or.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.0514005,
+      "lon": 141.3689096
+    },
+    {
+      "id": "st04998-017",
+      "category": "lodging",
+      "name": {
+        "ja": "グランドメルキュール札幌大通公園",
+        "en": "Grand Mercure Sapporo Odori Park",
+        "zh": "グランドメルキュール札幌大通公园"
+      },
+      "desc": {
+        "ja": "駅から約1118mにある宿泊施設。観光やビジネスの拠点として利用できる。チェックイン時間は予約時に確認を。",
+        "en": "Lodging about 1118 m from the station, a convenient base for sightseeing or business.",
+        "zh": "距站约1118米的住宿设施，可作为观光或商务出行的落脚点，入住方式以预订信息为准。"
+      },
+      "distance_m": 1118,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/13540638985",
+      "tel": "+81-11-271-2711",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.061014,
+      "lon": 141.3398084,
+      "official_url_pending": "https://grand-mercure-sapporo-odoripark.jp/"
+    },
+    {
+      "id": "st04998-018",
+      "category": "sight",
+      "name": {
+        "ja": "札幌市資料館",
+        "en": "Sapporo City Museum",
+        "zh": "札幌市资料馆"
+      },
+      "desc": {
+        "ja": "駅から約1319mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。入場は無料。",
+        "en": "Museum about 1319 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1319米的博物馆·美术馆，免费开放，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1319,
+      "walk_min": 17,
+      "hours": "Tu-Su 09:00-19:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.s-shiryokan.jp/",
+      "tel": "+81-11-251-0731",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.0585319,
+      "lon": 141.3374679
+    },
+    {
+      "id": "st04998-019",
+      "category": "medical",
+      "name": {
+        "ja": "中村記念病院",
+        "en": "Nakamura Memorial Hospital",
+        "zh": "中村纪念病院"
+      },
+      "desc": {
+        "ja": "駅から約1455mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 1455 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1455米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1455,
+      "walk_min": 19,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "http://www.nmh.or.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.0564523,
+      "lon": 141.3363863
+    },
+    {
+      "id": "st04998-020",
+      "category": "sight",
+      "name": {
+        "ja": "豊平館",
+        "en": "Houheikan",
+        "zh": "豊平馆"
+      },
+      "desc": {
+        "ja": "駅から約1554mにある観光スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Attraction about 1554 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1554米的观光景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1554,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.s-hoheikan.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.0462833,
+      "lon": 141.3525789
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [],
+    "fetch_truncated": true,
+    "selected_cap": 20,
+    "candidate_count": 1559,
+    "floor_check": {
+      "medical": {
+        "candidates": 88,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 106,
+        "selected": 2
+      },
+      "convenience": {
+        "candidates": 239,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 35,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 11,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 4,
+        "selected": 1
+      }
+    }
+  }
+}
