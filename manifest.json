@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-06T11:05:32Z",
+  "updated_at": "2026-11-06T12:19:21Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 266,
+  "done": 267,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -23,7 +23,7 @@
     "広島県": 4,
     "徳島県": 1,
     "愛媛県": 1,
-    "愛知県": 10,
+    "愛知県": 11,
     "東京都": 107,
     "熊本県": 1,
     "神奈川県": 34,
@@ -437,6 +437,7 @@
         "st02416",
         "st02757",
         "st02779",
+        "st02833",
         "st03149",
         "st03160",
         "st03199",
@@ -450,35 +451,35 @@
         "st06746",
         "st08140"
       ],
-      "poi_total": 915,
+      "poi_total": 935,
       "category_counts": {
-        "bank_atm": 58,
-        "cafe": 26,
-        "convenience": 74,
+        "bank_atm": 59,
+        "cafe": 27,
+        "convenience": 75,
         "food": 80,
-        "lodging": 37,
-        "medical": 75,
+        "lodging": 38,
+        "medical": 77,
         "onsen_sento": 6,
-        "park": 61,
-        "police": 56,
-        "post_office": 78,
-        "public_service": 47,
-        "shopping": 89,
-        "shrine_temple": 88,
-        "sight": 122,
-        "tourist_info": 18
+        "park": 63,
+        "police": 57,
+        "post_office": 79,
+        "public_service": 48,
+        "shopping": 92,
+        "shrine_temple": 90,
+        "sight": 125,
+        "tourist_info": 19
       },
-      "hours_null": 589,
-      "official_url_own": 286,
+      "hours_null": 600,
+      "official_url_own": 301,
       "official_url_map": 0,
-      "official_url_pending": 67,
-      "official_site_hours_coverage": 0.5,
+      "official_url_pending": 68,
+      "official_site_hours_coverage": 0.498,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "大曽根 (st02779): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=339（精确）"
+        "note": "伏見 (st02833): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=2555（精确）"
       }
     }
   ]
