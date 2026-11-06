@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-06T03:25:18Z",
+  "updated_at": "2026-11-06T03:33:57Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 186,
+  "done": 187,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -14,7 +14,7 @@
     "北海道": 1,
     "千葉県": 5,
     "和歌山県": 1,
-    "大阪府": 16,
+    "大阪府": 17,
     "奈良県": 1,
     "宮城県": 1,
     "岡山県": 3,
@@ -324,37 +324,38 @@
         "st01990",
         "st01999",
         "st02752",
-        "st03239"
+        "st03239",
+        "st03452"
       ],
-      "poi_total": 393,
+      "poi_total": 413,
       "category_counts": {
-        "bank_atm": 20,
+        "bank_atm": 21,
         "cafe": 4,
-        "convenience": 28,
-        "food": 33,
-        "lodging": 18,
-        "medical": 36,
+        "convenience": 29,
+        "food": 34,
+        "lodging": 20,
+        "medical": 38,
         "onsen_sento": 4,
-        "park": 19,
-        "police": 22,
-        "post_office": 32,
-        "public_service": 26,
-        "shopping": 43,
+        "park": 20,
+        "police": 23,
+        "post_office": 34,
+        "public_service": 28,
+        "shopping": 45,
         "shrine_temple": 42,
-        "sight": 56,
-        "tourist_info": 10
+        "sight": 60,
+        "tourist_info": 11
       },
-      "hours_null": 232,
-      "official_url_own": 140,
+      "hours_null": 244,
+      "official_url_own": 148,
       "official_url_map": 0,
-      "official_url_pending": 34,
-      "official_site_hours_coverage": 0.529,
+      "official_url_pending": 35,
+      "official_site_hours_coverage": 0.534,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "茨木 (st03239): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=640（精确）"
+        "note": "谷町四丁目 (st03452): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=1572（窗口下限，细分重抓后仍有残漏）"
       }
     }
   ]
