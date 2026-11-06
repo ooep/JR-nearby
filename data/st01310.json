@@ -1,0 +1,519 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st01310",
+    "name": {
+      "ja": "元町",
+      "en": "Motomachi",
+      "zh": "元町"
+    },
+    "line_group": [
+      "東豊線"
+    ],
+    "pref": "北海道",
+    "lat": 43.09408,
+    "lon": 141.3717
+  },
+  "generated_at": "2026-11-06T04:42:37Z",
+  "pois": [
+    {
+      "id": "st01310-001",
+      "category": "convenience",
+      "name": {
+        "ja": "ローソン",
+        "en": "Lawson",
+        "zh": "罗森"
+      },
+      "desc": {
+        "ja": "LAWSONのコンビニエンスストア。駅から約54mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 54 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约54米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 54,
+      "walk_min": 1,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.lawson.co.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.0944493,
+      "lon": 141.3712664
+    },
+    {
+      "id": "st01310-002",
+      "category": "bank_atm",
+      "name": {
+        "ja": "北陸銀行",
+        "en": "Hokuriku Bank",
+        "zh": "北陆银行"
+      },
+      "desc": {
+        "ja": "北陸銀行の支店。駅から約81mにあり、預け入れ・引き出しやATMの利用に対応する。窓口はMo-Fr 09:00-17:00; Sa 09:00-15:00（JST）。",
+        "en": "Bank about 81 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约81米的银行网点，Mo-Fr 09:00-17:00, Sa 09:00-15:00（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 81,
+      "walk_min": 2,
+      "hours": "Mo-Fr 09:00-17:00; Sa 09:00-15:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.hokugin.co.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.0941751,
+      "lon": 141.3707111
+    },
+    {
+      "id": "st01310-003",
+      "category": "food",
+      "name": {
+        "ja": "串鳥",
+        "en": "Kushidori",
+        "zh": "串鸟"
+      },
+      "desc": {
+        "ja": "駅から約111mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。営業は16:30-00:30（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 111 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约111米的餐馆适合旅途中用餐，16:30-00:30（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 111,
+      "walk_min": 2,
+      "hours": "16:30-00:30 (JST)",
+      "hours_source": "osm",
+      "url": "https://kushidori.com/sapporo/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.0940654,
+      "lon": 141.3703303
+    },
+    {
+      "id": "st01310-004",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "7-ELEVENのコンビニエンスストア。駅から約121mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 121 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约121米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 121,
+      "walk_min": 2,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.sej.co.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.09358,
+      "lon": 141.3703832
+    },
+    {
+      "id": "st01310-005",
+      "category": "shopping",
+      "name": {
+        "ja": "コープさっぽろ",
+        "en": "Coop Sapporo",
+        "zh": "Ko-pusaporo"
+      },
+      "desc": {
+        "ja": "駅から約411mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 411 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约411米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 411,
+      "walk_min": 6,
+      "hours": "09:00-21:45 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.sapporo.coop/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.0908611,
+      "lon": 141.3741977
+    },
+    {
+      "id": "st01310-006",
+      "category": "post_office",
+      "name": {
+        "ja": "札幌東郵便局",
+        "en": "Sapporo Higashi Post Office",
+        "zh": "札幌东邮政局"
+      },
+      "desc": {
+        "ja": "駅から約242mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 242 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约242米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 242,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.post.japanpost.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.0962516,
+      "lon": 141.3715685
+    },
+    {
+      "id": "st01310-007",
+      "category": "food",
+      "name": {
+        "ja": "海天丸",
+        "en": "Kaitenmaru",
+        "zh": "海天丸"
+      },
+      "desc": {
+        "ja": "駅から約323mにある飲食店。sushi料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は11:00-22:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 323 m from the station. Serves sushi cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约323米的餐馆主营sushi，适合旅途中用餐，11:00-22:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 323,
+      "walk_min": 5,
+      "hours": "11:00-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/4535304139",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.094307,
+      "lon": 141.3756664,
+      "official_url_pending": "https://www.kaitenmaru.com/"
+    },
+    {
+      "id": "st01310-008",
+      "category": "shopping",
+      "name": {
+        "ja": "ザ・ビッグ",
+        "en": "THE BIG",
+        "zh": "Za・bigu"
+      },
+      "desc": {
+        "ja": "駅から約938mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 938 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约938米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 938,
+      "walk_min": 12,
+      "hours": "Mo-Su 08:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.aeon-hokkaido.jp/big/shop/motomachi/",
+      "tel": "+81 11 782 2111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.0951503,
+      "lon": 141.3831647
+    },
+    {
+      "id": "st01310-009",
+      "category": "police",
+      "name": {
+        "ja": "札幌方面東警察署 北二十六条交番",
+        "en": "札幌方面东 北二十六条交番 Police Station",
+        "zh": "札幌方面东警察署 北二十六条交番"
+      },
+      "desc": {
+        "ja": "駅から約1183mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1183 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1183米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1183,
+      "walk_min": 15,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4548671574",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.0946391,
+      "lon": 141.357151,
+      "official_url_pending": "http://www.higashi-syo.police.pref.hokkaido.lg.jp/"
+    },
+    {
+      "id": "st01310-010",
+      "category": "public_service",
+      "name": {
+        "ja": "元町図書館",
+        "en": "Motomachi Library",
+        "zh": "元町图书馆"
+      },
+      "desc": {
+        "ja": "駅から約740mにある図書館。手続きや調べ物、休憩に利用できる公共の施設。詳細は現地の案内を参照。",
+        "en": "Library about 740 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约740米的图书馆，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 740,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.city.sapporo.jp/toshokan/sisetu/motomati/motomati.html",
+      "tel": "+81-11-784-0841",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.10073,
+      "lon": 141.3715898
+    },
+    {
+      "id": "st01310-011",
+      "category": "shopping",
+      "name": {
+        "ja": "イオン札幌元町ショッピングセンター",
+        "en": "ion札幌元町shiyopingusenta-",
+        "zh": "イオン札幌元町ショッピングセンター"
+      },
+      "desc": {
+        "ja": "駅から約882mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 882 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约882米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 882,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/154490723",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.1016046,
+      "lon": 141.368254
+    },
+    {
+      "id": "st01310-012",
+      "category": "medical",
+      "name": {
+        "ja": "札幌東豊病院",
+        "en": "Sapporo Toho Hospital",
+        "zh": "札幌东豊病院"
+      },
+      "desc": {
+        "ja": "駅から約1035mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 1035 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1035米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1035,
+      "walk_min": 13,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "http://www.toho-hosp.or.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.0847987,
+      "lon": 141.3726898
+    },
+    {
+      "id": "st01310-013",
+      "category": "medical",
+      "name": {
+        "ja": "札幌東徳洲会病院",
+        "en": "Sapporo Higashi Tokushukai Hospital",
+        "zh": "札幌东徳洲会病院"
+      },
+      "desc": {
+        "ja": "駅から約1154mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 1154 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1154米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1154,
+      "walk_min": 15,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.higashi-tokushukai.or.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.1035612,
+      "lon": 141.3659298
+    },
+    {
+      "id": "st01310-014",
+      "category": "park",
+      "name": {
+        "ja": "美香保公園",
+        "en": "Mikaho Park",
+        "zh": "美香保公园"
+      },
+      "desc": {
+        "ja": "駅から約1360mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1360 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1360米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1360,
+      "walk_min": 17,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/154510730",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.0883154,
+      "lon": 141.3569341
+    },
+    {
+      "id": "st01310-015",
+      "category": "park",
+      "name": {
+        "ja": "伏古公園",
+        "en": "Fushiko Park",
+        "zh": "伏古公园"
+      },
+      "desc": {
+        "ja": "駅から約1646mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1646 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1646米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1646,
+      "walk_min": 21,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://marumi-plus.jp/kitanofurusato/publics/index/42/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.0841668,
+      "lon": 141.3867608
+    },
+    {
+      "id": "st01310-016",
+      "category": "post_office",
+      "name": {
+        "ja": "丘珠郵便局",
+        "en": "Okadama Post Office",
+        "zh": "丘珠邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1919mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00; Sa-Su,PH off（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1919 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1919米的邮局，Mo-Fr 09:00-17:00, Sa-Su, PH off（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 1919,
+      "walk_min": 24,
+      "hours": "Mo-Fr 09:00-17:00; Sa-Su,PH off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.post.japanpost.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.1068704,
+      "lon": 141.3875614
+    }
+  ],
+  "coverage": {
+    "poi_count": 16,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 317,
+    "floor_check": {
+      "medical": {
+        "candidates": 29,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 30,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 66,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 13,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 4,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
