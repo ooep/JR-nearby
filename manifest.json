@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-06T05:30:53Z",
+  "updated_at": "2026-11-06T05:31:54Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 210,
+  "done": 211,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -18,7 +18,7 @@
     "奈良県": 1,
     "宮城県": 1,
     "岡山県": 3,
-    "広島県": 1,
+    "広島県": 2,
     "徳島県": 1,
     "東京都": 107,
     "神奈川県": 34,
@@ -380,6 +380,41 @@
         "duplicates": 0,
         "radius_m": 2000,
         "note": "海浜幕張 (st06794): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=260（精确）"
+      }
+    },
+    {
+      "batch": "t1-d-20261104",
+      "committed_at": null,
+      "stations": [
+        "st00186"
+      ],
+      "poi_total": 20,
+      "category_counts": {
+        "bank_atm": 1,
+        "convenience": 1,
+        "food": 1,
+        "lodging": 2,
+        "medical": 1,
+        "park": 2,
+        "police": 1,
+        "post_office": 1,
+        "public_service": 2,
+        "shopping": 2,
+        "shrine_temple": 1,
+        "sight": 4,
+        "tourist_info": 1
+      },
+      "hours_null": 13,
+      "official_url_own": 12,
+      "official_url_map": 0,
+      "official_url_pending": 2,
+      "official_site_hours_coverage": 0.417,
+      "selfcheck": {
+        "schema_pass": true,
+        "trilingual_missing": 0,
+        "duplicates": 0,
+        "radius_m": 2000,
+        "note": "八丁堀 (st00186): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=1825（窗口下限，细分重抓后仍有残漏）"
       }
     }
   ]
