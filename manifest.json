@@ -1,16 +1,16 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-06T00:01:35Z",
+  "updated_at": "2026-11-06T00:48:57Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 152,
+  "done": 153,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
-    "京都府": 3,
+    "京都府": 4,
     "北海道": 1,
     "和歌山県": 1,
     "大阪府": 1,
@@ -252,37 +252,38 @@
         "st01893",
         "st01896",
         "st01900",
-        "st01910"
+        "st01910",
+        "st01997"
       ],
-      "poi_total": 717,
+      "poi_total": 737,
       "category_counts": {
-        "bank_atm": 41,
-        "cafe": 18,
-        "convenience": 53,
-        "food": 76,
-        "lodging": 30,
-        "medical": 62,
+        "bank_atm": 42,
+        "cafe": 19,
+        "convenience": 55,
+        "food": 79,
+        "lodging": 31,
+        "medical": 64,
         "onsen_sento": 2,
-        "park": 39,
-        "police": 45,
-        "post_office": 46,
-        "public_service": 41,
+        "park": 41,
+        "police": 46,
+        "post_office": 48,
+        "public_service": 42,
         "shopping": 77,
-        "shrine_temple": 69,
-        "sight": 98,
+        "shrine_temple": 72,
+        "sight": 99,
         "tourist_info": 20
       },
-      "hours_null": 445,
-      "official_url_own": 255,
+      "hours_null": 455,
+      "official_url_own": 258,
       "official_url_map": 0,
-      "official_url_pending": 52,
-      "official_site_hours_coverage": 0.592,
+      "official_url_pending": 53,
+      "official_site_hours_coverage": 0.597,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "新杉田 (st01910): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=442（精确）"
+        "note": "山科 (st01997): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=219（精确）"
       }
     }
   ]
