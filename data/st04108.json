@@ -1,0 +1,630 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st04108",
+    "name": {
+      "ja": "静岡",
+      "en": "Shizuoka",
+      "zh": "静冈"
+    },
+    "line_group": [
+      "東海道新幹線",
+      "東海道本線"
+    ],
+    "pref": "静岡県",
+    "lat": 34.971752,
+    "lon": 138.389001
+  },
+  "generated_at": "2026-11-06T04:10:45Z",
+  "pois": [
+    {
+      "id": "st04108-001",
+      "category": "food",
+      "name": {
+        "ja": "Afternoon Tea LOVE & TABLE 静岡パルシェ",
+        "en": "Afternoon Tea LOVE & TABLE 静岡parushie",
+        "zh": "Afternoon Tea LOVE & TABLE 静冈パルシェ"
+      },
+      "desc": {
+        "ja": "駅から約62mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Su 10:00-20:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 62 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约62米的餐馆适合旅途中用餐，Mo-Su 10:00-20:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 62,
+      "walk_min": 1,
+      "hours": "Mo-Su 10:00-20:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.afternoon-tea.net/tearoom/",
+      "tel": "+81 054-204-5400",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.972266,
+      "lon": 138.3887444
+    },
+    {
+      "id": "st04108-002",
+      "category": "convenience",
+      "name": {
+        "ja": "ローソン",
+        "en": "Lawson",
+        "zh": "罗森"
+      },
+      "desc": {
+        "ja": "LAWSONのコンビニエンスストア。駅から約135mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 135 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约135米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 135,
+      "walk_min": 2,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5345918715",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9729339,
+      "lon": 138.3893251,
+      "official_url_pending": "https://www.e-map.ne.jp/p/lawson/dtl/278267/?&his=al1,al2,al3,nm"
+    },
+    {
+      "id": "st04108-003",
+      "category": "shopping",
+      "name": {
+        "ja": "松坂屋 静岡店 (本館)",
+        "en": "Matsuzakaya",
+        "zh": "松坂屋 静冈店 (本馆)"
+      },
+      "desc": {
+        "ja": "駅から約184mにある百貨店。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Department store about 184 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约184米的百货店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 184,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.matsuzakaya.co.jp/shizuoka/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9732286,
+      "lon": 138.3880901
+    },
+    {
+      "id": "st04108-004",
+      "category": "bank_atm",
+      "name": {
+        "ja": "東京三菱UFJ銀行静岡支店",
+        "en": "東京三菱UFJ銀行静岡支店",
+        "zh": "东京三菱UFJ银行静冈支店"
+      },
+      "desc": {
+        "ja": "東京三菱UFJ銀行静岡支店の支店。駅から約211mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 211 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约211米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 211,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1809919099",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9729701,
+      "lon": 138.3872226
+    },
+    {
+      "id": "st04108-005",
+      "category": "shopping",
+      "name": {
+        "ja": "松坂屋 静岡店 (北館)",
+        "en": "Matsuzakaya",
+        "zh": "松坂屋 静冈店 (北馆)"
+      },
+      "desc": {
+        "ja": "駅から約226mにあるベーカリー。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Bakery about 226 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约226米的面包店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 226,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.matsuzakaya.co.jp/shizuoka/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9736324,
+      "lon": 138.3880658
+    },
+    {
+      "id": "st04108-006",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "宝泰寺",
+        "en": "Hodaiji",
+        "zh": "宝泰寺"
+      },
+      "desc": {
+        "ja": "駅から約285mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 285 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约285米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 285,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1540355426",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9743025,
+      "lon": 138.3892768
+    },
+    {
+      "id": "st04108-007",
+      "category": "food",
+      "name": {
+        "ja": "Bar OZ.",
+        "en": "Bar OZ.",
+        "zh": "Bar OZ."
+      },
+      "desc": {
+        "ja": "駅から約359mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Sa 19:00-03:00; Su,PH off（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 359 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约359米的餐馆适合旅途中用餐，Mo-Sa 19:00-03:00, Su, PH off（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 359,
+      "walk_min": 5,
+      "hours": "Mo-Sa 19:00-03:00; Su,PH off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.bar-oz.jp/",
+      "tel": "+81-54-251-2168",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9728574,
+      "lon": 138.3852997
+    },
+    {
+      "id": "st04108-008",
+      "category": "food",
+      "name": {
+        "ja": "きじょうもん",
+        "en": "kijiyoumon",
+        "zh": "Kijiyoumon"
+      },
+      "desc": {
+        "ja": "駅から約559mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。営業は17:00-24:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 559 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约559米的餐馆适合旅途中用餐，17:00-24:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 559,
+      "walk_min": 7,
+      "hours": "17:00-24:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/7039915936",
+      "tel": "+81-54-251-0020",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9740491,
+      "lon": 138.3835493,
+      "official_url_pending": "https://r.gnavi.co.jp/n2sye2z90000/"
+    },
+    {
+      "id": "st04108-009",
+      "category": "public_service",
+      "name": {
+        "ja": "SHIP - SHIZUOKA INNOVATION PLATFORM",
+        "en": "SHIP - SHIZUOKA INNOVATION PLATFORM",
+        "zh": "SHIP - SHIZUOKA INNOVATION PLATFORM"
+      },
+      "desc": {
+        "ja": "駅から約492mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 492 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约492米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 492,
+      "walk_min": 7,
+      "hours": "Mo-Fr 10:00-18:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://ship-shizuoka.jp",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9742041,
+      "lon": 138.3845073
+    },
+    {
+      "id": "st04108-010",
+      "category": "shopping",
+      "name": {
+        "ja": "新静岡セノバ",
+        "en": "新静岡senoba",
+        "zh": "新静冈セノバ"
+      },
+      "desc": {
+        "ja": "駅から約459mにある百貨店。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Department store about 459 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约459米的百货店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 459,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1536519269",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9755029,
+      "lon": 138.3869008,
+      "official_url_pending": "https://www.cenova.jp/"
+    },
+    {
+      "id": "st04108-011",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "静岡天満宮",
+        "en": "Shizuoka Tenmangu Shrine",
+        "zh": "静冈天満宫"
+      },
+      "desc": {
+        "ja": "駅から約1026mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1026 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1026米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1026,
+      "walk_min": 13,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.shizuoka-tenmangu.jp/",
+      "tel": "+81-54-2513759",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9764235,
+      "lon": 138.3792853
+    },
+    {
+      "id": "st04108-012",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "小梳神社",
+        "en": "Ogushi Jinja Shrine",
+        "zh": "小梳神社"
+      },
+      "desc": {
+        "ja": "駅から約311mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 311 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约311米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 311,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/828453280",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9735092,
+      "lon": 138.3863475
+    },
+    {
+      "id": "st04108-013",
+      "category": "lodging",
+      "name": {
+        "ja": "ホテルドルフ静岡",
+        "en": "Hotel Dorf Shizuoka",
+        "zh": "ホテルドルフ静冈"
+      },
+      "desc": {
+        "ja": "駅から約631mにある宿泊施設。観光やビジネスの拠点として利用できる。チェックイン時間は予約時に確認を。",
+        "en": "Lodging about 631 m from the station, a convenient base for sightseeing or business.",
+        "zh": "距站约631米的住宿设施，可作为观光或商务出行的落脚点，入住方式以预订信息为准。"
+      },
+      "distance_m": 631,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2288892656",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9769899,
+      "lon": 138.3916546,
+      "official_url_pending": "http://www.dorf.co.jp/"
+    },
+    {
+      "id": "st04108-014",
+      "category": "sight",
+      "name": {
+        "ja": "静岡市美術館",
+        "en": "Shizuoka City Museum of Art",
+        "zh": "静冈市美术馆"
+      },
+      "desc": {
+        "ja": "駅から約247mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 247 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约247米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 247,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://shizubi.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.972463,
+      "lon": 138.3864364
+    },
+    {
+      "id": "st04108-015",
+      "category": "public_service",
+      "name": {
+        "ja": "静岡市役所",
+        "en": "Shizuoka City Hall",
+        "zh": "静冈市役所"
+      },
+      "desc": {
+        "ja": "駅から約714mにある役所・行政施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Civic office about 714 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约714米的行政机构，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 714,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/173553625",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9755041,
+      "lon": 138.3826356
+    },
+    {
+      "id": "st04108-016",
+      "category": "police",
+      "name": {
+        "ja": "静岡駅前交番",
+        "en": "静冈站前 Police Box",
+        "zh": "静冈站前交番"
+      },
+      "desc": {
+        "ja": "駅から約96mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 96 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约96米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 96,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/828457813",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9717453,
+      "lon": 138.3879421
+    },
+    {
+      "id": "st04108-017",
+      "category": "medical",
+      "name": {
+        "ja": "静清リハビリテーション病院",
+        "en": "静清rihabirite-shiyon病院",
+        "zh": "静清リハビリテーション病院"
+      },
+      "desc": {
+        "ja": "駅から約1568mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 1568 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1568米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1568,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.seiseiriha.com/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9791742,
+      "lon": 138.403639
+    },
+    {
+      "id": "st04108-018",
+      "category": "park",
+      "name": {
+        "ja": "駿府城公園",
+        "en": "Sunpu Castle Park",
+        "zh": "駿府城公园"
+      },
+      "desc": {
+        "ja": "駅から約998mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 998 m from the station, with paths and benches for a rest.",
+        "zh": "距站约998米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 998,
+      "walk_min": 13,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/137926884",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9792709,
+      "lon": 138.3830239
+    },
+    {
+      "id": "st04108-019",
+      "category": "medical",
+      "name": {
+        "ja": "市立静岡病院",
+        "en": "Shizuoka City Hospital",
+        "zh": "市立静冈病院"
+      },
+      "desc": {
+        "ja": "駅から約1097mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 1097 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1097米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1097,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420988083",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.978295,
+      "lon": 138.379996
+    },
+    {
+      "id": "st04108-020",
+      "category": "post_office",
+      "name": {
+        "ja": "静岡駅南口郵便局",
+        "en": "静冈站南口 Post Office",
+        "zh": "静冈站南口邮政局"
+      },
+      "desc": {
+        "ja": "駅から約220mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 220 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约220米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 220,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420585936",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9710559,
+      "lon": 138.391264
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 611,
+    "floor_check": {
+      "medical": {
+        "candidates": 23,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 35,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 52,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 21,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 19,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
