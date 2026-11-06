@@ -1,0 +1,574 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st02079",
+    "name": {
+      "ja": "新越谷",
+      "en": "Shin-Koshigaya",
+      "zh": "新越谷"
+    },
+    "line_group": [
+      "伊勢崎線",
+      "半蔵門線",
+      "日比谷線",
+      "田園都市線"
+    ],
+    "pref": "埼玉県",
+    "lat": 35.87532,
+    "lon": 139.7899
+  },
+  "generated_at": "2026-11-06T08:12:58Z",
+  "pois": [
+    {
+      "id": "st02079-001",
+      "category": "cafe",
+      "name": {
+        "ja": "スターバックス",
+        "en": "Starbucks",
+        "zh": "Suta-bakusu"
+      },
+      "desc": {
+        "ja": "駅から約52mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。",
+        "en": "Cafe about 52 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约52米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 52,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5620394115",
+      "tel": "+81 48-961-3005",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8757393,
+      "lon": 139.7901463
+    },
+    {
+      "id": "st02079-002",
+      "category": "police",
+      "name": {
+        "ja": "越谷警察署南越谷駅前交番",
+        "en": "Minami-Koshigaya Station Koban",
+        "zh": "越谷警察署南越谷站前交番"
+      },
+      "desc": {
+        "ja": "駅から約69mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 69 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约69米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 69,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420203708",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.875852,
+      "lon": 139.790285
+    },
+    {
+      "id": "st02079-003",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "セブン-イレブンのコンビニエンスストア。駅から約104mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 104 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约104米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 104,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.sej.co.jp/",
+      "tel": "+81-48-989-0038",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8756357,
+      "lon": 139.7909868
+    },
+    {
+      "id": "st02079-004",
+      "category": "food",
+      "name": {
+        "ja": "吉野家",
+        "en": "Yoshinoya",
+        "zh": "吉野家"
+      },
+      "desc": {
+        "ja": "駅から約168mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。営業はSa-Su 05:00-03:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 168 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约168米的餐馆适合旅途中用餐，Sa-Su 05:00-03:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 168,
+      "walk_min": 3,
+      "hours": "Sa-Su 05:00-03:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://stores.yoshinoya.com",
+      "tel": "+81 48 960 6868",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8760045,
+      "lon": 139.7915666
+    },
+    {
+      "id": "st02079-005",
+      "category": "food",
+      "name": {
+        "ja": "松屋",
+        "en": "Matsuya",
+        "zh": "松屋"
+      },
+      "desc": {
+        "ja": "駅から約90mにある飲食店。beef_bowl料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は24時間営業。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 90 m from the station. Serves beef_bowl cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约90米的餐馆主营beef_bowl，适合旅途中用餐，全天24小时营业，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 90,
+      "walk_min": 2,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/3671020786",
+      "tel": "+81-48-990-3050",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8755103,
+      "lon": 139.7908655
+    },
+    {
+      "id": "st02079-006",
+      "category": "shopping",
+      "name": {
+        "ja": "イオン南越谷店",
+        "en": "Aeon Minami-Koshigaya",
+        "zh": "イオン南越谷店"
+      },
+      "desc": {
+        "ja": "駅から約192mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 192 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约192米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 192,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.aeon.com/store/%E3%82%A4%E3%82%AA%E3%83%B3/%E3%82%A4%E3%82%AA%E3%83%B3%E5%8D%97%E8%B6%8A%E8%B0%B7%E5%BA%97/",
+      "tel": "+81 48-985-6461",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.873805,
+      "lon": 139.7909116
+    },
+    {
+      "id": "st02079-007",
+      "category": "public_service",
+      "name": {
+        "ja": "越谷市立図書館南部図書室",
+        "en": "Koshigaya City Library Nambu (South) branch",
+        "zh": "越谷市立图书馆南部图书室"
+      },
+      "desc": {
+        "ja": "駅から約200mにある図書館。手続きや調べ物、休憩に利用できる公共の施設。詳細は現地の案内を参照。",
+        "en": "Library about 200 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约200米的图书馆，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 200,
+      "walk_min": 3,
+      "hours": "Mo-Fr 10:00-21:00; Sa-Su 09:30-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://lib.city.koshigaya.saitama.jp",
+      "tel": "+81 48 990 0305",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8736382,
+      "lon": 139.7907011
+    },
+    {
+      "id": "st02079-008",
+      "category": "convenience",
+      "name": {
+        "ja": "ミニストップ",
+        "en": "Ministop",
+        "zh": "迷你岛便利店"
+      },
+      "desc": {
+        "ja": "ミニストップのコンビニエンスストア。駅から約317mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 317 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约317米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 317,
+      "walk_min": 4,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.ministop.co.jp/",
+      "tel": "+81 48 989 2101",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8751612,
+      "lon": 139.7934093
+    },
+    {
+      "id": "st02079-009",
+      "category": "medical",
+      "name": {
+        "ja": "獨協医科大学埼玉医療センター",
+        "en": "Dokkyo Medical University Saitama Medical Center",
+        "zh": "獨協医科大学埼玉医療センター"
+      },
+      "desc": {
+        "ja": "駅から約332mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 332 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约332米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 332,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/relation/15955285",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8782467,
+      "lon": 139.7906221
+    },
+    {
+      "id": "st02079-010",
+      "category": "park",
+      "name": {
+        "ja": "赤山町三丁目自治会ふれあい公園",
+        "en": "赤山町三丁目自治会fureai公園",
+        "zh": "赤山町三丁目自治会fureai公園"
+      },
+      "desc": {
+        "ja": "駅から約1357mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1357 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1357米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1357,
+      "walk_min": 17,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/738138854",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8833055,
+      "lon": 139.7785164
+    },
+    {
+      "id": "st02079-011",
+      "category": "sight",
+      "name": {
+        "ja": "ミラクル",
+        "en": "Science and Technology Experience Center Miracle",
+        "zh": "Mirakuru"
+      },
+      "desc": {
+        "ja": "駅から約774mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 774 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约774米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 774,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.city.koshigaya.saitama.jp/gigakoshigaya/miracle/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8712295,
+      "lon": 139.7829501
+    },
+    {
+      "id": "st02079-012",
+      "category": "bank_atm",
+      "name": {
+        "ja": "三菱UFJ銀行 ATMコーナー 蒲生駅前",
+        "en": "三菱UFJ銀行 ATMko-na- 蒲生駅前",
+        "zh": "三菱UFJ银行 ATMコーナー 蒲生站前"
+      },
+      "desc": {
+        "ja": "三菱UFJ銀行 ATMコーナー 蒲生駅前の支店。駅から約993mにあり、預け入れ・引き出しやATMの利用に対応する。窓口は07:00-24:00（JST）。",
+        "en": "Bank about 993 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约993米的银行网点，07:00-24:00（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 993,
+      "walk_min": 13,
+      "hours": "07:00-24:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://map.bk.mufg.jp/b/bk_mufg/info/BA591164/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8664813,
+      "lon": 139.7914362
+    },
+    {
+      "id": "st02079-013",
+      "category": "shopping",
+      "name": {
+        "ja": "東武ストア",
+        "en": "Tobu Store",
+        "zh": "东武ストア"
+      },
+      "desc": {
+        "ja": "駅から約1040mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 1040 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1040米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1040,
+      "walk_min": 13,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.tobustore.co.jp/index.php/shop/detail/38",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8661412,
+      "lon": 139.7921391
+    },
+    {
+      "id": "st02079-014",
+      "category": "shopping",
+      "name": {
+        "ja": "ヨークマート (YorkMart)",
+        "en": "YorkMart",
+        "zh": "ヨークマート (YorkMart)"
+      },
+      "desc": {
+        "ja": "駅から約1059mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 1059 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1059米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1059,
+      "walk_min": 14,
+      "hours": "Mo-Su 10:00-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.yorkmart.com/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8834689,
+      "lon": 139.7838159
+    },
+    {
+      "id": "st02079-015",
+      "category": "food",
+      "name": {
+        "ja": "松乃家",
+        "en": "Matsunoya",
+        "zh": "松乃家"
+      },
+      "desc": {
+        "ja": "駅から約114mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。営業は24時間営業。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 114 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约114米的餐馆适合旅途中用餐，全天24小时营业，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 114,
+      "walk_min": 2,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/3751210745",
+      "tel": "+81-48-990-6400",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8757728,
+      "lon": 139.7910404
+    },
+    {
+      "id": "st02079-016",
+      "category": "medical",
+      "name": {
+        "ja": "がもう薬局",
+        "en": "gamou薬局",
+        "zh": "Gamou薬局"
+      },
+      "desc": {
+        "ja": "駅から約921mにある薬局。体調を崩した際の受診や薬の購入に対応する。受付はTh, Su 09:00-13:00; Mo-We, Fr 09:00-13:00, 14:30-18:00（JST）。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 921 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约921米的药房，Th, Su 09:00-13:00, Mo-We, Fr 09:00-13:00, 14:30-18:00（JST），旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 921,
+      "walk_min": 12,
+      "hours": "Th, Su 09:00-13:00; Mo-We, Fr 09:00-13:00, 14:30-18:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/9932864550",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.867738,
+      "lon": 139.7940215
+    },
+    {
+      "id": "st02079-017",
+      "category": "post_office",
+      "name": {
+        "ja": "南越谷郵便局",
+        "en": "南越谷 Post Office",
+        "zh": "南越谷邮政局"
+      },
+      "desc": {
+        "ja": "駅から約143mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 143 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约143米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 143,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/13684245954",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8756817,
+      "lon": 139.7883815
+    },
+    {
+      "id": "st02079-018",
+      "category": "post_office",
+      "name": {
+        "ja": "蒲生郵便局",
+        "en": "Gamo Post Office",
+        "zh": "蒲生邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1914mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1914 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1914米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 1914,
+      "walk_min": 24,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.post.japanpost.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.859568,
+      "lon": 139.798456
+    }
+  ],
+  "coverage": {
+    "poi_count": 18,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 159,
+    "floor_check": {
+      "medical": {
+        "candidates": 14,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 13,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 33,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 9,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 7,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
