@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-06T02:51:24Z",
+  "updated_at": "2026-11-06T03:04:46Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 180,
+  "done": 181,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -14,7 +14,7 @@
     "北海道": 1,
     "千葉県": 4,
     "和歌山県": 1,
-    "大阪府": 11,
+    "大阪府": 12,
     "奈良県": 1,
     "宮城県": 1,
     "岡山県": 3,
@@ -318,37 +318,38 @@
         "st01258",
         "st01483",
         "st01776",
-        "st01918"
+        "st01918",
+        "st02752"
       ],
-      "poi_total": 280,
+      "poi_total": 300,
       "category_counts": {
-        "bank_atm": 14,
+        "bank_atm": 15,
         "cafe": 4,
-        "convenience": 20,
+        "convenience": 21,
         "food": 25,
-        "lodging": 13,
-        "medical": 25,
+        "lodging": 15,
+        "medical": 26,
         "onsen_sento": 3,
         "park": 14,
-        "police": 16,
-        "post_office": 23,
+        "police": 17,
+        "post_office": 24,
         "public_service": 19,
-        "shopping": 32,
-        "shrine_temple": 32,
-        "sight": 33,
-        "tourist_info": 7
+        "shopping": 35,
+        "shrine_temple": 35,
+        "sight": 39,
+        "tourist_info": 8
       },
-      "hours_null": 166,
-      "official_url_own": 102,
+      "hours_null": 175,
+      "official_url_own": 114,
       "official_url_map": 0,
-      "official_url_pending": 24,
-      "official_site_hours_coverage": 0.52,
+      "official_url_pending": 29,
+      "official_site_hours_coverage": 0.526,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "大森 (st01918): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=16（精确）"
+        "note": "大阪梅田 (st02752): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=2845（窗口下限，细分重抓后仍有残漏）"
       }
     }
   ]
