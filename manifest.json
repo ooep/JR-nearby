@@ -1,17 +1,17 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-06T12:19:21Z",
+  "updated_at": "2026-11-06T12:25:29Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 267,
+  "done": 268,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
     "京都府": 7,
-    "兵庫県": 13,
+    "兵庫県": 14,
     "北海道": 5,
     "千葉県": 14,
     "和歌山県": 1,
@@ -435,6 +435,7 @@
         "st02263",
         "st02264",
         "st02416",
+        "st02687",
         "st02757",
         "st02779",
         "st02833",
@@ -451,35 +452,35 @@
         "st06746",
         "st08140"
       ],
-      "poi_total": 935,
+      "poi_total": 955,
       "category_counts": {
-        "bank_atm": 59,
+        "bank_atm": 60,
         "cafe": 27,
-        "convenience": 75,
+        "convenience": 76,
         "food": 80,
-        "lodging": 38,
-        "medical": 77,
+        "lodging": 40,
+        "medical": 78,
         "onsen_sento": 6,
-        "park": 63,
-        "police": 57,
-        "post_office": 79,
-        "public_service": 48,
-        "shopping": 92,
-        "shrine_temple": 90,
-        "sight": 125,
-        "tourist_info": 19
+        "park": 65,
+        "police": 58,
+        "post_office": 80,
+        "public_service": 49,
+        "shopping": 93,
+        "shrine_temple": 91,
+        "sight": 132,
+        "tourist_info": 20
       },
-      "hours_null": 600,
-      "official_url_own": 301,
+      "hours_null": 615,
+      "official_url_own": 315,
       "official_url_map": 0,
       "official_url_pending": 68,
-      "official_site_hours_coverage": 0.498,
+      "official_site_hours_coverage": 0.486,
       "selfcheck": {
         "schema_pass": true,
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "伏見 (st02833): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=2555（精确）"
+        "note": "神戸三宮 (st02687): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=1841（精确）"
       }
     }
   ]
