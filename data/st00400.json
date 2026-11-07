@@ -1,0 +1,629 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st00400",
+    "name": {
+      "ja": "赤坂",
+      "en": "Akasaka",
+      "zh": "赤坂"
+    },
+    "line_group": [
+      "福岡市地下鉄空港線",
+      "筑肥線",
+      "箱崎線"
+    ],
+    "pref": "福岡県",
+    "lat": 33.58906,
+    "lon": 130.39037
+  },
+  "generated_at": "2026-11-07T06:25:43Z",
+  "pois": [
+    {
+      "id": "st00400-001",
+      "category": "food",
+      "name": {
+        "ja": "元祖長浜屋",
+        "en": "Ganso Nagahamaya",
+        "zh": "元祖 长滨屋拉麵"
+      },
+      "desc": {
+        "ja": "駅から約512mにある飲食店。ramen料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 512 m from the station. Serves ramen cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约512米的餐馆主营ramen，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 512,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "http://www.ganso-nagahamaya.co.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.592439,
+      "lon": 130.3866146
+    },
+    {
+      "id": "st00400-002",
+      "category": "sight",
+      "name": {
+        "ja": "鴻臚館跡展示館",
+        "en": "Korokan Ruins Museum",
+        "zh": "鴻臚馆跡展示馆"
+      },
+      "desc": {
+        "ja": "駅から約579mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。入場は無料。",
+        "en": "Museum about 579 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约579米的博物馆·美术馆，免费开放，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 579,
+      "walk_min": 8,
+      "hours": "Mo-Su 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://fukuokajyo.com/facility/kourokan-ato-tenjikan/",
+      "tel": "+81-092-721-0282",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.5859543,
+      "lon": 130.3853578
+    },
+    {
+      "id": "st00400-003",
+      "category": "shopping",
+      "name": {
+        "ja": "キテラタウン福岡長浜",
+        "en": "kiterataun福岡長浜",
+        "zh": "キテラタウン福冈长滨"
+      },
+      "desc": {
+        "ja": "駅から約598mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 598 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约598米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 598,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/964451565",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.5926895,
+      "lon": 130.3856005
+    },
+    {
+      "id": "st00400-004",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "勝立寺",
+        "en": "Shoryuji Temple",
+        "zh": "勝立寺"
+      },
+      "desc": {
+        "ja": "駅から約1089mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 1089 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1089米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1089,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/3210271732",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.593461,
+      "lon": 130.4008729
+    },
+    {
+      "id": "st00400-005",
+      "category": "park",
+      "name": {
+        "ja": "舞鶴公園",
+        "en": "Maizuru Park",
+        "zh": "舞鶴公园"
+      },
+      "desc": {
+        "ja": "駅から約684mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 684 m from the station, with paths and benches for a rest.",
+        "zh": "距站约684米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 684,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/relation/15426497",
+      "tel": "+81 92-781-2153",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.5861923,
+      "lon": 130.3838312,
+      "official_url_pending": "https://www.midorimachi.jp/maiduru/"
+    },
+    {
+      "id": "st00400-006",
+      "category": "bank_atm",
+      "name": {
+        "ja": "福岡銀行本店",
+        "en": "Fukuoka Bank Head Office",
+        "zh": "福冈银行本店"
+      },
+      "desc": {
+        "ja": "福岡銀行本店の支店。駅から約745mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 745 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约745米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 745,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/231283705",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.5916743,
+      "lon": 130.3977728
+    },
+    {
+      "id": "st00400-007",
+      "category": "shopping",
+      "name": {
+        "ja": "福岡パルコ",
+        "en": "Parco",
+        "zh": "福冈 Parco"
+      },
+      "desc": {
+        "ja": "駅から約787mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 787 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约787米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 787,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/810621745",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.5907384,
+      "lon": 130.3986198
+    },
+    {
+      "id": "st00400-008",
+      "category": "medical",
+      "name": {
+        "ja": "済生会福岡総合病院",
+        "en": "Saiseikai Fukuoka General Hospital",
+        "zh": "济生会福冈総合病院"
+      },
+      "desc": {
+        "ja": "駅から約1162mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 1162 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1162米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1162,
+      "walk_min": 15,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/315455100",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.589397,
+      "lon": 130.4029102
+    },
+    {
+      "id": "st00400-009",
+      "category": "post_office",
+      "name": {
+        "ja": "福岡中央郵便局",
+        "en": "Fukuoka Central Post Office",
+        "zh": "福冈中央邮政局"
+      },
+      "desc": {
+        "ja": "駅から約909mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 909 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约909米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 909,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/178497722",
+      "tel": "092-713-2414",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.5929061,
+      "lon": 130.399024
+    },
+    {
+      "id": "st00400-010",
+      "category": "shopping",
+      "name": {
+        "ja": "三越",
+        "en": "MITSUKOSHI",
+        "zh": "福冈三越"
+      },
+      "desc": {
+        "ja": "駅から約910mにある百貨店。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Department store about 910 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约910米的百货店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 910,
+      "walk_min": 12,
+      "hours": "Mo-Su 10:00-20:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1107261280",
+      "tel": "+81-92-724-3111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.5886542,
+      "lon": 130.4001852,
+      "official_url_pending": "https://www.iwataya-mitsukoshi.mistore.jp/mitsukoshi.html"
+    },
+    {
+      "id": "st00400-011",
+      "category": "tourist_info",
+      "name": {
+        "ja": "三の丸スクエア",
+        "en": "Sannomaru Square",
+        "zh": "三no丸sukuea"
+      },
+      "desc": {
+        "ja": "駅から約958mにある観光案内所。周辺の観光情報や地図、施設案内を提供している。散策の前に立ち寄ると便利。",
+        "en": "Tourist information office about 958 m from the station, with maps and local guidance.",
+        "zh": "距站约958米的观光服务台，提供周边旅游信息、地图与咨询服务，可先在此规划行程。"
+      },
+      "distance_m": 958,
+      "walk_min": 12,
+      "hours": "Mo-Su 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://fukuokajyo.com/facility/sannomaru-square/",
+      "tel": "+81-092-720-7510",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.5865384,
+      "lon": 130.380481
+    },
+    {
+      "id": "st00400-012",
+      "category": "public_service",
+      "name": {
+        "ja": "福岡市役所",
+        "en": "Fukuoka City Hall",
+        "zh": "福冈市役所"
+      },
+      "desc": {
+        "ja": "駅から約1028mにある役所・行政施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Civic office about 1028 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1028米的行政机构，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1028,
+      "walk_min": 13,
+      "hours": "Mo-Fr 08:45-18:00; PH off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.city.fukuoka.lg.jp/",
+      "tel": "+81 92 711 4111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.5900714,
+      "lon": 130.4013982
+    },
+    {
+      "id": "st00400-013",
+      "category": "police",
+      "name": {
+        "ja": "福岡中央警察署",
+        "en": "Chuo Police Station",
+        "zh": "福冈中央警察署"
+      },
+      "desc": {
+        "ja": "駅から約1067mにある警察署。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1067 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1067米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1067,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/178655085",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.5892435,
+      "lon": 130.4018903
+    },
+    {
+      "id": "st00400-014",
+      "category": "sight",
+      "name": {
+        "ja": "福岡市美術館",
+        "en": "Fukuoka City Art Museum",
+        "zh": "福冈市美术馆"
+      },
+      "desc": {
+        "ja": "駅から約1151mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。入場は有料。",
+        "en": "Museum about 1151 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1151米的博物馆·美术馆，入场收费，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1151,
+      "walk_min": 15,
+      "hours": "Mo off; Tu-Su 09:30-17:30; Jul-Oct Fr,Su 09:30-20:00; Dec 28-Jan 04 off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.fukuoka-art-museum.jp/",
+      "tel": "+81 92-714-6051",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.5839241,
+      "lon": 130.3795798
+    },
+    {
+      "id": "st00400-015",
+      "category": "lodging",
+      "name": {
+        "ja": "KKRホテル博多",
+        "en": "KKR Hotel Hakata",
+        "zh": "KKRホテル博多"
+      },
+      "desc": {
+        "ja": "駅から約1171mにある宿泊施設。観光やビジネスの拠点として利用できる。チェックイン時間は予約時に確認を。",
+        "en": "Lodging about 1171 m from the station, a convenient base for sightseeing or business.",
+        "zh": "距站约1171米的住宿设施，可作为观光或商务出行的落脚点，入住方式以预订信息为准。"
+      },
+      "distance_m": 1171,
+      "walk_min": 15,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.kkr-hakata.com/",
+      "tel": "+81-92-521-1361",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.5788808,
+      "lon": 130.393628
+    },
+    {
+      "id": "st00400-016",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "福岡縣護國神社",
+        "en": "Gokoku shrine",
+        "zh": "福冈縣護国神社"
+      },
+      "desc": {
+        "ja": "駅から約1191mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1191 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1191米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1191,
+      "walk_min": 15,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/28479220",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.5812952,
+      "lon": 130.3815136,
+      "official_url_pending": "https://fukuoka-gokoku.jp/"
+    },
+    {
+      "id": "st00400-017",
+      "category": "park",
+      "name": {
+        "ja": "大濠公園",
+        "en": "Ōhori Park",
+        "zh": "大濠公园"
+      },
+      "desc": {
+        "ja": "駅から約1295mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1295 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1295米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1295,
+      "walk_min": 17,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/23344558",
+      "tel": "+81 92-741-2004",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.5861331,
+      "lon": 130.3768351,
+      "official_url_pending": "https://www.ohorikouen.jp/"
+    },
+    {
+      "id": "st00400-018",
+      "category": "food",
+      "name": {
+        "ja": "一蘭",
+        "en": "Ichiran",
+        "zh": "一蘭拉麵"
+      },
+      "desc": {
+        "ja": "駅から約1393mにある飲食店。noodle;ramen料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は24時間営業。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1393 m from the station. Serves noodle and ramen cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1393米的餐馆主营noodle and ramen，适合旅途中用餐，全天24小时营业，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1393,
+      "walk_min": 18,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/1164860428",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.5932093,
+      "lon": 130.4045625,
+      "official_url_pending": "https://ichiran.com/shop/kyushu/sohonten/"
+    },
+    {
+      "id": "st00400-019",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "水鏡天満宮",
+        "en": "Suikyōtenmangū",
+        "zh": "水鏡天満宫"
+      },
+      "desc": {
+        "ja": "駅から約1131mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1131 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1131米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1131,
+      "walk_min": 15,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/96531662",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.592535,
+      "lon": 130.4018417
+    },
+    {
+      "id": "st00400-020",
+      "category": "convenience",
+      "name": {
+        "ja": "ローソン",
+        "en": "Lawson",
+        "zh": "罗森"
+      },
+      "desc": {
+        "ja": "LAWSONのコンビニエンスストア。駅から約1687mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 1687 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约1687米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 1687,
+      "walk_min": 22,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/4380884160",
+      "tel": "+81 092-260-1413",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.6016747,
+      "lon": 130.4004916,
+      "official_url_pending": "https://www.e-map.ne.jp/p/lawson/dtl/235683/"
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 1757,
+    "floor_check": {
+      "medical": {
+        "candidates": 60,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 28,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 161,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 24,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 13,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 2,
+        "selected": 1
+      }
+    }
+  }
+}
