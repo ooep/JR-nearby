@@ -1,0 +1,92 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st05574",
+    "name": {
+      "ja": "高尾",
+      "en": "Takao",
+      "zh": "高尾"
+    },
+    "line_group": [
+      "樽見線"
+    ],
+    "pref": "岐阜県",
+    "lat": 35.60214,
+    "lon": 136.62583
+  },
+  "generated_at": "2026-11-07T01:02:43Z",
+  "pois": [
+    {
+      "id": "st05574-001",
+      "category": "park",
+      "name": {
+        "ja": "根尾谷地震断層観察館",
+        "en": "Neodani Seismic Faults Observation Museum & Experience Hall",
+        "zh": "根尾谷地震断層观察馆"
+      },
+      "desc": {
+        "ja": "駅から約1594mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1594 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1594米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1594,
+      "walk_min": 20,
+      "hours": "Tu-Su 09:00-17:00; Nov-Mar 10:00-16:00; Apr 09:00-17:00; Mo off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.motosukankou.gr.jp/02_sightseeing/02_06.html",
+      "tel": "+81 581 38 3560",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6158826,
+      "lon": 136.6208132
+    }
+  ],
+  "coverage": {
+    "poi_count": 1,
+    "radius_m": 2000,
+    "confidence": "low",
+    "gaps": [
+      "2公里圈内未检索到医疗机构候选",
+      "2公里圈内未检索到银行/ATM候选",
+      "2公里圈内未检索到便利店候选",
+      "2公里圈内未检索到邮局候选",
+      "2公里圈内未检索到警察设施候选",
+      "2公里圈内未检索到观光案内所候选",
+      "站周边候选稀少，仅收录上述条目，商业与餐饮需前往邻近车站周边"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 5,
+    "floor_check": {
+      "medical": {
+        "candidates": 0,
+        "selected": 0
+      },
+      "bank_atm": {
+        "candidates": 0,
+        "selected": 0
+      },
+      "convenience": {
+        "candidates": 0,
+        "selected": 0
+      },
+      "post_office": {
+        "candidates": 0,
+        "selected": 0
+      },
+      "police": {
+        "candidates": 0,
+        "selected": 0
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
