@@ -1,0 +1,596 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st05520",
+    "name": {
+      "ja": "京王多摩センター",
+      "en": "Keiō-Tama-center",
+      "zh": "京王多摩センター"
+    },
+    "line_group": [
+      "相模原線"
+    ],
+    "pref": "東京都",
+    "lat": 35.62538,
+    "lon": 139.42453
+  },
+  "generated_at": "2026-11-07T00:56:43Z",
+  "pois": [
+    {
+      "id": "st05520-001",
+      "category": "cafe",
+      "name": {
+        "ja": "タリーズコーヒー",
+        "en": "Tully's Coffee",
+        "zh": "塔利咖啡"
+      },
+      "desc": {
+        "ja": "駅から約27mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。Mo-Fr 07:30-21:30; Sa-Su,PH 08:00-21:00（JST）。",
+        "en": "Cafe about 27 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约27米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 27,
+      "walk_min": 1,
+      "hours": "Mo-Fr 07:30-21:30; Sa-Su,PH 08:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.tullys.co.jp/",
+      "tel": "+81 42-357-3035",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6253932,
+      "lon": 139.4248287
+    },
+    {
+      "id": "st05520-002",
+      "category": "food",
+      "name": {
+        "ja": "サイゼリヤ",
+        "en": "Saizeriya",
+        "zh": "萨莉亚"
+      },
+      "desc": {
+        "ja": "駅から約293mにある飲食店。italian料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 293 m from the station. Serves italian cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约293米的餐馆主营italian，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 293,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1443969401",
+      "tel": "042-389-3707",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6229585,
+      "lon": 139.4258206
+    },
+    {
+      "id": "st05520-003",
+      "category": "shopping",
+      "name": {
+        "ja": "京王多摩センターSC",
+        "en": "京王多摩senta-SC",
+        "zh": "京王多摩センターSC"
+      },
+      "desc": {
+        "ja": "駅から約68mにある百貨店。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Department store about 68 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约68米的百货店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 68,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2196765056",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6254782,
+      "lon": 139.4252757
+    },
+    {
+      "id": "st05520-004",
+      "category": "shopping",
+      "name": {
+        "ja": "多摩カリヨン館",
+        "en": "多摩kariyon館",
+        "zh": "多摩カリヨン馆"
+      },
+      "desc": {
+        "ja": "駅から約105mにある百貨店。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Department store about 105 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约105米的百货店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 105,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2195653901",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6249183,
+      "lon": 139.4255398
+    },
+    {
+      "id": "st05520-005",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "7-ELEVENのコンビニエンスストア。駅から約126mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 126 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约126米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 126,
+      "walk_min": 2,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.sej.co.jp/",
+      "tel": "042-356-1711",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.626019,
+      "lon": 139.4256748
+    },
+    {
+      "id": "st05520-006",
+      "category": "bank_atm",
+      "name": {
+        "ja": "三井住友信託銀行",
+        "en": "Sumitomo Mitsui Trust Bank",
+        "zh": "三井住友信託银行"
+      },
+      "desc": {
+        "ja": "三井住友信託銀行の支店。駅から約256mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 256 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约256米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 256,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1443986271",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6235484,
+      "lon": 139.42624
+    },
+    {
+      "id": "st05520-007",
+      "category": "food",
+      "name": {
+        "ja": "マクドナルド",
+        "en": "McDonald's",
+        "zh": "麦当劳"
+      },
+      "desc": {
+        "ja": "駅から約286mにある飲食店。burger料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は07:00-22:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 286 m from the station. Serves burger cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约286米的餐馆主营burger，适合旅途中用餐，07:00-22:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 286,
+      "walk_min": 4,
+      "hours": "07:00-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/310957487",
+      "tel": "042-389-3430",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6232979,
+      "lon": 139.4263969
+    },
+    {
+      "id": "st05520-008",
+      "category": "sight",
+      "name": {
+        "ja": "東京都埋蔵文化財センター",
+        "en": "Tokyo Metropolitan Archaeological Center",
+        "zh": "东京都埋蔵文化財センター"
+      },
+      "desc": {
+        "ja": "駅から約295mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 295 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约295米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 295,
+      "walk_min": 4,
+      "hours": "Mo-Su 09:30-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/172450653",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6260208,
+      "lon": 139.427692,
+      "official_url_pending": "https://www.tef.or.jp/maibun/"
+    },
+    {
+      "id": "st05520-009",
+      "category": "shopping",
+      "name": {
+        "ja": "ココリア多摩センター",
+        "en": "kokoria多摩senta-",
+        "zh": "ココリア多摩センター"
+      },
+      "desc": {
+        "ja": "駅から約330mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 330 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约330米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 330,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/131174932",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6224243,
+      "lon": 139.424864
+    },
+    {
+      "id": "st05520-010",
+      "category": "police",
+      "name": {
+        "ja": "多摩センター駅前交番",
+        "en": "多摩senta-駅前交番",
+        "zh": "多摩センター站前交番"
+      },
+      "desc": {
+        "ja": "駅から約121mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 121 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约121米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 121,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/209460597",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.624384,
+      "lon": 139.423999
+    },
+    {
+      "id": "st05520-011",
+      "category": "sight",
+      "name": {
+        "ja": "サンリオピューロランド",
+        "en": "Sanrio Puroland",
+        "zh": "三丽鸥彩虹乐园"
+      },
+      "desc": {
+        "ja": "駅から約449mにあるテーマパーク。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Theme park about 449 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约449米的主题乐园，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 449,
+      "walk_min": 6,
+      "hours": "Mo-Su 09:30-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.puroland.jp/",
+      "tel": "042-339-1111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6245529,
+      "lon": 139.4293888
+    },
+    {
+      "id": "st05520-012",
+      "category": "post_office",
+      "name": {
+        "ja": "多摩センター郵便局",
+        "en": "多摩senta-郵便局",
+        "zh": "多摩センター邮政局"
+      },
+      "desc": {
+        "ja": "駅から約390mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 390 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约390米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 390,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420772329",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.627977,
+      "lon": 139.427422
+    },
+    {
+      "id": "st05520-013",
+      "category": "park",
+      "name": {
+        "ja": "多摩中央公園",
+        "en": "Tama Central Park",
+        "zh": "多摩中央公园"
+      },
+      "desc": {
+        "ja": "駅から約519mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 519 m from the station, with paths and benches for a rest.",
+        "zh": "距站约519米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 519,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/28848058",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6209274,
+      "lon": 139.4262705
+    },
+    {
+      "id": "st05520-014",
+      "category": "sight",
+      "name": {
+        "ja": "長谷工マンションミュージアム",
+        "en": "Haseko Mansion Museum",
+        "zh": "长谷工マンションミュージアム"
+      },
+      "desc": {
+        "ja": "駅から約624mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 624 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约624米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 624,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.haseko.co.jp/hmm/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6203198,
+      "lon": 139.4215572
+    },
+    {
+      "id": "st05520-015",
+      "category": "convenience",
+      "name": {
+        "ja": "ファミリーマート",
+        "en": "FamilyMart",
+        "zh": "全家便利店"
+      },
+      "desc": {
+        "ja": "FamilyMartのコンビニエンスストア。駅から約626mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 626 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约626米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 626,
+      "walk_min": 8,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/294874966",
+      "tel": "+81 42 355 8890",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6237945,
+      "lon": 139.431175
+    },
+    {
+      "id": "st05520-016",
+      "category": "sight",
+      "name": {
+        "ja": "旧富澤家住宅",
+        "en": "Former Tomizawa Family Residence",
+        "zh": "旧富澤家住宅"
+      },
+      "desc": {
+        "ja": "駅から約658mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 658 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约658米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 658,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.city.tama.lg.jp/map/bunka/bunka/1004096.html",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6195964,
+      "lon": 139.4260834
+    },
+    {
+      "id": "st05520-017",
+      "category": "medical",
+      "name": {
+        "ja": "コサカ薬局",
+        "en": "kosaka薬局",
+        "zh": "コサカ薬局"
+      },
+      "desc": {
+        "ja": "駅から約38mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 38 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约38米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 38,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4550125528",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6257247,
+      "lon": 139.4245512
+    },
+    {
+      "id": "st05520-018",
+      "category": "public_service",
+      "name": {
+        "ja": "エコにこセンター",
+        "en": "ekonikosenta-",
+        "zh": "Ekonikosenta-"
+      },
+      "desc": {
+        "ja": "駅から約1853mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 1853 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1853米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1853,
+      "walk_min": 24,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.tama-seisokojo.or.jp/center_top",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6126835,
+      "lon": 139.4112575
+    },
+    {
+      "id": "st05520-019",
+      "category": "public_service",
+      "name": {
+        "ja": "松が谷コミュニティプレイスまつまる",
+        "en": "松ga谷komiyuniteipureisumatsumaru",
+        "zh": "松ga谷komiyuniteipureisumatsumaru"
+      },
+      "desc": {
+        "ja": "駅から約893mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 893 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约893米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 893,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/13759579096",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6281317,
+      "lon": 139.4152462
+    }
+  ],
+  "coverage": {
+    "poi_count": 19,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 284,
+    "floor_check": {
+      "medical": {
+        "candidates": 27,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 7,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 36,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 10,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 10,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
