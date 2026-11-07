@@ -1,0 +1,627 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st03198",
+    "name": {
+      "ja": "朝霞",
+      "en": "Asaka",
+      "zh": "朝霞"
+    },
+    "line_group": [
+      "東上本線",
+      "東横線",
+      "相鉄本線"
+    ],
+    "pref": "埼玉県",
+    "lat": 35.79667,
+    "lon": 139.60017
+  },
+  "generated_at": "2026-11-07T08:12:53Z",
+  "pois": [
+    {
+      "id": "st03198-001",
+      "category": "food",
+      "name": {
+        "ja": "ケンタッキーフライドチキン",
+        "en": "KFC",
+        "zh": "肯德基"
+      },
+      "desc": {
+        "ja": "駅から約77mにある飲食店。chicken料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Su 10:00-21:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 77 m from the station. Serves chicken cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约77米的餐馆主营chicken，适合旅途中用餐，Mo-Su 10:00-21:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 77,
+      "walk_min": 1,
+      "hours": "Mo-Su 10:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/732303272",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7970045,
+      "lon": 139.5994174
+    },
+    {
+      "id": "st03198-002",
+      "category": "convenience",
+      "name": {
+        "ja": "ファミリーマート",
+        "en": "FamilyMart",
+        "zh": "全家便利店"
+      },
+      "desc": {
+        "ja": "FamilyMartのコンビニエンスストア。駅から約55mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 55 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约55米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 55,
+      "walk_min": 1,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/8555331619",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.796711,
+      "lon": 139.6007823
+    },
+    {
+      "id": "st03198-003",
+      "category": "medical",
+      "name": {
+        "ja": "ミント薬局",
+        "en": "minto薬局",
+        "zh": "ミント薬局"
+      },
+      "desc": {
+        "ja": "駅から約166mにある薬局。体調を崩した際の受診や薬の購入に対応する。受付はMo-We,Fr 09:00-13:00,14:00-18:00; Th,Su,PH off; Sa 09:00-13:00（JST）。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 166 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约166米的药房，Mo-We, Fr 09:00-13:00, 14:00-18:00, Th, Su, PH off, Sa 09:00-13:00（JST），旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 166,
+      "walk_min": 3,
+      "hours": "Mo-We,Fr 09:00-13:00,14:00-18:00; Th,Su,PH off; Sa 09:00-13:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/13711071441",
+      "tel": "+81 484513560",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7960984,
+      "lon": 139.5984685
+    },
+    {
+      "id": "st03198-004",
+      "category": "bank_atm",
+      "name": {
+        "ja": "みずほ銀行",
+        "en": "Mizuho Bank",
+        "zh": "瑞穗银行"
+      },
+      "desc": {
+        "ja": "みずほ銀行の支店。駅から約119mにあり、預け入れ・引き出しやATMの利用に対応する。窓口はMo-Fr 09:00-15:00（JST）。",
+        "en": "Bank about 119 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约119米的银行网点，Mo-Fr 09:00-15:00（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 119,
+      "walk_min": 2,
+      "hours": "Mo-Fr 09:00-15:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2005934522",
+      "tel": "+81-48-4664611",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7967147,
+      "lon": 139.5988545,
+      "official_url_pending": "https://www.mizuhobank.co.jp/"
+    },
+    {
+      "id": "st03198-005",
+      "category": "shopping",
+      "name": {
+        "ja": "おとうさんのぱんや",
+        "en": "otousannopanya",
+        "zh": "Otousannopanya"
+      },
+      "desc": {
+        "ja": "駅から約104mにあるベーカリー。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Bakery about 104 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约104米的面包店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 104,
+      "walk_min": 2,
+      "hours": "Mo-Su,PH 07:30-18:30; Su off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6846832062",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7958584,
+      "lon": 139.5995993
+    },
+    {
+      "id": "st03198-006",
+      "category": "shopping",
+      "name": {
+        "ja": "アサカベーカリー本町店",
+        "en": "asakabe-kari-本町店",
+        "zh": "アサカベーカリー本町店"
+      },
+      "desc": {
+        "ja": "駅から約306mにあるベーカリー。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Bakery about 306 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约306米的面包店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 306,
+      "walk_min": 4,
+      "hours": "We-Su 06:00-19:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/8555343418",
+      "tel": "0120-017-788",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7992592,
+      "lon": 139.5990337
+    },
+    {
+      "id": "st03198-007",
+      "category": "post_office",
+      "name": {
+        "ja": "朝霞郵便局",
+        "en": "Asaka Post Office",
+        "zh": "朝霞邮政局"
+      },
+      "desc": {
+        "ja": "駅から約454mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 454 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约454米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 454,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/251502003",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7962228,
+      "lon": 139.5951698
+    },
+    {
+      "id": "st03198-008",
+      "category": "public_service",
+      "name": {
+        "ja": "朝霞市立図書館",
+        "en": "Asaka Municipal Library",
+        "zh": "朝霞市立图书馆"
+      },
+      "desc": {
+        "ja": "駅から約501mにある図書館。手続きや調べ物、休憩に利用できる公共の施設。詳細は現地の案内を参照。",
+        "en": "Library about 501 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约501米的图书馆，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 501,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.asakalib.jp",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.793545,
+      "lon": 139.5961648
+    },
+    {
+      "id": "st03198-009",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "溝沼ノ氷川神社",
+        "en": "溝沼no氷川神社",
+        "zh": "溝沼ノ氷川神社"
+      },
+      "desc": {
+        "ja": "駅から約1456mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1456 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1456米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1456,
+      "walk_min": 19,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2360209350",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8067473,
+      "lon": 139.5898605
+    },
+    {
+      "id": "st03198-010",
+      "category": "shopping",
+      "name": {
+        "ja": "石窯パン工房サンメリー",
+        "en": "石窯pan工房sanmeri-",
+        "zh": "石窯パン工房サンメリー"
+      },
+      "desc": {
+        "ja": "駅から約969mにあるベーカリー。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Bakery about 969 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约969米的面包店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 969,
+      "walk_min": 13,
+      "hours": "Mo-Sa 08:30-19:30, Su 08:00-19:30 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.sunmerrys.co.jp/ishigama/",
+      "tel": "+81 48-450-3232",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.802479,
+      "lon": 139.5921544
+    },
+    {
+      "id": "st03198-011",
+      "category": "food",
+      "name": {
+        "ja": "JAZZ 喫茶 海",
+        "en": "JAZZ Cafe Sea",
+        "zh": "JAZZ 喫茶 海"
+      },
+      "desc": {
+        "ja": "駅から約1043mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1043 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约1043米的餐馆适合旅途中用餐，菜单与价格以店内展示内容为准，具体信息以现场为准。"
+      },
+      "distance_m": 1043,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www5e.biglobe.ne.jp/jazz-umi/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7875897,
+      "lon": 139.5972727
+    },
+    {
+      "id": "st03198-012",
+      "category": "food",
+      "name": {
+        "ja": "サイゼリヤ",
+        "en": "Saizeriya",
+        "zh": "萨莉亚"
+      },
+      "desc": {
+        "ja": "駅から約1206mにある飲食店。italian料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1206 m from the station. Serves italian cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1206米的餐馆主营italian，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1206,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://shop.saizeriya.co.jp/sz_restaurant/spot/detail?code=0381",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7894744,
+      "lon": 139.5901616
+    },
+    {
+      "id": "st03198-013",
+      "category": "public_service",
+      "name": {
+        "ja": "根岸台市民センター",
+        "en": "根岸台市民senta-",
+        "zh": "根岸台市民センター"
+      },
+      "desc": {
+        "ja": "駅から約1227mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 1227 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1227米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1227,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.city.asaka.lg.jp/soshiki/12/negishidaicenter.html",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8069163,
+      "lon": 139.6052328
+    },
+    {
+      "id": "st03198-014",
+      "category": "police",
+      "name": {
+        "ja": "朝霞警察署",
+        "en": "Asaka Police Station",
+        "zh": "朝霞警察署"
+      },
+      "desc": {
+        "ja": "駅から約1231mにある警察署。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1231 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1231米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1231,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420197270",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7872962,
+      "lon": 139.5929098
+    },
+    {
+      "id": "st03198-015",
+      "category": "sight",
+      "name": {
+        "ja": "陸上自衛隊広報センター",
+        "en": "JGSDF Public Information Center",
+        "zh": "陆上自衛隊广報センター"
+      },
+      "desc": {
+        "ja": "駅から約1304mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1304 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1304米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1304,
+      "walk_min": 17,
+      "hours": "Mo-Su 10:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6194400688",
+      "tel": "+81-3-3924-4176",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7849517,
+      "lon": 139.5997345,
+      "official_url_pending": "https://www.mod.go.jp/gsdf/eae/prcenter/"
+    },
+    {
+      "id": "st03198-016",
+      "category": "post_office",
+      "name": {
+        "ja": "和光郵便局",
+        "en": "Wako Post Office",
+        "zh": "和光邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1465mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-19:00; Sa-Su,PH off（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1465 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1465米的邮局，Mo-Fr 09:00-19:00, Sa-Su, PH off（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 1465,
+      "walk_min": 19,
+      "hours": "Mo-Fr 09:00-19:00; Sa-Su,PH off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/113972527",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.786343,
+      "lon": 139.6102515
+    },
+    {
+      "id": "st03198-017",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "岡ノ氷川神社",
+        "en": "Okano Hikawa Shrine",
+        "zh": "冈ノ氷川神社"
+      },
+      "desc": {
+        "ja": "駅から約1520mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1520 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1520米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1520,
+      "walk_min": 19,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2360209349",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8101015,
+      "lon": 139.6033112
+    },
+    {
+      "id": "st03198-018",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "膝折ノ氷川神社",
+        "en": "Hizaore-no-Hikawa Shrine",
+        "zh": "膝折ノ氷川神社"
+      },
+      "desc": {
+        "ja": "駅から約1941mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1941 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1941米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1941,
+      "walk_min": 25,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2360209351",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7870073,
+      "lon": 139.5822416
+    },
+    {
+      "id": "st03198-019",
+      "category": "medical",
+      "name": {
+        "ja": "セイムス",
+        "en": "Seims",
+        "zh": "Seimusu"
+      },
+      "desc": {
+        "ja": "駅から約69mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 69 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约69米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 69,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/11222394851",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7967103,
+      "lon": 139.6009296
+    },
+    {
+      "id": "st03198-020",
+      "category": "sight",
+      "name": {
+        "ja": "朝霞市博物館",
+        "en": "Asaka City Museum",
+        "zh": "朝霞市博物馆"
+      },
+      "desc": {
+        "ja": "駅から約1799mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1799 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1799米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1799,
+      "walk_min": 23,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420179429",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.812689,
+      "lon": 139.597387,
+      "official_url_pending": "https://www.city.asaka.lg.jp/soshiki/42/museum.html"
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 239,
+    "floor_check": {
+      "medical": {
+        "candidates": 28,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 14,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 37,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 6,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 3,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
