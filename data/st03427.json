@@ -1,0 +1,628 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st03427",
+    "name": {
+      "ja": "十条",
+      "en": "Jūjō",
+      "zh": "十条"
+    },
+    "line_group": [
+      "烏丸線",
+      "近鉄京都線",
+      "近鉄奈良線"
+    ],
+    "pref": "京都府",
+    "lat": 34.9726,
+    "lon": 135.75971
+  },
+  "generated_at": "2026-11-07T09:10:54Z",
+  "pois": [
+    {
+      "id": "st03427-001",
+      "category": "park",
+      "name": {
+        "ja": "高松橋ひろば",
+        "en": "高松橋hiroba",
+        "zh": "高松橋hiroba"
+      },
+      "desc": {
+        "ja": "駅から約882mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 882 m from the station, with paths and benches for a rest.",
+        "zh": "距站约882米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 882,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/619973159",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9728888,
+      "lon": 135.7693811
+    },
+    {
+      "id": "st03427-002",
+      "category": "police",
+      "name": {
+        "ja": "伏見警察署砂川交番",
+        "en": "Police Academy",
+        "zh": "伏見警察署砂川交番"
+      },
+      "desc": {
+        "ja": "駅から約641mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 641 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约641米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 641,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1422962080",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.96896,
+      "lon": 135.7651707
+    },
+    {
+      "id": "st03427-003",
+      "category": "public_service",
+      "name": {
+        "ja": "京都テルサ (Kyoto terrsa)",
+        "en": "Kyoto terrsa",
+        "zh": "京都テルサ (Kyoto terrsa)"
+      },
+      "desc": {
+        "ja": "駅から約618mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 618 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约618米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 618,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/relation/2131193",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9773964,
+      "lon": 135.7562784
+    },
+    {
+      "id": "st03427-004",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "芬陀院",
+        "en": "Funda-in",
+        "zh": "芬陀院"
+      },
+      "desc": {
+        "ja": "駅から約1200mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 1200 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1200米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1200,
+      "walk_min": 15,
+      "hours": "Mo-Su 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/4865434523",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9763037,
+      "lon": 135.7720766
+    },
+    {
+      "id": "st03427-005",
+      "category": "bank_atm",
+      "name": {
+        "ja": "京都中央信用金庫",
+        "en": "Kyoto Chuo Shinkin Bank",
+        "zh": "京都中央信用金庫"
+      },
+      "desc": {
+        "ja": "京都中央信用金庫の支店。駅から約141mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 141 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约141米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 141,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/9509890207",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.972976,
+      "lon": 135.7611889
+    },
+    {
+      "id": "st03427-006",
+      "category": "medical",
+      "name": {
+        "ja": "Grégory Puret Ostéopathe D.O.　グレゴリーオステオパシー",
+        "en": "Grégory Puret Ostéopathe D.O.　guregori-osuteopashi-",
+        "zh": "Grégory Puret Ostéopathe D.O.　グレゴリーオステオパシー"
+      },
+      "desc": {
+        "ja": "駅から約885mにあるクリニック。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Clinic about 885 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约885米的诊所，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 885,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/10301662215",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9715822,
+      "lon": 135.7693378,
+      "official_url_pending": "http://gp-osteopath.com"
+    },
+    {
+      "id": "st03427-007",
+      "category": "shopping",
+      "name": {
+        "ja": "京都アバンティ",
+        "en": "KYOTO AVANTI",
+        "zh": "阿凡提百货"
+      },
+      "desc": {
+        "ja": "駅から約1214mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 1214 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1214米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准。"
+      },
+      "distance_m": 1214,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.kyoto-avanti.com",
+      "tel": "+81 75 682 5031",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9835055,
+      "lon": 135.7603044
+    },
+    {
+      "id": "st03427-008",
+      "category": "lodging",
+      "name": {
+        "ja": "都ホテル 京都八条",
+        "en": "Miyako Hotel Kyoto Hachijo",
+        "zh": "都ホテル 京都八条"
+      },
+      "desc": {
+        "ja": "駅から約1276mにある宿泊施設。観光やビジネスの拠点として利用できる。チェックイン時間は予約時に確認を。",
+        "en": "Lodging about 1276 m from the station, a convenient base for sightseeing or business.",
+        "zh": "距站约1276米的住宿设施，可作为观光或商务出行的落脚点，入住方式以预订信息为准。"
+      },
+      "distance_m": 1276,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/1081802237",
+      "tel": "+81 75 661 7111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.983637,
+      "lon": 135.7558949,
+      "official_url_pending": "https://www.miyakohotels.ne.jp/kyoto-hachijo/"
+    },
+    {
+      "id": "st03427-009",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "東寺",
+        "en": "To-ji Temple",
+        "zh": "东寺"
+      },
+      "desc": {
+        "ja": "駅から約1452mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 1452 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1452米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1452,
+      "walk_min": 19,
+      "hours": "Mo-Su 05:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://toji.or.jp/",
+      "tel": "+81 75-691-3325",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.981189,
+      "lon": 135.74771
+    },
+    {
+      "id": "st03427-010",
+      "category": "lodging",
+      "name": {
+        "ja": "ホテルグランヴィア京都",
+        "en": "Hotel Granvia Kyoto",
+        "zh": "ホテルグランヴィア京都"
+      },
+      "desc": {
+        "ja": "駅から約1473mにある宿泊施設（5つ星）。観光やビジネスの拠点として利用できる。チェックイン時間は予約時に確認を。",
+        "en": "Lodging about 1473 m from the station, a convenient base for sightseeing or business.",
+        "zh": "距站约1473米的住宿设施（5星），可作为观光或商务出行的落脚点，入住方式以预订信息为准。"
+      },
+      "distance_m": 1473,
+      "walk_min": 19,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/299441374",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": "¥¥¥¥",
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9858426,
+      "lon": 135.7598191,
+      "official_url_pending": "https://www.granvia-kyoto.co.jp"
+    },
+    {
+      "id": "st03427-011",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "東福寺",
+        "en": "Tōfuku-ji",
+        "zh": "东福寺"
+      },
+      "desc": {
+        "ja": "駅から約1506mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 1506 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1506米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1506,
+      "walk_min": 19,
+      "hours": "Mo-Su 08:30-16:30 (JST)",
+      "hours_source": "osm",
+      "url": "https://tofukuji.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9771669,
+      "lon": 135.7752757
+    },
+    {
+      "id": "st03427-012",
+      "category": "medical",
+      "name": {
+        "ja": "京都第一赤十字病院",
+        "en": "Kyoto 1st Red Cross Hospital",
+        "zh": "京都第一赤十字病院"
+      },
+      "desc": {
+        "ja": "駅から約1524mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 1524 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1524米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1524,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/169195875",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9811437,
+      "lon": 135.7727934
+    },
+    {
+      "id": "st03427-013",
+      "category": "sight",
+      "name": {
+        "ja": "宝物館",
+        "en": "Treasure Museum",
+        "zh": "宝物馆"
+      },
+      "desc": {
+        "ja": "駅から約1550mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1550 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1550米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1550,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/187657227",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9821434,
+      "lon": 135.7473149,
+      "official_url_pending": "https://toji.or.jp/guide/houmotsukan/"
+    },
+    {
+      "id": "st03427-014",
+      "category": "tourist_info",
+      "name": {
+        "ja": "定期観光バス案内所",
+        "en": "定期観光basu案内所",
+        "zh": "定期观光バス案内所"
+      },
+      "desc": {
+        "ja": "駅から約1557mにある観光案内所。周辺の観光情報や地図、施設案内を提供している。散策の前に立ち寄ると便利。",
+        "en": "Tourist information office about 1557 m from the station, with maps and local guidance.",
+        "zh": "距站约1557米的观光服务台，提供周边旅游信息、地图与咨询服务，可先在此规划行程。"
+      },
+      "distance_m": 1557,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2789395181",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9865288,
+      "lon": 135.7580049
+    },
+    {
+      "id": "st03427-015",
+      "category": "post_office",
+      "name": {
+        "ja": "京都中央郵便局",
+        "en": "Kyoto Central Post Office",
+        "zh": "京都中央邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1569mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1569 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1569米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 1569,
+      "walk_min": 20,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1422960098",
+      "tel": "+81-800-0800-111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9865341,
+      "lon": 135.757026,
+      "official_url_pending": "https://map.japanpost.jp/p/search/dtl/300144089000/"
+    },
+    {
+      "id": "st03427-016",
+      "category": "sight",
+      "name": {
+        "ja": "柳原銀行記念資料館",
+        "en": "Yanagihara Bank Memorial Museum",
+        "zh": "柳原银行纪念资料馆"
+      },
+      "desc": {
+        "ja": "駅から約1577mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1577 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1577米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1577,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4045618965",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9861652,
+      "lon": 135.7647494
+    },
+    {
+      "id": "st03427-017",
+      "category": "sight",
+      "name": {
+        "ja": "古都京都の文化財（京都市、宇治市、大津市）",
+        "en": "Historic Monuments of Ancient Kyoto (Kyoto, Uji and Otsu Cities)",
+        "zh": "古京都遗址（京都、宇治和大津城）"
+      },
+      "desc": {
+        "ja": "駅から約1648mにある史跡。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Heritage site about 1648 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1648米的史迹，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1648,
+      "walk_min": 21,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/relation/8252871",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9756599,
+      "lon": 135.7420087
+    },
+    {
+      "id": "st03427-018",
+      "category": "sight",
+      "name": {
+        "ja": "京都タワー",
+        "en": "Kyoto Tower",
+        "zh": "京都タワー"
+      },
+      "desc": {
+        "ja": "駅から約1663mにある観光スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。入場は有料。",
+        "en": "Attraction about 1663 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1663米的观光景点，入场收费，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1663,
+      "walk_min": 21,
+      "hours": "Mo-Su 10:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.keihanhotels-resorts.co.jp/kyoto-tower/",
+      "tel": "+81 75-361-3215",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9875558,
+      "lon": 135.7593285
+    },
+    {
+      "id": "st03427-019",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "7-ELEVENのコンビニエンスストア。駅から約1682mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 1682 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约1682米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 1682,
+      "walk_min": 22,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.sej.co.jp/",
+      "tel": "+81755411711",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9827033,
+      "lon": 135.7734509
+    },
+    {
+      "id": "st03427-020",
+      "category": "sight",
+      "name": {
+        "ja": "京都水族館",
+        "en": "Kyoto Aquarium",
+        "zh": "京都水族馆"
+      },
+      "desc": {
+        "ja": "駅から約1992mにある水族館。周辺を代表する見どころの一つで、散策の目的地にしやすい。入場は有料。",
+        "en": "Aquarium about 1992 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1992米的水族馆，入场收费，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1992,
+      "walk_min": 25,
+      "hours": "10:00-20:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.kyoto-aquarium.com/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9875609,
+      "lon": 135.7476882
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 982,
+    "floor_check": {
+      "medical": {
+        "candidates": 54,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 25,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 79,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 19,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 18,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 3,
+        "selected": 1
+      }
+    }
+  }
+}
