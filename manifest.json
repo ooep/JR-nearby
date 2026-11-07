@@ -1,12 +1,12 @@
 {
   "schema": "manifest.v1",
-  "updated_at": "2026-11-07T01:08:43Z",
+  "updated_at": "2026-11-07T01:09:08Z",
   "universe": {
     "source": "ooep/JR-images data/stations_all.json",
     "tag": "all8909",
     "total": 8909
   },
-  "done": 311,
+  "done": 312,
   "trilingual_missing": 0,
   "url_unreachable": 0,
   "by_pref": {
@@ -33,7 +33,8 @@
     "長崎県": 2,
     "長野県": 1,
     "静岡県": 2,
-    "高知県": 1
+    "高知県": 1,
+    "鳥取県": 1
   },
   "batches": [
     {
@@ -220,7 +221,7 @@
         "trilingual_missing": 0,
         "duplicates": 0,
         "radius_m": 2000,
-        "note": "森ノ宮 (st01122): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=1043（精确）"
+        "note": "浦安 (st05024): OSM 事实驱动，floor_check 六类保底；本地 validate 0 error；candidates=19（精确）"
       }
     },
     {
