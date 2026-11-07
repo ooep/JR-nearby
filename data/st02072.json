@@ -1,0 +1,571 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st02072",
+    "name": {
+      "ja": "春日部",
+      "en": "Kasukabe",
+      "zh": "春日部"
+    },
+    "line_group": [
+      "伊勢崎線",
+      "会津線",
+      "半蔵門線",
+      "日比谷線",
+      "東武鬼怒川線",
+      "田園都市線",
+      "野田線"
+    ],
+    "pref": "埼玉県",
+    "lat": 35.98011,
+    "lon": 139.75216
+  },
+  "generated_at": "2026-11-07T09:33:33Z",
+  "pois": [
+    {
+      "id": "st02072-001",
+      "category": "bank_atm",
+      "name": {
+        "ja": "みずほ銀行",
+        "en": "Mizuho Bank",
+        "zh": "瑞穗银行"
+      },
+      "desc": {
+        "ja": "みずほ銀行の支店。駅から約67mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 67 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约67米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 67,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6433502189",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9795719,
+      "lon": 139.7518336
+    },
+    {
+      "id": "st02072-002",
+      "category": "food",
+      "name": {
+        "ja": "はま寿司",
+        "en": "Hamazushi",
+        "zh": "Hama寿司"
+      },
+      "desc": {
+        "ja": "駅から約1178mにある飲食店。sushi料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Su 10:30-21:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1178 m from the station. Serves sushi cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1178米的餐馆主营sushi，适合旅途中用餐，Mo-Su 10:30-21:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1178,
+      "walk_min": 15,
+      "hours": "Mo-Su 10:30-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://maps.hama-sushi.co.jp/jp/detail/4403.html",
+      "tel": "+81 48 731 2611",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9695732,
+      "lon": 139.7535483
+    },
+    {
+      "id": "st02072-003",
+      "category": "tourist_info",
+      "name": {
+        "ja": "春日部情報発信館ぷらっとかすかべ",
+        "en": "春日部情報発信館puratokasukabe",
+        "zh": "春日部情報発信館puratokasukabe"
+      },
+      "desc": {
+        "ja": "駅から約194mにある観光案内所。周辺の観光情報や地図、施設案内を提供している。散策の前に立ち寄ると便利。",
+        "en": "Tourist information office about 194 m from the station, with maps and local guidance.",
+        "zh": "距站约194米的观光服务台，提供周边旅游信息、地图与咨询服务，可先在此规划行程。"
+      },
+      "distance_m": 194,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/8374741884",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.981317,
+      "lon": 139.7537197
+    },
+    {
+      "id": "st02072-004",
+      "category": "food",
+      "name": {
+        "ja": "てまり",
+        "en": "temari",
+        "zh": "Temari"
+      },
+      "desc": {
+        "ja": "駅から約999mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。営業はTu-Su 11:30-15:00, 18:00-22:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 999 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约999米的餐馆适合旅途中用餐，Tu-Su 11:30-15:00, 18:00-22:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 999,
+      "walk_min": 13,
+      "hours": "Tu-Su 11:30-15:00, 18:00-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/440430634",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9763617,
+      "lon": 139.7420679,
+      "official_url_pending": "http://te-ma-ri.com"
+    },
+    {
+      "id": "st02072-005",
+      "category": "shopping",
+      "name": {
+        "ja": "イトーヨーカドー",
+        "en": "Ito-Yokado",
+        "zh": "伊藤洋华堂"
+      },
+      "desc": {
+        "ja": "駅から約251mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 251 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约251米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 251,
+      "walk_min": 4,
+      "hours": "09:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/relation/7012858",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9796757,
+      "lon": 139.7494206
+    },
+    {
+      "id": "st02072-006",
+      "category": "food",
+      "name": {
+        "ja": "バーガーキング",
+        "en": "Burger King",
+        "zh": "Ba-ga-kingu"
+      },
+      "desc": {
+        "ja": "駅から約143mにある飲食店。burger料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は08:00-22:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 143 m from the station. Serves burger cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约143米的餐馆主营burger，适合旅途中用餐，08:00-22:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 143,
+      "walk_min": 2,
+      "hours": "08:00-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/3664348084",
+      "tel": "048 812 5539",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.978844,
+      "lon": 139.7518872
+    },
+    {
+      "id": "st02072-007",
+      "category": "post_office",
+      "name": {
+        "ja": "春日部仲町郵便局",
+        "en": "春日部仲町 Post Office",
+        "zh": "春日部仲町邮政局"
+      },
+      "desc": {
+        "ja": "駅から約329mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 329 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约329米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 329,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420197010",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.982281,
+      "lon": 139.754645
+    },
+    {
+      "id": "st02072-008",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "梅田寺",
+        "en": "umedatera",
+        "zh": "梅田寺"
+      },
+      "desc": {
+        "ja": "駅から約1877mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 1877 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1877米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1877,
+      "walk_min": 24,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6464041788",
+      "tel": "+81 48-752-3222",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9942669,
+      "lon": 139.7408055
+    },
+    {
+      "id": "st02072-009",
+      "category": "shopping",
+      "name": {
+        "ja": "LaLaガーデン春日部",
+        "en": "LaLa Garden Kasukabe",
+        "zh": "LaLaガーデン春日部"
+      },
+      "desc": {
+        "ja": "駅から約438mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 438 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约438米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 438,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/162138561",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9771633,
+      "lon": 139.7553885
+    },
+    {
+      "id": "st02072-010",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "春日部八幡神社拝殿",
+        "en": "Kasukabe Hachiman Jinja Haiden",
+        "zh": "春日部八幡神社拝殿"
+      },
+      "desc": {
+        "ja": "駅から約916mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 916 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约916米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 916,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5014884181",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9814049,
+      "lon": 139.742102,
+      "official_url_pending": "https://www.kasukabe-hachiman.jp/"
+    },
+    {
+      "id": "st02072-011",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "セブン-イレブンのコンビニエンスストア。駅から約539mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 539 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约539米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 539,
+      "walk_min": 7,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1740633011",
+      "tel": "+81 48 754 4850",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9754901,
+      "lon": 139.7503355,
+      "official_url_pending": "https://www.e-map.ne.jp/p/711map/dtl/505480/?&p_s1=40000&p_f2=1&p_f3=1&p_f4=1&cond40=1&cond41=1&&his=aw,nm&srchplace=35.9720028,139.7555472"
+    },
+    {
+      "id": "st02072-012",
+      "category": "medical",
+      "name": {
+        "ja": "春日部市立医療センター",
+        "en": "Kasukabe Medical Center",
+        "zh": "春日部市立医療センター"
+      },
+      "desc": {
+        "ja": "駅から約613mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 613 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约613米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 613,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "http://www.kasukabe-cityhp.jp/",
+      "tel": "+81 48 735 1261",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.97462,
+      "lon": 139.751547
+    },
+    {
+      "id": "st02072-013",
+      "category": "sight",
+      "name": {
+        "ja": "都鳥の碑",
+        "en": "都鳥no碑",
+        "zh": "都鳥no碑"
+      },
+      "desc": {
+        "ja": "駅から約783mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Memorial about 783 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约783米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 783,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://bunka.nii.ac.jp/heritages/detail/438726",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9805664,
+      "lon": 139.7434786
+    },
+    {
+      "id": "st02072-014",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "村社女體神社本殿",
+        "en": "Sonsya Nyotai Jinja Honden",
+        "zh": "村社女體神社本殿"
+      },
+      "desc": {
+        "ja": "駅から約755mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 755 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约755米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 755,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/8528762820",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9860275,
+      "lon": 139.7480402
+    },
+    {
+      "id": "st02072-015",
+      "category": "park",
+      "name": {
+        "ja": "まちなみ公園",
+        "en": "machinami公園",
+        "zh": "Machinami公園"
+      },
+      "desc": {
+        "ja": "駅から約321mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 321 m from the station, with paths and benches for a rest.",
+        "zh": "距站约321米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 321,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/893931689",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9805171,
+      "lon": 139.7556933
+    },
+    {
+      "id": "st02072-016",
+      "category": "public_service",
+      "name": {
+        "ja": "パスポートセンター",
+        "en": "pasupo-tosenta-",
+        "zh": "Pasupo-tosenta-"
+      },
+      "desc": {
+        "ja": "駅から約355mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 355 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约355米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 355,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/8425154331",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9782301,
+      "lon": 139.7553481
+    },
+    {
+      "id": "st02072-017",
+      "category": "police",
+      "name": {
+        "ja": "春日部警察署春日部駅東口交番",
+        "en": "Koban",
+        "zh": "春日部警察署春日部站东口交番"
+      },
+      "desc": {
+        "ja": "駅から約97mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 97 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约97米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 97,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/911756296",
+      "tel": "+81 48 754 5228",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.980781,
+      "lon": 139.7528493
+    },
+    {
+      "id": "st02072-018",
+      "category": "park",
+      "name": {
+        "ja": "ミニ薬草園",
+        "en": "mini薬草園",
+        "zh": "ミニ薬草园"
+      },
+      "desc": {
+        "ja": "駅から約720mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 720 m from the station, with paths and benches for a rest.",
+        "zh": "距站约720米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 720,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/893931687",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9820582,
+      "lon": 139.7597909
+    }
+  ],
+  "coverage": {
+    "poi_count": 18,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 327,
+    "floor_check": {
+      "medical": {
+        "candidates": 33,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 14,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 38,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 9,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 5,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 1,
+        "selected": 1
+      }
+    }
+  }
+}
