@@ -1,0 +1,627 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st00914",
+    "name": {
+      "ja": "羽田空港第1・第2ターミナル",
+      "en": "Haneda Airport Terminal 1･2",
+      "zh": "羽田空港第1・第2ターミナル"
+    },
+    "line_group": [
+      "京急本線",
+      "京急空港線",
+      "北総線",
+      "成田空港線",
+      "東成田線",
+      "逗子線"
+    ],
+    "pref": "東京都",
+    "lat": 35.54978,
+    "lon": 139.78598
+  },
+  "generated_at": "2026-11-07T02:46:07Z",
+  "pois": [
+    {
+      "id": "st00914-001",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "羽田航空神社",
+        "en": "Haneda Koku Shrine",
+        "zh": "羽田航空神社"
+      },
+      "desc": {
+        "ja": "駅から約181mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 181 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约181米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 181,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/3266218149",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5487477,
+      "lon": 139.7844283
+    },
+    {
+      "id": "st00914-002",
+      "category": "bank_atm",
+      "name": {
+        "ja": "SMBC Bank",
+        "en": "Sumitomo Mitsui Banking Corporation",
+        "zh": "SMBC Bank"
+      },
+      "desc": {
+        "ja": "SMBC BankのATM。駅から約186mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 186 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约186米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 186,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/11597709097",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.548424,
+      "lon": 139.7847769
+    },
+    {
+      "id": "st00914-003",
+      "category": "bank_atm",
+      "name": {
+        "ja": "Mizuho Bank",
+        "en": "Mizuho Bank",
+        "zh": "Mizuho Bank"
+      },
+      "desc": {
+        "ja": "Mizuho BankのATM。駅から約186mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 186 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约186米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 186,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/11597709100",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5490508,
+      "lon": 139.7841249
+    },
+    {
+      "id": "st00914-004",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "7-ELEVENのコンビニエンスストア。駅から約450mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 450 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约450米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 450,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/12957916909",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5519331,
+      "lon": 139.7817668
+    },
+    {
+      "id": "st00914-005",
+      "category": "cafe",
+      "name": {
+        "ja": "タリーズコーヒー",
+        "en": "Tully's Coffee",
+        "zh": "塔利咖啡"
+      },
+      "desc": {
+        "ja": "駅から約190mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。Mo-Su 06:00-20:00（JST）。",
+        "en": "Cafe about 190 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约190米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 190,
+      "walk_min": 3,
+      "hours": "Mo-Su 06:00-20:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/3622719241",
+      "tel": "+81 3-5757-9478",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5489705,
+      "lon": 139.7841367,
+      "official_url_pending": "https://www.tullys.co.jp/"
+    },
+    {
+      "id": "st00914-006",
+      "category": "food",
+      "name": {
+        "ja": "ロイヤルホスト",
+        "en": "Royal Host",
+        "zh": "乐雅乐家庭餐厅"
+      },
+      "desc": {
+        "ja": "駅から約266mにある飲食店。japanese;italian;french料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 266 m from the station. Serves japanese and italian and french cuisine. Handy for a meal between sight.",
+        "zh": "距站约266米的餐馆主营japanese and italian and french，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 266,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/11374404683",
+      "tel": "+81 3 5757 9020",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5488471,
+      "lon": 139.7832729
+    },
+    {
+      "id": "st00914-007",
+      "category": "sight",
+      "name": {
+        "ja": "Gulliver's Deck",
+        "en": "Gulliver's Deck",
+        "zh": "Gulliver's Deck"
+      },
+      "desc": {
+        "ja": "駅から約231mにある展望スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Viewpoint about 231 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约231米的观景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 231,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/7251287087",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5487351,
+      "lon": 139.7837692
+    },
+    {
+      "id": "st00914-008",
+      "category": "shopping",
+      "name": {
+        "ja": "伊勢丹",
+        "en": "Isetan",
+        "zh": "伊势丹"
+      },
+      "desc": {
+        "ja": "駅から約243mにある百貨店。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Department store about 243 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约243米的百货店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 243,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/9459518995",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5494397,
+      "lon": 139.7833268
+    },
+    {
+      "id": "st00914-009",
+      "category": "post_office",
+      "name": {
+        "ja": "羽田空港郵便局",
+        "en": "Haneda Airport Post Office",
+        "zh": "羽田空港邮政局"
+      },
+      "desc": {
+        "ja": "駅から約250mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 250 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约250米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 250,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420796340",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.548295,
+      "lon": 139.78391
+    },
+    {
+      "id": "st00914-010",
+      "category": "police",
+      "name": {
+        "ja": "東京空港警察署第2ターミナル交番",
+        "en": "Koban",
+        "zh": "东京空港警察署第2ターミナル交番"
+      },
+      "desc": {
+        "ja": "駅から約250mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 250 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约250米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 250,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420784876",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5512166,
+      "lon": 139.7881082
+    },
+    {
+      "id": "st00914-011",
+      "category": "food",
+      "name": {
+        "ja": "カレースマイル",
+        "en": "Curry Smile",
+        "zh": "Kare-sumairu"
+      },
+      "desc": {
+        "ja": "駅から約172mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 172 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约172米的餐馆适合旅途中用餐，菜单与价格以店内展示内容为准，具体信息以现场为准。"
+      },
+      "distance_m": 172,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/9459524833",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.548461,
+      "lon": 139.7849868
+    },
+    {
+      "id": "st00914-012",
+      "category": "food",
+      "name": {
+        "ja": "大勝軒",
+        "en": "Taishoken",
+        "zh": "大勝軒"
+      },
+      "desc": {
+        "ja": "駅から約275mにある飲食店。ramen料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は10:00-20:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 275 m from the station. Serves ramen cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约275米的餐馆主营ramen，适合旅途中用餐，10:00-20:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 275,
+      "walk_min": 4,
+      "hours": "10:00-20:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/9459525044",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.55058,
+      "lon": 139.7831089,
+      "official_url_pending": "http://www.tai-sho-ken.com/"
+    },
+    {
+      "id": "st00914-013",
+      "category": "sight",
+      "name": {
+        "ja": "Terminal 2 Observation Deck (South)",
+        "en": "Terminal 2 Observation Deck (South)",
+        "zh": "Terminal 2 Observation Deck (South)"
+      },
+      "desc": {
+        "ja": "駅から約317mにある展望スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Viewpoint about 317 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约317米的观景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 317,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/7249343082",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5504887,
+      "lon": 139.7893694
+    },
+    {
+      "id": "st00914-014",
+      "category": "sight",
+      "name": {
+        "ja": "Terminal 2 Observation Deck (North)",
+        "en": "Terminal 2 Observation Deck (North)",
+        "zh": "Terminal 2 Observation Deck (North)"
+      },
+      "desc": {
+        "ja": "駅から約321mにある展望スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Viewpoint about 321 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约321米的观景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 321,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/7249343083",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5519319,
+      "lon": 139.7883405
+    },
+    {
+      "id": "st00914-015",
+      "category": "lodging",
+      "name": {
+        "ja": "羽田エクセルホテル東急",
+        "en": "Haneda Excel Hotel Tokyu",
+        "zh": "羽田エクセルホテル东急"
+      },
+      "desc": {
+        "ja": "駅から約402mにある宿泊施設。観光やビジネスの拠点として利用できる。チェックイン時間は予約時に確認を。",
+        "en": "Lodging about 402 m from the station, a convenient base for sightseeing or business.",
+        "zh": "距站约402米的住宿设施，可作为观光或商务出行的落脚点，入住方式以预订信息为准。"
+      },
+      "distance_m": 402,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/322878924",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5532948,
+      "lon": 139.7870182,
+      "official_url_pending": "http://www.haneda-e.tokyuhotels.co.jp/ja/index.html"
+    },
+    {
+      "id": "st00914-016",
+      "category": "police",
+      "name": {
+        "ja": "東京空港警察署",
+        "en": "Tokyo Airport Police Station",
+        "zh": "东京空港警察署"
+      },
+      "desc": {
+        "ja": "駅から約622mにある警察署。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 622 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约622米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 622,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/1303500451",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5551731,
+      "lon": 139.7841697
+    },
+    {
+      "id": "st00914-017",
+      "category": "medical",
+      "name": {
+        "ja": "Books & Drugs South",
+        "en": "Books & Drugs South",
+        "zh": "Books & Drugs South"
+      },
+      "desc": {
+        "ja": "駅から約1555mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 1555 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1555米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1555,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/677988306",
+      "tel": "+81 3 6428 0762",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5428472,
+      "lon": 139.7710529,
+      "official_url_pending": "https://duty-free-japan.jp/haneda/jp/h/shopinformation/BooksDrugsSouth.aspx"
+    },
+    {
+      "id": "st00914-018",
+      "category": "medical",
+      "name": {
+        "ja": "コクミン",
+        "en": "Kokumin",
+        "zh": "Kokumin"
+      },
+      "desc": {
+        "ja": "駅から約1580mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 1580 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1580米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1580,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.kokumin.co.jp/tax-free/",
+      "tel": "+81 3 5756 7127",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5449272,
+      "lon": 139.7695624
+    },
+    {
+      "id": "st00914-019",
+      "category": "tourist_info",
+      "name": {
+        "ja": "JR East travel service center",
+        "en": "JR East travel service center",
+        "zh": "JR East travel service center"
+      },
+      "desc": {
+        "ja": "駅から約1653mにある観光案内所。周辺の観光情報や地図、施設案内を提供している。散策の前に立ち寄ると便利。",
+        "en": "Tourist information office about 1653 m from the station, with maps and local guidance.",
+        "zh": "距站约1653米的观光服务台，提供周边旅游信息、地图与咨询服务，可先在此规划行程。"
+      },
+      "distance_m": 1653,
+      "walk_min": 21,
+      "hours": "Mo-Su 06:45-20:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/11370043386",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5439017,
+      "lon": 139.7692017,
+      "official_url_pending": "https://www.jreast.co.jp/e/customer_support/service_center_haneda.html"
+    },
+    {
+      "id": "st00914-020",
+      "category": "lodging",
+      "name": {
+        "ja": "ザ ロイヤルパークホテル 東京羽田",
+        "en": "The Royal Park Hotel Tokyo Haneda",
+        "zh": "ザ ロイヤルパークホテル 东京羽田"
+      },
+      "desc": {
+        "ja": "駅から約1655mにある宿泊施設（4つ星）。観光やビジネスの拠点として利用できる。チェックイン時間は予約時に確認を。",
+        "en": "Lodging about 1655 m from the station, a convenient base for sightseeing or business.",
+        "zh": "距站约1655米的住宿设施（4星），可作为观光或商务出行的落脚点，入住方式以预订信息为准。"
+      },
+      "distance_m": 1655,
+      "walk_min": 21,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/322819164",
+      "tel": "+81 3-6830-1111",
+      "tel_source": "osm",
+      "price_level": "¥¥¥¥",
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5466663,
+      "lon": 139.768093,
+      "official_url_pending": "https://www.royalparkhotels.co.jp/the/tokyohaneda/"
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 85,
+    "floor_check": {
+      "medical": {
+        "candidates": 2,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 8,
+        "selected": 2
+      },
+      "convenience": {
+        "candidates": 5,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 3,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 3,
+        "selected": 2
+      },
+      "tourist_info": {
+        "candidates": 2,
+        "selected": 1
+      }
+    }
+  }
+}
