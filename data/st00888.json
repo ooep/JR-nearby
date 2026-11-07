@@ -1,0 +1,636 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st00888",
+    "name": {
+      "ja": "東日本橋",
+      "en": "Higashi-Nihombashi",
+      "zh": "东日本桥"
+    },
+    "line_group": [
+      "京急本線",
+      "北総線",
+      "成田空港線",
+      "東成田線",
+      "浅草線",
+      "逗子線"
+    ],
+    "pref": "東京都",
+    "lat": 35.69211,
+    "lon": 139.78489
+  },
+  "generated_at": "2026-11-07T04:55:22Z",
+  "pois": [
+    {
+      "id": "st00888-001",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "7-ELEVENのコンビニエンスストア。駅から約24mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 24 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约24米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 24,
+      "walk_min": 1,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.sej.co.jp/",
+      "tel": "+81 3-5640-5657",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6922065,
+      "lon": 139.7846576
+    },
+    {
+      "id": "st00888-002",
+      "category": "post_office",
+      "name": {
+        "ja": "にほんばし蔵前郵便局",
+        "en": "nihonbashi蔵前郵便局",
+        "zh": "Nihonbashi蔵前郵便局"
+      },
+      "desc": {
+        "ja": "駅から約1041mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1041 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1041米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 1041,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/11943281533",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7004815,
+      "lon": 139.7900515
+    },
+    {
+      "id": "st00888-003",
+      "category": "sight",
+      "name": {
+        "ja": "両国花火資料館",
+        "en": "Ryogoku Fireworks Museum",
+        "zh": "両国花火资料馆"
+      },
+      "desc": {
+        "ja": "駅から約651mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 651 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约651米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 651,
+      "walk_min": 9,
+      "hours": "Mo-Su 12:00-16:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5668194825",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6939005,
+      "lon": 139.7917584,
+      "official_url_pending": "https://visit-sumida.jp/spot/6036/"
+    },
+    {
+      "id": "st00888-004",
+      "category": "cafe",
+      "name": {
+        "ja": "両国テラス",
+        "en": "Ryogoku Terrace",
+        "zh": "両国テラス"
+      },
+      "desc": {
+        "ja": "駅から約772mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。Mo-Fr 07:00-22:00; PH,Sa-Su 09:00-20:00（JST）。",
+        "en": "Cafe about 772 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约772米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 772,
+      "walk_min": 10,
+      "hours": "Mo-Fr 07:00-22:00; PH,Sa-Su 09:00-20:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1506211025",
+      "tel": "+81-3-3625-0664",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6958924,
+      "lon": 139.7920522,
+      "official_url_pending": "https://www.nre.co.jp/"
+    },
+    {
+      "id": "st00888-005",
+      "category": "lodging",
+      "name": {
+        "ja": "Tokyo Sumidagawa Youth Hostel",
+        "en": "Tokyo Sumidagawa Youth Hostel",
+        "zh": "Tokyo Sumidagawa Youth Hostel"
+      },
+      "desc": {
+        "ja": "駅から約886mにある宿泊施設。観光やビジネスの拠点として利用できる。チェックイン時間は予約時に確認を。",
+        "en": "Lodging about 886 m from the station, a convenient base for sightseeing or business.",
+        "zh": "距站约886米的住宿设施，可作为观光或商务出行的落脚点，入住方式以预订信息为准。"
+      },
+      "distance_m": 886,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/401830569",
+      "tel": "+81 3 3851 1121",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6992485,
+      "lon": 139.7892383,
+      "official_url_pending": "http://sumidagawayh.net"
+    },
+    {
+      "id": "st00888-006",
+      "category": "sight",
+      "name": {
+        "ja": "相撲博物館",
+        "en": "Sumo Museum",
+        "zh": "相撲博物馆"
+      },
+      "desc": {
+        "ja": "駅から約947mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。入場は無料。",
+        "en": "Museum about 947 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约947米的博物馆·美术馆，免费开放，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 947,
+      "walk_min": 12,
+      "hours": "Mo-Fr 10:00-16:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.sumo.or.jp/KokugikanSumoMuseum/",
+      "tel": "+81 3-3622-0366",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6972706,
+      "lon": 139.7932372
+    },
+    {
+      "id": "st00888-007",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "水天宮",
+        "en": "Suitengu Shrine",
+        "zh": "水天宫"
+      },
+      "desc": {
+        "ja": "駅から約955mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 955 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约955米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 955,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/98402891",
+      "tel": "+81 3-3666-7195",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6835267,
+      "lon": 139.7851858,
+      "official_url_pending": "https://www.suitengu.or.jp/"
+    },
+    {
+      "id": "st00888-008",
+      "category": "medical",
+      "name": {
+        "ja": "三井記念病院",
+        "en": "Mitsui Memorial Hospital",
+        "zh": "三井纪念病院"
+      },
+      "desc": {
+        "ja": "駅から約1011mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 1011 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1011米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1011,
+      "walk_min": 13,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420765470",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.699902,
+      "lon": 139.779126
+    },
+    {
+      "id": "st00888-009",
+      "category": "sight",
+      "name": {
+        "ja": "刀剣博物館",
+        "en": "Japanese Sword Museum",
+        "zh": "刀剣博物馆"
+      },
+      "desc": {
+        "ja": "駅から約1092mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。入場は有料。",
+        "en": "Museum about 1092 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1092米的博物馆·美术馆，入场收费，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1092,
+      "walk_min": 14,
+      "hours": "Tu-Su 09:30-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5911509487",
+      "tel": "+81 36284 1000",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6988183,
+      "lon": 139.7937142,
+      "official_url_pending": "https://www.touken.or.jp/museum/"
+    },
+    {
+      "id": "st00888-010",
+      "category": "food",
+      "name": {
+        "ja": "日本橋弁松総本店",
+        "en": "Nihombashi Benmatsu Sohonten",
+        "zh": "日本桥弁松総本店"
+      },
+      "desc": {
+        "ja": "駅から約1104mにある飲食店。japanese料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Fr 09:30-15:00; Sa-Su 09:30-12:30（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1104 m from the station. Serves japanese cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1104米的餐馆主营japanese，适合旅途中用餐，Mo-Fr 09:30-15:00, Sa-Su 09:30-12:30（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1104,
+      "walk_min": 14,
+      "hours": "Mo-Fr 09:30-15:00; Sa-Su 09:30-12:30 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/7300041769",
+      "tel": "+81-3-3279-2361",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.685411,
+      "lon": 139.7758674,
+      "official_url_pending": "https://www.benmatsu.com/"
+    },
+    {
+      "id": "st00888-011",
+      "category": "sight",
+      "name": {
+        "ja": "江戸東京博物館",
+        "en": "Edo Tokyo Museum",
+        "zh": "江戶东京博物馆"
+      },
+      "desc": {
+        "ja": "駅から約1119mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。入場は有料。",
+        "en": "Museum about 1119 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1119米的博物馆·美术馆，入场收费，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1119,
+      "walk_min": 14,
+      "hours": "Su, Tu-Fr 09:30-17:30; Sa 09:30-19:30; Mo off (JST)",
+      "hours_source": "osm",
+      "url": "http://www.edo-tokyo-museum.or.jp/",
+      "tel": "+81-3-3626-9974",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6964445,
+      "lon": 139.7960767
+    },
+    {
+      "id": "st00888-012",
+      "category": "shopping",
+      "name": {
+        "ja": "ヨドバシカメラ マルチメディアAkiba",
+        "en": "Yodobashi Multimedia Akiba",
+        "zh": "淀桥相機秋葉原旗艦店"
+      },
+      "desc": {
+        "ja": "駅から約1180mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 1180 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1180米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准。"
+      },
+      "distance_m": 1180,
+      "walk_min": 15,
+      "hours": "Mo-Su 09:30-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/47072154",
+      "tel": "03-5209-1010",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6987827,
+      "lon": 139.7747276,
+      "official_url_pending": "https://www.yodobashi.com/ec/store/0018/"
+    },
+    {
+      "id": "st00888-013",
+      "category": "sight",
+      "name": {
+        "ja": "三井記念美術館",
+        "en": "Mitsui Memorial Museum",
+        "zh": "三井紀念美术馆"
+      },
+      "desc": {
+        "ja": "駅から約1218mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1218 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1218米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1218,
+      "walk_min": 16,
+      "hours": "Tu-Su 10:00-17:00; Mo off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1420765471",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6868356,
+      "lon": 139.7730738,
+      "official_url_pending": "https://www.mitsui-museum.jp/"
+    },
+    {
+      "id": "st00888-014",
+      "category": "food",
+      "name": {
+        "ja": "たいめいけん",
+        "en": "Taimeiken",
+        "zh": "泰明轩"
+      },
+      "desc": {
+        "ja": "駅から約1229mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。営業はoff（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1229 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约1229米的餐馆适合旅途中用餐，off（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1229,
+      "walk_min": 16,
+      "hours": "off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.taimeiken.co.jp/",
+      "tel": "+81 3 3271 2463",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6844153,
+      "lon": 139.7751187
+    },
+    {
+      "id": "st00888-015",
+      "category": "tourist_info",
+      "name": {
+        "ja": "日本橋観光案内所",
+        "en": "Nihonbashi Tourism Information",
+        "zh": "日本桥观光案内所"
+      },
+      "desc": {
+        "ja": "駅から約1349mにある観光案内所。周辺の観光情報や地図、施設案内を提供している。散策の前に立ち寄ると便利。",
+        "en": "Tourist information office about 1349 m from the station, with maps and local guidance.",
+        "zh": "距站约1349米的观光服务台，提供周边旅游信息、地图与咨询服务，可先在此规划行程。"
+      },
+      "distance_m": 1349,
+      "walk_min": 17,
+      "hours": "10:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://nihonbashi-info.tokyo/tourism/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6836765,
+      "lon": 139.7741481
+    },
+    {
+      "id": "st00888-016",
+      "category": "bank_atm",
+      "name": {
+        "ja": "日本銀行",
+        "en": "Bank of Japan",
+        "zh": "日本银行"
+      },
+      "desc": {
+        "ja": "日本銀行の支店。駅から約1355mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 1355 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约1355米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 1355,
+      "walk_min": 17,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/relation/3069611",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6865719,
+      "lon": 139.7715247
+    },
+    {
+      "id": "st00888-017",
+      "category": "sight",
+      "name": {
+        "ja": "東京都復興記念館",
+        "en": "Great Kanto Earthquake Memorial Museum",
+        "zh": "东京都復興纪念馆"
+      },
+      "desc": {
+        "ja": "駅から約1382mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。入場は無料。",
+        "en": "Museum about 1382 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1382米的博物馆·美术馆，免费开放，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1382,
+      "walk_min": 18,
+      "hours": "Tu-Su 09:00-16:30 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/157050752",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6998208,
+      "lon": 139.7968952,
+      "official_url_pending": "https://www.tokyoessentials.com/kanto-earthquake-memorial-museum.html"
+    },
+    {
+      "id": "st00888-018",
+      "category": "police",
+      "name": {
+        "ja": "中央警察署",
+        "en": "Chuo Police Station",
+        "zh": "中央警察署"
+      },
+      "desc": {
+        "ja": "駅から約1489mにある警察署。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1489 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1489米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1489,
+      "walk_min": 19,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420766271",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.680321,
+      "lon": 139.777071
+    },
+    {
+      "id": "st00888-019",
+      "category": "food",
+      "name": {
+        "ja": "神田まつや",
+        "en": "Kanda Matsuya",
+        "zh": "神田松屋"
+      },
+      "desc": {
+        "ja": "駅から約1522mにある飲食店。Soba料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Fr 11:00-20:00; Sa, PH 11:00-19:00; Su off（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1522 m from the station. Serves Soba cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1522米的餐馆主营Soba，适合旅途中用餐，Mo-Fr 11:00-20:00, Sa, PH 11:00-19:00, Su off（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1522,
+      "walk_min": 20,
+      "hours": "Mo-Fr 11:00-20:00; Sa, PH 11:00-19:00; Su off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1635279739",
+      "tel": "+81 3-3251-1556",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6961164,
+      "lon": 139.7687772,
+      "official_url_pending": "http://www.kanda-matsuya.jp/"
+    },
+    {
+      "id": "st00888-020",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "蔵前神社",
+        "en": "Kuramae Shrine",
+        "zh": "蔵前神社"
+      },
+      "desc": {
+        "ja": "駅から約1543mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1543 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1543米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1543,
+      "walk_min": 20,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/98883462",
+      "tel": "+81 3-3851-0617",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7047922,
+      "lon": 139.7918332,
+      "official_url_pending": "https://kuramaejinja.tokyo/"
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 4619,
+    "floor_check": {
+      "medical": {
+        "candidates": 175,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 130,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 332,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 62,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 40,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 10,
+        "selected": 1
+      }
+    }
+  }
+}
