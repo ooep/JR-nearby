@@ -1,0 +1,631 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st03429",
+    "name": {
+      "ja": "板橋",
+      "en": "Itabashi",
+      "zh": "板桥"
+    },
+    "line_group": [
+      "山手線",
+      "川越線",
+      "相鉄本線",
+      "赤羽線"
+    ],
+    "pref": "東京都",
+    "lat": 35.7457,
+    "lon": 139.71964
+  },
+  "generated_at": "2026-11-09T11:55:16Z",
+  "pois": [
+    {
+      "id": "st03429-001",
+      "category": "convenience",
+      "name": {
+        "ja": "ローソン",
+        "en": "Lawson",
+        "zh": "罗森"
+      },
+      "desc": {
+        "ja": "ローソンのコンビニエンスストア。駅から約62mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 62 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约62米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 62,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1316188060",
+      "tel": "+81 3-6903-6887",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7457132,
+      "lon": 139.7203303,
+      "official_url_pending": "http://e-map.ne.jp"
+    },
+    {
+      "id": "st03429-002",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "セブン-イレブンのコンビニエンスストア。駅から約184mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 184 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约184米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 184,
+      "walk_min": 3,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1316188065",
+      "tel": "+81 3-3916-0750",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7462012,
+      "lon": 139.7215785,
+      "official_url_pending": "https://www.sej.co.jp/"
+    },
+    {
+      "id": "st03429-003",
+      "category": "shopping",
+      "name": {
+        "ja": "まいばすけっと",
+        "en": "My Basket",
+        "zh": "Maibasuketo"
+      },
+      "desc": {
+        "ja": "駅から約1209mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 1209 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1209米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1209,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1941556936",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7360519,
+      "lon": 139.7258173,
+      "official_url_pending": "https://www.ministop.co.jp/"
+    },
+    {
+      "id": "st03429-004",
+      "category": "post_office",
+      "name": {
+        "ja": "板橋郵便局",
+        "en": "Itabashi Post Office",
+        "zh": "板桥邮政局"
+      },
+      "desc": {
+        "ja": "駅から約656mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 656 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约656米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 656,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420786172",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.749201,
+      "lon": 139.713796
+    },
+    {
+      "id": "st03429-005",
+      "category": "bank_atm",
+      "name": {
+        "ja": "りそな銀行",
+        "en": "Resona",
+        "zh": "理索纳银行"
+      },
+      "desc": {
+        "ja": "りそな銀行の支店。駅から約692mにあり、預け入れ・引き出しやATMの利用に対応する。窓口はMo-Fr 09:00-17:00（JST）。",
+        "en": "Bank about 692 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约692米的银行网点，Mo-Fr 09:00-17:00（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 692,
+      "walk_min": 9,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2011966606",
+      "tel": "+81-3-39621131",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7497302,
+      "lon": 139.7137914,
+      "official_url_pending": "https://www.resona-gr.co.jp/resonabank/"
+    },
+    {
+      "id": "st03429-006",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "氷川神社",
+        "en": "Hikawa-jinja Shrine",
+        "zh": "氷川神社"
+      },
+      "desc": {
+        "ja": "駅から約793mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 793 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约793米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 793,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2360061576",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7437043,
+      "lon": 139.7112088
+    },
+    {
+      "id": "st03429-007",
+      "category": "police",
+      "name": {
+        "ja": "板橋警察署",
+        "en": "Itabashi Police Station",
+        "zh": "板桥警察署"
+      },
+      "desc": {
+        "ja": "駅から約960mにある警察署。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 960 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约960米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 960,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420786154",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.750395,
+      "lon": 139.710713
+    },
+    {
+      "id": "st03429-008",
+      "category": "sight",
+      "name": {
+        "ja": "東京家政大学博物館",
+        "en": "Tokyo Kasei University Museum",
+        "zh": "东京家政大学博物馆"
+      },
+      "desc": {
+        "ja": "駅から約1062mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1062 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1062米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1062,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420783861",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7551522,
+      "lon": 139.7212985,
+      "official_url_pending": "https://www.tokyo-kasei.ac.jp/academics/museum/"
+    },
+    {
+      "id": "st03429-009",
+      "category": "public_service",
+      "name": {
+        "ja": "板橋区役所",
+        "en": "Itabashi City Hall",
+        "zh": "板桥区役所"
+      },
+      "desc": {
+        "ja": "駅から約1103mにある役所・行政施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Civic office about 1103 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1103米的行政机构，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1103,
+      "walk_min": 14,
+      "hours": "Mo-Fr 08:30-17:00; PH off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1420786081",
+      "tel": "+81-3-39641111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.750978,
+      "lon": 139.709296,
+      "official_url_pending": "https://www.city.itabashi.tokyo.jp/"
+    },
+    {
+      "id": "st03429-010",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "文殊院",
+        "en": "Monjuin",
+        "zh": "文殊院"
+      },
+      "desc": {
+        "ja": "駅から約1454mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 1454 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1454米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1454,
+      "walk_min": 19,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/599497900",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7559487,
+      "lon": 139.7096385
+    },
+    {
+      "id": "st03429-011",
+      "category": "public_service",
+      "name": {
+        "ja": "北区役所",
+        "en": "Kita City Hall",
+        "zh": "北区政府"
+      },
+      "desc": {
+        "ja": "駅から約1492mにある役所・行政施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Civic office about 1492 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1492米的行政机构，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1492,
+      "walk_min": 19,
+      "hours": "Mo-Fr 08:30-17:00; We off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1420767948",
+      "tel": "+81-3-39081111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.752784,
+      "lon": 139.733683,
+      "official_url_pending": "https://www.city.kita.tokyo.jp/"
+    },
+    {
+      "id": "st03429-012",
+      "category": "post_office",
+      "name": {
+        "ja": "巣鴨郵便局",
+        "en": "Sugamo Post Office",
+        "zh": "巣鴨邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1533mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1533 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1533米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 1533,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420777292",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.737202,
+      "lon": 139.733017
+    },
+    {
+      "id": "st03429-013",
+      "category": "food",
+      "name": {
+        "ja": "一蘭",
+        "en": "Ichiran",
+        "zh": "一蘭"
+      },
+      "desc": {
+        "ja": "駅から約1543mにある飲食店。japanese;ramen料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は24時間営業。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1543 m from the station. Serves japanese and ramen cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1543米的餐馆主营japanese and ramen，适合旅途中用餐，全天24小时营业，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1543,
+      "walk_min": 20,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1316260108",
+      "tel": "+81 3-3989-0871",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7325561,
+      "lon": 139.7141695,
+      "official_url_pending": "https://ichiran.com/"
+    },
+    {
+      "id": "st03429-014",
+      "category": "medical",
+      "name": {
+        "ja": "帝京大学医学部附属病院",
+        "en": "Teikyo University Hospital",
+        "zh": "帝京大学医学部附属病院"
+      },
+      "desc": {
+        "ja": "駅から約1544mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 1544 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1544米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1544,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420779710",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7588456,
+      "lon": 139.7141275
+    },
+    {
+      "id": "st03429-015",
+      "category": "medical",
+      "name": {
+        "ja": "東京都健康長寿医療センター",
+        "en": "Metropolitan Elder Care Center",
+        "zh": "东京都健康长寿医療センター"
+      },
+      "desc": {
+        "ja": "駅から約1701mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 1701 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1701米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1701,
+      "walk_min": 22,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420785573",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7507606,
+      "lon": 139.7018563
+    },
+    {
+      "id": "st03429-016",
+      "category": "cafe",
+      "name": {
+        "ja": "タリーズコーヒー 池袋サンシャインシティアルパ店",
+        "en": "Tully's Coffee",
+        "zh": "タリーズコーヒー 池袋サンシャインシティアルパ店"
+      },
+      "desc": {
+        "ja": "駅から約1799mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。Mo-Su 07:30-22:00（JST）。",
+        "en": "Cafe about 1799 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约1799米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 1799,
+      "walk_min": 23,
+      "hours": "Mo-Su 07:30-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/3622877193",
+      "tel": "03-5957-3550",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7295466,
+      "lon": 139.7186038,
+      "official_url_pending": "https://shop.tullys.co.jp/detail/1000597"
+    },
+    {
+      "id": "st03429-017",
+      "category": "sight",
+      "name": {
+        "ja": "サンシャイン国際水族館",
+        "en": "Sunshine Aquarium",
+        "zh": "サンシャイン国際水族馆"
+      },
+      "desc": {
+        "ja": "駅から約1842mにある水族館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Aquarium about 1842 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1842米的水族馆，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1842,
+      "walk_min": 24,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420765129",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7291388,
+      "lon": 139.7202726,
+      "official_url_pending": "http://www.sunshinecity.co.jp/aquarium/"
+    },
+    {
+      "id": "st03429-018",
+      "category": "sight",
+      "name": {
+        "ja": "Sky Circus",
+        "en": "Sunshine 60 Tennbodai (Viewpoint)",
+        "zh": "Sky Circus"
+      },
+      "desc": {
+        "ja": "駅から約1813mにある展望スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。入場は有料。",
+        "en": "Viewpoint about 1813 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1813米的观景点，入场收费，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1813,
+      "walk_min": 23,
+      "hours": "Mo-Su 11:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1439037612",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.729442,
+      "lon": 139.7180675,
+      "official_url_pending": "https://sunshinecity.jp/en/observatory/"
+    },
+    {
+      "id": "st03429-019",
+      "category": "sight",
+      "name": {
+        "ja": "古代オリエント博物館",
+        "en": "Ancient Orient Museum",
+        "zh": "古代オリエント博物馆"
+      },
+      "desc": {
+        "ja": "駅から約1891mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1891 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1891米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1891,
+      "walk_min": 24,
+      "hours": "Mo-Su 10:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1420771074",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7287322,
+      "lon": 139.7209684
+    },
+    {
+      "id": "st03429-020",
+      "category": "shopping",
+      "name": {
+        "ja": "池袋東武百貨店",
+        "en": "TOBU Department Store",
+        "zh": "池袋东武百貨店"
+      },
+      "desc": {
+        "ja": "駅から約1959mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 1959 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1959米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1959,
+      "walk_min": 25,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1955937785",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7297846,
+      "lon": 139.7103398
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 392,
+    "floor_check": {
+      "medical": {
+        "candidates": 33,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 20,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 77,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 30,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 23,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
