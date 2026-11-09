@@ -1,0 +1,113 @@
+name: auto-batch
+
+# Self-sustaining Nearby pipeline. The runner has the only working outbound
+# network, so the whole loop (fetch -> assemble -> validate -> publish) lives
+# here. The queue is rebuilt from the remote index on every round, which means
+# a job can stop at any time and the next scheduled job continues exactly
+# where it left off. No workstation, no artifact download, no human "continue".
+
+on:
+  schedule:
+    # Every 3h. Combined with the concurrency group this keeps exactly one
+    # run active and one queued, so the pipeline advances near-continuously.
+    - cron: "17 */3 * * *"
+  workflow_dispatch:
+    inputs:
+      max_stations:
+        description: "Stations to publish in this job"
+        required: false
+        default: "200"
+        type: string
+      batch_size:
+        description: "Stations per atomic commit"
+        required: false
+        default: "8"
+        type: string
+      spacing:
+        description: "Seconds between two station fetches (be polite to Overpass)"
+        required: false
+        default: "20"
+        type: string
+      deadline_minutes:
+        description: "Stop cleanly after this many minutes"
+        required: false
+        default: "310"
+        type: string
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: jrnearby-auto-batch
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install jsonschema
+        run: pip install --quiet jsonschema
+
+      - name: Step 1/3 verify ciphertext (verify-only, zero writes)
+        env:
+          OOEP_PASSPHRASE: ${{ secrets.CODE_KEY }}
+        run: bash encryption/logrun.sh 1/3 bash encryption/prep.sh 1
+
+      - name: Step 2/3 materialize fetchers
+        env:
+          OOEP_PASSPHRASE: ${{ secrets.CODE_KEY }}
+        run: bash encryption/logrun.sh 2/3 bash encryption/prep.sh 2
+
+      - name: Stage isolated workspace in RUNNER_TEMP
+        # finalize.sh asserts a clean git worktree: every generated file must
+        # live OUTSIDE the checkout.
+        run: |
+          set -euo pipefail
+          W="$RUNNER_TEMP/jrauto"
+          rm -rf "$W"
+          mkdir -p "$W/repo" "$W/t1cache" "$W/t1_quarantine" "$W/candidates"
+          cp -R data schema scripts "$W/repo/"
+          for f in index.json manifest.json url_ledger.json README.md; do
+            [ -e "$f" ] && cp "$f" "$W/repo/" || true
+          done
+          cp pipeline/t1_gen.py pipeline/runner_batch.py pipeline/t1_remote.py \
+             pipeline/gh_push.py pipeline/stations_all.json \
+             pipeline/t2_order.json "$W/"
+          echo "JR_WORK=$W" >> "$GITHUB_ENV"
+          echo "JR_PYLIB=$(python3 -c 'import site; print(site.getsitepackages()[0])')" >> "$GITHUB_ENV"
+
+      - name: Step 3/3 Run self-sustaining batches
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 pipeline/auto_batch.py \
+            --work "$JR_WORK" \
+            --max-stations "${{ github.event.inputs.max_stations || '200' }}" \
+            --batch-size "${{ github.event.inputs.batch_size || '8' }}" \
+            --spacing "${{ github.event.inputs.spacing || '20' }}" \
+            --deadline-minutes "${{ github.event.inputs.deadline_minutes || '310' }}"
+
+      - name: Kick the URL backfill / full validate workflow (best effort)
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          curl -s -m 20 -X POST \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            -H "Content-Type: application/json" \
+            -d '{"ref":"main","inputs":{"scope":"all"}}' \
+            https://api.github.com/repos/ooep/JR-nearby/actions/workflows/ci.yml/dispatches \
+            -o /dev/null -w "ci dispatch http=%{http_code}\n" || true
+
+      - name: Finalize (cleanup + worktree assertion)
+        if: always()
+        run: bash encryption/finalize.sh "$JR_WORK"
