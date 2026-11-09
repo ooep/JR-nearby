@@ -160,31 +160,41 @@ def main():
                            cwd=work, env=dict(os.environ),
                            capture_output=True, text=True, timeout=900)
         out = (r.stdout or "") + (r.stderr or "")
-        for line in out.splitlines():
-            if any(k in line for k in ("[filter]", "[gen]", "[FAIL]", "[result]",
-                                       "[validate-all]", "[ready]", "[push]",
-                                       "[abort]", "[pre-push head]",
-                                       "[post-push head]")):
+        push_ok = "[push] rc=0" in out and "[post-push head]" in out
+        if not push_ok:
+            # Never swallow a crash: keyword-filtered logging once hid a
+            # ModuleNotFoundError and made a green run look successful.
+            print("[warn] assembler/publisher output (full tail):", flush=True)
+            for line in out.strip().splitlines()[-60:]:
                 print("    " + line, flush=True)
+        else:
+            for line in out.splitlines():
+                if any(k in line for k in ("[filter]", "[gen]", "[result]",
+                                           "[validate-all]", "[ready]", "[push]",
+                                           "[pre-push head]", "[post-push head]")):
+                    print("    " + line, flush=True)
         m = re.search(r"\[ready\] accepted=\[([^\]]*)\]", out)
         accepted = []
         if m:
             accepted = [x.strip().strip("'\"") for x in m.group(1).split(",")
                         if x.strip()]
-        push_ok = "[push] rc=0" in out and "[post-push head]" in out
         if not push_ok:
-            # Publish did not land. Roll back local artefacts so the next
-            # round can regenerate them instead of seeing "already-present".
-            for slug in accepted:
+            # Roll back every file this round may have produced, so a later
+            # round never sees "already-present" for an unpublished station.
+            for slug in pick:
                 for rel in ("repo/data/%s.json" % slug,
                             "t1cache/%s.json" % slug):
-                    p = os.path.join(work, rel)
-                    if os.path.exists(p):
-                        os.remove(p)
+                    pth = os.path.join(work, rel)
+                    if os.path.exists(pth):
+                        os.remove(pth)
             pull_index(work, token)
-            print("[warn] push did not land; local artefacts rolled back, "
-                  "will retry next round", flush=True)
-            time.sleep(30)
+            # Do not spin on the same queue head inside one job; the next
+            # scheduled job rebuilds the queue from the remote and retries.
+            for slug in pick:
+                skipped.add(slug)
+            print("[warn] publish did not land; rolled back and deferred "
+                  "%d stations to a later job" % len(pick), flush=True)
+            time.sleep(15)
             continue
 
         for slug in pick:

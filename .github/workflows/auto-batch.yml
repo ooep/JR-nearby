@@ -78,7 +78,8 @@ jobs:
           for f in index.json manifest.json url_ledger.json README.md; do
             [ -e "$f" ] && cp "$f" "$W/repo/" || true
           done
-          cp pipeline/t1_gen.py pipeline/runner_batch.py pipeline/t1_remote.py \
+          cp pipeline/t1_gen.py pipeline/t1_content.py \
+             pipeline/runner_batch.py pipeline/t1_remote.py \
              pipeline/gh_push.py pipeline/stations_all.json \
              pipeline/t2_order.json "$W/"
           echo "JR_WORK=$W" >> "$GITHUB_ENV"
