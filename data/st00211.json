@@ -1,0 +1,541 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st00211",
+    "name": {
+      "ja": "新潟",
+      "en": "Niigata",
+      "zh": "新潟"
+    },
+    "line_group": [
+      "上越新幹線",
+      "上越線",
+      "信越本線",
+      "白新線",
+      "磐越西線",
+      "越後線"
+    ],
+    "pref": "新潟県",
+    "lat": 37.912165,
+    "lon": 139.061523
+  },
+  "generated_at": "2026-11-09T13:22:50Z",
+  "pois": [
+    {
+      "id": "st00211-001",
+      "category": "sight",
+      "name": {
+        "ja": "此処に古信濃川の流れありき",
+        "en": "此処ni古信濃川no流reariki",
+        "zh": "此処ni古信濃川no流reariki"
+      },
+      "desc": {
+        "ja": "駅から約679mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Memorial about 679 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约679米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 679,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6409926509",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.9163237,
+      "lon": 139.0671965
+    },
+    {
+      "id": "st00211-002",
+      "category": "convenience",
+      "name": {
+        "ja": "ローソン",
+        "en": "Lawson",
+        "zh": "罗森"
+      },
+      "desc": {
+        "ja": "ローソンのコンビニエンスストア。駅から約150mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 150 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约150米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 150,
+      "walk_min": 2,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/11882801448",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.9134785,
+      "lon": 139.0618909
+    },
+    {
+      "id": "st00211-003",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "セブン-イレブンのコンビニエンスストア。駅から約209mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 209 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约209米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 209,
+      "walk_min": 3,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/3001645010",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.9134802,
+      "lon": 139.059816
+    },
+    {
+      "id": "st00211-004",
+      "category": "food",
+      "name": {
+        "ja": "松屋",
+        "en": "Matsuya",
+        "zh": "松屋"
+      },
+      "desc": {
+        "ja": "駅から約237mにある飲食店。beef_bowl料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は24時間営業。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 237 m from the station. Serves beef_bowl cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约237米的餐馆主营beef_bowl，适合旅途中用餐，全天24小时营业，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 237,
+      "walk_min": 3,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/3282662910",
+      "tel": "+81-25-240-0720",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.9142975,
+      "lon": 139.0616005
+    },
+    {
+      "id": "st00211-005",
+      "category": "food",
+      "name": {
+        "ja": "とんかつ政ちゃん",
+        "en": "tonkatsu政chiyan",
+        "zh": "Tonkatsu政chiyan"
+      },
+      "desc": {
+        "ja": "駅から約179mにある飲食店。japanese料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Su 10:00-21:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 179 m from the station. Serves japanese cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约179米的餐馆主营japanese，适合旅途中用餐，Mo-Su 10:00-21:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 179,
+      "walk_min": 3,
+      "hours": "Mo-Su 10:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/11880036862",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.9135011,
+      "lon": 139.0626523
+    },
+    {
+      "id": "st00211-006",
+      "category": "public_service",
+      "name": {
+        "ja": "フランス大使館",
+        "en": "furansu大使館",
+        "zh": "フランス大使馆"
+      },
+      "desc": {
+        "ja": "駅から約267mにある役所・行政施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Civic office about 267 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约267米的行政机构，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 267,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/12880377632",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.9101642,
+      "lon": 139.0632141
+    },
+    {
+      "id": "st00211-007",
+      "category": "bank_atm",
+      "name": {
+        "ja": "三井住友銀行",
+        "en": "Sumitomo Mitsui Banking Corporation",
+        "zh": "三井住友银行"
+      },
+      "desc": {
+        "ja": "三井住友銀行のATM。駅から約295mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 295 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约295米的银行网点，Mo-Sa 07:00-24:00, Su 07:00-21:00（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 295,
+      "walk_min": 4,
+      "hours": "Mo-Sa 07:00-24:00; Su 07:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/10116257849",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.9147205,
+      "lon": 139.0606359
+    },
+    {
+      "id": "st00211-008",
+      "category": "sight",
+      "name": {
+        "ja": "What's NIIGATA",
+        "en": "What's NIIGATA",
+        "zh": "What's NIIGATA"
+      },
+      "desc": {
+        "ja": "駅から約1119mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Memorial about 1119 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1119米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1119,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6805190507",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.9210333,
+      "lon": 139.0555041
+    },
+    {
+      "id": "st00211-009",
+      "category": "post_office",
+      "name": {
+        "ja": "新潟米山郵便局",
+        "en": "Niigata Yoneyama Post Office",
+        "zh": "新潟米山邮政局"
+      },
+      "desc": {
+        "ja": "駅から約371mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 371 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约371米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 371,
+      "walk_min": 5,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/3913729779",
+      "tel": "+81-25-244-9881",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.9088471,
+      "lon": 139.0619619
+    },
+    {
+      "id": "st00211-010",
+      "category": "bank_atm",
+      "name": {
+        "ja": "ゆうちょ銀行",
+        "en": "Japan Post Bank",
+        "zh": "邮储银行"
+      },
+      "desc": {
+        "ja": "ゆうちょ銀行の支店。駅から約418mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 418 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约418米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 418,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/3518527322",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.9159254,
+      "lon": 139.0617101
+    },
+    {
+      "id": "st00211-011",
+      "category": "food",
+      "name": {
+        "ja": "ちくら",
+        "en": "chikura",
+        "zh": "Chikura"
+      },
+      "desc": {
+        "ja": "駅から約215mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。営業は07:00-23:30（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 215 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约215米的餐馆适合旅途中用餐，07:00-23:30（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 215,
+      "walk_min": 3,
+      "hours": "07:00-23:30 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/10100871494",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.9127146,
+      "lon": 139.0591781
+    },
+    {
+      "id": "st00211-012",
+      "category": "public_service",
+      "name": {
+        "ja": "新潟市地域包括支援センター鳥屋野　上山",
+        "en": "新潟市地域包括支援senta-鳥屋野　上山",
+        "zh": "新潟市地域包括支援センター鸟屋野　上山"
+      },
+      "desc": {
+        "ja": "駅から約1318mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 1318 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1318米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1318,
+      "walk_min": 17,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/12704105958",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.901345,
+      "lon": 139.0553934
+    },
+    {
+      "id": "st00211-013",
+      "category": "sight",
+      "name": {
+        "ja": "新潟市マンガ・アニメ情報館",
+        "en": "Niigata Manga Animation Museum",
+        "zh": "新潟市マンガ・アニメ情報馆"
+      },
+      "desc": {
+        "ja": "駅から約851mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。入場は有料。",
+        "en": "Museum about 851 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约851米的博物馆·美术馆，入场收费，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 851,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4448575180",
+      "tel": "+81 25-240-4311",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.916071,
+      "lon": 139.0531746,
+      "official_url_pending": "https://museum.nmam.jp/"
+    },
+    {
+      "id": "st00211-014",
+      "category": "post_office",
+      "name": {
+        "ja": "新潟紫竹山郵便局",
+        "en": "Niigata Shichikuyama Post Office",
+        "zh": "新潟紫竹山邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1258mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1258 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1258米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 1258,
+      "walk_min": 16,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/9078834934",
+      "tel": "+81-25-246-5648",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.903846,
+      "lon": 139.0712473
+    },
+    {
+      "id": "st00211-015",
+      "category": "medical",
+      "name": {
+        "ja": "はづき調剤薬局　けやき通り店",
+        "en": "hazuki調剤薬局　keyaki通ri店",
+        "zh": "Hazuki調剤薬局 Keyaki通ri店"
+      },
+      "desc": {
+        "ja": "駅から約384mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 384 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约384米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 384,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/12872480810",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.9088681,
+      "lon": 139.0602127
+    },
+    {
+      "id": "st00211-016",
+      "category": "cafe",
+      "name": {
+        "ja": "シャモニー上大川前店本店",
+        "en": "shiyamoni-上大川前店本店",
+        "zh": "シャモニー上大川前店本店"
+      },
+      "desc": {
+        "ja": "駅から約1602mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。07:00-19:00（JST）。",
+        "en": "Cafe about 1602 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约1602米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 1602,
+      "walk_min": 21,
+      "hours": "07:00-19:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/11529392379",
+      "tel": "+81 25-2220-730",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.9219811,
+      "lon": 139.0481546,
+      "official_url_pending": "http://chamonix1.html.xdomain.jp"
+    },
+    {
+      "id": "st00211-017",
+      "category": "sight",
+      "name": {
+        "ja": "會津八一生誕の地",
+        "en": "會津八一生誕no地",
+        "zh": "會津八一生誕no地"
+      },
+      "desc": {
+        "ja": "駅から約1760mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Memorial about 1760 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1760米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1760,
+      "walk_min": 22,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/7025969664",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.9194966,
+      "lon": 139.0437389
+    }
+  ],
+  "coverage": {
+    "poi_count": 17,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到警察设施候选",
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 385,
+    "floor_check": {
+      "medical": {
+        "candidates": 14,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 10,
+        "selected": 2
+      },
+      "convenience": {
+        "candidates": 32,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 5,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 0,
+        "selected": 0
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
