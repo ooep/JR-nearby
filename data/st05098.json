@@ -1,0 +1,484 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st05098",
+    "name": {
+      "ja": "川西能勢口",
+      "en": "Kawanishi-Noseguchi",
+      "zh": "川西能勢口"
+    },
+    "line_group": [
+      "妙見線",
+      "宝塚本線",
+      "日生線"
+    ],
+    "pref": "兵庫県",
+    "lat": 34.8276,
+    "lon": 135.41316
+  },
+  "generated_at": "2026-11-09T16:40:05Z",
+  "pois": [
+    {
+      "id": "st05098-001",
+      "category": "bank_atm",
+      "name": {
+        "ja": "りそな銀行",
+        "en": "Resona Bank",
+        "zh": "理索纳银行"
+      },
+      "desc": {
+        "ja": "りそな銀行の支店。駅から約79mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 79 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约79米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 79,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2318390637",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8283011,
+      "lon": 135.4130335
+    },
+    {
+      "id": "st05098-002",
+      "category": "food",
+      "name": {
+        "ja": "マクドナルド 阪急川西能勢口駅店",
+        "en": "McDonald's HankyuKawanishiNoseguchi",
+        "zh": "マクドナルド 阪急川西能勢口站店"
+      },
+      "desc": {
+        "ja": "駅から約46mにある飲食店。burger料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Su 07:30-21:30（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 46 m from the station. Serves burger cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约46米的餐馆主营burger，适合旅途中用餐，Mo-Su 07:30-21:30（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 46,
+      "walk_min": 1,
+      "hours": "Mo-Su 07:30-21:30 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/7081915448",
+      "tel": "072-740-3981",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8276928,
+      "lon": 135.4126659,
+      "official_url_pending": "https://map.mcdonalds.co.jp/map/28576"
+    },
+    {
+      "id": "st05098-003",
+      "category": "food",
+      "name": {
+        "ja": "サイゼリヤ 川西能勢口駅前店",
+        "en": "Saizeriya",
+        "zh": "サイゼリヤ 川西能勢口站前店"
+      },
+      "desc": {
+        "ja": "駅から約88mにある飲食店。italian料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は10:00-23:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 88 m from the station. Serves italian cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约88米的餐馆主营italian，适合旅途中用餐，10:00-23:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 88,
+      "walk_min": 2,
+      "hours": "10:00-23:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6154596972",
+      "tel": "072-756-7621",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8283766,
+      "lon": 135.4133722,
+      "official_url_pending": "https://shop.saizeriya.co.jp/sz_restaurant/spot/detail?code=1019"
+    },
+    {
+      "id": "st05098-004",
+      "category": "convenience",
+      "name": {
+        "ja": "ローソン 川西小花一丁目店",
+        "en": "ro-son 川西小花一丁目店",
+        "zh": "ローソン 川西小花一丁目店"
+      },
+      "desc": {
+        "ja": "ローソン 川西小花一丁目店のコンビニエンスストア。駅から約202mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 202 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约202米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 202,
+      "walk_min": 3,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/3065009791",
+      "tel": "072-759-1123",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8258575,
+      "lon": 135.4137797,
+      "official_url_pending": "https://www.lawson.co.jp/sp/index.html"
+    },
+    {
+      "id": "st05098-005",
+      "category": "sight",
+      "name": {
+        "ja": "「唐船が淵」の伝承と猪名川改修",
+        "en": "「唐船ga淵」no伝承to猪名川改修",
+        "zh": "「唐船ga淵」no伝承to猪名川改修"
+      },
+      "desc": {
+        "ja": "駅から約1032mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Memorial about 1032 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1032米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1032,
+      "walk_min": 13,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5419730484",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8292767,
+      "lon": 135.424282
+    },
+    {
+      "id": "st05098-006",
+      "category": "sight",
+      "name": {
+        "ja": "唐船が淵",
+        "en": "唐船ga淵",
+        "zh": "唐船ga淵"
+      },
+      "desc": {
+        "ja": "駅から約1036mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Memorial about 1036 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1036米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1036,
+      "walk_min": 13,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5419730487",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8293753,
+      "lon": 135.4242993
+    },
+    {
+      "id": "st05098-007",
+      "category": "park",
+      "name": {
+        "ja": "西丸の内公園",
+        "en": "西丸no内公園",
+        "zh": "西丸no内公園"
+      },
+      "desc": {
+        "ja": "駅から約1498mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1498 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1498米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1498,
+      "walk_min": 19,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/1112444630",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8407419,
+      "lon": 135.4167678
+    },
+    {
+      "id": "st05098-008",
+      "category": "shopping",
+      "name": {
+        "ja": "サンシティ池田",
+        "en": "Suncity Ikeda",
+        "zh": "サンシティ池田"
+      },
+      "desc": {
+        "ja": "駅から約1290mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 1290 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1290米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准。"
+      },
+      "distance_m": 1290,
+      "walk_min": 17,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/244496650",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8215317,
+      "lon": 135.4252083,
+      "official_url_pending": "http://www.suncity-ikeda.com/"
+    },
+    {
+      "id": "st05098-009",
+      "category": "police",
+      "name": {
+        "ja": "川西警察署中央交番",
+        "en": "川西中央交番 Police Station",
+        "zh": "川西警察署中央交番"
+      },
+      "desc": {
+        "ja": "駅から約89mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 89 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约89米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 89,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423061928",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.827699,
+      "lon": 135.414131
+    },
+    {
+      "id": "st05098-010",
+      "category": "park",
+      "name": {
+        "ja": "ますみ公園",
+        "en": "masumi公園",
+        "zh": "Masumi公園"
+      },
+      "desc": {
+        "ja": "駅から約1522mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1522 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1522米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1522,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/1247493946",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.81901,
+      "lon": 135.4261447
+    },
+    {
+      "id": "st05098-011",
+      "category": "sight",
+      "name": {
+        "ja": "「井戸の辻」 井戸跡",
+        "en": "「井戸no辻」 井戸跡",
+        "zh": "「井戸no辻」 井戸跡"
+      },
+      "desc": {
+        "ja": "駅から約1114mにある展望スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Viewpoint about 1114 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1114米的观景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1114,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6070421098",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8255731,
+      "lon": 135.4251108
+    },
+    {
+      "id": "st05098-012",
+      "category": "police",
+      "name": {
+        "ja": "川西警察署小花交番",
+        "en": "川西小花交番 Police Station",
+        "zh": "川西警察署小花交番"
+      },
+      "desc": {
+        "ja": "駅から約566mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 566 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约566米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 566,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423061983",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.826515,
+      "lon": 135.419222
+    },
+    {
+      "id": "st05098-013",
+      "category": "post_office",
+      "name": {
+        "ja": "池田郵便局",
+        "en": "Ikeda Post Office",
+        "zh": "池田邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1585mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1585 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1585米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 1585,
+      "walk_min": 20,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/11982279220",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.820621,
+      "lon": 135.4282965
+    },
+    {
+      "id": "st05098-014",
+      "category": "sight",
+      "name": {
+        "ja": "旧加島銀行 池田支店",
+        "en": "旧加岛 池田支店 Bank",
+        "zh": "旧加岛银行 池田支店"
+      },
+      "desc": {
+        "ja": "駅から約1139mにある展望スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Viewpoint about 1139 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1139米的观景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1139,
+      "walk_min": 15,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/657581258",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8256896,
+      "lon": 135.4254198
+    },
+    {
+      "id": "st05098-015",
+      "category": "medical",
+      "name": {
+        "ja": "ツルハドラッグ 南花屋敷店",
+        "en": "tsuruhadoragu 南花屋敷店",
+        "zh": "ツルハドラッグ 南花屋敷店"
+      },
+      "desc": {
+        "ja": "駅から約1400mにある薬局。体調を崩した際の受診や薬の購入に対応する。受付はMo-Su 09:00-23:00（JST）。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 1400 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1400米的药房，Mo-Su 09:00-23:00（JST），旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1400,
+      "walk_min": 18,
+      "hours": "Mo-Su 09:00-23:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/12122998102",
+      "tel": "072-759-8268",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8189203,
+      "lon": 135.402049,
+      "official_url_pending": "https://shop.tsuruha-g.com/1191"
+    }
+  ],
+  "coverage": {
+    "poi_count": 15,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 302,
+    "floor_check": {
+      "medical": {
+        "candidates": 23,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 16,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 19,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 10,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 10,
+        "selected": 2
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}

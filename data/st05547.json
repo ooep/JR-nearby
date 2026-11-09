@@ -1,0 +1,570 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st05547",
+    "name": {
+      "ja": "京王八王子",
+      "en": "Keiō-Hachiōji",
+      "zh": "京王八王子"
+    },
+    "line_group": [
+      "京王線"
+    ],
+    "pref": "東京都",
+    "lat": 35.65816,
+    "lon": 139.34299
+  },
+  "generated_at": "2026-11-09T16:40:05Z",
+  "pois": [
+    {
+      "id": "st05547-001",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "セブン-イレブンのコンビニエンスストア。駅から約65mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 65 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约65米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 65,
+      "walk_min": 1,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2031632995",
+      "tel": "+81 42-642-4931",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6582636,
+      "lon": 139.3437027,
+      "official_url_pending": "https://www.sej.co.jp/"
+    },
+    {
+      "id": "st05547-002",
+      "category": "cafe",
+      "name": {
+        "ja": "タリーズコーヒー",
+        "en": "Tully's Coffee",
+        "zh": "塔利咖啡"
+      },
+      "desc": {
+        "ja": "駅から約223mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。Mo-Sa 07:00-22:00; Su,PH 08:00-21:00（JST）。",
+        "en": "Cafe about 223 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约223米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 223,
+      "walk_min": 3,
+      "hours": "Mo-Sa 07:00-22:00; Su,PH 08:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2150102610",
+      "tel": "+81 426-31-8335",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.656958,
+      "lon": 139.341018,
+      "official_url_pending": "https://www.tullys.co.jp/"
+    },
+    {
+      "id": "st05547-003",
+      "category": "food",
+      "name": {
+        "ja": "松屋",
+        "en": "Matsuya",
+        "zh": "松屋"
+      },
+      "desc": {
+        "ja": "駅から約157mにある飲食店。beef_bowl料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は24時間営業。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 157 m from the station. Serves beef_bowl cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约157米的餐馆主营beef_bowl，适合旅途中用餐，全天24小时营业，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 157,
+      "walk_min": 2,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2837776219",
+      "tel": "+81-42-643-4374",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6576778,
+      "lon": 139.341352
+    },
+    {
+      "id": "st05547-004",
+      "category": "medical",
+      "name": {
+        "ja": "東京天使病院附属駅前クリニック 睡眠呼吸管理センター",
+        "en": "東京天使病院附属駅前kuriniku 睡眠呼吸管理senta-",
+        "zh": "东京天使病院附属站前クリニック 睡眠呼吸管理センター"
+      },
+      "desc": {
+        "ja": "駅から約54mにあるクリニック。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Clinic about 54 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约54米的诊所，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 54,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4208464591",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.658637,
+      "lon": 139.342896
+    },
+    {
+      "id": "st05547-005",
+      "category": "post_office",
+      "name": {
+        "ja": "八王子明神町郵便局",
+        "en": "八王子明神町 Post Office",
+        "zh": "八王子明神町邮政局"
+      },
+      "desc": {
+        "ja": "駅から約143mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 143 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约143米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 143,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420767732",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.659388,
+      "lon": 139.343471
+    },
+    {
+      "id": "st05547-006",
+      "category": "shopping",
+      "name": {
+        "ja": "イオン",
+        "en": "AEON",
+        "zh": "永旺"
+      },
+      "desc": {
+        "ja": "駅から約411mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 411 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约411米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 411,
+      "walk_min": 6,
+      "hours": "08:00-23:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/7271776206",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6594109,
+      "lon": 139.3387055
+    },
+    {
+      "id": "st05547-007",
+      "category": "food",
+      "name": {
+        "ja": "ケンタッキーフライドチキン",
+        "en": "KFC",
+        "zh": "肯德基"
+      },
+      "desc": {
+        "ja": "駅から約431mにある飲食店。chicken料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Su 10:00-22:30（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 431 m from the station. Serves chicken cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约431米的餐馆主营chicken，适合旅途中用餐，Mo-Su 10:00-22:30（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 431,
+      "walk_min": 6,
+      "hours": "Mo-Su 10:00-22:30 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1942388179",
+      "tel": "+81-42-6607753",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6588193,
+      "lon": 139.3382902,
+      "official_url_pending": "http://pshop.kfc.co.jp/b/kfc/info/0031/"
+    },
+    {
+      "id": "st05547-008",
+      "category": "police",
+      "name": {
+        "ja": "八王子警察署稲荷坂交番",
+        "en": "Koban",
+        "zh": "八王子警察署稲荷坂交番"
+      },
+      "desc": {
+        "ja": "駅から約1782mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1782 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1782米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1782,
+      "walk_min": 23,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420767816",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6710902,
+      "lon": 139.331339
+    },
+    {
+      "id": "st05547-009",
+      "category": "convenience",
+      "name": {
+        "ja": "NewDays",
+        "en": "NewDays",
+        "zh": "NewDays"
+      },
+      "desc": {
+        "ja": "NewDaysのコンビニエンスストア。駅から約449mの場所にあり、Mo-Fr 05:30-23:40; Sa-Su 06:30-23:40（JST）。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 449 m from the station. Mo-Fr 05:30-23:40, Sa-Su 06:30-23:40 (JST). Stocks meals, drinks and da.",
+        "zh": "距站约449米的便利店，Mo-Fr 05:30-23:40, Sa-Su 06:30-23:40（JST），可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 449,
+      "walk_min": 6,
+      "hours": "Mo-Fr 05:30-23:40; Sa-Su 06:30-23:40 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/3476007107",
+      "tel": "+81 426203071",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6558032,
+      "lon": 139.3389503,
+      "official_url_pending": "https://shop.jr-cross.co.jp/eki/spot/detail?code=1058002"
+    },
+    {
+      "id": "st05547-010",
+      "category": "bank_atm",
+      "name": {
+        "ja": "VIEW ALTTE",
+        "en": "VIEW ALTTE",
+        "zh": "VIEW ALTTE"
+      },
+      "desc": {
+        "ja": "VIEW ALTTEのATM。駅から約479mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 479 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约479米的银行网点，06:00-23:00（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 479,
+      "walk_min": 6,
+      "hours": "06:00-23:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2128950599",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.655213,
+      "lon": 139.339119,
+      "official_url_pending": "https://www.jreast.co.jp/card/guide/atm/"
+    },
+    {
+      "id": "st05547-011",
+      "category": "shopping",
+      "name": {
+        "ja": "八王子オーパ",
+        "en": "八王子o-pa",
+        "zh": "八王子オーパ"
+      },
+      "desc": {
+        "ja": "駅から約560mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 560 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约560米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 560,
+      "walk_min": 7,
+      "hours": "10:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6172824801",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6550263,
+      "lon": 139.3381448,
+      "official_url_pending": "https://www.opa-club.com/hachioji"
+    },
+    {
+      "id": "st05547-012",
+      "category": "medical",
+      "name": {
+        "ja": "スミレ薬局",
+        "en": "sumire薬局",
+        "zh": "スミレ薬局"
+      },
+      "desc": {
+        "ja": "駅から約579mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 579 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约579米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 579,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/3963824569",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6603541,
+      "lon": 139.3371774,
+      "official_url_pending": "https://www.sumire-p.co.jp/"
+    },
+    {
+      "id": "st05547-013",
+      "category": "food",
+      "name": {
+        "ja": "マクドナルド",
+        "en": "McDonald's",
+        "zh": "麦当劳"
+      },
+      "desc": {
+        "ja": "駅から約1799mにある飲食店。burger料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1799 m from the station. Serves burger cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1799米的餐馆主营burger，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1799,
+      "walk_min": 23,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2391428382",
+      "tel": "+81 42-645-2422",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6451604,
+      "lon": 139.3548392,
+      "official_url_pending": "https://map.mcdonalds.co.jp/"
+    },
+    {
+      "id": "st05547-014",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "大谷弁財天",
+        "en": "Ootani-benzaiten",
+        "zh": "大谷弁財天"
+      },
+      "desc": {
+        "ja": "駅から約1501mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1501 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1501米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1501,
+      "walk_min": 19,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2361421889",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6716571,
+      "lon": 139.3430239
+    },
+    {
+      "id": "st05547-015",
+      "category": "post_office",
+      "name": {
+        "ja": "八王子子安郵便局",
+        "en": "八王子子安 Post Office",
+        "zh": "八王子子安邮政局"
+      },
+      "desc": {
+        "ja": "駅から約687mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 687 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约687米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 687,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420767616",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.654535,
+      "lon": 139.336832
+    },
+    {
+      "id": "st05547-016",
+      "category": "sight",
+      "name": {
+        "ja": "八王子市夢美術館",
+        "en": "Hachioji Yume Art Museum",
+        "zh": "八王子市夢美术馆"
+      },
+      "desc": {
+        "ja": "駅から約1134mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1134 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1134米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1134,
+      "walk_min": 15,
+      "hours": "10:00-19:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/4150294419",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6603637,
+      "lon": 139.3307311,
+      "official_url_pending": "https://www.yumebi.com/"
+    },
+    {
+      "id": "st05547-017",
+      "category": "sight",
+      "name": {
+        "ja": "暁橋の碑",
+        "en": "暁橋no碑",
+        "zh": "暁橋no碑"
+      },
+      "desc": {
+        "ja": "駅から約1021mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Memorial about 1021 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1021米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1021,
+      "walk_min": 13,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/3198504547",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.666188,
+      "lon": 139.3375099
+    },
+    {
+      "id": "st05547-018",
+      "category": "shopping",
+      "name": {
+        "ja": "グルメシティ",
+        "en": "Gourmet City",
+        "zh": "Gurumeshitei"
+      },
+      "desc": {
+        "ja": "駅から約102mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 102 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约102米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 102,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/7022668186",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6574066,
+      "lon": 139.3436357
+    }
+  ],
+  "coverage": {
+    "poi_count": 18,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 383,
+    "floor_check": {
+      "medical": {
+        "candidates": 40,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 24,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 36,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 10,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 4,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}

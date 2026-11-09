@@ -1,0 +1,625 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st06115",
+    "name": {
+      "ja": "本川越",
+      "en": "Hon-Kawagoe",
+      "zh": "本川越"
+    },
+    "line_group": [
+      "西武新宿線"
+    ],
+    "pref": "埼玉県",
+    "lat": 35.91339,
+    "lon": 139.48097
+  },
+  "generated_at": "2026-11-09T16:40:05Z",
+  "pois": [
+    {
+      "id": "st06115-001",
+      "category": "police",
+      "name": {
+        "ja": "川越警察署本川越駅前交番",
+        "en": "Koban",
+        "zh": "川越警察署本川越站前交番"
+      },
+      "desc": {
+        "ja": "駅から約220mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 220 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约220米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 220,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420171890",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9151067,
+      "lon": 139.4821929
+    },
+    {
+      "id": "st06115-002",
+      "category": "food",
+      "name": {
+        "ja": "鳴門鯛焼本舗　川越クレアモール店",
+        "en": "鳴門鯛焼本舗　川越kureamo-ru店",
+        "zh": "鳴门鯛焼本铺　川越クレアモール店"
+      },
+      "desc": {
+        "ja": "駅から約228mにある飲食店。japanese料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は10:00-22:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 228 m from the station. Serves japanese cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约228米的餐馆主营japanese，适合旅途中用餐，10:00-22:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 228,
+      "walk_min": 3,
+      "hours": "10:00-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2293200698",
+      "tel": "+81 49 222 8880",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9121106,
+      "lon": 139.4829453,
+      "official_url_pending": "https://www.taiyaki.co.jp/shop/"
+    },
+    {
+      "id": "st06115-003",
+      "category": "convenience",
+      "name": {
+        "ja": "ファミリーマート",
+        "en": "FamilyMart",
+        "zh": "全家便利店"
+      },
+      "desc": {
+        "ja": "ファミリーマートのコンビニエンスストア。駅から約325mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 325 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约325米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 325,
+      "walk_min": 5,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/3438968112",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9120826,
+      "lon": 139.4841983
+    },
+    {
+      "id": "st06115-004",
+      "category": "medical",
+      "name": {
+        "ja": "赤心堂病院",
+        "en": "Sekishindo Hospital",
+        "zh": "赤心堂病院"
+      },
+      "desc": {
+        "ja": "駅から約436mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 436 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约436米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 436,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420203555",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.90948,
+      "lon": 139.48056
+    },
+    {
+      "id": "st06115-005",
+      "category": "bank_atm",
+      "name": {
+        "ja": "武蔵野銀行",
+        "en": "Musashino Bank",
+        "zh": "武蔵野银行"
+      },
+      "desc": {
+        "ja": "武蔵野銀行の支店。駅から約659mにあり、預け入れ・引き出しやATMの利用に対応する。窓口はMo-Fr 09:00-11:30,12:30-15:00（JST）。",
+        "en": "Bank about 659 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约659米的银行网点，Mo-Fr 09:00-11:30, 12:30-15:00（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 659,
+      "walk_min": 9,
+      "hours": "Mo-Fr 09:00-11:30,12:30-15:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6813646187",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.907487,
+      "lon": 139.4816235
+    },
+    {
+      "id": "st06115-006",
+      "category": "food",
+      "name": {
+        "ja": "黒豚共和国ひびき",
+        "en": "黒豚共和国hibiki",
+        "zh": "黒豚共和国hibiki"
+      },
+      "desc": {
+        "ja": "駅から約330mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。営業は17:00-24:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 330 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约330米的餐馆适合旅途中用餐，17:00-24:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 330,
+      "walk_min": 5,
+      "hours": "17:00-24:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2293200713",
+      "tel": "+81 50-5796-2731",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9108675,
+      "lon": 139.4828983
+    },
+    {
+      "id": "st06115-007",
+      "category": "cafe",
+      "name": {
+        "ja": "タリーズコーヒー セレクト Ｕ＿ＰＬＡＣＥ川越駅西口店",
+        "en": "Tully's Coffee",
+        "zh": "タリーズコーヒー セレクト Ｕ＿ＰＬＡＣＥ川越站西口店"
+      },
+      "desc": {
+        "ja": "駅から約868mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。Mo-Su 08:00-20:00（JST）。",
+        "en": "Cafe about 868 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约868米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 868,
+      "walk_min": 11,
+      "hours": "Mo-Su 08:00-20:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2293146408",
+      "tel": "049-291-6211",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9055982,
+      "lon": 139.4815047,
+      "official_url_pending": "https://shop.tullys.co.jp/detail/4483127"
+    },
+    {
+      "id": "st06115-008",
+      "category": "sight",
+      "name": {
+        "ja": "山崎美術館",
+        "en": "Yamazaki Art Museum",
+        "zh": "山崎美术馆"
+      },
+      "desc": {
+        "ja": "駅から約889mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 889 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约889米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 889,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420192853",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9212192,
+      "lon": 139.4829939,
+      "official_url_pending": "https://www.koedo-kameya.com/sp.html"
+    },
+    {
+      "id": "st06115-009",
+      "category": "post_office",
+      "name": {
+        "ja": "川越六軒町郵便局",
+        "en": "川越六軒町 Post Office",
+        "zh": "川越六軒町邮政局"
+      },
+      "desc": {
+        "ja": "駅から約484mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 484 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约484米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 484,
+      "walk_min": 7,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1420171752",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9162921,
+      "lon": 139.4769614
+    },
+    {
+      "id": "st06115-010",
+      "category": "sight",
+      "name": {
+        "ja": "服部民族資料館",
+        "en": "Hattori Folklore Museum",
+        "zh": "服部民族资料馆"
+      },
+      "desc": {
+        "ja": "駅から約1108mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1108 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1108米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1108,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1484544024",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9232232,
+      "lon": 139.4829944,
+      "official_url_pending": "https://koedo.or.jp/spot_197/"
+    },
+    {
+      "id": "st06115-011",
+      "category": "food",
+      "name": {
+        "ja": "黒塀屋 川越店",
+        "en": "Kurobeiya",
+        "zh": "黒塀屋 川越店"
+      },
+      "desc": {
+        "ja": "駅から約1127mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1127 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约1127米的餐馆适合旅途中用餐，菜单与价格以店内展示内容为准，具体信息以现场为准。"
+      },
+      "distance_m": 1127,
+      "walk_min": 15,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6183030487",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9132026,
+      "lon": 139.4684603,
+      "official_url_pending": "https://www.bashamichi.co.jp/kurobeiya/ku1069/"
+    },
+    {
+      "id": "st06115-012",
+      "category": "sight",
+      "name": {
+        "ja": "ぐち聞きさま",
+        "en": "guchi聞kisama",
+        "zh": "Guchi聞kisama"
+      },
+      "desc": {
+        "ja": "駅から約402mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Memorial about 402 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约402米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 402,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6388636773",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9111646,
+      "lon": 139.4844868
+    },
+    {
+      "id": "st06115-013",
+      "category": "sight",
+      "name": {
+        "ja": "松郷沿革之記",
+        "en": "Matsugo's History",
+        "zh": "松郷沿革之纪"
+      },
+      "desc": {
+        "ja": "駅から約637mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Memorial about 637 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约637米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 637,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2293258215",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9188889,
+      "lon": 139.4829678
+    },
+    {
+      "id": "st06115-014",
+      "category": "shopping",
+      "name": {
+        "ja": "川越ベーカリー 樂樂",
+        "en": "川越be-kari- 樂樂",
+        "zh": "川越ベーカリー 樂樂"
+      },
+      "desc": {
+        "ja": "駅から約1241mにあるベーカリー。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Bakery about 1241 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1241米的面包店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1241,
+      "walk_min": 16,
+      "hours": "Mo-Su 07:30-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6390699242",
+      "tel": "049-257-7200",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9245354,
+      "lon": 139.4817024,
+      "official_url_pending": "http://www.bakery-rakuraku.com/"
+    },
+    {
+      "id": "st06115-015",
+      "category": "sight",
+      "name": {
+        "ja": "蘭山記念美術館",
+        "en": "Ranzan Memorial Museum of Art",
+        "zh": "蘭山纪念美术馆"
+      },
+      "desc": {
+        "ja": "駅から約1260mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1260 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1260米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1260,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420203267",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.924615,
+      "lon": 139.4829049,
+      "official_url_pending": "http://www.ranzan-mus.jp/"
+    },
+    {
+      "id": "st06115-016",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "雪塚神社",
+        "en": "Yukizuka Shrine",
+        "zh": "雪塚神社"
+      },
+      "desc": {
+        "ja": "駅から約1101mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1101 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1101米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1101,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1485295824",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.923238,
+      "lon": 139.4822155
+    },
+    {
+      "id": "st06115-017",
+      "category": "sight",
+      "name": {
+        "ja": "川越城本丸御殿",
+        "en": "Kawagoe Castle Site",
+        "zh": "川越城本丸御殿"
+      },
+      "desc": {
+        "ja": "駅から約1557mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1557 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1557米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1557,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420171772",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9245029,
+      "lon": 139.4914968,
+      "official_url_pending": "https://www.city.kawagoe.saitama.jp/welcome/kankospot/hommarugotenzone/hommarugoten.html"
+    },
+    {
+      "id": "st06115-018",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "三芳野神社",
+        "en": "Miyoshino Shrine",
+        "zh": "三芳野神社"
+      },
+      "desc": {
+        "ja": "駅から約1588mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1588 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1588米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1588,
+      "walk_min": 20,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/746234067",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9242257,
+      "lon": 139.4924551
+    },
+    {
+      "id": "st06115-019",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "氷川神社",
+        "en": "Hikawa Shrine",
+        "zh": "氷川神社"
+      },
+      "desc": {
+        "ja": "駅から約1717mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1717 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1717米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1717,
+      "walk_min": 22,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/963357119",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9275595,
+      "lon": 139.4885515
+    },
+    {
+      "id": "st06115-020",
+      "category": "sight",
+      "name": {
+        "ja": "ヤオコー川越美術館",
+        "en": "yaoko-川越美術館",
+        "zh": "ヤオコー川越美术馆"
+      },
+      "desc": {
+        "ja": "駅から約1831mにあるギャラリー。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Gallery about 1831 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1831米的画廊，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1831,
+      "walk_min": 23,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1953615866",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9285048,
+      "lon": 139.4890445
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 370,
+    "floor_check": {
+      "medical": {
+        "candidates": 18,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 12,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 28,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 9,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 3,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
