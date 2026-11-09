@@ -1,0 +1,626 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st01905",
+    "name": {
+      "ja": "相模原",
+      "en": "Sagamihara",
+      "zh": "相模原"
+    },
+    "line_group": [
+      "横浜線"
+    ],
+    "pref": "神奈川県",
+    "lat": 35.58141,
+    "lon": 139.37073
+  },
+  "generated_at": "2026-11-09T14:40:40Z",
+  "pois": [
+    {
+      "id": "st01905-001",
+      "category": "shopping",
+      "name": {
+        "ja": "相模原It's",
+        "en": "相模原It's",
+        "zh": "相模原It's"
+      },
+      "desc": {
+        "ja": "駅から約37mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 37 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约37米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 37,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/155732078",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5813378,
+      "lon": 139.370328
+    },
+    {
+      "id": "st01905-002",
+      "category": "cafe",
+      "name": {
+        "ja": "ドトールコーヒーショップ",
+        "en": "Doutor Coffee Shop",
+        "zh": "多特咖啡"
+      },
+      "desc": {
+        "ja": "駅から約28mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。",
+        "en": "Cafe about 28 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约28米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 28,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1682557976",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5812092,
+      "lon": 139.3705363
+    },
+    {
+      "id": "st01905-003",
+      "category": "shopping",
+      "name": {
+        "ja": "セレオ相模原",
+        "en": "sereo相模原",
+        "zh": "セレオ相模原"
+      },
+      "desc": {
+        "ja": "駅から約46mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 46 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约46米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 46,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/155535370",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5810733,
+      "lon": 139.3710249
+    },
+    {
+      "id": "st01905-004",
+      "category": "food",
+      "name": {
+        "ja": "Stray Blue Jazz Club",
+        "en": "Stray Blue Jazz Club",
+        "zh": "Stray Blue Jazz Club"
+      },
+      "desc": {
+        "ja": "駅から約82mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 82 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约82米的餐馆适合旅途中用餐，菜单与价格以店内展示内容为准，具体信息以现场为准。"
+      },
+      "distance_m": 82,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/13897763866",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5809723,
+      "lon": 139.3700033,
+      "official_url_pending": "https://straybluejazzclub.amebaownd.com/"
+    },
+    {
+      "id": "st01905-005",
+      "category": "police",
+      "name": {
+        "ja": "南大沢警察署小山駐在所",
+        "en": "南大泽小山駐在所 Police Station",
+        "zh": "南大泽警察署小山駐在所"
+      },
+      "desc": {
+        "ja": "駅から約1620mにある駐在所。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1620 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1620米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1620,
+      "walk_min": 21,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420790233",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.595947,
+      "lon": 139.371913
+    },
+    {
+      "id": "st01905-006",
+      "category": "park",
+      "name": {
+        "ja": "相模原なかよし公園",
+        "en": "相模原nakayoshi公園",
+        "zh": "相模原nakayoshi公園"
+      },
+      "desc": {
+        "ja": "駅から約238mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 238 m from the station, with paths and benches for a rest.",
+        "zh": "距站约238米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 238,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/502081165",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5800275,
+      "lon": 139.368714
+    },
+    {
+      "id": "st01905-007",
+      "category": "convenience",
+      "name": {
+        "ja": "ローソン",
+        "en": "Lawson",
+        "zh": "罗森"
+      },
+      "desc": {
+        "ja": "ローソンのコンビニエンスストア。駅から約163mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 163 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约163米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 163,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1734064390",
+      "tel": "+81-42-7501332",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5799635,
+      "lon": 139.370418,
+      "official_url_pending": "https://www.e-map.ne.jp/p/lawson/dtl/177738/?&his=al1,al2,al3,nm"
+    },
+    {
+      "id": "st01905-008",
+      "category": "bank_atm",
+      "name": {
+        "ja": "三菱UFJ銀行",
+        "en": "MUFG Bank",
+        "zh": "三菱UFJ银行"
+      },
+      "desc": {
+        "ja": "三菱UFJ銀行の支店。駅から約165mにあり、預け入れ・引き出しやATMの利用に対応する。窓口は09:00-15:00（JST）。",
+        "en": "Bank about 165 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约165米的银行网点，09:00-15:00（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 165,
+      "walk_min": 3,
+      "hours": "09:00-15:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/11513437575",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5799826,
+      "lon": 139.3712246
+    },
+    {
+      "id": "st01905-009",
+      "category": "food",
+      "name": {
+        "ja": "熟成焼肉いちばん",
+        "en": "Jukusei-Yakiniku \"Ichiban\" Sagamihara",
+        "zh": "熟成焼肉ichiban"
+      },
+      "desc": {
+        "ja": "駅から約1411mにある飲食店。barbecue;chicken;japanese;steak_house;asian;international;coffee_shop;ice_cream料理を提供する食事ができ、旅の合間の休憩にも使い。",
+        "en": "Restaurant about 1411 m from the station. Serves barbecue and chicken and japanese and steak_house and asian and intern.",
+        "zh": "距站约1411米的餐馆主营barbecue and chicken and japanese and steak_house and asian and international and coffee_shop and ice_crea。"
+      },
+      "distance_m": 1411,
+      "walk_min": 18,
+      "hours": "10:00-24:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6534502685",
+      "tel": "+81-50-3183-0976",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.573505,
+      "lon": 139.3829355,
+      "official_url_pending": "https://maps.jukusei-ichiban.jp/jp/detail/4647.html"
+    },
+    {
+      "id": "st01905-010",
+      "category": "post_office",
+      "name": {
+        "ja": "相模原四郵便局",
+        "en": "相模原四 Post Office",
+        "zh": "相模原四邮政局"
+      },
+      "desc": {
+        "ja": "駅から約406mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 406 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约406米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 406,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420828632",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.578769,
+      "lon": 139.373835
+    },
+    {
+      "id": "st01905-011",
+      "category": "convenience",
+      "name": {
+        "ja": "ファミリーマート",
+        "en": "FamilyMart",
+        "zh": "全家便利店"
+      },
+      "desc": {
+        "ja": "ファミリーマートのコンビニエンスストア。駅から約561mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 561 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约561米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 561,
+      "walk_min": 8,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/500060993",
+      "tel": "+81 42 786 6124",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5767927,
+      "lon": 139.3682291,
+      "official_url_pending": "https://as.chizumaru.com/famima/detailMap?account=famima&accmd=0&c2=1%2c2&adr=14152&bid=20891&pgret=2"
+    },
+    {
+      "id": "st01905-012",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "氷川神社",
+        "en": "Hikawa Shrine",
+        "zh": "氷川神社"
+      },
+      "desc": {
+        "ja": "駅から約855mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 855 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约855米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 855,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/155922780",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.581667,
+      "lon": 139.3612804,
+      "official_url_pending": "https://www.hikawa-jinjya.com/"
+    },
+    {
+      "id": "st01905-013",
+      "category": "public_service",
+      "name": {
+        "ja": "相模原市役所",
+        "en": "Sagamihara City",
+        "zh": "相模原市役所"
+      },
+      "desc": {
+        "ja": "駅から約1117mにある役所・行政施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Civic office about 1117 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1117米的行政机构，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1117,
+      "walk_min": 14,
+      "hours": "Mo-Fr 08:30-17:00; PH off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/1136951445",
+      "tel": "+81-42-7541111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5715246,
+      "lon": 139.3729072,
+      "official_url_pending": "https://www.city.sagamihara.kanagawa.jp/"
+    },
+    {
+      "id": "st01905-014",
+      "category": "police",
+      "name": {
+        "ja": "相模原警察署",
+        "en": "Sagamihara Police Station",
+        "zh": "相模原警察署"
+      },
+      "desc": {
+        "ja": "駅から約1137mにある警察署。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1137 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1137米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1137,
+      "walk_min": 15,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/259024231",
+      "tel": "+81 42 754 0110",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5719068,
+      "lon": 139.3753726,
+      "official_url_pending": "https://www.police.pref.kanagawa.jp/ps/sagamihara/"
+    },
+    {
+      "id": "st01905-015",
+      "category": "food",
+      "name": {
+        "ja": "カレーハウスCoCo壱番屋 相模原清新店",
+        "en": "kare-hausuCoCo壱番屋 相模原清新店",
+        "zh": "カレーハウスCoCo壱番屋 相模原清新店"
+      },
+      "desc": {
+        "ja": "駅から約1306mにある飲食店。curry料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Su 11:00-00:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1306 m from the station. Serves curry cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1306米的餐馆主营curry，适合旅途中用餐，Mo-Su 11:00-00:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1306,
+      "walk_min": 17,
+      "hours": "Mo-Su 11:00-00:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/7023154785",
+      "tel": "042-752-5404",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5713104,
+      "lon": 139.3633677,
+      "official_url_pending": "https://tenpo.ichibanya.co.jp/search/shop/pc/detail.php?SCODE=2778"
+    },
+    {
+      "id": "st01905-016",
+      "category": "medical",
+      "name": {
+        "ja": "クリエイトSD",
+        "en": "Create SD",
+        "zh": "クリエイトSD"
+      },
+      "desc": {
+        "ja": "駅から約31mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 31 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约31米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 31,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/10119939302",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5813196,
+      "lon": 139.3704043
+    },
+    {
+      "id": "st01905-017",
+      "category": "sight",
+      "name": {
+        "ja": "麻布大学いのちの博物館",
+        "en": "The Life Museum of Azabu University",
+        "zh": "麻布大学inochino博物館"
+      },
+      "desc": {
+        "ja": "駅から約1704mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。入場は無料。",
+        "en": "Museum about 1704 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1704米的博物馆·美术馆，免费开放，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1704,
+      "walk_min": 22,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/163716723",
+      "tel": "+81 42 850 2520",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5760388,
+      "lon": 139.3883776,
+      "official_url_pending": "https://life-museum.azabu-u.ac.jp/"
+    },
+    {
+      "id": "st01905-018",
+      "category": "shopping",
+      "name": {
+        "ja": "ライフ",
+        "en": "Life",
+        "zh": "Life超市"
+      },
+      "desc": {
+        "ja": "駅から約64mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 64 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约64米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 64,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/10119939300",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5809226,
+      "lon": 139.3711044
+    },
+    {
+      "id": "st01905-019",
+      "category": "medical",
+      "name": {
+        "ja": "マツモトキヨシ",
+        "en": "Matsukiyo",
+        "zh": "Matsumotokiyoshi"
+      },
+      "desc": {
+        "ja": "駅から約42mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 42 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约42米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 42,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/10119939301",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5810513,
+      "lon": 139.3708898
+    },
+    {
+      "id": "st01905-020",
+      "category": "bank_atm",
+      "name": {
+        "ja": "きらぼし銀行",
+        "en": "Kiraboshi Bank",
+        "zh": "Kiraboshi銀行"
+      },
+      "desc": {
+        "ja": "きらぼし銀行の支店。駅から約347mにあり、預け入れ・引き出しやATMの利用に対応する。窓口はMo-Fr 09:00-15:00（JST）。",
+        "en": "Bank about 347 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约347米的银行网点，Mo-Fr 09:00-15:00（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 347,
+      "walk_min": 5,
+      "hours": "Mo-Fr 09:00-15:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6440922412",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5784178,
+      "lon": 139.3696497
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 373,
+    "floor_check": {
+      "medical": {
+        "candidates": 39,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 12,
+        "selected": 2
+      },
+      "convenience": {
+        "candidates": 48,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 6,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 3,
+        "selected": 2
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
