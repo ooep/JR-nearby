@@ -1,0 +1,631 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st06120",
+    "name": {
+      "ja": "新所沢",
+      "en": "Shin-Tokorozawa",
+      "zh": "新所泽"
+    },
+    "line_group": [
+      "西武新宿線"
+    ],
+    "pref": "埼玉県",
+    "lat": 35.80688,
+    "lon": 139.45597
+  },
+  "generated_at": "2026-11-09T17:01:46Z",
+  "pois": [
+    {
+      "id": "st06120-001",
+      "category": "bank_atm",
+      "name": {
+        "ja": "三井住友銀行",
+        "en": "Sumitomo Mitsui Banking Corporation",
+        "zh": "三井住友银行"
+      },
+      "desc": {
+        "ja": "三井住友銀行のATM。駅から約38mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 38 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约38米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 38,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/9991837932",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8067558,
+      "lon": 139.4563625,
+      "official_url_pending": "https://www.e-map.ne.jp/smt/smbcbank/inf/2311004200000/"
+    },
+    {
+      "id": "st06120-002",
+      "category": "cafe",
+      "name": {
+        "ja": "ドトールコーヒーショップ",
+        "en": "Doutor Coffee Shop",
+        "zh": "多特咖啡"
+      },
+      "desc": {
+        "ja": "駅から約131mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。",
+        "en": "Cafe about 131 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约131米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 131,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2148628647",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8057156,
+      "lon": 139.455764,
+      "official_url_pending": "https://shop.doutor.co.jp/map/1011061"
+    },
+    {
+      "id": "st06120-003",
+      "category": "food",
+      "name": {
+        "ja": "目利きの銀次",
+        "en": "目利kino銀次",
+        "zh": "目利kino銀次"
+      },
+      "desc": {
+        "ja": "駅から約1742mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1742 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约1742米的餐馆适合旅途中用餐，菜单与价格以店内展示内容为准，具体信息以现场为准。"
+      },
+      "distance_m": 1742,
+      "walk_min": 22,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/12850530107",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8014694,
+      "lon": 139.4378469
+    },
+    {
+      "id": "st06120-004",
+      "category": "shopping",
+      "name": {
+        "ja": "BAGEL&BAGEL City",
+        "en": "BAGEL&BAGEL City",
+        "zh": "BAGEL&BAGEL City"
+      },
+      "desc": {
+        "ja": "駅から約155mにあるベーカリー。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Bakery about 155 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约155米的面包店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 155,
+      "walk_min": 2,
+      "hours": "We, Fr-Mo 10:00-18:30 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/8547042618",
+      "tel": "+81-4-2968-6196",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8075514,
+      "lon": 139.4574763,
+      "official_url_pending": "https://bagelbagel.jp/"
+    },
+    {
+      "id": "st06120-005",
+      "category": "bank_atm",
+      "name": {
+        "ja": "三菱UFJ銀行 ATMコーナー 新所沢駅西口",
+        "en": "三菱UFJ銀行 ATMko-na- 新所沢駅西口",
+        "zh": "三菱UFJ银行 ATMコーナー 新所泽站西口"
+      },
+      "desc": {
+        "ja": "三菱UFJ銀行 ATMコーナー 新所沢駅西口のATM。駅から約126mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 126 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约126米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 126,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/9962896766",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8057464,
+      "lon": 139.4559639,
+      "official_url_pending": "https://map.bk.mufg.jp/b/bk_mufg/info/BA592313/"
+    },
+    {
+      "id": "st06120-006",
+      "category": "shopping",
+      "name": {
+        "ja": "Boulangerie Kishimoto",
+        "en": "Boulangerie Kishimoto",
+        "zh": "Boulangerie Kishimoto"
+      },
+      "desc": {
+        "ja": "駅から約243mにあるベーカリー。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Bakery about 243 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约243米的面包店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 243,
+      "walk_min": 4,
+      "hours": "We-Su 08:00-19:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/8547057619",
+      "tel": "+81-4-2907-7178",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8065177,
+      "lon": 139.4533099,
+      "official_url_pending": "https://boulangerie-kishimoto.jp/"
+    },
+    {
+      "id": "st06120-007",
+      "category": "food",
+      "name": {
+        "ja": "マクドナルド",
+        "en": "McDonald's",
+        "zh": "麦当劳"
+      },
+      "desc": {
+        "ja": "駅から約985mにある飲食店。burger料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は24時間営業。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 985 m from the station. Serves burger cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约985米的餐馆主营burger，适合旅途中用餐，全天24小时营业，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 985,
+      "walk_min": 13,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/316210843",
+      "tel": "+81-4-2928-4381",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.800453,
+      "lon": 139.448453,
+      "official_url_pending": "https://www.mcdonalds.co.jp/"
+    },
+    {
+      "id": "st06120-008",
+      "category": "food",
+      "name": {
+        "ja": "ポポラマーマ 新所沢店",
+        "en": "poporama-ma 新所沢店",
+        "zh": "ポポラマーマ 新所泽店"
+      },
+      "desc": {
+        "ja": "駅から約142mにある飲食店。pasta料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 142 m from the station. Serves pasta cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约142米的餐馆主营pasta，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 142,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/9962896767",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.805609,
+      "lon": 139.4558082,
+      "official_url_pending": "https://www.popolamama.com/info/restaurant15/572.html"
+    },
+    {
+      "id": "st06120-009",
+      "category": "convenience",
+      "name": {
+        "ja": "ローソン",
+        "en": "Lawson",
+        "zh": "罗森"
+      },
+      "desc": {
+        "ja": "ローソンのコンビニエンスストア。駅から約575mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 575 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约575米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 575,
+      "walk_min": 8,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2130011032",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.812025,
+      "lon": 139.456609,
+      "official_url_pending": "https://www.e-map.ne.jp/p/lawson/dtl/111662/"
+    },
+    {
+      "id": "st06120-010",
+      "category": "medical",
+      "name": {
+        "ja": "スギ薬局",
+        "en": "Sugi Pharmacy",
+        "zh": "スギ薬局"
+      },
+      "desc": {
+        "ja": "駅から約481mにある薬局。体調を崩した際の受診や薬の購入に対応する。受付はMo-Su 09:00-22:00（JST）。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 481 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约481米的药房，Mo-Su 09:00-22:00（JST），旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 481,
+      "walk_min": 7,
+      "hours": "Mo-Su 09:00-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2129985619",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8111832,
+      "lon": 139.4554684,
+      "official_url_pending": "https://www.sugi-net.jp/tenpo/detail/1320.html"
+    },
+    {
+      "id": "st06120-011",
+      "category": "convenience",
+      "name": {
+        "ja": "ファミリーマート",
+        "en": "FamilyMart",
+        "zh": "全家便利店"
+      },
+      "desc": {
+        "ja": "ファミリーマートのコンビニエンスストア。駅から約1228mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 1228 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约1228米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 1228,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/12462778112",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8178708,
+      "lon": 139.4546688,
+      "official_url_pending": "https://as.chizumaru.com/famima/detailMap?account=famima&bid=23213"
+    },
+    {
+      "id": "st06120-012",
+      "category": "public_service",
+      "name": {
+        "ja": "ラーク所沢",
+        "en": "Lark Tokorozawa",
+        "zh": "ラーク所泽"
+      },
+      "desc": {
+        "ja": "駅から約1088mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 1088 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1088米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1088,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/1087109503",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8166486,
+      "lon": 139.455381,
+      "official_url_pending": "https://www.saispo.jp/lark/"
+    },
+    {
+      "id": "st06120-013",
+      "category": "post_office",
+      "name": {
+        "ja": "所沢郵便局",
+        "en": "Tokorozawa Post Office",
+        "zh": "所泽邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1463mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1463 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1463米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 1463,
+      "walk_min": 19,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/293774828",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8001599,
+      "lon": 139.4699122
+    },
+    {
+      "id": "st06120-014",
+      "category": "public_service",
+      "name": {
+        "ja": "所沢市立所沢図書館",
+        "en": "Tokorozawa Library",
+        "zh": "所泽市立所泽图书馆"
+      },
+      "desc": {
+        "ja": "駅から約1510mにある図書館。手続きや調べ物、休憩に利用できる公共の施設。詳細は現地の案内を参照。",
+        "en": "Library about 1510 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1510米的图书馆，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1510,
+      "walk_min": 19,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/27396507",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7984044,
+      "lon": 139.4690527
+    },
+    {
+      "id": "st06120-015",
+      "category": "police",
+      "name": {
+        "ja": "所沢警察署",
+        "en": "Tokorozawa Police Station",
+        "zh": "所泽警察署"
+      },
+      "desc": {
+        "ja": "駅から約1531mにある警察署。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1531 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1531米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1531,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/27396596",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.800308,
+      "lon": 139.4708837
+    },
+    {
+      "id": "st06120-016",
+      "category": "medical",
+      "name": {
+        "ja": "サンドラッグ",
+        "en": "Sundrug",
+        "zh": "Sandoragu"
+      },
+      "desc": {
+        "ja": "駅から約838mにある薬局。体調を崩した際の受診や薬の購入に対応する。受付はMo-Su 09:30-21:00（JST）。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 838 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约838米的药房，Mo-Su 09:30-21:00（JST），旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 838,
+      "walk_min": 11,
+      "hours": "Mo-Su 09:30-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1901838914",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8140208,
+      "lon": 139.4589262,
+      "official_url_pending": "https://www.e-map.ne.jp/p/sundrug/dtl/0438/"
+    },
+    {
+      "id": "st06120-017",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "所澤神明社",
+        "en": "Tokorozawa Shimmei Shrine",
+        "zh": "所澤神明社"
+      },
+      "desc": {
+        "ja": "駅から約1563mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1563 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1563米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1563,
+      "walk_min": 20,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/319062334",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7941698,
+      "lon": 139.4633727
+    },
+    {
+      "id": "st06120-018",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "三ツ井戸 弘法大師 六角堂",
+        "en": "三tsu井戸 弘法大師 六角堂",
+        "zh": "三ツ井户 弘法大師 六角堂"
+      },
+      "desc": {
+        "ja": "駅から約1715mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 1715 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1715米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1715,
+      "walk_min": 22,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2393339976",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7916432,
+      "lon": 139.4588829
+    },
+    {
+      "id": "st06120-019",
+      "category": "sight",
+      "name": {
+        "ja": "所沢航空発祥記念館",
+        "en": "Tokorozawa Aviation Museum",
+        "zh": "所泽航空发祥纪念馆"
+      },
+      "desc": {
+        "ja": "駅から約1658mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1658 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1658米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1658,
+      "walk_min": 21,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/160511084",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.799048,
+      "lon": 139.4716171,
+      "official_url_pending": "http://tam-web.jsf.or.jp/"
+    },
+    {
+      "id": "st06120-020",
+      "category": "shopping",
+      "name": {
+        "ja": "コープみらい",
+        "en": "Co-op Mirai",
+        "zh": "Ko-pumirai"
+      },
+      "desc": {
+        "ja": "駅から約866mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 866 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约866米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 866,
+      "walk_min": 11,
+      "hours": "Mo-Su 09:30-23:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2128925240",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.814243,
+      "lon": 139.459105,
+      "official_url_pending": "https://map.coopdeli.coop/mirai/shop.php?shop_id=21035410"
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 371,
+    "floor_check": {
+      "medical": {
+        "candidates": 45,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 13,
+        "selected": 2
+      },
+      "convenience": {
+        "candidates": 30,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 9,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 3,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
