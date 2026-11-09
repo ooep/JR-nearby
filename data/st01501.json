@@ -1,0 +1,542 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st01501",
+    "name": {
+      "ja": "南柏",
+      "en": "Minami-Kashiwa",
+      "zh": "南柏"
+    },
+    "line_group": [
+      "千代田線",
+      "常磐線"
+    ],
+    "pref": "千葉県",
+    "lat": 35.84473,
+    "lon": 139.95412
+  },
+  "generated_at": "2026-11-09T12:18:12Z",
+  "pois": [
+    {
+      "id": "st01501-001",
+      "category": "police",
+      "name": {
+        "ja": "流山警察署東部交番",
+        "en": "流山东部交番 Police Station",
+        "zh": "流山警察署东部交番"
+      },
+      "desc": {
+        "ja": "駅から約1249mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1249 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1249米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1249,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420741136",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.841775,
+      "lon": 139.940753
+    },
+    {
+      "id": "st01501-002",
+      "category": "post_office",
+      "name": {
+        "ja": "南柏駅前郵便局",
+        "en": "Minamikashiwa Ekimae Post Office",
+        "zh": "南柏站前邮政局"
+      },
+      "desc": {
+        "ja": "駅から約185mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 185 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约185米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 185,
+      "walk_min": 3,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1420729944",
+      "tel": "+81-4-7145-9943",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8460406,
+      "lon": 139.955384
+    },
+    {
+      "id": "st01501-003",
+      "category": "post_office",
+      "name": {
+        "ja": "流山松ヶ丘郵便局",
+        "en": "Nagareyama Matsugaoka Post Office",
+        "zh": "流山松ヶ丘邮政局"
+      },
+      "desc": {
+        "ja": "駅から約434mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 434 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约434米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 434,
+      "walk_min": 6,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/13626268853",
+      "tel": "+81-4-7145-9743",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8475211,
+      "lon": 139.9507504
+    },
+    {
+      "id": "st01501-004",
+      "category": "shopping",
+      "name": {
+        "ja": "酒＆業務スーパー河内屋",
+        "en": "酒＆業務su-pa-河内屋",
+        "zh": "酒＆業務スーパー河内屋"
+      },
+      "desc": {
+        "ja": "駅から約743mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 743 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约743米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 743,
+      "walk_min": 10,
+      "hours": "Mo-Su 09:00-20:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/8512413318",
+      "tel": "+81-4-7170-6221",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8478613,
+      "lon": 139.9614051
+    },
+    {
+      "id": "st01501-005",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "セブン-イレブンのコンビニエンスストア。駅から約806mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 806 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约806米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 806,
+      "walk_min": 11,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/395755629",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8512711,
+      "lon": 139.9579734,
+      "official_url_pending": "https://www.sej.co.jp/"
+    },
+    {
+      "id": "st01501-006",
+      "category": "convenience",
+      "name": {
+        "ja": "ファミリーマート 柏新富町店 (イートイン)",
+        "en": "FamilyMart (Eating space)",
+        "zh": "全家政利商店"
+      },
+      "desc": {
+        "ja": "ファミリーマート 柏新富町店 (イートイン)のコンビニエンスストア。駅から約891mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 891 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约891米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 891,
+      "walk_min": 12,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2857705923",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8525994,
+      "lon": 139.952285,
+      "official_url_pending": "https://as.chizumaru.com/famima/detailmap?account=famima&bid=22288"
+    },
+    {
+      "id": "st01501-007",
+      "category": "shopping",
+      "name": {
+        "ja": "イオン",
+        "en": "AEON",
+        "zh": "永旺"
+      },
+      "desc": {
+        "ja": "駅から約994mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 994 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约994米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 994,
+      "walk_min": 13,
+      "hours": "Su-Sa 08:00-23:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/14253050388",
+      "tel": "04-7142-5000",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.85139,
+      "lon": 139.9614773,
+      "official_url_pending": "https://www.aeon.com/store/%E3%82%A4%E3%82%AA%E3%83%B3/%E3%82%A4%E3%82%AA%E3%83%B3%E6%9F%8F%E5%BA%97/"
+    },
+    {
+      "id": "st01501-008",
+      "category": "shopping",
+      "name": {
+        "ja": "イオンモール柏",
+        "en": "AEON MALL Kashiwa",
+        "zh": "イオンモール柏"
+      },
+      "desc": {
+        "ja": "駅から約1037mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 1037 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1037米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准。"
+      },
+      "distance_m": 1037,
+      "walk_min": 13,
+      "hours": "Su-Sa 08:00-23:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/1565260287",
+      "tel": "04-7142-5000",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8518484,
+      "lon": 139.9615536,
+      "official_url_pending": "https://www.aeon.jp/sc/chiba-kashiwa"
+    },
+    {
+      "id": "st01501-009",
+      "category": "food",
+      "name": {
+        "ja": "マクドナルド",
+        "en": "McDonald's",
+        "zh": "麦当劳"
+      },
+      "desc": {
+        "ja": "駅から約1049mにある飲食店。burger料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はSu-Sa 10:00-21:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1049 m from the station. Serves burger cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1049米的餐馆主营burger，适合旅途中用餐，Su-Sa 10:00-21:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1049,
+      "walk_min": 14,
+      "hours": "Su-Sa 10:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/14253336369",
+      "tel": "04-7143-5801",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8519113,
+      "lon": 139.9616607,
+      "official_url_pending": "https://www.mcdonalds.co.jp"
+    },
+    {
+      "id": "st01501-010",
+      "category": "food",
+      "name": {
+        "ja": "ケンタッキーフライドチキン",
+        "en": "KFC",
+        "zh": "肯德基"
+      },
+      "desc": {
+        "ja": "駅から約1053mにある飲食店。chicken料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はSu-Sa 10:00-21:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1053 m from the station. Serves chicken cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1053米的餐馆主营chicken，适合旅途中用餐，Su-Sa 10:00-21:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1053,
+      "walk_min": 14,
+      "hours": "Su-Sa 10:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/14253323033",
+      "tel": "04-7142-9548",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8516796,
+      "lon": 139.9620569,
+      "official_url_pending": "https://www.kfc.co.jp"
+    },
+    {
+      "id": "st01501-011",
+      "category": "food",
+      "name": {
+        "ja": "ミスタードーナツ",
+        "en": "Mister Donut",
+        "zh": "Misuta-do-natsu"
+      },
+      "desc": {
+        "ja": "駅から約1064mにある飲食店。donut料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はSu-Sa 10:00-21:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1064 m from the station. Serves donut cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1064米的餐馆主营donut，适合旅途中用餐，Su-Sa 10:00-21:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1064,
+      "walk_min": 14,
+      "hours": "Su-Sa 10:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/14253323032",
+      "tel": "04-7128-5808",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8519568,
+      "lon": 139.961852,
+      "official_url_pending": "https://www.misterdonut.jp"
+    },
+    {
+      "id": "st01501-012",
+      "category": "cafe",
+      "name": {
+        "ja": "Coffee Kan",
+        "en": "Coffee Kan",
+        "zh": "Coffee Kan"
+      },
+      "desc": {
+        "ja": "駅から約676mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。Mo-Fr 09:00-20:00; Sa-Su 08:00-20:00; PH 08:00-20:00（JST）。",
+        "en": "Cafe about 676 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约676米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 676,
+      "walk_min": 9,
+      "hours": "Mo-Fr 09:00-20:00; Sa-Su 08:00-20:00; PH 08:00-20:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/13837802283",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8508121,
+      "lon": 139.9542557
+    },
+    {
+      "id": "st01501-013",
+      "category": "medical",
+      "name": {
+        "ja": "ウエルシア南柏店",
+        "en": "uerushia南柏店",
+        "zh": "ウエルシア南柏店"
+      },
+      "desc": {
+        "ja": "駅から約641mにある薬局。体調を崩した際の受診や薬の購入に対応する。受付はMo-Su 09:00-00:00（JST）。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 641 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约641米的药房，Mo-Su 09:00-00:00（JST），旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 641,
+      "walk_min": 9,
+      "hours": "Mo-Su 09:00-00:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/592306986",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8481383,
+      "lon": 139.9598547
+    },
+    {
+      "id": "st01501-014",
+      "category": "public_service",
+      "name": {
+        "ja": "柏市立図書館光ケ丘分館",
+        "en": "柏市立図書館光ke丘分館",
+        "zh": "柏市立图书馆光ケ丘分馆"
+      },
+      "desc": {
+        "ja": "駅から約1553mにある図書館。手続きや調べ物、休憩に利用できる公共の施設。詳細は現地の案内を参照。",
+        "en": "Library about 1553 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1553米的图书馆，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1553,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420740842",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.830898,
+      "lon": 139.956533
+    },
+    {
+      "id": "st01501-015",
+      "category": "public_service",
+      "name": {
+        "ja": "松が丘自治会館",
+        "en": "松ga丘自治会館",
+        "zh": "松ga丘自治会館"
+      },
+      "desc": {
+        "ja": "駅から約577mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 577 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约577米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 577,
+      "walk_min": 8,
+      "hours": "Mo-Fr 09:00-16:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/1451020217",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8482202,
+      "lon": 139.9493756,
+      "official_url_pending": "https://www.city.nagareyama.chiba.jp/life/1003156/1003488/1003489/1003552/1003570.html"
+    },
+    {
+      "id": "st01501-016",
+      "category": "bank_atm",
+      "name": {
+        "ja": "千葉銀行",
+        "en": "Chiba Bank",
+        "zh": "千葉银行"
+      },
+      "desc": {
+        "ja": "千葉銀行の支店。駅から約312mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 312 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约312米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 312,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/415071869",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8419346,
+      "lon": 139.9538302
+    },
+    {
+      "id": "st01501-017",
+      "category": "medical",
+      "name": {
+        "ja": "マツモトキヨシ",
+        "en": "Matsumoto Kiyoshi",
+        "zh": "Matsumotokiyoshi"
+      },
+      "desc": {
+        "ja": "駅から約643mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 643 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约643米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 643,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/10904354434",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8429304,
+      "lon": 139.9473387
+    }
+  ],
+  "coverage": {
+    "poi_count": 17,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 251,
+    "floor_check": {
+      "medical": {
+        "candidates": 19,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 2,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 27,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 9,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 5,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}

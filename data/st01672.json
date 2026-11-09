@@ -1,0 +1,516 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st01672",
+    "name": {
+      "ja": "宇都宮",
+      "en": "Utsunomiya",
+      "zh": "宇都宫"
+    },
+    "line_group": [
+      "JR日光線",
+      "奥羽本線",
+      "山手線",
+      "東北新幹線",
+      "東北本線",
+      "東海道本線"
+    ],
+    "pref": "栃木県",
+    "lat": 36.559246,
+    "lon": 139.898316
+  },
+  "generated_at": "2026-11-09T12:18:11Z",
+  "pois": [
+    {
+      "id": "st01672-001",
+      "category": "cafe",
+      "name": {
+        "ja": "タリーズコーヒー 宇都宮駅ビルパセオ店",
+        "en": "Tully's Coffee",
+        "zh": "タリーズコーヒー 宇都宫站ビルパセオ店"
+      },
+      "desc": {
+        "ja": "駅から約46mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。Mo-Su 06:30-22:00（JST）。",
+        "en": "Cafe about 46 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约46米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 46,
+      "walk_min": 1,
+      "hours": "Mo-Su 06:30-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/4880866724",
+      "tel": "028-650-5567",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.5595343,
+      "lon": 139.8986855,
+      "official_url_pending": "https://shop.tullys.co.jp/detail/1920812"
+    },
+    {
+      "id": "st01672-002",
+      "category": "shopping",
+      "name": {
+        "ja": "トナリエ宇都宮",
+        "en": "tonarie宇都宮",
+        "zh": "トナリエ宇都宫"
+      },
+      "desc": {
+        "ja": "駅から約165mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 165 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约165米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 165,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/100583545",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.5602416,
+      "lon": 139.8969493
+    },
+    {
+      "id": "st01672-003",
+      "category": "food",
+      "name": {
+        "ja": "日光かなめ屋　総合文化センター店",
+        "en": "日光kaname屋　総合文化senta-店",
+        "zh": "日光kaname屋 総合文化senta-店"
+      },
+      "desc": {
+        "ja": "駅から約1479mにある飲食店。japanese料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はTu-Su 11:30-17:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1479 m from the station. Serves japanese cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1479米的餐馆主营japanese，适合旅途中用餐，Tu-Su 11:30-17:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1479,
+      "walk_min": 19,
+      "hours": "Tu-Su 11:30-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/9356859002",
+      "tel": "028-678-6590",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.5639837,
+      "lon": 139.8828434,
+      "official_url_pending": "http://nikko-kanameya.com"
+    },
+    {
+      "id": "st01672-004",
+      "category": "food",
+      "name": {
+        "ja": "プレミアムカルビ",
+        "en": "puremiamukarubi",
+        "zh": "Puremiamukarubi"
+      },
+      "desc": {
+        "ja": "駅から約986mにある飲食店。barbecue料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 986 m from the station. Serves barbecue cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约986米的餐馆主营barbecue，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 986,
+      "walk_min": 13,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/13649304593",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.5580958,
+      "lon": 139.9092651,
+      "official_url_pending": "https://www.premiumkarubi.jp/shop_utsunomiyaekihigashi.php"
+    },
+    {
+      "id": "st01672-005",
+      "category": "convenience",
+      "name": {
+        "ja": "ファミリーマート",
+        "en": "FamilyMart",
+        "zh": "全家便利店"
+      },
+      "desc": {
+        "ja": "ファミリーマートのコンビニエンスストア。駅から約282mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 282 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约282米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 282,
+      "walk_min": 4,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/4880866725",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.5614661,
+      "lon": 139.896782
+    },
+    {
+      "id": "st01672-006",
+      "category": "bank_atm",
+      "name": {
+        "ja": "足利銀行",
+        "en": "足利 Bank",
+        "zh": "足利银行"
+      },
+      "desc": {
+        "ja": "足利銀行の支店。駅から約470mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 470 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约470米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 470,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/100583544",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.5602516,
+      "lon": 139.8932047
+    },
+    {
+      "id": "st01672-007",
+      "category": "medical",
+      "name": {
+        "ja": "アイココチ",
+        "en": "aikokochi",
+        "zh": "Aikokochi"
+      },
+      "desc": {
+        "ja": "駅から約160mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 160 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约160米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 160,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/11145980055",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.5597739,
+      "lon": 139.89998
+    },
+    {
+      "id": "st01672-008",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "セブン-イレブンのコンビニエンスストア。駅から約661mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 661 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约661米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 661,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/453705836",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.5629113,
+      "lon": 139.9041479,
+      "official_url_pending": "https://www.sej.co.jp/"
+    },
+    {
+      "id": "st01672-009",
+      "category": "medical",
+      "name": {
+        "ja": "やなぜ調剤薬局",
+        "en": "yanaze調剤薬局",
+        "zh": "Yanaze調剤薬局"
+      },
+      "desc": {
+        "ja": "駅から約920mにある薬局。体調を崩した際の受診や薬の購入に対応する。受付はMo-We,Fr 09:00-18:00; Th,Sa 09:00-17:00（JST）。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 920 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约920米的药房，Mo-We, Fr 09:00-18:00, Th, Sa 09:00-17:00（JST），旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 920,
+      "walk_min": 12,
+      "hours": "Mo-We,Fr 09:00-18:00; Th,Sa 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/13751896549",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.5526048,
+      "lon": 139.9044678
+    },
+    {
+      "id": "st01672-010",
+      "category": "food",
+      "name": {
+        "ja": "悟空",
+        "en": "Gokū",
+        "zh": "悟空"
+      },
+      "desc": {
+        "ja": "駅から約1000mにある飲食店。japanese料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Th 11:30-20:00; Sa-Su 11:00-20:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1000 m from the station. Serves japanese cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1000米的餐馆主营japanese，适合旅途中用餐，Mo-Th 11:30-20:00, Sa-Su 11:00-20:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1000,
+      "walk_min": 13,
+      "hours": "Mo-Th 11:30-20:00; Sa-Su 11:00-20:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/11818392869",
+      "tel": "028-600-3575",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.56163,
+      "lon": 139.8875163,
+      "official_url_pending": "https://goku-gyoza.com/"
+    },
+    {
+      "id": "st01672-011",
+      "category": "post_office",
+      "name": {
+        "ja": "宇都宮中央郵便局",
+        "en": "Utsunomiya central post office",
+        "zh": "宇都宫中央邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1203mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1203 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1203米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 1203,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/100583556",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.5578564,
+      "lon": 139.8849566
+    },
+    {
+      "id": "st01672-012",
+      "category": "park",
+      "name": {
+        "ja": "宇都宮城址公園",
+        "en": "Utsunomiya castle ruins park (Utsunomiya joshi koen)",
+        "zh": "宇都宫城址公园"
+      },
+      "desc": {
+        "ja": "駅から約1275mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1275 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1275米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1275,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/100274536",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.5545023,
+      "lon": 139.8853168
+    },
+    {
+      "id": "st01672-013",
+      "category": "public_service",
+      "name": {
+        "ja": "宇都宮市役所",
+        "en": "Utsunomiya City hall",
+        "zh": "宇都宫市役所"
+      },
+      "desc": {
+        "ja": "駅から約1474mにある役所・行政施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Civic office about 1474 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1474米的行政机构，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1474,
+      "walk_min": 19,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/100466419",
+      "tel": "+81-28-6322222",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.5551865,
+      "lon": 139.8826076,
+      "official_url_pending": "https://www.city.utsunomiya.tochigi.jp/"
+    },
+    {
+      "id": "st01672-014",
+      "category": "police",
+      "name": {
+        "ja": "今泉交番",
+        "en": "今泉 Police Box",
+        "zh": "今泉交番"
+      },
+      "desc": {
+        "ja": "駅から約888mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 888 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约888米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 888,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/700777187",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.5671178,
+      "lon": 139.8999733
+    },
+    {
+      "id": "st01672-015",
+      "category": "shopping",
+      "name": {
+        "ja": "ヨークベニマル",
+        "en": "York Benimaru",
+        "zh": "Yo-kubenimaru"
+      },
+      "desc": {
+        "ja": "駅から約148mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 148 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约148米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 148,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/11145980024",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.5595209,
+      "lon": 139.8999346
+    },
+    {
+      "id": "st01672-016",
+      "category": "park",
+      "name": {
+        "ja": "さざなみ公園",
+        "en": "sazanami公園",
+        "zh": "Sazanami公園"
+      },
+      "desc": {
+        "ja": "駅から約433mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 433 m from the station, with paths and benches for a rest.",
+        "zh": "距站约433米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 433,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/375882219",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.5554605,
+      "lon": 139.8994464
+    }
+  ],
+  "coverage": {
+    "poi_count": 16,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 360,
+    "floor_check": {
+      "medical": {
+        "candidates": 33,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 19,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 35,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 13,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 4,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
