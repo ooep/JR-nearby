@@ -1,0 +1,600 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st05712",
+    "name": {
+      "ja": "天神橋筋六丁目",
+      "en": "Tenjimbashisuji 6-chōme",
+      "zh": "天神桥筋六丁目"
+    },
+    "line_group": [
+      "千里線",
+      "堺筋線",
+      "谷町線",
+      "阪急京都本線"
+    ],
+    "pref": "大阪府",
+    "lat": 34.710597,
+    "lon": 135.511296
+  },
+  "generated_at": "2026-11-09T14:58:25Z",
+  "pois": [
+    {
+      "id": "st05712-001",
+      "category": "food",
+      "name": {
+        "ja": "マクドナルド",
+        "en": "McDonald's",
+        "zh": "麦当劳"
+      },
+      "desc": {
+        "ja": "駅から約13mにある飲食店。burger料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 13 m from the station. Serves burger cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约13米的餐馆主营burger，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 13,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1599498485",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7105823,
+      "lon": 135.5111516,
+      "official_url_pending": "https://www.mcdonalds.co.jp/"
+    },
+    {
+      "id": "st05712-002",
+      "category": "bank_atm",
+      "name": {
+        "ja": "三井住友銀行",
+        "en": "Sumitomo Mitsui Banking Corporation",
+        "zh": "三井住友银行"
+      },
+      "desc": {
+        "ja": "三井住友銀行の支店。駅から約38mにあり、預け入れ・引き出しやATMの利用に対応する。窓口はMo-Fr 09:00-15:00（JST）。",
+        "en": "Bank about 38 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约38米的银行网点，Mo-Fr 09:00-15:00（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 38,
+      "walk_min": 1,
+      "hours": "Mo-Fr 09:00-15:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1599500943",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7104014,
+      "lon": 135.5116344
+    },
+    {
+      "id": "st05712-003",
+      "category": "shopping",
+      "name": {
+        "ja": "阪急OASIS",
+        "en": "阪急OASIS",
+        "zh": "阪急OASIS"
+      },
+      "desc": {
+        "ja": "駅から約42mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 42 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约42米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 42,
+      "walk_min": 1,
+      "hours": "Mo-Sa 09:00-23:00; Su 09:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2237154264",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.710937,
+      "lon": 135.511501
+    },
+    {
+      "id": "st05712-004",
+      "category": "police",
+      "name": {
+        "ja": "曽根崎警察署天神橋五丁目交番",
+        "en": "曽根崎天神桥五丁目交番 Police Station",
+        "zh": "曽根崎警察署天神桥五丁目交番"
+      },
+      "desc": {
+        "ja": "駅から約335mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 335 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约335米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 335,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423000870",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7076636,
+      "lon": 135.5121246
+    },
+    {
+      "id": "st05712-005",
+      "category": "convenience",
+      "name": {
+        "ja": "ファミリーマート",
+        "en": "FamilyMart",
+        "zh": "全家便利店"
+      },
+      "desc": {
+        "ja": "ファミリーマートのコンビニエンスストア。駅から約97mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 97 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约97米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 97,
+      "walk_min": 2,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1599512736",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7111389,
+      "lon": 135.5104586
+    },
+    {
+      "id": "st05712-006",
+      "category": "medical",
+      "name": {
+        "ja": "福効医院",
+        "en": "福効 Hospital",
+        "zh": "福効医院"
+      },
+      "desc": {
+        "ja": "駅から約90mにあるクリニック。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Clinic about 90 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约90米的诊所，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 90,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2288753838",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.710309,
+      "lon": 135.512215
+    },
+    {
+      "id": "st05712-007",
+      "category": "post_office",
+      "name": {
+        "ja": "大阪天神橋六郵便局",
+        "en": "Osaka Tenjimbashi 6 Post Office",
+        "zh": "大阪天神桥六邮政局"
+      },
+      "desc": {
+        "ja": "駅から約159mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 159 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约159米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 159,
+      "walk_min": 2,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1422989111",
+      "tel": "+81-6-6351-9727",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7100739,
+      "lon": 135.5129098
+    },
+    {
+      "id": "st05712-008",
+      "category": "convenience",
+      "name": {
+        "ja": "ローソン",
+        "en": "Lawson",
+        "zh": "罗森"
+      },
+      "desc": {
+        "ja": "ローソンのコンビニエンスストア。駅から約178mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 178 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约178米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 178,
+      "walk_min": 3,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1735944947",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7090044,
+      "lon": 135.5110966
+    },
+    {
+      "id": "st05712-009",
+      "category": "bank_atm",
+      "name": {
+        "ja": "池田泉州銀行",
+        "en": "Senshu Ikeda Bank",
+        "zh": "池田泉州银行"
+      },
+      "desc": {
+        "ja": "池田泉州銀行の支店。駅から約1076mにあり、預け入れ・引き出しやATMの利用に対応する。窓口はMo-Fr 09:00-15:00（JST）。",
+        "en": "Bank about 1076 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约1076米的银行网点，Mo-Fr 09:00-15:00（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 1076,
+      "walk_min": 14,
+      "hours": "Mo-Fr 09:00-15:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1617700360",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7090067,
+      "lon": 135.4996901
+    },
+    {
+      "id": "st05712-010",
+      "category": "medical",
+      "name": {
+        "ja": "ダイコクドラッグ",
+        "en": "Daikoku Drug",
+        "zh": "Daikokudoragu"
+      },
+      "desc": {
+        "ja": "駅から約141mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 141 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约141米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 141,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1892917130",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.70933,
+      "lon": 135.511385
+    },
+    {
+      "id": "st05712-011",
+      "category": "post_office",
+      "name": {
+        "ja": "大阪浪花町郵便局",
+        "en": "Osaka Naniwacho Post Office",
+        "zh": "大阪浪花町邮政局"
+      },
+      "desc": {
+        "ja": "駅から約253mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 253 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约253米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 253,
+      "walk_min": 4,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1422990897",
+      "tel": "+81-6-6372-4416",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7087347,
+      "lon": 135.5097042
+    },
+    {
+      "id": "st05712-012",
+      "category": "cafe",
+      "name": {
+        "ja": "Haiku Coffee Roasters",
+        "en": "Haiku Coffee Roasters",
+        "zh": "Haiku Coffee Roasters"
+      },
+      "desc": {
+        "ja": "駅から約354mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。Mo,Tu,Th 10:00-18:00; We off; Fr,Sa 10:00-22:00; Su 10:00-17:00（JST）。",
+        "en": "Cafe about 354 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约354米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 354,
+      "walk_min": 5,
+      "hours": "Mo,Tu,Th 10:00-18:00; We off; Fr,Sa 10:00-22:00; Su 10:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2293166511",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7101879,
+      "lon": 135.5074534,
+      "official_url_pending": "https://haikucoffee.thebase.in/"
+    },
+    {
+      "id": "st05712-013",
+      "category": "food",
+      "name": {
+        "ja": "ゆかり",
+        "en": "Yukari",
+        "zh": "Yukari"
+      },
+      "desc": {
+        "ja": "駅から約1461mにある飲食店。japanese;okonomiyaki;steak_house料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Su 11:00-01:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1461 m from the station. Serves japanese and okonomiyaki and steak_house cuisine. Handy for a meal bet.",
+        "zh": "距站约1461米的餐馆主营japanese and okonomiyaki and steak_house，适合旅途中用餐，Mo-Su 11:00-01:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1461,
+      "walk_min": 19,
+      "hours": "Mo-Su 11:00-01:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2293439591",
+      "tel": "+81 6-6311-0214",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7009231,
+      "lon": 135.5004866,
+      "official_url_pending": "https://www.yukarichan.co.jp/"
+    },
+    {
+      "id": "st05712-014",
+      "category": "public_service",
+      "name": {
+        "ja": "M&A総合研究所 都島図書館",
+        "en": "M&A総合研究所 都島図書館",
+        "zh": "M&A総合研究所 都岛图书馆"
+      },
+      "desc": {
+        "ja": "駅から約1856mにある図書館。手続きや調べ物、休憩に利用できる公共の施設。詳細は現地の案内を参照。",
+        "en": "Library about 1856 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1856米的图书馆，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1856,
+      "walk_min": 24,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1422989729",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7009583,
+      "lon": 135.5278713
+    },
+    {
+      "id": "st05712-015",
+      "category": "sight",
+      "name": {
+        "ja": "キッズプラザ大阪",
+        "en": "Kids Plaza Osaka",
+        "zh": "キッズプラザ大阪"
+      },
+      "desc": {
+        "ja": "駅から約682mにあるテーマパーク。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Theme park about 682 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约682米的主题乐园，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 682,
+      "walk_min": 9,
+      "hours": "Tu-Fr 09:30-17:00; Sa,Su,PH 09:30-19:00; Mo off; Dec 28-Jan 02 off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1906505143",
+      "tel": "+81-6-6311-6601",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7045253,
+      "lon": 135.5102709,
+      "official_url_pending": "https://www.kidsplaza.or.jp/"
+    },
+    {
+      "id": "st05712-016",
+      "category": "food",
+      "name": {
+        "ja": "モスバーガー",
+        "en": "MOS Burger",
+        "zh": "摩斯汉堡"
+      },
+      "desc": {
+        "ja": "駅から約1265mにある飲食店。burger料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Su 08:00-23:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1265 m from the station. Serves burger cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1265米的餐馆主营burger，适合旅途中用餐，Mo-Su 08:00-23:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1265,
+      "walk_min": 16,
+      "hours": "Mo-Su 08:00-23:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1937614036",
+      "tel": "+81-6-69257225",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7086555,
+      "lon": 135.5249375,
+      "official_url_pending": "https://www.mos.co.jp/"
+    },
+    {
+      "id": "st05712-017",
+      "category": "shopping",
+      "name": {
+        "ja": "大丸",
+        "en": "Daimaru",
+        "zh": "大丸百货"
+      },
+      "desc": {
+        "ja": "駅から約1640mにある百貨店。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Department store about 1640 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1640米的百货店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1640,
+      "walk_min": 21,
+      "hours": "Mo-Th 10:00-20:30; Fr-Sa 10:00-21:00; Su 10:00-20:30 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1740969658",
+      "tel": "+81 6 6343 1231",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7019921,
+      "lon": 135.4967271,
+      "official_url_pending": "https://www.daimaru.co.jp/umedamise/"
+    },
+    {
+      "id": "st05712-018",
+      "category": "public_service",
+      "name": {
+        "ja": "大阪市立男女共同参画センター子育て活動支援館",
+        "en": "大阪市立男女共同参画senta-子育te活動支援館",
+        "zh": "大阪市立男女共同参画senta-子育te活動支援館"
+      },
+      "desc": {
+        "ja": "駅から約46mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 46 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约46米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 46,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1906508927",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7104538,
+      "lon": 135.5117666,
+      "official_url_pending": "http://www.creo-osaka.or.jp/"
+    },
+    {
+      "id": "st05712-019",
+      "category": "sight",
+      "name": {
+        "ja": "造幣博物館",
+        "en": "Mint Museum",
+        "zh": "造幣博物馆"
+      },
+      "desc": {
+        "ja": "駅から約1891mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。入場は無料。",
+        "en": "Museum about 1891 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1891米的博物馆·美术馆，免费开放，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1891,
+      "walk_min": 24,
+      "hours": "Mo-Su 09:00-16:45 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1423016951",
+      "tel": "+81 6-6351-5361",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6958942,
+      "lon": 135.5216842,
+      "official_url_pending": "https://www.mint.go.jp/enjoy/plant-osaka/plant_museum.html"
+    }
+  ],
+  "coverage": {
+    "poi_count": 19,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 392,
+    "floor_check": {
+      "medical": {
+        "candidates": 27,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 10,
+        "selected": 2
+      },
+      "convenience": {
+        "candidates": 53,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 27,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 12,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
