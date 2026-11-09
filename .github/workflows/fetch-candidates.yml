@@ -1,0 +1,110 @@
+name: fetch-candidates
+
+# Dispatch-only helper: use the runner's outbound network to collect raw
+# Overpass candidates for stations that cannot be reached from the local
+# workstation. The fetcher itself stays encrypted at rest; it is materialised
+# only inside the decrypt window and removed by finalize.sh.
+# Candidates are RAW material. Station files are still assembled, validated
+# and reviewed locally before anything is pushed.
+
+on:
+  workflow_dispatch:
+    inputs:
+      stations:
+        description: "JSON array of {slug,lat,lon} objects"
+        required: true
+        type: string
+      radius:
+        description: "Overpass around radius in meters"
+        required: false
+        default: "1200"
+        type: string
+
+permissions:
+  contents: read
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Decrypt fetcher
+        env:
+          OOEP_PASSPHRASE: ${{ secrets.CODE_KEY }}
+        run: bash encryption/prep.sh 2
+
+      - name: Keep tags needed by the local generator
+        run: |
+          python3 - <<'PY'
+          p = "scripts/fetch_overpass.py"
+          s = open(p, encoding="utf-8").read()
+          old = '"wikidata", "wikipedia", "fee", "wheelchair")}'
+          new = '"wikidata", "wikipedia", "fee", "wheelchair", "information", "stars", "int_name", "name:en", "name:zh")}'
+          if old not in s:
+              raise SystemExit("tag whitelist anchor not found; ciphertext may have changed")
+          open(p, "w", encoding="utf-8").write(s.replace(old, new, 1))
+          print("tag whitelist widened (runner-local copy only)")
+          PY
+
+      - name: Fetch candidates (serial, low rate)
+        env:
+          STATIONS: ${{ inputs.stations }}
+          RADIUS: ${{ inputs.radius }}
+        run: |
+          python3 - <<'PY'
+          import json, os, pathlib, subprocess, sys, time
+          stations = json.loads(os.environ["STATIONS"])
+          if not isinstance(stations, list) or not stations:
+              raise SystemExit("stations must be a non-empty JSON array")
+          radius = str(os.environ.get("RADIUS") or "1200")
+          out = pathlib.Path(os.environ["RUNNER_TEMP"]) / "candidates"
+          out.mkdir(parents=True, exist_ok=True)
+          report = {"radius": radius,
+                    "started_at": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
+                    "items": []}
+          for i, st in enumerate(stations):
+              slug = st["slug"]
+              dest = out / (slug + ".json")
+              cmd = [sys.executable, "scripts/fetch_overpass.py",
+                     "--lat", str(st["lat"]), "--lon", str(st["lon"]),
+                     "--radius", radius, "--out", str(dest)]
+              t0 = time.time()
+              p = subprocess.run(cmd, capture_output=True, text=True)
+              ok, n = p.returncode == 0 and dest.exists(), 0
+              if ok:
+                  try:
+                      n = len(json.loads(dest.read_text(encoding="utf-8")))
+                  except Exception:
+                      ok, n = False, 0
+              secs = round(time.time() - t0, 1)
+              report["items"].append({"slug": slug, "ok": ok, "candidates": n,
+                                     "secs": secs,
+                                     "stderr": (p.stderr or "")[-300:] if not ok else ""})
+              print("[%s] %s cands=%s %ss" % ("ok" if ok else "FAIL", slug, n, secs), flush=True)
+              if not ok:
+                  print((p.stderr or "")[-400:], file=sys.stderr)
+              if i < len(stations) - 1:
+                  time.sleep(8)
+          (out / "_report.json").write_text(
+              json.dumps(report, ensure_ascii=False, indent=1), encoding="utf-8")
+          print("REPORT " + json.dumps(report, ensure_ascii=False))
+          PY
+
+      - name: Upload candidates
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: candidates
+          path: ${{ runner.temp }}/candidates
+          retention-days: 3
+          if-no-files-found: warn
+
+      - name: Finalize
+        if: always()
+        run: bash encryption/finalize.sh "${{ runner.temp }}/candidates"
