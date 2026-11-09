@@ -1,0 +1,536 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st06717",
+    "name": {
+      "ja": "茨木市",
+      "en": "Ibaraki-shi",
+      "zh": "茨木市"
+    },
+    "line_group": [
+      "阪急京都本線"
+    ],
+    "pref": "大阪府",
+    "lat": 34.81668,
+    "lon": 135.57588
+  },
+  "generated_at": "2026-11-09T15:59:39Z",
+  "pois": [
+    {
+      "id": "st06717-001",
+      "category": "shopping",
+      "name": {
+        "ja": "たこ一茨木店",
+        "en": "tako一茨木店",
+        "zh": "Tako一茨木店"
+      },
+      "desc": {
+        "ja": "駅から約202mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 202 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约202米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 202,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5291417547",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8164813,
+      "lon": 135.5780763
+    },
+    {
+      "id": "st06717-002",
+      "category": "cafe",
+      "name": {
+        "ja": "珈琲コロンビア",
+        "en": "珈琲koronbia",
+        "zh": "珈琲コロンビア"
+      },
+      "desc": {
+        "ja": "駅から約83mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。",
+        "en": "Cafe about 83 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约83米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 83,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5291417525",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8173481,
+      "lon": 135.5754865
+    },
+    {
+      "id": "st06717-003",
+      "category": "sight",
+      "name": {
+        "ja": "カラオケ JoyJoy 阪急茨木駅前店",
+        "en": "karaoke JoyJoy 阪急茨木駅前店",
+        "zh": "カラオケ JoyJoy 阪急茨木站前店"
+      },
+      "desc": {
+        "ja": "駅から約116mにある観光スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Attraction about 116 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约116米的观光景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 116,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5291422730",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.81649,
+      "lon": 135.5771348
+    },
+    {
+      "id": "st06717-004",
+      "category": "convenience",
+      "name": {
+        "ja": "ファミリーマート",
+        "en": "FamilyMart",
+        "zh": "全家便利店"
+      },
+      "desc": {
+        "ja": "ファミリーマートのコンビニエンスストア。駅から約120mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 120 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约120米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 120,
+      "walk_min": 2,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5291420326",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8166588,
+      "lon": 135.5745608
+    },
+    {
+      "id": "st06717-005",
+      "category": "bank_atm",
+      "name": {
+        "ja": "りそな銀行",
+        "en": "Resona Bank Ibaraki Branch",
+        "zh": "理索纳银行"
+      },
+      "desc": {
+        "ja": "りそな銀行の支店。駅から約131mにあり、預け入れ・引き出しやATMの利用に対応する。窓口はMo-Fr 09:00-15:00（JST）。",
+        "en": "Bank about 131 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约131米的银行网点，Mo-Fr 09:00-15:00（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 131,
+      "walk_min": 2,
+      "hours": "Mo-Fr 09:00-15:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5291417528",
+      "tel": "+81 72 624 1121",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8178527,
+      "lon": 135.5759602
+    },
+    {
+      "id": "st06717-006",
+      "category": "bank_atm",
+      "name": {
+        "ja": "三井住友銀行",
+        "en": "SMBC Ibaraki Branch",
+        "zh": "三井住友银行"
+      },
+      "desc": {
+        "ja": "三井住友銀行の支店。駅から約133mにあり、預け入れ・引き出しやATMの利用に対応する。窓口はMo-Fr 09:00-15:00（JST）。",
+        "en": "Bank about 133 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约133米的银行网点，Mo-Fr 09:00-15:00（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 133,
+      "walk_min": 2,
+      "hours": "Mo-Fr 09:00-15:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2674856793",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8178229,
+      "lon": 135.5754514
+    },
+    {
+      "id": "st06717-007",
+      "category": "post_office",
+      "name": {
+        "ja": "茨木高瀬郵便局",
+        "en": "Ibaraki Takase Post Office",
+        "zh": "茨木高濑邮政局"
+      },
+      "desc": {
+        "ja": "駅から約211mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 211 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约211米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 211,
+      "walk_min": 3,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1423012672",
+      "tel": "+81-72-622-3591",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8180049,
+      "lon": 135.5742281
+    },
+    {
+      "id": "st06717-008",
+      "category": "food",
+      "name": {
+        "ja": "ローサンカフェ 茨木",
+        "en": "ro-sankafue 茨木",
+        "zh": "ローサンカフェ 茨木"
+      },
+      "desc": {
+        "ja": "駅から約221mにある飲食店。indian料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 221 m from the station. Serves indian cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约221米的餐馆主营indian，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 221,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5291486922",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8175216,
+      "lon": 135.5780675,
+      "official_url_pending": "https://rosancafe.owst.jp/"
+    },
+    {
+      "id": "st06717-009",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン 阪急茨木市駅東店",
+        "en": "Seven-Eleven",
+        "zh": "セブン-イレブン 阪急茨木市站东店"
+      },
+      "desc": {
+        "ja": "セブン-イレブン 阪急茨木市駅東店のコンビニエンスストア。駅から約269mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 269 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约269米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 269,
+      "walk_min": 4,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5291460321",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8169668,
+      "lon": 135.5788049
+    },
+    {
+      "id": "st06717-010",
+      "category": "shopping",
+      "name": {
+        "ja": "コノミヤ 茨木店",
+        "en": "Konomiya",
+        "zh": "コノミヤ 茨木店"
+      },
+      "desc": {
+        "ja": "駅から約497mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 497 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约497米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 497,
+      "walk_min": 7,
+      "hours": "Mo-Su 09:00-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5293336850",
+      "tel": "+81 72 652 0561",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8175824,
+      "lon": 135.5812177,
+      "official_url_pending": "https://www.konomiya.jp/"
+    },
+    {
+      "id": "st06717-011",
+      "category": "post_office",
+      "name": {
+        "ja": "茨木中村郵便局",
+        "en": "Ibaraki Nakamura Post Office",
+        "zh": "茨木中村邮政局"
+      },
+      "desc": {
+        "ja": "駅から約610mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 610 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约610米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 610,
+      "walk_min": 8,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1423011923",
+      "tel": "+81-72-632-3505",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8179669,
+      "lon": 135.582375
+    },
+    {
+      "id": "st06717-012",
+      "category": "food",
+      "name": {
+        "ja": "Taj Mahal Everest 茨木",
+        "en": "Taj Mahal Everest 茨木",
+        "zh": "Taj Mahal Everest 茨木"
+      },
+      "desc": {
+        "ja": "駅から約719mにある飲食店。indian料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Su 11:00-14:30, 17:00-22:30（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 719 m from the station. Serves indian cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约719米的餐馆主营indian，适合旅途中用餐，Mo-Su 11:00-14:30, 17:00-22:30（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 719,
+      "walk_min": 9,
+      "hours": "Mo-Su 11:00-14:30, 17:00-22:30 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5308323332",
+      "tel": "+81 72-621-1114",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8151528,
+      "lon": 135.5682212,
+      "official_url_pending": "https://taj-mahal-everest-nepalese-restaurant.business.site"
+    },
+    {
+      "id": "st06717-013",
+      "category": "sight",
+      "name": {
+        "ja": "カラオケ BanBan 茨木店",
+        "en": "karaoke BanBan 茨木店",
+        "zh": "カラオケ BanBan 茨木店"
+      },
+      "desc": {
+        "ja": "駅から約339mにある観光スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Attraction about 339 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约339米的观光景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 339,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5291486625",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8176207,
+      "lon": 135.5794123
+    },
+    {
+      "id": "st06717-014",
+      "category": "food",
+      "name": {
+        "ja": "吉野家",
+        "en": "Yoshinoya",
+        "zh": "吉野家"
+      },
+      "desc": {
+        "ja": "駅から約116mにある飲食店。beef_bowl料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Su 05:00-02:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 116 m from the station. Serves beef_bowl cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约116米的餐馆主营beef_bowl，适合旅途中用餐，Mo-Su 05:00-02:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 116,
+      "walk_min": 2,
+      "hours": "Mo-Su 05:00-02:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2647479243",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8168875,
+      "lon": 135.5746365
+    },
+    {
+      "id": "st06717-015",
+      "category": "police",
+      "name": {
+        "ja": "茨木警察署鮎川交番",
+        "en": "茨木鮎川交番 Police Station",
+        "zh": "茨木警察署鮎川交番"
+      },
+      "desc": {
+        "ja": "駅から約1673mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1673 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1673米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1673,
+      "walk_min": 21,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423012644",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8155789,
+      "lon": 135.5941609
+    },
+    {
+      "id": "st06717-016",
+      "category": "sight",
+      "name": {
+        "ja": "ジャンカラ JR茨木店",
+        "en": "jiyankara JR茨木店",
+        "zh": "ジャンカラ JR茨木店"
+      },
+      "desc": {
+        "ja": "駅から約972mにある観光スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Attraction about 972 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约972米的观光景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 972,
+      "walk_min": 13,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2674408525",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8167928,
+      "lon": 135.5652281
+    },
+    {
+      "id": "st06717-017",
+      "category": "medical",
+      "name": {
+        "ja": "ダイコクドラッグ",
+        "en": "Daikoku Drug",
+        "zh": "Daikokudoragu"
+      },
+      "desc": {
+        "ja": "駅から約144mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 144 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约144米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 144,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5291421424",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8167895,
+      "lon": 135.5774567
+    }
+  ],
+  "coverage": {
+    "poi_count": 17,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 393,
+    "floor_check": {
+      "medical": {
+        "candidates": 34,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 9,
+        "selected": 2
+      },
+      "convenience": {
+        "candidates": 21,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 11,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 3,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
