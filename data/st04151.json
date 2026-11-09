@@ -1,0 +1,565 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st04151",
+    "name": {
+      "ja": "浜松",
+      "en": "Hamamatsu",
+      "zh": "滨松"
+    },
+    "line_group": [
+      "東海道新幹線",
+      "東海道本線"
+    ],
+    "pref": "静岡県",
+    "lat": 34.703809,
+    "lon": 137.734847
+  },
+  "generated_at": "2026-11-09T13:54:56Z",
+  "pois": [
+    {
+      "id": "st04151-001",
+      "category": "food",
+      "name": {
+        "ja": "松屋",
+        "en": "Matsuya",
+        "zh": "松屋"
+      },
+      "desc": {
+        "ja": "駅から約515mにある飲食店。beef_bowl料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は24時間営業。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 515 m from the station. Serves beef_bowl cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约515米的餐馆主营beef_bowl，适合旅途中用餐，全天24小时营业，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 515,
+      "walk_min": 7,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2916933001",
+      "tel": "+81-53-450-0050",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.699388,
+      "lon": 137.7365225
+    },
+    {
+      "id": "st04151-002",
+      "category": "police",
+      "name": {
+        "ja": "浜松中央警察署新川交番",
+        "en": "滨松中央新川交番 Police Station",
+        "zh": "滨松中央警察署新川交番"
+      },
+      "desc": {
+        "ja": "駅から約719mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 719 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约719米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 719,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420992120",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.710143,
+      "lon": 137.733245
+    },
+    {
+      "id": "st04151-003",
+      "category": "shopping",
+      "name": {
+        "ja": "乃が美はなれ浜松駅前販売店",
+        "en": "乃ga美hanare浜松駅前販売店",
+        "zh": "乃ga美hanare浜松駅前販売店"
+      },
+      "desc": {
+        "ja": "駅から約328mにあるベーカリー。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Bakery about 328 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约328米的面包店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 328,
+      "walk_min": 5,
+      "hours": "Mo-Tu 11:00-19:00, Th-Su 11:00-19:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5467426567",
+      "tel": "053-452-7988",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7049348,
+      "lon": 137.7315332
+    },
+    {
+      "id": "st04151-004",
+      "category": "post_office",
+      "name": {
+        "ja": "浜松アクトシティ内郵便局",
+        "en": "浜松akutoshitei内郵便局",
+        "zh": "滨松アクトシティ内邮政局"
+      },
+      "desc": {
+        "ja": "駅から約345mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 345 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约345米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 345,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420992011",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7058516,
+      "lon": 137.7376823
+    },
+    {
+      "id": "st04151-005",
+      "category": "sight",
+      "name": {
+        "ja": "浜松復興記念館",
+        "en": "Hamamatsu Reconstruction Memorial Museum",
+        "zh": "滨松復興纪念馆"
+      },
+      "desc": {
+        "ja": "駅から約824mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 824 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约824米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 824,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5142606733",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7060595,
+      "lon": 137.7262601
+    },
+    {
+      "id": "st04151-006",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "セブン-イレブンのコンビニエンスストア。駅から約360mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 360 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约360米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 360,
+      "walk_min": 5,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2120494631",
+      "tel": "053-453-3350",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7069533,
+      "lon": 137.733927
+    },
+    {
+      "id": "st04151-007",
+      "category": "sight",
+      "name": {
+        "ja": "浜松市楽器博物館",
+        "en": "Hamamatsu Museum of Musical Instruments",
+        "zh": "滨松市楽器博物馆"
+      },
+      "desc": {
+        "ja": "駅から約439mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。入場は有料。",
+        "en": "Museum about 439 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约439米的博物馆·美术馆，入场收费，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 439,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420992468",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7066154,
+      "lon": 137.7382244
+    },
+    {
+      "id": "st04151-008",
+      "category": "cafe",
+      "name": {
+        "ja": "WILL Coffee＆roasters",
+        "en": "WILL Coffee＆roasters",
+        "zh": "WILL Coffee＆roasters"
+      },
+      "desc": {
+        "ja": "駅から約480mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。Mo-Su 11:00-20:00（JST）。",
+        "en": "Cafe about 480 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约480米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 480,
+      "walk_min": 6,
+      "hours": "Mo-Su 11:00-20:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5585673133",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7070453,
+      "lon": 137.7313694,
+      "official_url_pending": "http://www.p-s-d.co.jp/brand.html#p4"
+    },
+    {
+      "id": "st04151-009",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "八柱神社",
+        "en": "Yabashira Shrine",
+        "zh": "八柱神社"
+      },
+      "desc": {
+        "ja": "駅から約1717mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1717 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1717米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1717,
+      "walk_min": 22,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5251536984",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7173098,
+      "lon": 137.7439597
+    },
+    {
+      "id": "st04151-010",
+      "category": "food",
+      "name": {
+        "ja": "まつさか興（くみ）",
+        "en": "matsusaka興（kumi）",
+        "zh": "Matsusaka興（kumi）"
+      },
+      "desc": {
+        "ja": "駅から約524mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。営業は17:30-02:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 524 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约524米的餐馆适合旅途中用餐，17:30-02:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 524,
+      "walk_min": 7,
+      "hours": "17:30-02:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/3279644679",
+      "tel": "+81 53 456 6811",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7084593,
+      "lon": 137.7339086
+    },
+    {
+      "id": "st04151-011",
+      "category": "sight",
+      "name": {
+        "ja": "若き日の徳川家康像",
+        "en": "若ki日no徳川家康像",
+        "zh": "若ki日no徳川家康像"
+      },
+      "desc": {
+        "ja": "駅から約1242mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Memorial about 1242 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1242米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1242,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2905119607",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7118772,
+      "lon": 137.7254443
+    },
+    {
+      "id": "st04151-012",
+      "category": "bank_atm",
+      "name": {
+        "ja": "ブラジル銀行",
+        "en": "burajiru銀行",
+        "zh": "ブラジル银行"
+      },
+      "desc": {
+        "ja": "ブラジル銀行の支店。駅から約927mにあり、預け入れ・引き出しやATMの利用に対応する。窓口はMo-Fr 09:00-15:00; PH off（JST）。",
+        "en": "Bank about 927 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约927米的银行网点，Mo-Fr 09:00-15:00, PH off（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 927,
+      "walk_min": 12,
+      "hours": "Mo-Fr 09:00-15:00; PH off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5220863703",
+      "tel": "0120-095-595",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7093342,
+      "lon": 137.7272505,
+      "official_url_pending": "https://www.bb.com.br/portalbb/home28,3669,3669,22,0,1,8.bb"
+    },
+    {
+      "id": "st04151-013",
+      "category": "food",
+      "name": {
+        "ja": "たんす亭",
+        "en": "tansu亭",
+        "zh": "Tansu亭"
+      },
+      "desc": {
+        "ja": "駅から約627mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。営業は17:30-24:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 627 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约627米的餐馆适合旅途中用餐，17:30-24:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 627,
+      "walk_min": 8,
+      "hours": "17:30-24:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/3279844253",
+      "tel": "+81 53 540 4579",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7089179,
+      "lon": 137.7319459
+    },
+    {
+      "id": "st04151-014",
+      "category": "medical",
+      "name": {
+        "ja": "杏林堂",
+        "en": "Kyorindo",
+        "zh": "杏林堂"
+      },
+      "desc": {
+        "ja": "駅から約251mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 251 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约251米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 251,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/3801754900",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7042576,
+      "lon": 137.7321567
+    },
+    {
+      "id": "st04151-015",
+      "category": "public_service",
+      "name": {
+        "ja": "浜松市立中央図書館",
+        "en": "Hamamatsu city Chuo library",
+        "zh": "濱松市立中央圖书馆"
+      },
+      "desc": {
+        "ja": "駅から約1082mにある図書館。手続きや調べ物、休憩に利用できる公共の施設。詳細は現地の案内を参照。",
+        "en": "Library about 1082 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1082米的图书馆，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1082,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420992499",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7096783,
+      "lon": 137.7254081
+    },
+    {
+      "id": "st04151-016",
+      "category": "public_service",
+      "name": {
+        "ja": "鴨江アートセンター",
+        "en": "鴨江a-tosenta-",
+        "zh": "鴨江アートセンター"
+      },
+      "desc": {
+        "ja": "駅から約947mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 947 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约947米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 947,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5142606731",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7049702,
+      "lon": 137.7245891
+    },
+    {
+      "id": "st04151-017",
+      "category": "sight",
+      "name": {
+        "ja": "浜松市美術館",
+        "en": "Hamamatsu City Museum of Art",
+        "zh": "滨松市美术馆"
+      },
+      "desc": {
+        "ja": "駅から約1352mにあるギャラリー。周辺を代表する見どころの一つで、散策の目的地にしやすい。入場は有料。",
+        "en": "Gallery about 1352 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1352米的画廊，入场收费，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1352,
+      "walk_min": 17,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420992599",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7118434,
+      "lon": 137.7237404
+    },
+    {
+      "id": "st04151-018",
+      "category": "sight",
+      "name": {
+        "ja": "平野美術館",
+        "en": "Hirano Museum",
+        "zh": "平野美术馆"
+      },
+      "desc": {
+        "ja": "駅から約1362mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1362 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1362米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1362,
+      "walk_min": 18,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420988257",
+      "tel": "+81 53 474 0811",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7156649,
+      "lon": 137.7311006,
+      "official_url_pending": "http://www.hirano-museum.jp/annnai.html"
+    }
+  ],
+  "coverage": {
+    "poi_count": 18,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 397,
+    "floor_check": {
+      "medical": {
+        "candidates": 14,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 14,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 26,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 14,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 6,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
