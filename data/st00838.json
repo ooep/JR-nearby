@@ -1,0 +1,601 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st00838",
+    "name": {
+      "ja": "横須賀中央",
+      "en": "Yokosuka-chūō",
+      "zh": "横須賀中央"
+    },
+    "line_group": [
+      "京急本線",
+      "北総線",
+      "成田空港線"
+    ],
+    "pref": "神奈川県",
+    "lat": 35.27846,
+    "lon": 139.67054
+  },
+  "generated_at": "2026-11-09T13:02:47Z",
+  "pois": [
+    {
+      "id": "st00838-001",
+      "category": "bank_atm",
+      "name": {
+        "ja": "三菱UFJ銀行",
+        "en": "MUFG Bank",
+        "zh": "三菱UFJ银行"
+      },
+      "desc": {
+        "ja": "三菱UFJ銀行のATM。駅から約34mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 34 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约34米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 34,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/10577866798",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.2787615,
+      "lon": 139.6705204
+    },
+    {
+      "id": "st00838-002",
+      "category": "cafe",
+      "name": {
+        "ja": "タリーズコーヒー",
+        "en": "Tully's Coffee",
+        "zh": "塔利咖啡"
+      },
+      "desc": {
+        "ja": "駅から約843mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。",
+        "en": "Cafe about 843 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约843米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 843,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/11062961614",
+      "tel": "+81468213696",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.282515,
+      "lon": 139.6626965,
+      "official_url_pending": "https://shop.tullys.co.jp/detail/1350153"
+    },
+    {
+      "id": "st00838-003",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "セブン-イレブンのコンビニエンスストア。駅から約191mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 191 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约191米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 191,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4385156636",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.2789766,
+      "lon": 139.6725464,
+      "official_url_pending": "https://www.sej.co.jp/"
+    },
+    {
+      "id": "st00838-004",
+      "category": "public_service",
+      "name": {
+        "ja": "横須賀市役所",
+        "en": "Yokosuka City Hall",
+        "zh": "横須賀市役所"
+      },
+      "desc": {
+        "ja": "駅から約348mにある役所・行政施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Civic office about 348 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约348米的行政机构，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 348,
+      "walk_min": 5,
+      "hours": "Mo-Fr 08:30-17:00; PH off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1420825841",
+      "tel": "+81-46-8224000",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.2812907,
+      "lon": 139.6721706,
+      "official_url_pending": "https://www.city.yokosuka.kanagawa.jp/"
+    },
+    {
+      "id": "st00838-005",
+      "category": "post_office",
+      "name": {
+        "ja": "横須賀米が浜通郵便局",
+        "en": "横須賀米ga浜通郵便局",
+        "zh": "横須賀米ga浜通郵便局"
+      },
+      "desc": {
+        "ja": "駅から約345mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 345 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约345米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 345,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420825945",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.278868,
+      "lon": 139.67431
+    },
+    {
+      "id": "st00838-006",
+      "category": "shopping",
+      "name": {
+        "ja": "ヨコスカベーカリー",
+        "en": "yokosukabe-kari-",
+        "zh": "Yokosukabe-kari-"
+      },
+      "desc": {
+        "ja": "駅から約126mにあるベーカリー。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Bakery about 126 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约126米的面包店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 126,
+      "walk_min": 2,
+      "hours": "Tu-Sa 08:00-20:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/10951576560",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.27898,
+      "lon": 139.6717748
+    },
+    {
+      "id": "st00838-007",
+      "category": "park",
+      "name": {
+        "ja": "平和中央公園",
+        "en": "Heiwa Central Park",
+        "zh": "平和中央公园"
+      },
+      "desc": {
+        "ja": "駅から約459mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 459 m from the station, with paths and benches for a rest.",
+        "zh": "距站约459米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 459,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/241059399",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.2751437,
+      "lon": 139.6735501,
+      "official_url_pending": "https://www.kanagawaparks.com/heiwacyuou/"
+    },
+    {
+      "id": "st00838-008",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "諏訪大神社",
+        "en": "Suwa Grand Shrine",
+        "zh": "諏訪大神社"
+      },
+      "desc": {
+        "ja": "駅から約523mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 523 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约523米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 523,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/369335224",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.2807946,
+      "lon": 139.6655445
+    },
+    {
+      "id": "st00838-009",
+      "category": "sight",
+      "name": {
+        "ja": "横須賀市自然・人文博物館",
+        "en": "Yokosuka City Museum of Nature and Humanities",
+        "zh": "横須賀市自然・人文博物馆"
+      },
+      "desc": {
+        "ja": "駅から約526mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 526 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约526米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 526,
+      "walk_min": 7,
+      "hours": "Tu-Su 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1420825914",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.274535,
+      "lon": 139.673783,
+      "official_url_pending": "https://www.museum.yokosuka.kanagawa.jp/"
+    },
+    {
+      "id": "st00838-010",
+      "category": "food",
+      "name": {
+        "ja": "スサン",
+        "en": "susan",
+        "zh": "Susan"
+      },
+      "desc": {
+        "ja": "駅から約1092mにある飲食店。indian料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Su 11:00-15:00, 17:00-23:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1092 m from the station. Serves indian cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1092米的餐馆主营indian，适合旅途中用餐，Mo-Su 11:00-15:00, 17:00-23:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1092,
+      "walk_min": 14,
+      "hours": "Mo-Su 11:00-15:00, 17:00-23:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/7101166929",
+      "tel": "+81-46-825-3132",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.2712355,
+      "lon": 139.6786884,
+      "official_url_pending": "https://www.facebook.com/スサン-インド-レストラン-Susan-Indian-Restaurant-662361727288579/"
+    },
+    {
+      "id": "st00838-011",
+      "category": "sight",
+      "name": {
+        "ja": "ヴェルニー記念館",
+        "en": "Verny memorial hall",
+        "zh": "ヴェルニー纪念馆"
+      },
+      "desc": {
+        "ja": "駅から約1492mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。入場は無料。",
+        "en": "Museum about 1492 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1492米的博物馆·美术馆，免费开放，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1492,
+      "walk_min": 19,
+      "hours": "Tu-Su 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2879272218",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.2847009,
+      "lon": 139.6559892,
+      "official_url_pending": "https://www.city.yokosuka.kanagawa.jp/8161/sisetu/fc00000570.html"
+    },
+    {
+      "id": "st00838-012",
+      "category": "food",
+      "name": {
+        "ja": "Club Alliance",
+        "en": "Club Alliance",
+        "zh": "Club Alliance"
+      },
+      "desc": {
+        "ja": "駅から約667mにある飲食店。burger;wings;italian料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 667 m from the station. Serves burger and wings and italian cuisine. Handy for a meal between sightsee.",
+        "zh": "距站约667米的餐馆主营burger and wings and italian，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 667,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/12899218939",
+      "tel": "046-816-3000",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.2829574,
+      "lon": 139.6656694,
+      "official_url_pending": "https://www.navymwryokosuka.com/programs/0fa03f12-a05b-42c8-be24-d18d346bc448"
+    },
+    {
+      "id": "st00838-013",
+      "category": "park",
+      "name": {
+        "ja": "三笠公園",
+        "en": "Mikasa Park",
+        "zh": "三笠公园"
+      },
+      "desc": {
+        "ja": "駅から約822mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 822 m from the station, with paths and benches for a rest.",
+        "zh": "距站约822米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 822,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/37866825",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.2855124,
+      "lon": 139.6732606,
+      "official_url_pending": "https://www.kanagawaparks.com/verny-mikasa/mikasa/"
+    },
+    {
+      "id": "st00838-014",
+      "category": "sight",
+      "name": {
+        "ja": "平和モニュメント",
+        "en": "Peace Monument",
+        "zh": "平和モニュメント"
+      },
+      "desc": {
+        "ja": "駅から約433mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Memorial about 433 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约433米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 433,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/10961050437",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.2755008,
+      "lon": 139.6736352
+    },
+    {
+      "id": "st00838-015",
+      "category": "medical",
+      "name": {
+        "ja": "US Naval Hospital Yokosuka",
+        "en": "US Naval Hospital Yokosuka",
+        "zh": "US Naval Hospital Yokosuka"
+      },
+      "desc": {
+        "ja": "駅から約918mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 918 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约918米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 918,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2103654351",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.2866922,
+      "lon": 139.6712784
+    },
+    {
+      "id": "st00838-016",
+      "category": "sight",
+      "name": {
+        "ja": "自由の女神",
+        "en": "Statue of Liberty",
+        "zh": "自由no女神"
+      },
+      "desc": {
+        "ja": "駅から約545mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Memorial about 545 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约545米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 545,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/10961047773",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.2739618,
+      "lon": 139.6729261
+    },
+    {
+      "id": "st00838-017",
+      "category": "sight",
+      "name": {
+        "ja": "スカジャン発祥の地",
+        "en": "sukajiyan発祥no地",
+        "zh": "Sukajiyan発祥no地"
+      },
+      "desc": {
+        "ja": "駅から約551mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Memorial about 551 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约551米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 551,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6103497637",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.2819824,
+      "lon": 139.6662779
+    },
+    {
+      "id": "st00838-018",
+      "category": "sight",
+      "name": {
+        "ja": "動物愛護の碑",
+        "en": "動物愛護no碑",
+        "zh": "動物愛護no碑"
+      },
+      "desc": {
+        "ja": "駅から約574mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Memorial about 574 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约574米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 574,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/3737335170",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.281045,
+      "lon": 139.6650617
+    },
+    {
+      "id": "st00838-019",
+      "category": "sight",
+      "name": {
+        "ja": "東郷平八郎像",
+        "en": "Heihachiro Togo Statue",
+        "zh": "东郷平八郎像"
+      },
+      "desc": {
+        "ja": "駅から約747mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Memorial about 747 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约747米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 747,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/444339460",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.2846202,
+      "lon": 139.6738289
+    }
+  ],
+  "coverage": {
+    "poi_count": 19,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到警察设施候选",
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 258,
+    "floor_check": {
+      "medical": {
+        "candidates": 12,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 10,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 18,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 11,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 0,
+        "selected": 0
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
