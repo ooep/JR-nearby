@@ -1,0 +1,541 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st01485",
+    "name": {
+      "ja": "我孫子",
+      "en": "Abiko",
+      "zh": "我孫子"
+    },
+    "line_group": [
+      "千代田線",
+      "常磐線",
+      "成田線",
+      "東北本線",
+      "東海道本線"
+    ],
+    "pref": "千葉県",
+    "lat": 35.87282,
+    "lon": 140.01076
+  },
+  "generated_at": "2026-11-09T14:07:20Z",
+  "pois": [
+    {
+      "id": "st01485-001",
+      "category": "police",
+      "name": {
+        "ja": "我孫子警察署つくし野交番",
+        "en": "我孫子警察署tsukushi野交番",
+        "zh": "我孫子警察署tsukushi野交番"
+      },
+      "desc": {
+        "ja": "駅から約941mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 941 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约941米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 941,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420739535",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.881243,
+      "lon": 140.009794
+    },
+    {
+      "id": "st01485-002",
+      "category": "bank_atm",
+      "name": {
+        "ja": "みずほ銀行",
+        "en": "Mizuho Bank",
+        "zh": "瑞穗银行"
+      },
+      "desc": {
+        "ja": "みずほ銀行のATM。駅から約74mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 74 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约74米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 74,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/9635208821",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8721532,
+      "lon": 140.0107405
+    },
+    {
+      "id": "st01485-003",
+      "category": "food",
+      "name": {
+        "ja": "松屋",
+        "en": "Matsuya",
+        "zh": "松屋"
+      },
+      "desc": {
+        "ja": "駅から約106mにある飲食店。japanese料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は24時間営業。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 106 m from the station. Serves japanese cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约106米的餐馆主营japanese，适合旅途中用餐，全天24小时营业，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 106,
+      "walk_min": 2,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6388459664",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8720221,
+      "lon": 140.0113941
+    },
+    {
+      "id": "st01485-004",
+      "category": "convenience",
+      "name": {
+        "ja": "ファミリーマート",
+        "en": "FamilyMart",
+        "zh": "全家便利店"
+      },
+      "desc": {
+        "ja": "ファミリーマートのコンビニエンスストア。駅から約108mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 108 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约108米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 108,
+      "walk_min": 2,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6296904785",
+      "tel": "+81-4-7199-8757",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8720351,
+      "lon": 140.0114704
+    },
+    {
+      "id": "st01485-005",
+      "category": "post_office",
+      "name": {
+        "ja": "我孫子駅前郵便局",
+        "en": "Abiko Ekimae Post Office",
+        "zh": "我孫子站前邮政局"
+      },
+      "desc": {
+        "ja": "駅から約145mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 145 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约145米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 145,
+      "walk_min": 2,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1420739545",
+      "tel": "+81-4-7183-5505",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.874122,
+      "lon": 140.010793
+    },
+    {
+      "id": "st01485-006",
+      "category": "food",
+      "name": {
+        "ja": "マクドナルド",
+        "en": "McDonald's",
+        "zh": "麦当劳"
+      },
+      "desc": {
+        "ja": "駅から約150mにある飲食店。burger料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は07:00-24:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 150 m from the station. Serves burger cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约150米的餐馆主营burger，适合旅途中用餐，07:00-24:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 150,
+      "walk_min": 2,
+      "hours": "07:00-24:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/1017734233",
+      "tel": "+81 4-7185-8932",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8721033,
+      "lon": 140.0121686,
+      "official_url_pending": "https://map.mcdonalds.co.jp/map/12058"
+    },
+    {
+      "id": "st01485-007",
+      "category": "shopping",
+      "name": {
+        "ja": "KEIHOKU 寿店",
+        "en": "Kyohoku Supermarket",
+        "zh": "KEIHOKU 寿店"
+      },
+      "desc": {
+        "ja": "駅から約1242mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 1242 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1242米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1242,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2709340039",
+      "tel": "+81471821811",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8658864,
+      "lon": 140.0215638,
+      "official_url_pending": "https://www.keihokusuper.co.jp/"
+    },
+    {
+      "id": "st01485-008",
+      "category": "park",
+      "name": {
+        "ja": "我孫子ふれあい広場",
+        "en": "我孫子fureai広場",
+        "zh": "我孫子fureai広場"
+      },
+      "desc": {
+        "ja": "駅から約188mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 188 m from the station, with paths and benches for a rest.",
+        "zh": "距站约188米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 188,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/470562587",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8744957,
+      "lon": 140.0110137
+    },
+    {
+      "id": "st01485-009",
+      "category": "sight",
+      "name": {
+        "ja": "平和の灯",
+        "en": "平和no灯",
+        "zh": "平和no灯"
+      },
+      "desc": {
+        "ja": "駅から約870mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Memorial about 870 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约870米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 870,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5591596646",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.865536,
+      "lon": 140.0142918
+    },
+    {
+      "id": "st01485-010",
+      "category": "sight",
+      "name": {
+        "ja": "平和の記念碑",
+        "en": "平和no記念碑",
+        "zh": "平和no記念碑"
+      },
+      "desc": {
+        "ja": "駅から約872mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Memorial about 872 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约872米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 872,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5591596645",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8655361,
+      "lon": 140.0143398
+    },
+    {
+      "id": "st01485-011",
+      "category": "sight",
+      "name": {
+        "ja": "鼻喰い田",
+        "en": "鼻喰i田",
+        "zh": "鼻喰i田"
+      },
+      "desc": {
+        "ja": "駅から約1651mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Memorial about 1651 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1651米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1651,
+      "walk_min": 21,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/9115716251",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.858382,
+      "lon": 140.0064746
+    },
+    {
+      "id": "st01485-012",
+      "category": "park",
+      "name": {
+        "ja": "我孫子いちょう公園",
+        "en": "我孫子ichiyou公園",
+        "zh": "我孫子ichiyou公園"
+      },
+      "desc": {
+        "ja": "駅から約566mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 566 m from the station, with paths and benches for a rest.",
+        "zh": "距站约566米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 566,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/1057514931",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8748318,
+      "lon": 140.0049916
+    },
+    {
+      "id": "st01485-013",
+      "category": "public_service",
+      "name": {
+        "ja": "久寺家近隣センター",
+        "en": "久寺家近隣senta-",
+        "zh": "久寺家近隣センター"
+      },
+      "desc": {
+        "ja": "駅から約1423mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 1423 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1423米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1423,
+      "walk_min": 18,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/1456476566",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8844111,
+      "lon": 140.0174513
+    },
+    {
+      "id": "st01485-014",
+      "category": "sight",
+      "name": {
+        "ja": "白樺文学館",
+        "en": "Shirakaba Literature Museum",
+        "zh": "白樺文学馆"
+      },
+      "desc": {
+        "ja": "駅から約922mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 922 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约922米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 922,
+      "walk_min": 12,
+      "hours": "Tu-Su 09:30-16:30; Mo off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/1169376567",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8669988,
+      "lon": 140.0180504,
+      "official_url_pending": "https://www.city.abiko.chiba.jp/event/shiseki_bunkazai/shirakaba/index.html"
+    },
+    {
+      "id": "st01485-015",
+      "category": "sight",
+      "name": {
+        "ja": "北柏ふれあい公園 (KKF)",
+        "en": "KKF",
+        "zh": "北柏fureai公園 (KKF)"
+      },
+      "desc": {
+        "ja": "駅から約1900mにある観光スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Attraction about 1900 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1900米的观光景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1900,
+      "walk_min": 24,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4434575893",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8685661,
+      "lon": 139.9903341
+    },
+    {
+      "id": "st01485-016",
+      "category": "medical",
+      "name": {
+        "ja": "Petit Madoca 手賀沼公園店",
+        "en": "Petit Madoca 手賀沼公園店",
+        "zh": "Petit Madoca 手賀沼公园店"
+      },
+      "desc": {
+        "ja": "駅から約785mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 785 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约785米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 785,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2341560459",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8673495,
+      "lon": 140.0162754,
+      "official_url_pending": "https://www.matsukiyo.co.jp/map?Type=Area&area=12"
+    },
+    {
+      "id": "st01485-017",
+      "category": "public_service",
+      "name": {
+        "ja": "我孫子市役所",
+        "en": "Abiko City Office",
+        "zh": "我孫子市役所"
+      },
+      "desc": {
+        "ja": "駅から約1851mにある役所・行政施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Civic office about 1851 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1851米的行政机构，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1851,
+      "walk_min": 24,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420739518",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.864199,
+      "lon": 140.028339
+    }
+  ],
+  "coverage": {
+    "poi_count": 17,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 246,
+    "floor_check": {
+      "medical": {
+        "candidates": 14,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 14,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 15,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 5,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 2,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}

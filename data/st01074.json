@@ -1,0 +1,511 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st01074",
+    "name": {
+      "ja": "守谷",
+      "en": "Moriya",
+      "zh": "守谷"
+    },
+    "line_group": [
+      "つくばエクスプレス線",
+      "常総線"
+    ],
+    "pref": "茨城県",
+    "lat": 35.950428,
+    "lon": 139.992124
+  },
+  "generated_at": "2026-11-09T14:07:20Z",
+  "pois": [
+    {
+      "id": "st01074-001",
+      "category": "bank_atm",
+      "name": {
+        "ja": "千葉銀行",
+        "en": "Chiba Bank",
+        "zh": "千葉银行"
+      },
+      "desc": {
+        "ja": "千葉銀行の支店。駅から約131mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 131 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约131米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 131,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/481059190",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9507596,
+      "lon": 139.9907331
+    },
+    {
+      "id": "st01074-002",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "セブン-イレブンのコンビニエンスストア。駅から約31mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 31 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约31米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 31,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/14336083508",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.950667,
+      "lon": 139.9922935
+    },
+    {
+      "id": "st01074-003",
+      "category": "cafe",
+      "name": {
+        "ja": "タリーズコーヒー",
+        "en": "Tully's Coffee",
+        "zh": "塔利咖啡"
+      },
+      "desc": {
+        "ja": "駅から約55mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。Mo-Fr 07:30-21:00; Sa,Su,PH 08:00-21:00（JST）。",
+        "en": "Cafe about 55 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约55米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 55,
+      "walk_min": 1,
+      "hours": "Mo-Fr 07:30-21:00; Sa,Su,PH 08:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1947967508",
+      "tel": "+81-297-478388",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9501951,
+      "lon": 139.991584,
+      "official_url_pending": "https://www.tullys.co.jp/"
+    },
+    {
+      "id": "st01074-004",
+      "category": "medical",
+      "name": {
+        "ja": "すばる調剤薬局守谷店",
+        "en": "subaru調剤薬局守谷店",
+        "zh": "Subaru調剤薬局守谷店"
+      },
+      "desc": {
+        "ja": "駅から約170mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 170 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约170米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 170,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/12905961014",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9512802,
+      "lon": 139.9905577
+    },
+    {
+      "id": "st01074-005",
+      "category": "food",
+      "name": {
+        "ja": "はなまるうどん",
+        "en": "Hanamarūdon",
+        "zh": "Hanamaruudon"
+      },
+      "desc": {
+        "ja": "駅から約33mにある飲食店。japanese;udon料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 33 m from the station. Serves japanese and udon cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约33米的餐馆主营japanese and udon，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 33,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/11839485073",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9506311,
+      "lon": 139.9923903
+    },
+    {
+      "id": "st01074-006",
+      "category": "police",
+      "name": {
+        "ja": "取手警察署守谷地区交番",
+        "en": "取手守谷地区交番 Police Station",
+        "zh": "取手警察署守谷地区交番"
+      },
+      "desc": {
+        "ja": "駅から約275mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 275 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约275米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 275,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2722750090",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9520735,
+      "lon": 139.9898477,
+      "official_url_pending": "https://www.city.moriya.ibaraki.jp/shisetsu/g_sisetu/kokka.html"
+    },
+    {
+      "id": "st01074-007",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "明治神宮",
+        "en": "Meiji Jingu",
+        "zh": "明治神宫"
+      },
+      "desc": {
+        "ja": "駅から約222mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 222 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约222米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 222,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/264583677",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9524233,
+      "lon": 139.9922009
+    },
+    {
+      "id": "st01074-008",
+      "category": "food",
+      "name": {
+        "ja": "かつや",
+        "en": "Katsuya",
+        "zh": "吉豚屋"
+      },
+      "desc": {
+        "ja": "駅から約375mにある飲食店。fried_food料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は10:30-22:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 375 m from the station. Serves fried_food cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约375米的餐馆主营fried_food，适合旅途中用餐，10:30-22:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 375,
+      "walk_min": 5,
+      "hours": "10:30-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/12401503151",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9529964,
+      "lon": 139.9894219
+    },
+    {
+      "id": "st01074-009",
+      "category": "park",
+      "name": {
+        "ja": "土塔公園",
+        "en": "Doto Park",
+        "zh": "土塔公园"
+      },
+      "desc": {
+        "ja": "駅から約194mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 194 m from the station, with paths and benches for a rest.",
+        "zh": "距站约194米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 194,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/446679166",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9487677,
+      "lon": 139.992782
+    },
+    {
+      "id": "st01074-010",
+      "category": "convenience",
+      "name": {
+        "ja": "ミニストップ",
+        "en": "Ministop",
+        "zh": "迷你岛便利店"
+      },
+      "desc": {
+        "ja": "ミニストップのコンビニエンスストア。駅から約561mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 561 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约561米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 561,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2722750099",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9543253,
+      "lon": 139.988172,
+      "official_url_pending": "https://www.ministop.co.jp/"
+    },
+    {
+      "id": "st01074-011",
+      "category": "shopping",
+      "name": {
+        "ja": "イオンタウン守谷",
+        "en": "AEON TOWN Moriya",
+        "zh": "イオンタウン守谷"
+      },
+      "desc": {
+        "ja": "駅から約645mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 645 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约645米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 645,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/189363347",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9447626,
+      "lon": 139.9905762
+    },
+    {
+      "id": "st01074-012",
+      "category": "food",
+      "name": {
+        "ja": "モスバーガー",
+        "en": "MOS Burger",
+        "zh": "摩斯汉堡"
+      },
+      "desc": {
+        "ja": "駅から約1075mにある飲食店。burger料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Fr 10:00-00:00; Sa-Su,PH 09:00-00:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1075 m from the station. Serves burger cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1075米的餐馆主营burger，适合旅途中用餐，Mo-Fr 10:00-00:00, Sa-Su, PH 09:00-00:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1075,
+      "walk_min": 14,
+      "hours": "Mo-Fr 10:00-00:00; Sa-Su,PH 09:00-00:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1956055663",
+      "tel": "+81-297-457211",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9408073,
+      "lon": 139.9933098,
+      "official_url_pending": "https://www.mos.co.jp/"
+    },
+    {
+      "id": "st01074-013",
+      "category": "post_office",
+      "name": {
+        "ja": "守谷松ヶ丘郵便局",
+        "en": "Moriya-Matsugaoka Post Office",
+        "zh": "守谷松ヶ丘邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1081mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1081 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1081米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 1081,
+      "walk_min": 14,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/13622074271",
+      "tel": "+81-297-45-2220",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9407105,
+      "lon": 139.9925401
+    },
+    {
+      "id": "st01074-014",
+      "category": "post_office",
+      "name": {
+        "ja": "守谷郵便局",
+        "en": "Moriya Post Office",
+        "zh": "守谷邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1091mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1091 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1091米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 1091,
+      "walk_min": 14,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2722750117",
+      "tel": "+81-800-0800-111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9426403,
+      "lon": 139.9994952
+    },
+    {
+      "id": "st01074-015",
+      "category": "public_service",
+      "name": {
+        "ja": "守谷市役所",
+        "en": "Moriya City Office",
+        "zh": "守谷市役所"
+      },
+      "desc": {
+        "ja": "駅から約1500mにある役所・行政施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Civic office about 1500 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1500米的行政机构，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1500,
+      "walk_min": 19,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/265713599",
+      "tel": "+81 297 45 1111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.951217,
+      "lon": 139.9754936,
+      "official_url_pending": "https://www.city.moriya.ibaraki.jp/"
+    },
+    {
+      "id": "st01074-016",
+      "category": "shopping",
+      "name": {
+        "ja": "アクロスモール守谷",
+        "en": "akurosumo-ru守谷",
+        "zh": "アクロスモール守谷"
+      },
+      "desc": {
+        "ja": "駅から約1543mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 1543 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1543米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准。"
+      },
+      "distance_m": 1543,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/189363330",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9419256,
+      "lon": 139.9785805
+    }
+  ],
+  "coverage": {
+    "poi_count": 16,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 111,
+    "floor_check": {
+      "medical": {
+        "candidates": 3,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 6,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 12,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 2,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 1,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
