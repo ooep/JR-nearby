@@ -1,0 +1,626 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st00069",
+    "name": {
+      "ja": "福島",
+      "en": "Fukushima",
+      "zh": "福岛"
+    },
+    "line_group": [
+      "奥羽本線",
+      "東北新幹線",
+      "東北本線",
+      "阿武隈急行線",
+      "飯坂線"
+    ],
+    "pref": "福島県",
+    "lat": 37.754498,
+    "lon": 140.45912
+  },
+  "generated_at": "2026-11-09T12:01:29Z",
+  "pois": [
+    {
+      "id": "st00069-001",
+      "category": "tourist_info",
+      "name": {
+        "ja": "福島市観光案内所",
+        "en": "Fukushima City Tourist Information",
+        "zh": "福岛市观光案内所"
+      },
+      "desc": {
+        "ja": "駅から約60mにある観光案内所。周辺の観光情報や地図、施設案内を提供している。散策の前に立ち寄ると便利。",
+        "en": "Tourist information office about 60 m from the station, with maps and local guidance.",
+        "zh": "距站约60米的观光服务台，提供周边旅游信息、地图与咨询服务，可先在此规划行程，具体信息以现场为准。"
+      },
+      "distance_m": 60,
+      "walk_min": 1,
+      "hours": "09:00-18:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/12137690211",
+      "tel": "+81-24-531-6428",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.7541006,
+      "lon": 140.4586572,
+      "official_url_pending": "https://www.f-kankou.jp/"
+    },
+    {
+      "id": "st00069-002",
+      "category": "shopping",
+      "name": {
+        "ja": "ヴィ・ド・フランス",
+        "en": "Vie de France",
+        "zh": "ヴi・do・furansu"
+      },
+      "desc": {
+        "ja": "駅から約135mにあるベーカリー。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Bakery about 135 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约135米的面包店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 135,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6815343873",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.7539023,
+      "lon": 140.4604532
+    },
+    {
+      "id": "st00069-003",
+      "category": "cafe",
+      "name": {
+        "ja": "コメダ珈琲",
+        "en": "Komeda Coffee Shop",
+        "zh": "コメダ珈琲"
+      },
+      "desc": {
+        "ja": "駅から約1708mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。Mo-Su 07:00-23:00（JST）。",
+        "en": "Cafe about 1708 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约1708米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 1708,
+      "walk_min": 22,
+      "hours": "Mo-Su 07:00-23:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5439780321",
+      "tel": "024-563-1698",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.7576927,
+      "lon": 140.4401167,
+      "official_url_pending": "https://www.komeda.co.jp/"
+    },
+    {
+      "id": "st00069-004",
+      "category": "food",
+      "name": {
+        "ja": "びっくりドンキー 南福島店",
+        "en": "bikuridonki- 南福島店",
+        "zh": "Bikuridonki- 南福島店"
+      },
+      "desc": {
+        "ja": "駅から約1957mにある飲食店。american料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1957 m from the station. Serves american cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1957米的餐馆主营american，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1957,
+      "walk_min": 25,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5382517553",
+      "tel": "024-544-2269",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.738224,
+      "lon": 140.4675811,
+      "official_url_pending": "https://www.bikkuri-donkey.com/"
+    },
+    {
+      "id": "st00069-005",
+      "category": "bank_atm",
+      "name": {
+        "ja": "東邦銀行 西福島支店",
+        "en": "东邦 西福岛支店 Bank",
+        "zh": "东邦银行 西福岛支店"
+      },
+      "desc": {
+        "ja": "東邦銀行 西福島支店の支店。駅から約221mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 221 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约221米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 221,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5044927688",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.7553508,
+      "lon": 140.456851
+    },
+    {
+      "id": "st00069-006",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "黒沼神社",
+        "en": "Kuronuma Shrine",
+        "zh": "黒沼神社"
+      },
+      "desc": {
+        "ja": "駅から約1681mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1681 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1681米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1681,
+      "walk_min": 22,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/239521652",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.7675322,
+      "lon": 140.4688055
+    },
+    {
+      "id": "st00069-007",
+      "category": "food",
+      "name": {
+        "ja": "Jazz Spot Mingus",
+        "en": "Jazz Spot Mingus",
+        "zh": "Jazz Spot Mingus"
+      },
+      "desc": {
+        "ja": "駅から約577mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 577 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约577米的餐馆适合旅途中用餐，菜单与价格以店内展示内容为准，具体信息以现场为准。"
+      },
+      "distance_m": 577,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/13866002403",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.7548508,
+      "lon": 140.465672,
+      "official_url_pending": "https://www.jeynet.ne.jp/~mingus/"
+    },
+    {
+      "id": "st00069-008",
+      "category": "police",
+      "name": {
+        "ja": "駅前交番",
+        "en": "站前 Police Box",
+        "zh": "站前交番"
+      },
+      "desc": {
+        "ja": "駅から約200mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 200 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约200米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 200,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/893364501",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.7532717,
+      "lon": 140.4607911
+    },
+    {
+      "id": "st00069-009",
+      "category": "medical",
+      "name": {
+        "ja": "ファーコス薬局",
+        "en": "fua-kosu薬局",
+        "zh": "ファーコス薬局"
+      },
+      "desc": {
+        "ja": "駅から約197mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 197 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约197米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 197,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/10815644678",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.7546387,
+      "lon": 140.4613579
+    },
+    {
+      "id": "st00069-010",
+      "category": "park",
+      "name": {
+        "ja": "福島ふれあいパーク",
+        "en": "福島fureaipa-ku",
+        "zh": "福島fureaipa-ku"
+      },
+      "desc": {
+        "ja": "駅から約989mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 989 m from the station, with paths and benches for a rest.",
+        "zh": "距站约989米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 989,
+      "walk_min": 13,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/502616323",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.7625647,
+      "lon": 140.4638526
+    },
+    {
+      "id": "st00069-011",
+      "category": "convenience",
+      "name": {
+        "ja": "ミニストップ",
+        "en": "MINISTOP",
+        "zh": "迷你岛便利店"
+      },
+      "desc": {
+        "ja": "ミニストップのコンビニエンスストア。駅から約991mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 991 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约991米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 991,
+      "walk_min": 13,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2064605127",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.7595709,
+      "lon": 140.4683858,
+      "official_url_pending": "https://www.ministop.co.jp/"
+    },
+    {
+      "id": "st00069-012",
+      "category": "post_office",
+      "name": {
+        "ja": "福島中央郵便局",
+        "en": "Fukushima Chuo Post Office",
+        "zh": "福岛中央邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1050mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1050 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1050米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 1050,
+      "walk_min": 14,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2036194064",
+      "tel": "+81-800-0800-111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.7631741,
+      "lon": 140.4638251
+    },
+    {
+      "id": "st00069-013",
+      "category": "police",
+      "name": {
+        "ja": "福島警察署西部交番",
+        "en": "福岛西部交番 Police Station",
+        "zh": "福岛警察署西部交番"
+      },
+      "desc": {
+        "ja": "駅から約713mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 713 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约713米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 713,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5044927660",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.7558917,
+      "lon": 140.451198
+    },
+    {
+      "id": "st00069-014",
+      "category": "food",
+      "name": {
+        "ja": "らーめん 粋家",
+        "en": "Ramen Suika",
+        "zh": "Ra-men 粋家"
+      },
+      "desc": {
+        "ja": "駅から約117mにある飲食店。ramen料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 117 m from the station. Serves ramen cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约117米的餐馆主营ramen，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 117,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2522787872",
+      "tel": "024-573-0431",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.7542193,
+      "lon": 140.4604083
+    },
+    {
+      "id": "st00069-015",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "薬王寺",
+        "en": "Nagoji Temple",
+        "zh": "薬王寺"
+      },
+      "desc": {
+        "ja": "駅から約1919mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 1919 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1919米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1919,
+      "walk_min": 24,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/240249123",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.7703616,
+      "lon": 140.4677294
+    },
+    {
+      "id": "st00069-016",
+      "category": "public_service",
+      "name": {
+        "ja": "福島県立図書館",
+        "en": "Fukushima Prefectural Library",
+        "zh": "福岛县立图书馆"
+      },
+      "desc": {
+        "ja": "駅から約1463mにある図書館。手続きや調べ物、休憩に利用できる公共の施設。詳細は現地の案内を参照。",
+        "en": "Library about 1463 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1463米的图书馆，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1463,
+      "walk_min": 19,
+      "hours": "Mo-Fr 09:30-19:00; Sa-Su 09:30-17:30; PH 09:30-17:30 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/236804431",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.7676146,
+      "lon": 140.4578257,
+      "official_url_pending": "https://www.library.fcs.ed.jp/"
+    },
+    {
+      "id": "st00069-017",
+      "category": "park",
+      "name": {
+        "ja": "荒川桜づつみ公園",
+        "en": "荒川桜zutsumi公園",
+        "zh": "荒川桜zutsumi公園"
+      },
+      "desc": {
+        "ja": "駅から約1532mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1532 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1532米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1532,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/555952982",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.7537751,
+      "lon": 140.4417181
+    },
+    {
+      "id": "st00069-018",
+      "category": "public_service",
+      "name": {
+        "ja": "福島市役所",
+        "en": "Fukushima City Hall",
+        "zh": "福岛市役所"
+      },
+      "desc": {
+        "ja": "駅から約1542mにある役所・行政施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Civic office about 1542 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1542米的行政机构，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1542,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/14204119459",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.7607795,
+      "lon": 140.4747563
+    },
+    {
+      "id": "st00069-019",
+      "category": "sight",
+      "name": {
+        "ja": "福島県立美術館",
+        "en": "Fukushima Prefectural Museum of Art",
+        "zh": "福岛县立美术馆"
+      },
+      "desc": {
+        "ja": "駅から約1553mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1553 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1553米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1553,
+      "walk_min": 20,
+      "hours": "Tu-Su 09:00-17:00; PH off; Dec 28-Jan 4 off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/236804433",
+      "tel": "+81-24-531-5511",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.768309,
+      "lon": 140.4565042,
+      "official_url_pending": "https://art-museum.fcs.ed.jp/"
+    },
+    {
+      "id": "st00069-020",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "お稲荷様",
+        "en": "o稲荷様",
+        "zh": "O稲荷様"
+      },
+      "desc": {
+        "ja": "駅から約1672mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1672 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1672米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1672,
+      "walk_min": 21,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5305596851",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.7675444,
+      "lon": 140.4685658
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 206,
+    "floor_check": {
+      "medical": {
+        "candidates": 14,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 12,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 27,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 16,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 4,
+        "selected": 2
+      },
+      "tourist_info": {
+        "candidates": 2,
+        "selected": 1
+      }
+    }
+  }
+}
