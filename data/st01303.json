@@ -1,0 +1,600 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st01303",
+    "name": {
+      "ja": "芦屋",
+      "en": "Ashiya",
+      "zh": "芦屋"
+    },
+    "line_group": [
+      "神戸高速線",
+      "近鉄奈良線",
+      "阪神なんば線",
+      "阪神本線"
+    ],
+    "pref": "兵庫県",
+    "lat": 34.72794,
+    "lon": 135.30383
+  },
+  "generated_at": "2026-11-09T16:18:39Z",
+  "pois": [
+    {
+      "id": "st01303-001",
+      "category": "medical",
+      "name": {
+        "ja": "富永医院",
+        "en": "富永 Hospital",
+        "zh": "富永医院"
+      },
+      "desc": {
+        "ja": "駅から約131mにあるクリニック。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Clinic about 131 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约131米的诊所，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 131,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/7111485721",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7286946,
+      "lon": 135.3049309
+    },
+    {
+      "id": "st01303-002",
+      "category": "cafe",
+      "name": {
+        "ja": "Caprice Cafe",
+        "en": "Caprice Cafe",
+        "zh": "Caprice Cafe"
+      },
+      "desc": {
+        "ja": "駅から約267mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。",
+        "en": "Cafe about 267 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约267米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 267,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/7111494196",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.730089,
+      "lon": 135.3051283
+    },
+    {
+      "id": "st01303-003",
+      "category": "shopping",
+      "name": {
+        "ja": "おだ スーパーストアー 本店",
+        "en": "oda su-pa-sutoa- 本店",
+        "zh": "Oda Su-pa-sutoa- 本店"
+      },
+      "desc": {
+        "ja": "駅から約332mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 332 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约332米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 332,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/7111485716",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7259526,
+      "lon": 135.3065364
+    },
+    {
+      "id": "st01303-004",
+      "category": "shopping",
+      "name": {
+        "ja": "ローゲンマイヤー 阪神芦屋店",
+        "en": "ro-genmaiya- 阪神芦屋店",
+        "zh": "ローゲンマイヤー 阪神芦屋店"
+      },
+      "desc": {
+        "ja": "駅から約56mにあるベーカリー。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Bakery about 56 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约56米的面包店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 56,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/7132648885",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7284254,
+      "lon": 135.3039755
+    },
+    {
+      "id": "st01303-005",
+      "category": "police",
+      "name": {
+        "ja": "芦屋警察署",
+        "en": "Ashiya Police Station",
+        "zh": "芦屋警察署"
+      },
+      "desc": {
+        "ja": "駅から約84mにある警察署。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 84 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约84米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 84,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423089979",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7286976,
+      "lon": 135.3037778
+    },
+    {
+      "id": "st01303-006",
+      "category": "post_office",
+      "name": {
+        "ja": "芦屋公光郵便局",
+        "en": "Ashiya Kimmitsu Post Office",
+        "zh": "芦屋公光邮政局"
+      },
+      "desc": {
+        "ja": "駅から約272mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 272 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约272米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 272,
+      "walk_min": 4,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1423089639",
+      "tel": "+81-797-22-4021",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.730357,
+      "lon": 135.303373
+    },
+    {
+      "id": "st01303-007",
+      "category": "post_office",
+      "name": {
+        "ja": "芦屋郵便局",
+        "en": "Ashiya Post Office",
+        "zh": "芦屋邮政局"
+      },
+      "desc": {
+        "ja": "駅から約344mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 344 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约344米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 344,
+      "walk_min": 5,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1423090080",
+      "tel": "+81-800-0800-111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.725386,
+      "lon": 135.301706
+    },
+    {
+      "id": "st01303-008",
+      "category": "sight",
+      "name": {
+        "ja": "俵美術館",
+        "en": "Tawara Museum",
+        "zh": "俵美术馆"
+      },
+      "desc": {
+        "ja": "駅から約832mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 832 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约832米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 832,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423053101",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.734912,
+      "lon": 135.30054
+    },
+    {
+      "id": "st01303-009",
+      "category": "food",
+      "name": {
+        "ja": "芦屋フレンチ 北じま",
+        "en": "Kitajima",
+        "zh": "芦屋furenchi 北jima"
+      },
+      "desc": {
+        "ja": "駅から約1147mにある飲食店。french料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1147 m from the station. Serves french cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1147米的餐馆主营french，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1147,
+      "walk_min": 15,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6300590188",
+      "tel": "+81 797 26 7774",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7382533,
+      "lon": 135.3041531,
+      "official_url_pending": "http://ashiya-kitajima.jp"
+    },
+    {
+      "id": "st01303-010",
+      "category": "public_service",
+      "name": {
+        "ja": "木口 記念会館",
+        "en": "Kiguchi Memorial Hall",
+        "zh": "木口 纪念会馆"
+      },
+      "desc": {
+        "ja": "駅から約857mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 857 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约857米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 857,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6029812198",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7246263,
+      "lon": 135.312295,
+      "official_url_pending": "http://kiguchi.or.jp/kaikanjigyou/"
+    },
+    {
+      "id": "st01303-011",
+      "category": "bank_atm",
+      "name": {
+        "ja": "三菱UFJ銀行 芦屋北支店",
+        "en": "MUFG Ashiya-Kita Branch",
+        "zh": "三菱UFJ银行 芦屋北支店"
+      },
+      "desc": {
+        "ja": "三菱UFJ銀行 芦屋北支店の支店。駅から約1023mにあり、預け入れ・引き出しやATMの利用に対応する。窓口はMo-Fr 09:00-15:00（JST）。",
+        "en": "Bank about 1023 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约1023米的银行网点，Mo-Fr 09:00-15:00（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 1023,
+      "walk_min": 13,
+      "hours": "Mo-Fr 09:00-15:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6300571091",
+      "tel": "+81 797 23 4411",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7364667,
+      "lon": 135.3080451,
+      "official_url_pending": "https://bk.mufg.jp/"
+    },
+    {
+      "id": "st01303-012",
+      "category": "bank_atm",
+      "name": {
+        "ja": "但馬銀行 芦屋北支店",
+        "en": "Tajima Bank Ashiya-Kita Branch",
+        "zh": "但马银行 芦屋北支店"
+      },
+      "desc": {
+        "ja": "但馬銀行 芦屋北支店の支店。駅から約1547mにあり、預け入れ・引き出しやATMの利用に対応する。窓口はMo-Fr 09:00-15:00（JST）。",
+        "en": "Bank about 1547 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约1547米的银行网点，Mo-Fr 09:00-15:00（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 1547,
+      "walk_min": 20,
+      "hours": "Mo-Fr 09:00-15:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6300579386",
+      "tel": "+81 797 22 6501",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7404809,
+      "lon": 135.311157,
+      "official_url_pending": "https://www.tajimabank.co.jp/"
+    },
+    {
+      "id": "st01303-013",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "セブン-イレブンのコンビニエンスストア。駅から約929mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 929 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约929米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 929,
+      "walk_min": 12,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6300590489",
+      "tel": "+81 797 38 8384",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7359364,
+      "lon": 135.3067737,
+      "official_url_pending": "http://sej.co.jp"
+    },
+    {
+      "id": "st01303-014",
+      "category": "convenience",
+      "name": {
+        "ja": "ローソン",
+        "en": "Lawson",
+        "zh": "罗森"
+      },
+      "desc": {
+        "ja": "ローソンのコンビニエンスストア。駅から約931mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 931 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约931米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 931,
+      "walk_min": 12,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2284083595",
+      "tel": "+81 797 25 0720",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7359618,
+      "lon": 135.3009141,
+      "official_url_pending": "https://www.lawson.co.jp/"
+    },
+    {
+      "id": "st01303-015",
+      "category": "medical",
+      "name": {
+        "ja": "芦屋セントマリア病院",
+        "en": "Ashiya St. Mary Hospital",
+        "zh": "芦屋セントマリア病院"
+      },
+      "desc": {
+        "ja": "駅から約951mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 951 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约951米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 951,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423089606",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7353242,
+      "lon": 135.3090802
+    },
+    {
+      "id": "st01303-016",
+      "category": "food",
+      "name": {
+        "ja": "Aglio",
+        "en": "Aglio",
+        "zh": "Aglio"
+      },
+      "desc": {
+        "ja": "駅から約1239mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1239 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约1239米的餐馆适合旅途中用餐，菜单与价格以店内展示内容为准，具体信息以现场为准。"
+      },
+      "distance_m": 1239,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6300564786",
+      "tel": "+81 797 35 0622",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7390412,
+      "lon": 135.3050429,
+      "official_url_pending": "https://www.aglio.jp/"
+    },
+    {
+      "id": "st01303-017",
+      "category": "sight",
+      "name": {
+        "ja": "ギャラリー藤",
+        "en": "giyarari-藤",
+        "zh": "ギャラリー藤"
+      },
+      "desc": {
+        "ja": "駅から約897mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 897 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约897米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 897,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6300570892",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7356508,
+      "lon": 135.300962
+    },
+    {
+      "id": "st01303-018",
+      "category": "food",
+      "name": {
+        "ja": "せっちゅう 東山店",
+        "en": "Secchu",
+        "zh": "Sechiyuu 東山店"
+      },
+      "desc": {
+        "ja": "駅から約1521mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1521 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约1521米的餐馆适合旅途中用餐，菜单与价格以店内展示内容为准，具体信息以现场为准。"
+      },
+      "distance_m": 1521,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6300588385",
+      "tel": "+81 797 35 3048",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7404971,
+      "lon": 135.3104308,
+      "official_url_pending": "http://ashiya-yakitori.com"
+    },
+    {
+      "id": "st01303-019",
+      "category": "shopping",
+      "name": {
+        "ja": "Pan Time",
+        "en": "Pan Time",
+        "zh": "Pan Time"
+      },
+      "desc": {
+        "ja": "駅から約393mにあるベーカリー。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Bakery about 393 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约393米的面包店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 393,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/7132624303",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7299977,
+      "lon": 135.307328
+    }
+  ],
+  "coverage": {
+    "poi_count": 19,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 372,
+    "floor_check": {
+      "medical": {
+        "candidates": 42,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 14,
+        "selected": 2
+      },
+      "convenience": {
+        "candidates": 23,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 13,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 9,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
