@@ -1,0 +1,536 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st01632",
+    "name": {
+      "ja": "愛甲石田",
+      "en": "Aikō-Ishida",
+      "zh": "爱甲石田"
+    },
+    "line_group": [
+      "千代田線",
+      "小田原線"
+    ],
+    "pref": "神奈川県",
+    "lat": 35.41761,
+    "lon": 139.34394
+  },
+  "generated_at": "2026-11-10T18:43:28Z",
+  "pois": [
+    {
+      "id": "st01632-001",
+      "category": "cafe",
+      "name": {
+        "ja": "Foresty Coffee",
+        "en": "Foresty Coffee",
+        "zh": "Foresty Coffee"
+      },
+      "desc": {
+        "ja": "駅から約16mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。",
+        "en": "Cafe about 16 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约16米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 16,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/8344321059",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.4176827,
+      "lon": 139.344088
+    },
+    {
+      "id": "st01632-002",
+      "category": "convenience",
+      "name": {
+        "ja": "ローソン",
+        "en": "Lawson",
+        "zh": "罗森"
+      },
+      "desc": {
+        "ja": "ローソンのコンビニエンスストア。駅から約46mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 46 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约46米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 46,
+      "walk_min": 1,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/7123815395",
+      "tel": "+81 46-248-5399",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.4175754,
+      "lon": 139.3434311,
+      "official_url_pending": "https://www.e-map.ne.jp/p/lawson/dtl/285830/"
+    },
+    {
+      "id": "st01632-003",
+      "category": "food",
+      "name": {
+        "ja": "ケンタッキーフライドチキン",
+        "en": "KFC",
+        "zh": "肯德基"
+      },
+      "desc": {
+        "ja": "駅から約70mにある飲食店。chicken料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は10:00-23:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 70 m from the station. Serves chicken cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约70米的餐馆主营chicken，适合旅途中用餐，10:00-23:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 70,
+      "walk_min": 1,
+      "hours": "10:00-23:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1868680091",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.4174138,
+      "lon": 139.3432089
+    },
+    {
+      "id": "st01632-004",
+      "category": "post_office",
+      "name": {
+        "ja": "伊勢原高森郵便局",
+        "en": "伊勢原高森 Post Office",
+        "zh": "伊勢原高森邮政局"
+      },
+      "desc": {
+        "ja": "駅から約856mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 856 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约856米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 856,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/633887331",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.4161929,
+      "lon": 139.3346583
+    },
+    {
+      "id": "st01632-005",
+      "category": "bank_atm",
+      "name": {
+        "ja": "横浜銀行",
+        "en": "Bank of Yokohama",
+        "zh": "横滨银行"
+      },
+      "desc": {
+        "ja": "横浜銀行の支店。駅から約88mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 88 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约88米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 88,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1868680087",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.4175843,
+      "lon": 139.34297
+    },
+    {
+      "id": "st01632-006",
+      "category": "police",
+      "name": {
+        "ja": "成瀬交番",
+        "en": "成濑 Police Box",
+        "zh": "成濑交番"
+      },
+      "desc": {
+        "ja": "駅から約1631mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1631 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1631米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1631,
+      "walk_min": 21,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/524041460",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.4102477,
+      "lon": 139.328368
+    },
+    {
+      "id": "st01632-007",
+      "category": "food",
+      "name": {
+        "ja": "ゆで太郎",
+        "en": "Yudetaro",
+        "zh": "Yude太郎"
+      },
+      "desc": {
+        "ja": "駅から約565mにある飲食店。noodle料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は24時間営業。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 565 m from the station. Serves noodle cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约565米的餐馆主营noodle，适合旅途中用餐，全天24小时营业，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 565,
+      "walk_min": 8,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5259762326",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.4166249,
+      "lon": 139.3500568
+    },
+    {
+      "id": "st01632-008",
+      "category": "shopping",
+      "name": {
+        "ja": "リベルベ愛甲石田店",
+        "en": "riberube愛甲石田店",
+        "zh": "リベルベ爱甲石田店"
+      },
+      "desc": {
+        "ja": "駅から約124mにあるベーカリー。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Bakery about 124 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约124米的面包店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 124,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/13781157325",
+      "tel": "+81-463-20-9301",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.416698,
+      "lon": 139.3431455
+    },
+    {
+      "id": "st01632-009",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "セブン-イレブンのコンビニエンスストア。駅から約134mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 134 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约134米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 134,
+      "walk_min": 2,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1868680135",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.4188084,
+      "lon": 139.3441368
+    },
+    {
+      "id": "st01632-010",
+      "category": "medical",
+      "name": {
+        "ja": "なかよし薬局",
+        "en": "nakayoshi薬局",
+        "zh": "Nakayoshi薬局"
+      },
+      "desc": {
+        "ja": "駅から約71mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 71 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约71米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 71,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1868680122",
+      "tel": "+81 46-248-7622",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.4177673,
+      "lon": 139.3431771
+    },
+    {
+      "id": "st01632-011",
+      "category": "food",
+      "name": {
+        "ja": "ガスト",
+        "en": "Gusto",
+        "zh": "Gusto家庭餐厅"
+      },
+      "desc": {
+        "ja": "駅から約758mにある飲食店。western;japanese料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Fr 09:00-26:00, Sa-Su,PH 08:00-26:00（JST）。メニューや予算は店頭で確。",
+        "en": "Restaurant about 758 m from the station. Serves western and japanese cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约758米的餐馆主营western and japanese，适合旅途中用餐，Mo-Fr 09:00-26:00, Sa-Su, PH 08:00-26:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 758,
+      "walk_min": 10,
+      "hours": "Mo-Fr 09:00-26:00, Sa-Su,PH 08:00-26:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/523997722",
+      "tel": "046-270-1054",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.422989,
+      "lon": 139.3490714,
+      "official_url_pending": "https://store-info.skylark.co.jp/gusto/map/011502"
+    },
+    {
+      "id": "st01632-012",
+      "category": "public_service",
+      "name": {
+        "ja": "ドリーム",
+        "en": "Dream",
+        "zh": "Dori-mu"
+      },
+      "desc": {
+        "ja": "駅から約117mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 117 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约117米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 117,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1778036641",
+      "tel": "229-0305",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.4173973,
+      "lon": 139.3452041
+    },
+    {
+      "id": "st01632-013",
+      "category": "medical",
+      "name": {
+        "ja": "鈴村矯正歯科クリニック",
+        "en": "鈴村矯正歯科kuriniku",
+        "zh": "鈴村矯正歯科クリニック"
+      },
+      "desc": {
+        "ja": "駅から約134mにあるクリニック。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Clinic about 134 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约134米的诊所，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 134,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5443750577",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.4166264,
+      "lon": 139.3430918
+    },
+    {
+      "id": "st01632-014",
+      "category": "park",
+      "name": {
+        "ja": "愛甲宮前コミュニティパーク",
+        "en": "愛甲宮前komiyuniteipa-ku",
+        "zh": "爱甲宫前コミュニティパーク"
+      },
+      "desc": {
+        "ja": "駅から約328mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 328 m from the station, with paths and benches for a rest.",
+        "zh": "距站约328米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 328,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/637499454",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.4195306,
+      "lon": 139.341186
+    },
+    {
+      "id": "st01632-015",
+      "category": "post_office",
+      "name": {
+        "ja": "相川郵便局",
+        "en": "相川 Post Office",
+        "zh": "相川邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1976mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1976 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1976米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 1976,
+      "walk_min": 25,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/12704466774",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.4126867,
+      "lon": 139.3648859
+    },
+    {
+      "id": "st01632-016",
+      "category": "public_service",
+      "name": {
+        "ja": "伊勢原市役所 石田窓口センター",
+        "en": "伊勢原市役所 石田窓口senta-",
+        "zh": "伊勢原市役所 石田窓口センター"
+      },
+      "desc": {
+        "ja": "駅から約230mにある役所・行政施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Civic office about 230 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约230米的行政机构，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 230,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5908451151",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.4159024,
+      "lon": 139.3425008
+    },
+    {
+      "id": "st01632-017",
+      "category": "park",
+      "name": {
+        "ja": "みやぞえ公園",
+        "en": "miyazoe公園",
+        "zh": "Miyazoe公園"
+      },
+      "desc": {
+        "ja": "駅から約511mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 511 m from the station, with paths and benches for a rest.",
+        "zh": "距站约511米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 511,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/609024177",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.4220173,
+      "lon": 139.3455392
+    }
+  ],
+  "coverage": {
+    "poi_count": 17,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 321,
+    "floor_check": {
+      "medical": {
+        "candidates": 10,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 5,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 29,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 5,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 4,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
