@@ -1,0 +1,632 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st03178",
+    "name": {
+      "ja": "六本木一丁目",
+      "en": "Roppongi 1-chōme",
+      "zh": "六本木一丁目"
+    },
+    "line_group": [
+      "埼玉高速鉄道線",
+      "東京メトロ南北線",
+      "目黒線",
+      "相鉄本線"
+    ],
+    "pref": "東京都",
+    "lat": 35.66497,
+    "lon": 139.73888
+  },
+  "generated_at": "2026-11-10T00:06:59Z",
+  "pois": [
+    {
+      "id": "st03178-001",
+      "category": "sight",
+      "name": {
+        "ja": "泉屋博古館東京",
+        "en": "Sen-Oku Hakukokan Museum Tokyo",
+        "zh": "泉屋博古馆东京"
+      },
+      "desc": {
+        "ja": "駅から約198mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。入場は有料。",
+        "en": "Museum about 198 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约198米的博物馆·美术馆，入场收费，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 198,
+      "walk_min": 3,
+      "hours": "Tu-Su 10:00-16:30 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1420787831",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.665033,
+      "lon": 139.741068,
+      "official_url_pending": "https://sen-oku.or.jp/tokyo"
+    },
+    {
+      "id": "st03178-002",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "妙像寺",
+        "en": "Myozoji Temple",
+        "zh": "妙像寺"
+      },
+      "desc": {
+        "ja": "駅から約319mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 319 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约319米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 319,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/389635180",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6657457,
+      "lon": 139.7354859
+    },
+    {
+      "id": "st03178-003",
+      "category": "sight",
+      "name": {
+        "ja": "大倉集古館",
+        "en": "Okura Museum of Art",
+        "zh": "大倉集古馆"
+      },
+      "desc": {
+        "ja": "駅から約448mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。入場は有料。",
+        "en": "Museum about 448 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约448米的博物馆·美术馆，入场收费，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 448,
+      "walk_min": 6,
+      "hours": "Tu-Su 10:00-16:30 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1420772919",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.666923,
+      "lon": 139.7432191,
+      "official_url_pending": "https://www.shukokan.org/"
+    },
+    {
+      "id": "st03178-004",
+      "category": "sight",
+      "name": {
+        "ja": "菊池寛実記念智美術館",
+        "en": "Kikuchi Kanjitsu Memorial Tomo Museum",
+        "zh": "菊池寛実纪念智美术馆"
+      },
+      "desc": {
+        "ja": "駅から約531mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。入場は有料。",
+        "en": "Museum about 531 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约531米的博物馆·美术馆，入场收费，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 531,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420797074",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.666041,
+      "lon": 139.744605,
+      "official_url_pending": "https://www.musee-tomo.or.jp/"
+    },
+    {
+      "id": "st03178-005",
+      "category": "convenience",
+      "name": {
+        "ja": "ローソン",
+        "en": "Lawson",
+        "zh": "罗森"
+      },
+      "desc": {
+        "ja": "ローソンのコンビニエンスストア。駅から約693mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 693 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约693米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 693,
+      "walk_min": 9,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1170225826",
+      "tel": "03-5561-1690",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6709592,
+      "lon": 139.7410145,
+      "official_url_pending": "https://www.e-map.ne.jp/p/lawson/dtl/286255/?&his=al1,al2,al3,al4,al5,nm"
+    },
+    {
+      "id": "st03178-006",
+      "category": "medical",
+      "name": {
+        "ja": "東京都済生会中央病院",
+        "en": "Tokyo Saiseikai Central Hospital",
+        "zh": "东京都济生会中央医院"
+      },
+      "desc": {
+        "ja": "駅から約1291mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 1291 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1291米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1291,
+      "walk_min": 17,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.saichu.jp/",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "official_site",
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.654017,
+      "lon": 139.74363
+    },
+    {
+      "id": "st03178-007",
+      "category": "sight",
+      "name": {
+        "ja": "森美術館",
+        "en": "Mori Art Museum",
+        "zh": "森美术馆"
+      },
+      "desc": {
+        "ja": "駅から約1005mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。入場は有料。",
+        "en": "Museum about 1005 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1005米的博物馆·美术馆，入场收费，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1005,
+      "walk_min": 13,
+      "hours": "We-Mo 10:00-22:00; Tu 10:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1420786660",
+      "tel": "+81 357778600",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.660432,
+      "lon": 139.729261,
+      "official_url_pending": "https://www.mori.art.museum/jp/index.html"
+    },
+    {
+      "id": "st03178-008",
+      "category": "sight",
+      "name": {
+        "ja": "東京シティビュー",
+        "en": "Tokyo City View",
+        "zh": "东京シティビュー"
+      },
+      "desc": {
+        "ja": "駅から約1021mにある展望スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。入場は有料。",
+        "en": "Viewpoint about 1021 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1021米的观景点，入场收费，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1021,
+      "walk_min": 13,
+      "hours": "Mo-Su 10:00-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/919282252",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.66043,
+      "lon": 139.7290554,
+      "official_url_pending": "https://tcv.roppongihills.com/"
+    },
+    {
+      "id": "st03178-009",
+      "category": "bank_atm",
+      "name": {
+        "ja": "みずほ銀行",
+        "en": "Mizuho Bank",
+        "zh": "瑞穗银行"
+      },
+      "desc": {
+        "ja": "みずほ銀行の支店。駅から約1083mにあり、預け入れ・引き出しやATMの利用に対応する。窓口はMo-Fr 09:00-15:00（JST）。",
+        "en": "Bank about 1083 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约1083米的银行网点，Mo-Fr 09:00-15:00（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 1083,
+      "walk_min": 14,
+      "hours": "Mo-Fr 09:00-15:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1385607876",
+      "tel": "+81-3-35012331",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6702391,
+      "lon": 139.748961,
+      "official_url_pending": "https://www.mizuhobank.co.jp/"
+    },
+    {
+      "id": "st03178-010",
+      "category": "medical",
+      "name": {
+        "ja": "順和会山王病院",
+        "en": "Sanno Hospital",
+        "zh": "順和会山王病院"
+      },
+      "desc": {
+        "ja": "駅から約1180mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 1180 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1180米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1180,
+      "walk_min": 15,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420800058",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.669704,
+      "lon": 139.727191
+    },
+    {
+      "id": "st03178-011",
+      "category": "post_office",
+      "name": {
+        "ja": "国会内郵便局",
+        "en": "Post Office",
+        "zh": "国会内邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1196mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1196 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1196米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 1196,
+      "walk_min": 15,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420771566",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.674815,
+      "lon": 139.744224
+    },
+    {
+      "id": "st03178-012",
+      "category": "post_office",
+      "name": {
+        "ja": "芝郵便局",
+        "en": "Shiba Post Office",
+        "zh": "芝邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1207mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1207 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1207米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 1207,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420796501",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.662878,
+      "lon": 139.75199
+    },
+    {
+      "id": "st03178-013",
+      "category": "police",
+      "name": {
+        "ja": "赤坂警察署",
+        "en": "Akasaka Police Station",
+        "zh": "赤坂警察署"
+      },
+      "desc": {
+        "ja": "駅から約1273mにある警察署。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1273 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1273米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1273,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420798246",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.674987,
+      "lon": 139.732047
+    },
+    {
+      "id": "st03178-014",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "伏見三宝稲荷神社",
+        "en": "Fushimi Sambo Inari-jinja Shrine",
+        "zh": "伏見三宝稲荷神社"
+      },
+      "desc": {
+        "ja": "駅から約1331mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1331 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1331米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1331,
+      "walk_min": 17,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/703040018",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6542344,
+      "lon": 139.7453916
+    },
+    {
+      "id": "st03178-015",
+      "category": "police",
+      "name": {
+        "ja": "愛宕警察署",
+        "en": "Atago Police Station",
+        "zh": "爱宕警察署"
+      },
+      "desc": {
+        "ja": "駅から約1335mにある警察署。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1335 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1335米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1335,
+      "walk_min": 17,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420780322",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.660989,
+      "lon": 139.752824
+    },
+    {
+      "id": "st03178-016",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "綱生山 当光寺",
+        "en": "Tokoji Temple",
+        "zh": "綱生山 当光寺"
+      },
+      "desc": {
+        "ja": "駅から約1375mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 1375 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1375米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1375,
+      "walk_min": 18,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1145077215",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6526017,
+      "lon": 139.7390717
+    },
+    {
+      "id": "st03178-017",
+      "category": "public_service",
+      "name": {
+        "ja": "港区役所",
+        "en": "Minato City Hall",
+        "zh": "港区役所"
+      },
+      "desc": {
+        "ja": "駅から約1381mにある役所・行政施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Civic office about 1381 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1381米的行政机构，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1381,
+      "walk_min": 18,
+      "hours": "Mo-Fr 08:45-17:00; PH off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1420789238",
+      "tel": "+81-3-35782111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6580389,
+      "lon": 139.7515632,
+      "official_url_pending": "http://www.city.minato.tokyo.jp/"
+    },
+    {
+      "id": "st03178-018",
+      "category": "cafe",
+      "name": {
+        "ja": "タリーズコーヒー",
+        "en": "Tully's Coffee",
+        "zh": "塔利咖啡"
+      },
+      "desc": {
+        "ja": "駅から約1758mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。Mo-Fr 07:00-20:30; Sa-Su,PH 08:00-19:00（JST）。",
+        "en": "Cafe about 1758 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约1758米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 1758,
+      "walk_min": 22,
+      "hours": "Mo-Fr 07:00-20:30; Sa-Su,PH 08:00-19:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1508619403",
+      "tel": "+81 3-5765-4853",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6499729,
+      "lon": 139.7450255,
+      "official_url_pending": "https://www.tullys.co.jp/"
+    },
+    {
+      "id": "st03178-019",
+      "category": "public_service",
+      "name": {
+        "ja": "最高裁判所図書館",
+        "en": "Supreme Court Library",
+        "zh": "最高裁判所图书馆"
+      },
+      "desc": {
+        "ja": "駅から約1772mにある図書館。手続きや調べ物、休憩に利用できる公共の施設。詳細は現地の案内を参照。",
+        "en": "Library about 1772 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1772米的图书馆，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1772,
+      "walk_min": 23,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420781684",
+      "tel": "+81 3 3264 8537",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.680424,
+      "lon": 139.743661,
+      "official_url_pending": "https://www.courts.go.jp/saikosai/tosyokan/index.html"
+    },
+    {
+      "id": "st03178-020",
+      "category": "food",
+      "name": {
+        "ja": "日比谷 松本楼",
+        "en": "Matsumotoro",
+        "zh": "日比谷 松本楼"
+      },
+      "desc": {
+        "ja": "駅から約1817mにある飲食店。japanese料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1817 m from the station. Serves japanese cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1817米的餐馆主营japanese，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1817,
+      "walk_min": 23,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/469818509",
+      "tel": "+81 3-3503-1451",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6737913,
+      "lon": 139.7558071,
+      "official_url_pending": "https://matsumotoro.co.jp/"
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 392,
+    "floor_check": {
+      "medical": {
+        "candidates": 22,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 16,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 32,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 41,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 25,
+        "selected": 2
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
