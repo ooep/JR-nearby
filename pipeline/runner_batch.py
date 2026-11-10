@@ -100,6 +100,44 @@ def refresh_index_manifest(new_slugs):
     return len(idx)
 
 
+def merge_remote_index(token, accepted):
+    """Adopt remote index entries for stations not generated in this batch.
+
+    The URL backfill job may commit data/*.json together with a resynced
+    index.json while this job is fetching (pull_index ran up to ~15 min
+    earlier). Rebuilding entries from our stale checkout would resurrect
+    sha256 mismatches, so every already-published entry is taken verbatim
+    from the remote right before pushing; only this batch's own entries
+    stay locally computed.
+    """
+    import base64 as _b64
+    keep = set(accepted)
+    try:
+        p = subprocess.run(
+            ["curl", "-s", "-m", "30",
+             "-H", "Authorization: Bearer " + token,
+             "-H", "Accept: application/vnd.github+json",
+             "https://api.github.com/repos/ooep/JR-nearby/contents/index.json?ref=main"],
+            capture_output=True, text=True, timeout=45)
+        d = json.loads(p.stdout)
+        remote = json.loads(_b64.b64decode("".join(d["content"].split())))
+    except Exception as e:
+        print("[merge] remote index unavailable, keeping local: %s" % str(e)[:90],
+              flush=True)
+        return
+    local = json.load(open("repo/index.json", encoding="utf-8"))
+    adopted = 0
+    for k, v in remote.items():
+        if k not in keep and k in local and local[k].get("sha256") != v.get("sha256"):
+            local[k] = v
+            adopted += 1
+    with open("repo/index.json", "w", encoding="utf-8") as f:
+        json.dump(local, f, ensure_ascii=False, indent=2)
+        f.write("\n")
+    print("[merge] adopted %d updated remote index entries before push" % adopted,
+          flush=True)
+
+
 def main():
     art = sys.argv[1]
     do_push = "--push" in sys.argv
@@ -174,6 +212,7 @@ def main():
         print("[abort] GITHUB_TOKEN missing")
         return 1
 
+    merge_remote_index(token, accepted)
     head = remote_head(token)
     print("[pre-push head] %s" % head)
     args = [f"repo/data/{s}.json=data/{s}.json" for s in accepted]
