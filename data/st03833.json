@@ -1,0 +1,628 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st03833",
+    "name": {
+      "ja": "逗子",
+      "en": "Zushi",
+      "zh": "逗子"
+    },
+    "line_group": [
+      "外房線",
+      "山手線",
+      "東海道本線",
+      "横須賀線"
+    ],
+    "pref": "神奈川県",
+    "lat": 35.2975,
+    "lon": 139.57859
+  },
+  "generated_at": "2026-11-10T11:40:34Z",
+  "pois": [
+    {
+      "id": "st03833-001",
+      "category": "bank_atm",
+      "name": {
+        "ja": "みずほ銀行",
+        "en": "Mizuho Bank",
+        "zh": "瑞穗银行"
+      },
+      "desc": {
+        "ja": "みずほ銀行の支店。駅から約82mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 82 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约82米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 82,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/3092072669",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.297181,
+      "lon": 139.5793995
+    },
+    {
+      "id": "st03833-002",
+      "category": "food",
+      "name": {
+        "ja": "マクドナルド",
+        "en": "McDonald's",
+        "zh": "麦当劳"
+      },
+      "desc": {
+        "ja": "駅から約119mにある飲食店。burger料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Su 06:00-00:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 119 m from the station. Serves burger cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约119米的餐馆主营burger，适合旅途中用餐，Mo-Su 06:00-00:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 119,
+      "walk_min": 2,
+      "hours": "Mo-Su 06:00-00:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/12338289601",
+      "tel": "+81 46-872-4513",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.2967536,
+      "lon": 139.5795252,
+      "official_url_pending": "https://map.mcdonalds.co.jp/map/14729"
+    },
+    {
+      "id": "st03833-003",
+      "category": "food",
+      "name": {
+        "ja": "松屋",
+        "en": "Matsuya",
+        "zh": "松屋"
+      },
+      "desc": {
+        "ja": "駅から約166mにある飲食店。beef_bowl料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は24時間営業。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 166 m from the station. Serves beef_bowl cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约166米的餐馆主营beef_bowl，适合旅途中用餐，全天24小时营业，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 166,
+      "walk_min": 3,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/3355657406",
+      "tel": "+81-46-870-1251",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.2967333,
+      "lon": 139.580163
+    },
+    {
+      "id": "st03833-004",
+      "category": "post_office",
+      "name": {
+        "ja": "逗子久木郵便局",
+        "en": "逗子久木 Post Office",
+        "zh": "逗子久木邮政局"
+      },
+      "desc": {
+        "ja": "駅から約662mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 662 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约662米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 662,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420833478",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.299059,
+      "lon": 139.571555
+    },
+    {
+      "id": "st03833-005",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "久木神社",
+        "en": "Hisagi Jinja Shrine",
+        "zh": "久木神社"
+      },
+      "desc": {
+        "ja": "駅から約663mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 663 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约663米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 663,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/377290577",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3033772,
+      "lon": 139.5773521
+    },
+    {
+      "id": "st03833-006",
+      "category": "public_service",
+      "name": {
+        "ja": "逗子文化プラザ",
+        "en": "逗子文化puraza",
+        "zh": "逗子文化プラザ"
+      },
+      "desc": {
+        "ja": "駅から約428mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 428 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约428米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 428,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/3812041205",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.2950144,
+      "lon": 139.5821934
+    },
+    {
+      "id": "st03833-007",
+      "category": "public_service",
+      "name": {
+        "ja": "市民交流センター",
+        "en": "市民交流senta-",
+        "zh": "市民交流センター"
+      },
+      "desc": {
+        "ja": "駅から約443mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 443 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约443米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 443,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/334162373",
+      "tel": "+81 46 872 3001",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.2954333,
+      "lon": 139.5827673,
+      "official_url_pending": "https://www.city.zushi.kanagawa.jp/kouryu/"
+    },
+    {
+      "id": "st03833-008",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "セブン-イレブンのコンビニエンスストア。駅から約485mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 485 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约485米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 485,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/3372929166",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.295739,
+      "lon": 139.5834802,
+      "official_url_pending": "https://www.sej.co.jp/"
+    },
+    {
+      "id": "st03833-009",
+      "category": "cafe",
+      "name": {
+        "ja": "Beach Muffin",
+        "en": "Beach Muffin",
+        "zh": "Beach Muffin"
+      },
+      "desc": {
+        "ja": "駅から約764mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。Th-Su 11:00-18:00（JST）。",
+        "en": "Cafe about 764 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约764米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 764,
+      "walk_min": 10,
+      "hours": "Th-Su 11:00-18:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/4535366019",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.2906537,
+      "lon": 139.5779052,
+      "official_url_pending": "https://www.instagram.com/beach_muffin/"
+    },
+    {
+      "id": "st03833-010",
+      "category": "food",
+      "name": {
+        "ja": "BEACH HOUSE HAPPY GO LUCKY",
+        "en": "Beach House Happy Go Lucky",
+        "zh": "BEACH HOUSE HAPPY GO LUCKY"
+      },
+      "desc": {
+        "ja": "駅から約803mにある飲食店。international;japanese;mexican;moroccan;barbecue;spanish料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は(summer)Mo-Su 08:。",
+        "en": "Restaurant about 803 m from the station. Serves international and japanese and mexican and moroccan and barbecue and sp.",
+        "zh": "距站约803米的餐馆主营international and japanese and mexican and moroccan and barbecue and spanish，适合旅途中用餐，(summer)Mo-Su 08:00-20。"
+      },
+      "distance_m": 803,
+      "walk_min": 11,
+      "hours": "(summer)Mo-Su 08:00-20:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6255154185",
+      "tel": "09032185666",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.2921144,
+      "lon": 139.5726926,
+      "official_url_pending": "https://happygobeach.com/"
+    },
+    {
+      "id": "st03833-011",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "岩殿寺",
+        "en": "Iwadono-ji Temple",
+        "zh": "岩殿寺"
+      },
+      "desc": {
+        "ja": "駅から約974mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 974 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约974米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 974,
+      "walk_min": 13,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2471080083",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3046276,
+      "lon": 139.5723474
+    },
+    {
+      "id": "st03833-012",
+      "category": "medical",
+      "name": {
+        "ja": "逗葉地域医療センター",
+        "en": "逗葉地域医療senta-",
+        "zh": "逗葉地域医療センター"
+      },
+      "desc": {
+        "ja": "駅から約1091mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 1091 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1091米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1091,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/657527457",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3022319,
+      "lon": 139.5891201
+    },
+    {
+      "id": "st03833-013",
+      "category": "sight",
+      "name": {
+        "ja": "六代御前の墓",
+        "en": "六代御前no墓",
+        "zh": "六代御前no墓"
+      },
+      "desc": {
+        "ja": "駅から約828mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Memorial about 828 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约828米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 828,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/3518911358",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.2900592,
+      "lon": 139.57829
+    },
+    {
+      "id": "st03833-014",
+      "category": "park",
+      "name": {
+        "ja": "第一運動公園",
+        "en": "Daiichi Undo Park",
+        "zh": "第一運動公园"
+      },
+      "desc": {
+        "ja": "駅から約1215mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1215 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1215米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1215,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/490917783",
+      "tel": "+81 46 873 1111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3007489,
+      "lon": 139.5913681,
+      "official_url_pending": "https://www.city.zushi.kanagawa.jp/kurashi/sumai/1002174/1002178/1002179/1002180.html"
+    },
+    {
+      "id": "st03833-015",
+      "category": "sight",
+      "name": {
+        "ja": "池子遺跡群資料館",
+        "en": "Ikego Artifacts Museum",
+        "zh": "池子遺跡群资料馆"
+      },
+      "desc": {
+        "ja": "駅から約1257mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。入場は無料。",
+        "en": "Museum about 1257 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1257米的博物馆·美术馆，免费开放，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1257,
+      "walk_min": 16,
+      "hours": "Tu-Su 09:00-16:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/3518877275",
+      "tel": "+81 46 871 7006",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3062722,
+      "lon": 139.5873207,
+      "official_url_pending": "https://www.city.zushi.kanagawa.jp/shiminkatsudo/bunkazai/1004552/1004553.html"
+    },
+    {
+      "id": "st03833-016",
+      "category": "park",
+      "name": {
+        "ja": "披露山公園",
+        "en": "Hiroyama Koen Park",
+        "zh": "披露山公园"
+      },
+      "desc": {
+        "ja": "駅から約1269mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1269 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1269米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1269,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/377290589",
+      "tel": "+81 46 871 4941",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.296075,
+      "lon": 139.5647147,
+      "official_url_pending": "https://www.city.zushi.kanagawa.jp/kurashi/sumai/1002174/1002178/1002179/1002181.html"
+    },
+    {
+      "id": "st03833-017",
+      "category": "sight",
+      "name": {
+        "ja": "デハ601号",
+        "en": "Deha 601",
+        "zh": "デハ601号"
+      },
+      "desc": {
+        "ja": "駅から約1402mにある観光スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Attraction about 1402 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1402米的观光景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1402,
+      "walk_min": 18,
+      "hours": "09:00-16:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/1564642864",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.2999191,
+      "lon": 139.5937482
+    },
+    {
+      "id": "st03833-018",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "新宿稲荷神社",
+        "en": "Shinjuku Inari Jinja Shrine",
+        "zh": "新宿稲荷神社"
+      },
+      "desc": {
+        "ja": "駅から約934mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 934 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约934米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 934,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/377290592",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.2954138,
+      "lon": 139.5686264
+    },
+    {
+      "id": "st03833-019",
+      "category": "police",
+      "name": {
+        "ja": "逗子駅前交番",
+        "en": "逗子站前 Police Box",
+        "zh": "逗子站前交番"
+      },
+      "desc": {
+        "ja": "駅から約124mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 124 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约124米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 124,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/13521079924",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.297601,
+      "lon": 139.5799497
+    },
+    {
+      "id": "st03833-020",
+      "category": "shopping",
+      "name": {
+        "ja": "すずきやスーパー駅前店",
+        "en": "Suzukiya supermarket",
+        "zh": "Suzukiyasu-pa-駅前店"
+      },
+      "desc": {
+        "ja": "駅から約79mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 79 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约79米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 79,
+      "walk_min": 1,
+      "hours": "Mo-Su 09:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6420978986",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.2970433,
+      "lon": 139.5792515
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 300,
+    "floor_check": {
+      "medical": {
+        "candidates": 20,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 4,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 17,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 7,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 10,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
