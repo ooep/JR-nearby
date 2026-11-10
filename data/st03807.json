@@ -1,0 +1,536 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st03807",
+    "name": {
+      "ja": "四街道",
+      "en": "Yotsukaidō",
+      "zh": "四街道"
+    },
+    "line_group": [
+      "山手線",
+      "成田線",
+      "東海道本線",
+      "総武本線"
+    ],
+    "pref": "千葉県",
+    "lat": 35.66301,
+    "lon": 140.16561
+  },
+  "generated_at": "2026-11-10T17:24:49Z",
+  "pois": [
+    {
+      "id": "st03807-001",
+      "category": "convenience",
+      "name": {
+        "ja": "NewDays",
+        "en": "NewDays",
+        "zh": "NewDays"
+      },
+      "desc": {
+        "ja": "NewDaysのコンビニエンスストア。駅から約9mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 9 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约9米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 9,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/13912964359",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6629982,
+      "lon": 140.1657112
+    },
+    {
+      "id": "st03807-002",
+      "category": "food",
+      "name": {
+        "ja": "CoCo壱番屋",
+        "en": "CoCo ICHIBANYA",
+        "zh": "CoCo壱番屋"
+      },
+      "desc": {
+        "ja": "駅から約33mにある飲食店。curry;japanese料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 33 m from the station. Serves curry and japanese cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约33米的餐馆主营curry and japanese，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 33,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/7159645072",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.663298,
+      "lon": 140.1655453
+    },
+    {
+      "id": "st03807-003",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "セブン-イレブンのコンビニエンスストア。駅から約44mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 44 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约44米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 44,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/7159677310",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6633998,
+      "lon": 140.1655168
+    },
+    {
+      "id": "st03807-004",
+      "category": "police",
+      "name": {
+        "ja": "四街道警察署四街道交番",
+        "en": "四街道四街道交番 Police Station",
+        "zh": "四街道警察署四街道交番"
+      },
+      "desc": {
+        "ja": "駅から約747mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 747 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约747米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 747,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420730912",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6695278,
+      "lon": 140.1636179
+    },
+    {
+      "id": "st03807-005",
+      "category": "bank_atm",
+      "name": {
+        "ja": "三井住友銀行",
+        "en": "Sumitomo Mitsui Banking Corporation",
+        "zh": "三井住友银行"
+      },
+      "desc": {
+        "ja": "三井住友銀行の支店。駅から約57mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 57 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约57米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 57,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/558520501",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6635172,
+      "lon": 140.1655495
+    },
+    {
+      "id": "st03807-006",
+      "category": "park",
+      "name": {
+        "ja": "カームガーデン",
+        "en": "ka-muga-den",
+        "zh": "Ka-muga-den"
+      },
+      "desc": {
+        "ja": "駅から約497mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 497 m from the station, with paths and benches for a rest.",
+        "zh": "距站约497米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 497,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/relation/7976849",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6673751,
+      "lon": 140.1667997
+    },
+    {
+      "id": "st03807-007",
+      "category": "food",
+      "name": {
+        "ja": "マクドナルド",
+        "en": "McDonald's",
+        "zh": "麦当劳"
+      },
+      "desc": {
+        "ja": "駅から約74mにある飲食店。burger料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 74 m from the station. Serves burger cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约74米的餐馆主营burger，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 74,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4306873847",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6629631,
+      "lon": 140.1647971
+    },
+    {
+      "id": "st03807-008",
+      "category": "shopping",
+      "name": {
+        "ja": "marond",
+        "en": "marond",
+        "zh": "marond"
+      },
+      "desc": {
+        "ja": "駅から約83mにあるベーカリー。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Bakery about 83 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约83米的面包店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 83,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/7159677311",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6637447,
+      "lon": 140.1654217
+    },
+    {
+      "id": "st03807-009",
+      "category": "bank_atm",
+      "name": {
+        "ja": "千葉銀行",
+        "en": "Chiba Bank",
+        "zh": "千葉银行"
+      },
+      "desc": {
+        "ja": "千葉銀行の支店。駅から約153mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 153 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约153米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 153,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/558514860",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6643733,
+      "lon": 140.165384
+    },
+    {
+      "id": "st03807-010",
+      "category": "public_service",
+      "name": {
+        "ja": "桜ケ丘会館",
+        "en": "桜ke丘会館",
+        "zh": "樱ケ丘会馆"
+      },
+      "desc": {
+        "ja": "駅から約1227mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 1227 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1227米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1227,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/8688191487",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6700031,
+      "lon": 140.1551016
+    },
+    {
+      "id": "st03807-011",
+      "category": "medical",
+      "name": {
+        "ja": "ウエルシア四街道大日桜ケ丘店",
+        "en": "Uerushia四街道大日桜ke丘店",
+        "zh": "ウエルシア四街道大日樱ケ丘店"
+      },
+      "desc": {
+        "ja": "駅から約1159mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 1159 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1159米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1159,
+      "walk_min": 15,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/7114846970",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6693231,
+      "lon": 140.1554007
+    },
+    {
+      "id": "st03807-012",
+      "category": "post_office",
+      "name": {
+        "ja": "四街道駅前郵便局",
+        "en": "Yotsukaido Ekimae Post Office",
+        "zh": "四街道站前邮政局"
+      },
+      "desc": {
+        "ja": "駅から約383mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 383 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约383米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 383,
+      "walk_min": 5,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1420730933",
+      "tel": "+81-43-423-0022",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.665954,
+      "lon": 140.163406
+    },
+    {
+      "id": "st03807-013",
+      "category": "shopping",
+      "name": {
+        "ja": "イトーヨーカドー 四街道店",
+        "en": "ito-yo-kado- 四街道店",
+        "zh": "イトーヨーカドー 四街道店"
+      },
+      "desc": {
+        "ja": "駅から約537mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 537 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约537米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 537,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/11201521651",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6678195,
+      "lon": 140.1650748
+    },
+    {
+      "id": "st03807-014",
+      "category": "post_office",
+      "name": {
+        "ja": "四街道郵便局",
+        "en": "Yotsukaido Post Office",
+        "zh": "四街道邮政局"
+      },
+      "desc": {
+        "ja": "駅から約764mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 764 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约764米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 764,
+      "walk_min": 10,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1420730924",
+      "tel": "+81-800-0800-111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6564174,
+      "lon": 140.1632246
+    },
+    {
+      "id": "st03807-015",
+      "category": "park",
+      "name": {
+        "ja": "イトーヨーカドー緑地",
+        "en": "ito-yo-kado-緑地",
+        "zh": "イトーヨーカドー緑地"
+      },
+      "desc": {
+        "ja": "駅から約580mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 580 m from the station, with paths and benches for a rest.",
+        "zh": "距站约580米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 580,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/547452299",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6682225,
+      "lon": 140.1656298
+    },
+    {
+      "id": "st03807-016",
+      "category": "food",
+      "name": {
+        "ja": "ミスタードーナツ",
+        "en": "Mister Donut",
+        "zh": "Misuta-do-natsu"
+      },
+      "desc": {
+        "ja": "駅から約556mにある飲食店。donut料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 556 m from the station. Serves donut cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约556米的餐馆主营donut，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 556,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/13912964349",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6679481,
+      "lon": 140.1646566
+    },
+    {
+      "id": "st03807-017",
+      "category": "police",
+      "name": {
+        "ja": "四街道警察署",
+        "en": "四街道 Police Station",
+        "zh": "四街道警察署"
+      },
+      "desc": {
+        "ja": "駅から約1169mにある警察署。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1169 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1169米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1169,
+      "walk_min": 15,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420730904",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.652667,
+      "lon": 140.167941
+    }
+  ],
+  "coverage": {
+    "poi_count": 17,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 121,
+    "floor_check": {
+      "medical": {
+        "candidates": 8,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 4,
+        "selected": 2
+      },
+      "convenience": {
+        "candidates": 15,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 8,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 5,
+        "selected": 2
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
