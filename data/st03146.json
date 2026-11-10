@@ -1,0 +1,630 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st03146",
+    "name": {
+      "ja": "平和台",
+      "en": "Heiwadai",
+      "zh": "平和台"
+    },
+    "line_group": [
+      "流山線"
+    ],
+    "pref": "千葉県",
+    "lat": 35.85087,
+    "lon": 139.90119
+  },
+  "generated_at": "2026-11-10T19:48:38Z",
+  "pois": [
+    {
+      "id": "st03146-001",
+      "category": "shopping",
+      "name": {
+        "ja": "ヨークマート (YorkMart)",
+        "en": "YorkMart",
+        "zh": "ヨークマート (YorkMart)"
+      },
+      "desc": {
+        "ja": "駅から約193mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 193 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约193米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 193,
+      "walk_min": 3,
+      "hours": "Mo-Su 10:00-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1884778008",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8523027,
+      "lon": 139.9024051,
+      "official_url_pending": "https://www.yorkmart.com/"
+    },
+    {
+      "id": "st03146-002",
+      "category": "medical",
+      "name": {
+        "ja": "マツモトキヨシ",
+        "en": "Matsumoto Kiyoshi",
+        "zh": "Matsumotokiyoshi"
+      },
+      "desc": {
+        "ja": "駅から約1405mにある薬局。体調を崩した際の受診や薬の購入に対応する。受付はMo-Su 09:00-00:00（JST）。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 1405 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1405米的药房，Mo-Su 09:00-00:00（JST），旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1405,
+      "walk_min": 18,
+      "hours": "Mo-Su 09:00-00:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/747847652",
+      "tel": "+81 48-958-7600",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8551362,
+      "lon": 139.886518,
+      "official_url_pending": "http://e-map.ne.jp"
+    },
+    {
+      "id": "st03146-003",
+      "category": "sight",
+      "name": {
+        "ja": "ようこそ流山市へ",
+        "en": "youkoso流山市he",
+        "zh": "Youkoso流山市he"
+      },
+      "desc": {
+        "ja": "駅から約725mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Memorial about 725 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约725米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 725,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/13179739735",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8573346,
+      "lon": 139.902247
+    },
+    {
+      "id": "st03146-004",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "観音寺",
+        "en": "Kanon-ji",
+        "zh": "观音寺"
+      },
+      "desc": {
+        "ja": "駅から約1864mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 1864 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1864米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1864,
+      "walk_min": 24,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5237500629",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8354378,
+      "lon": 139.8931275
+    },
+    {
+      "id": "st03146-005",
+      "category": "public_service",
+      "name": {
+        "ja": "流山市役所",
+        "en": "Nagareyama City Hall",
+        "zh": "流山市役所"
+      },
+      "desc": {
+        "ja": "駅から約621mにある役所・行政施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Civic office about 621 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约621米的行政机构，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 621,
+      "walk_min": 8,
+      "hours": "Mo-Fr 08:30-17:15; PH off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/603920750",
+      "tel": "+81-4-71581111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.856273,
+      "lon": 139.9029471,
+      "official_url_pending": "https://www.city.nagareyama.chiba.jp/"
+    },
+    {
+      "id": "st03146-006",
+      "category": "post_office",
+      "name": {
+        "ja": "流山平和台郵便局",
+        "en": "Nagareyama Heiwadai Post Office",
+        "zh": "流山平和台邮政局"
+      },
+      "desc": {
+        "ja": "駅から約640mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 640 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约640米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 640,
+      "walk_min": 8,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1420741128",
+      "tel": "+81-4-7158-4760",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.854912,
+      "lon": 139.906248,
+      "official_url_pending": "https://www.post.japanpost.jp/"
+    },
+    {
+      "id": "st03146-007",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "香取神社",
+        "en": "Katori Shrine",
+        "zh": "香取神社"
+      },
+      "desc": {
+        "ja": "駅から約1870mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1870 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1870米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1870,
+      "walk_min": 24,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5237500628",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8357081,
+      "lon": 139.8922114
+    },
+    {
+      "id": "st03146-008",
+      "category": "shopping",
+      "name": {
+        "ja": "央製パン堂",
+        "en": "Nakasei-Pando",
+        "zh": "央製パン堂"
+      },
+      "desc": {
+        "ja": "駅から約1512mにあるベーカリー。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Bakery about 1512 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1512米的面包店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1512,
+      "walk_min": 19,
+      "hours": "Tu-Sa 09:00-16:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5642892923",
+      "tel": "+81-4-7150-2066",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8497913,
+      "lon": 139.9179156,
+      "official_url_pending": "http://NakaseiPando.com"
+    },
+    {
+      "id": "st03146-009",
+      "category": "sight",
+      "name": {
+        "ja": "D51 14",
+        "en": "D51 14",
+        "zh": "D51 14"
+      },
+      "desc": {
+        "ja": "駅から約1747mにある観光スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Attraction about 1747 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1747米的观光景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1747,
+      "walk_min": 22,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/14017307057",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8577166,
+      "lon": 139.9186409
+    },
+    {
+      "id": "st03146-010",
+      "category": "public_service",
+      "name": {
+        "ja": "流山市立中央図書館",
+        "en": "Nagareyama City Central Library",
+        "zh": "流山市立中央图书馆"
+      },
+      "desc": {
+        "ja": "駅から約924mにある図書館。手続きや調べ物、休憩に利用できる公共の施設。詳細は現地の案内を参照。",
+        "en": "Library about 924 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约924米的图书馆，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 924,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1379645933",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8591178,
+      "lon": 139.9024558
+    },
+    {
+      "id": "st03146-011",
+      "category": "medical",
+      "name": {
+        "ja": "西山動物病院",
+        "en": "Nishiyama Animal Clinic",
+        "zh": "西山動物病院"
+      },
+      "desc": {
+        "ja": "駅から約1301mにあるクリニック。体調を崩した際の受診や薬の購入に対応する。受付はSu 09:00-12:00; Mo-Tu, Th-Sa 09:00-12:00, 15:00-19:00（JST）。旅先でも頼れる医療施設。",
+        "en": "Clinic about 1301 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1301米的诊所，Su 09:00-12:00, Mo-Tu, Th-Sa 09:00-12:00, 15:00-19:00（JST），旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1301,
+      "walk_min": 17,
+      "hours": "Su 09:00-12:00; Mo-Tu, Th-Sa 09:00-12:00, 15:00-19:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5237494225",
+      "tel": "04-7159-5401",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8443986,
+      "lon": 139.913209,
+      "official_url_pending": "https://nishiyama-ac.jp/"
+    },
+    {
+      "id": "st03146-012",
+      "category": "convenience",
+      "name": {
+        "ja": "ファミリーマート",
+        "en": "FamilyMart",
+        "zh": "全家便利店"
+      },
+      "desc": {
+        "ja": "ファミリーマートのコンビニエンスストア。駅から約1350mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 1350 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约1350米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 1350,
+      "walk_min": 17,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/747847649",
+      "tel": "+81 48-950-1234",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8553135,
+      "lon": 139.8872521,
+      "official_url_pending": "https://www.family.co.jp/"
+    },
+    {
+      "id": "st03146-013",
+      "category": "food",
+      "name": {
+        "ja": "びっくりドンキー",
+        "en": "Bikkuri Donkey",
+        "zh": "Bikuridonki-"
+      },
+      "desc": {
+        "ja": "駅から約1912mにある飲食店。burger料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Su 08:00-24:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1912 m from the station. Serves burger cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1912米的餐馆主营burger，适合旅途中用餐，Mo-Su 08:00-24:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1912,
+      "walk_min": 24,
+      "hours": "Mo-Su 08:00-24:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/747847648",
+      "tel": "+81 48-950-1181",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8463926,
+      "lon": 139.8807031,
+      "official_url_pending": "https://www.bikkuri-donkey.com/"
+    },
+    {
+      "id": "st03146-014",
+      "category": "food",
+      "name": {
+        "ja": "ラーメン花月嵐",
+        "en": "Ramen Kagetsu Arashi",
+        "zh": "ラーメン花月嵐"
+      },
+      "desc": {
+        "ja": "駅から約1396mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Su 11:00-01:30（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1396 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约1396米的餐馆适合旅途中用餐，Mo-Su 11:00-01:30（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1396,
+      "walk_min": 18,
+      "hours": "Mo-Su 11:00-01:30 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5134887421",
+      "tel": "04-7150-0411",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8384723,
+      "lon": 139.903634,
+      "official_url_pending": "https://www.kg2.jp/1071.html"
+    },
+    {
+      "id": "st03146-015",
+      "category": "shopping",
+      "name": {
+        "ja": "京北スーパー",
+        "en": "京北su-pa-",
+        "zh": "京北スーパー"
+      },
+      "desc": {
+        "ja": "駅から約1578mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 1578 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1578米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1578,
+      "walk_min": 20,
+      "hours": "Mo-Su 10:00-19:45 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5237525223",
+      "tel": "04-7158-7711",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8425908,
+      "lon": 139.9154151,
+      "official_url_pending": "http://keihokusuper.co.jp"
+    },
+    {
+      "id": "st03146-016",
+      "category": "police",
+      "name": {
+        "ja": "流山警察署南流山駅前交番",
+        "en": "Minami Nagareyama Station Front Police Post",
+        "zh": "流山警察署南流山站前交番"
+      },
+      "desc": {
+        "ja": "駅から約1436mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1436 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1436米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1436,
+      "walk_min": 18,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1420741135",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.838207,
+      "lon": 139.904306
+    },
+    {
+      "id": "st03146-017",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "セブン-イレブンのコンビニエンスストア。駅から約1520mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 1520 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约1520米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 1520,
+      "walk_min": 19,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/868051979",
+      "tel": "+81 48-959-6635",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8505629,
+      "lon": 139.884329,
+      "official_url_pending": "https://www.sej.co.jp/"
+    },
+    {
+      "id": "st03146-018",
+      "category": "bank_atm",
+      "name": {
+        "ja": "みずほ銀行",
+        "en": "Mizuho Bank",
+        "zh": "瑞穗银行"
+      },
+      "desc": {
+        "ja": "みずほ銀行の支店。駅から約1650mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 1650 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约1650米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 1650,
+      "walk_min": 21,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5886798311",
+      "tel": "+81 48-953-2141",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.843806,
+      "lon": 139.88509,
+      "official_url_pending": "https://www.mizuho-fg.co.jp/"
+    },
+    {
+      "id": "st03146-019",
+      "category": "park",
+      "name": {
+        "ja": "子どもの遊び場",
+        "en": "子domono遊bi場",
+        "zh": "子domono遊bi場"
+      },
+      "desc": {
+        "ja": "駅から約645mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 645 m from the station, with paths and benches for a rest.",
+        "zh": "距站约645米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 645,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/544854403",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8450767,
+      "lon": 139.9007997
+    },
+    {
+      "id": "st03146-020",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "大広戸香取神社",
+        "en": "Ohiroto Katori Shrine",
+        "zh": "大广户香取神社"
+      },
+      "desc": {
+        "ja": "駅から約1844mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1844 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1844米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1844,
+      "walk_min": 24,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5886799295",
+      "tel": "+81 48-953-1111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8459715,
+      "lon": 139.8816438,
+      "official_url_pending": "https://www.tesshow.jp/"
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 352,
+    "floor_check": {
+      "medical": {
+        "candidates": 46,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 9,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 32,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 6,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 6,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
