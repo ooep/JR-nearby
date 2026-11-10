@@ -127,18 +127,8 @@ jobs:
           ACTIVE=$(curl -s -m 20 \
             -H "Authorization: Bearer $GH_TOKEN" \
             -H "Accept: application/vnd.github+json" \
-            "$API" | python3 -c '
-          import sys, json, os
-          me = int(os.environ.get("GITHUB_RUN_ID", "0"))
-          try:
-              d = json.load(sys.stdin)
-          except Exception:
-              print(-1)
-              raise SystemExit
-          print(sum(1 for r in d.get("workflow_runs", [])
-                    if r.get("status") in ("queued", "in_progress", "waiting", "pending")
-                    and r.get("id") != me))
-          ')
+            "$API" | python3 -c 'import sys,json,os; me=int(os.environ.get("GITHUB_RUN_ID","0")); d=json.load(sys.stdin); print(sum(1 for r in d.get("workflow_runs",[]) if r.get("status") in ("queued","in_progress","waiting","pending") and r.get("id")!=me))' 2>/dev/null || echo -1)
+          ACTIVE="${ACTIVE:- -1}"
           if [ "$ACTIVE" = "0" ]; then
             curl -s -m 20 -X POST \
               -H "Authorization: Bearer $GH_TOKEN" \
