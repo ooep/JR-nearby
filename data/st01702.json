@@ -1,0 +1,563 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st01702",
+    "name": {
+      "ja": "宮原",
+      "en": "Miyahara",
+      "zh": "宫原"
+    },
+    "line_group": [
+      "山手線",
+      "東海道本線",
+      "高崎線"
+    ],
+    "pref": "埼玉県",
+    "lat": 35.9403,
+    "lon": 139.6095
+  },
+  "generated_at": "2026-11-10T13:38:35Z",
+  "pois": [
+    {
+      "id": "st01702-001",
+      "category": "convenience",
+      "name": {
+        "ja": "NewDays",
+        "en": "NewDays",
+        "zh": "NewDays"
+      },
+      "desc": {
+        "ja": "NewDaysのコンビニエンスストア。駅から約17mの場所にあり、Mo-Fr 06:15-21:45; Sa,Su,PH 06:15-21:15（JST）。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 17 m from the station. Mo-Fr 06:15-21:45, Sa, Su, PH 06:15-21:15 (JST). Stocks meals, drinks an.",
+        "zh": "距站约17米的便利店，Mo-Fr 06:15-21:45, Sa, Su, PH 06:15-21:15（JST），可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 17,
+      "walk_min": 1,
+      "hours": "Mo-Fr 06:15-21:45; Sa,Su,PH 06:15-21:15 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/10795714737",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9402691,
+      "lon": 139.6096862
+    },
+    {
+      "id": "st01702-002",
+      "category": "public_service",
+      "name": {
+        "ja": "さいたま市北区宮原三丁目自治会館",
+        "en": "saitama市北区宮原三丁目自治会館",
+        "zh": "Saitama市北区宮原三丁目自治会館"
+      },
+      "desc": {
+        "ja": "駅から約242mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 242 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约242米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 242,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6401223492",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.939215,
+      "lon": 139.611831
+    },
+    {
+      "id": "st01702-003",
+      "category": "police",
+      "name": {
+        "ja": "大宮警察署日進駅前交番",
+        "en": "大宫日進站前交番 Police Station",
+        "zh": "大宫警察署日進站前交番"
+      },
+      "desc": {
+        "ja": "駅から約993mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 993 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约993米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 993,
+      "walk_min": 13,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6483253382",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9317542,
+      "lon": 139.6062901
+    },
+    {
+      "id": "st01702-004",
+      "category": "food",
+      "name": {
+        "ja": "味好Dining",
+        "en": "味好Dining",
+        "zh": "味好Dining"
+      },
+      "desc": {
+        "ja": "駅から約175mにある飲食店。chinese料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は11:30-15:00,17:00-22:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 175 m from the station. Serves chinese cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约175米的餐馆主营chinese，适合旅途中用餐，11:30-15:00, 17:00-22:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 175,
+      "walk_min": 3,
+      "hours": "11:30-15:00,17:00-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/12980604359",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9394383,
+      "lon": 139.6111261
+    },
+    {
+      "id": "st01702-005",
+      "category": "food",
+      "name": {
+        "ja": "すき家",
+        "en": "Sukiya",
+        "zh": "食其家"
+      },
+      "desc": {
+        "ja": "駅から約78mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。営業は04:00-03:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 78 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约78米的餐馆适合旅途中用餐，04:00-03:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 78,
+      "walk_min": 1,
+      "hours": "04:00-03:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6370658806",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9401853,
+      "lon": 139.6103563
+    },
+    {
+      "id": "st01702-006",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "セブン-イレブンのコンビニエンスストア。駅から約91mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 91 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约91米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 91,
+      "walk_min": 2,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1400371200",
+      "tel": "+81 48 666 1455",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9404186,
+      "lon": 139.6085001
+    },
+    {
+      "id": "st01702-007",
+      "category": "medical",
+      "name": {
+        "ja": "ドラッグセイムス宮原西口店",
+        "en": "doraguseimusu宮原西口店",
+        "zh": "ドラッグセイムス宫原西口店"
+      },
+      "desc": {
+        "ja": "駅から約106mにある薬局。体調を崩した際の受診や薬の購入に対応する。受付はMo-Fr 09:00-20:00; Sa 09:00-19:00; Su,PH off（JST）。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 106 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约106米的药房，Mo-Fr 09:00-20:00, Sa 09:00-19:00, Su, PH off（JST），旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 106,
+      "walk_min": 2,
+      "hours": "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su,PH off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6401223534",
+      "tel": "+81 48 662 5628",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9396826,
+      "lon": 139.6085989
+    },
+    {
+      "id": "st01702-008",
+      "category": "bank_atm",
+      "name": {
+        "ja": "埼玉りそな銀行宮原支店",
+        "en": "埼玉risona銀行宮原支店",
+        "zh": "埼玉risona銀行宮原支店"
+      },
+      "desc": {
+        "ja": "埼玉りそな銀行宮原支店の支店。駅から約200mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 200 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约200米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 200,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6401223523",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9405508,
+      "lon": 139.6116954
+    },
+    {
+      "id": "st01702-009",
+      "category": "food",
+      "name": {
+        "ja": "寿し処桜井",
+        "en": "寿shi処桜井",
+        "zh": "寿shi処桜井"
+      },
+      "desc": {
+        "ja": "駅から約181mにある飲食店。sushi料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は11:30-14:00,17:00-21:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 181 m from the station. Serves sushi cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约181米的餐馆主营sushi，适合旅途中用餐，11:30-14:00, 17:00-21:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 181,
+      "walk_min": 3,
+      "hours": "11:30-14:00,17:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/12980604365",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9394615,
+      "lon": 139.6112234
+    },
+    {
+      "id": "st01702-010",
+      "category": "post_office",
+      "name": {
+        "ja": "大宮加茂宮郵便局",
+        "en": "Omiya Kamonomiya Post Office",
+        "zh": "大宫加茂宫邮政局"
+      },
+      "desc": {
+        "ja": "駅から約990mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 990 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约990米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 990,
+      "walk_min": 13,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1420170731",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9366084,
+      "lon": 139.6195093
+    },
+    {
+      "id": "st01702-011",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "戸崎の浅間塚",
+        "en": "戸崎no浅間塚",
+        "zh": "戸崎no浅間塚"
+      },
+      "desc": {
+        "ja": "駅から約1636mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1636 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1636米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1636,
+      "walk_min": 21,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/10934013147",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9413176,
+      "lon": 139.5913737
+    },
+    {
+      "id": "st01702-012",
+      "category": "post_office",
+      "name": {
+        "ja": "大宮日進郵便局",
+        "en": "大宫日進 Post Office",
+        "zh": "大宫日進邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1247mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-12:00,13:00-17:00; Sa,Su,PH off（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1247 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1247米的邮局，Mo-Fr 09:00-12:00, 13:00-17:00, Sa, Su, PH off（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 1247,
+      "walk_min": 16,
+      "hours": "Mo-Fr 09:00-12:00,13:00-17:00; Sa,Su,PH off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/554025411",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9297132,
+      "lon": 139.6049395
+    },
+    {
+      "id": "st01702-013",
+      "category": "medical",
+      "name": {
+        "ja": "ウエルシアさいたま宮原駅前店",
+        "en": "uerushiasaitama宮原駅前店",
+        "zh": "Uerushiasaitama宮原駅前店"
+      },
+      "desc": {
+        "ja": "駅から約73mにある薬局。体調を崩した際の受診や薬の購入に対応する。受付はMo-Fr 09:00-19:00; Sa 09:00-18:00; Su,PH off（JST）。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 73 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约73米的药房，Mo-Fr 09:00-19:00, Sa 09:00-18:00, Su, PH off（JST），旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 73,
+      "walk_min": 1,
+      "hours": "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su,PH off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6401223508",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9405086,
+      "lon": 139.6102744
+    },
+    {
+      "id": "st01702-014",
+      "category": "public_service",
+      "name": {
+        "ja": "さいたま市立宮原児童センター",
+        "en": "saitama市立宮原児童senta-",
+        "zh": "Saitama市立宮原児童senta-"
+      },
+      "desc": {
+        "ja": "駅から約770mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 770 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约770米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 770,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420166434",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9471391,
+      "lon": 139.6108285
+    },
+    {
+      "id": "st01702-015",
+      "category": "cafe",
+      "name": {
+        "ja": "珈琲館",
+        "en": "Kohikan",
+        "zh": "珈琲馆"
+      },
+      "desc": {
+        "ja": "駅から約404mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。Mo-Fr 08:00-20:00; Sa,Su,PH 08:00-19:30（JST）。",
+        "en": "Cafe about 404 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约404米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 404,
+      "walk_min": 6,
+      "hours": "Mo-Fr 08:00-20:00; Sa,Su,PH 08:00-19:30 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/12020648345",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9416152,
+      "lon": 139.6136814
+    },
+    {
+      "id": "st01702-016",
+      "category": "shopping",
+      "name": {
+        "ja": "まいばすけっと宮原駅西口店",
+        "en": "My Basket",
+        "zh": "Maibasuketo宮原駅西口店"
+      },
+      "desc": {
+        "ja": "駅から約99mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 99 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约99米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 99,
+      "walk_min": 2,
+      "hours": "07:00-24:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/12663354738",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9405322,
+      "lon": 139.6084401
+    },
+    {
+      "id": "st01702-017",
+      "category": "shopping",
+      "name": {
+        "ja": "フードガーデン宮原西口店",
+        "en": "fu-doga-den宮原西口店",
+        "zh": "フードガーデン宫原西口店"
+      },
+      "desc": {
+        "ja": "駅から約301mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 301 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约301米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 301,
+      "walk_min": 4,
+      "hours": "09:30-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/553263970",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9390689,
+      "lon": 139.6065203
+    },
+    {
+      "id": "st01702-018",
+      "category": "shopping",
+      "name": {
+        "ja": "イオン",
+        "en": "AEON",
+        "zh": "永旺"
+      },
+      "desc": {
+        "ja": "駅から約1896mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 1896 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1896米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1896,
+      "walk_min": 24,
+      "hours": "Mo-Su,PH 07:00-23:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1779226098",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9232494,
+      "lon": 139.6099549
+    }
+  ],
+  "coverage": {
+    "poi_count": 18,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 378,
+    "floor_check": {
+      "medical": {
+        "candidates": 60,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 7,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 39,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 8,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 5,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
