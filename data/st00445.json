@@ -1,0 +1,626 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st00445",
+    "name": {
+      "ja": "市役所",
+      "en": "City Hall",
+      "zh": "市役所"
+    },
+    "line_group": [
+      "大浦支線",
+      "桜町支線",
+      "赤迫支線"
+    ],
+    "pref": "長崎県",
+    "lat": 32.74939,
+    "lon": 129.8808
+  },
+  "generated_at": "2026-11-10T18:54:36Z",
+  "pois": [
+    {
+      "id": "st00445-001",
+      "category": "convenience",
+      "name": {
+        "ja": "ローソン",
+        "en": "Lawson",
+        "zh": "罗森"
+      },
+      "desc": {
+        "ja": "ローソンのコンビニエンスストア。駅から約177mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 177 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约177米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 177,
+      "walk_min": 3,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5776959111",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 32.7505369,
+      "lon": 129.8794853
+    },
+    {
+      "id": "st00445-002",
+      "category": "sight",
+      "name": {
+        "ja": "眼鏡橋",
+        "en": "Megane Bridge",
+        "zh": "眼鏡桥"
+      },
+      "desc": {
+        "ja": "駅から約245mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Monument about 245 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约245米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 245,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5336401732",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 32.7472925,
+      "lon": 129.8799892
+    },
+    {
+      "id": "st00445-003",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "興福寺",
+        "en": "Kofukuji Temple",
+        "zh": "興福寺"
+      },
+      "desc": {
+        "ja": "駅から約336mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 336 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约336米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 336,
+      "walk_min": 5,
+      "hours": "Mo-Su 08:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/3828906063",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 32.747866,
+      "lon": 129.8839022,
+      "official_url_pending": "https://kofukuji.com/"
+    },
+    {
+      "id": "st00445-004",
+      "category": "public_service",
+      "name": {
+        "ja": "新地町安全安心交流センター",
+        "en": "新地町安全安心交流senta-",
+        "zh": "新地町安全安心交流センター"
+      },
+      "desc": {
+        "ja": "駅から約1109mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 1109 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1109米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1109,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/7113690057",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 32.7406818,
+      "lon": 129.8750261
+    },
+    {
+      "id": "st00445-005",
+      "category": "public_service",
+      "name": {
+        "ja": "長崎市立大浦児童センター",
+        "en": "長崎市立大浦児童senta-",
+        "zh": "长崎市立大浦児童センター"
+      },
+      "desc": {
+        "ja": "駅から約1570mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 1570 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1570米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1570,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2502792094",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 32.737149,
+      "lon": 129.872432
+    },
+    {
+      "id": "st00445-006",
+      "category": "sight",
+      "name": {
+        "ja": "亀山社中資料館",
+        "en": "Kameyama Shachu Museum",
+        "zh": "龟山社中资料馆"
+      },
+      "desc": {
+        "ja": "駅から約642mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 642 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约642米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 642,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/3828906058",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 32.7490842,
+      "lon": 129.8876599
+    },
+    {
+      "id": "st00445-007",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "悟真寺",
+        "en": "Goshinji",
+        "zh": "悟真寺"
+      },
+      "desc": {
+        "ja": "駅から約1786mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 1786 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1786米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1786,
+      "walk_min": 23,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5156016621",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 32.7521806,
+      "lon": 129.8619965
+    },
+    {
+      "id": "st00445-008",
+      "category": "post_office",
+      "name": {
+        "ja": "長崎麹屋郵便局",
+        "en": "长崎麹屋 Post Office",
+        "zh": "长崎麹屋邮政局"
+      },
+      "desc": {
+        "ja": "駅から約234mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 234 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约234米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 234,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423822434",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 32.748085,
+      "lon": 129.882763
+    },
+    {
+      "id": "st00445-009",
+      "category": "shopping",
+      "name": {
+        "ja": "アミュプラザ長崎　本館",
+        "en": "Amu Plaza Nagasaki",
+        "zh": "Amu Plaza长崎"
+      },
+      "desc": {
+        "ja": "駅から約944mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 944 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约944米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 944,
+      "walk_min": 12,
+      "hours": "Mo-Su 10:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/194531599",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 32.7516993,
+      "lon": 129.8710829,
+      "official_url_pending": "https://amu-n.co.jp/"
+    },
+    {
+      "id": "st00445-010",
+      "category": "sight",
+      "name": {
+        "ja": "出島和蘭商館跡",
+        "en": "Dejima Dutch Trading Post",
+        "zh": "出岛荷蘭商馆跡"
+      },
+      "desc": {
+        "ja": "駅から約971mにある観光スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。入場は有料。",
+        "en": "Attraction about 971 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约971米的观光景点，入场收费，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 971,
+      "walk_min": 13,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/484294967",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 32.7436329,
+      "lon": 129.8729964
+    },
+    {
+      "id": "st00445-011",
+      "category": "sight",
+      "name": {
+        "ja": "長崎新地中華街",
+        "en": "Nagasaki Shinchi Chinatown",
+        "zh": "长崎新地中华街"
+      },
+      "desc": {
+        "ja": "駅から約1009mにある観光スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Attraction about 1009 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1009米的观光景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1009,
+      "walk_min": 13,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/469897140",
+      "tel": "+81-95-822-6540",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 32.7415454,
+      "lon": 129.8753704,
+      "official_url_pending": "https://nagasaki-chinatown.com"
+    },
+    {
+      "id": "st00445-012",
+      "category": "sight",
+      "name": {
+        "ja": "Twenty-Six Martyrs Museum",
+        "en": "Twenty-Six Martyrs Museum",
+        "zh": "Twenty-Six Martyrs Museum"
+      },
+      "desc": {
+        "ja": "駅から約1029mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1029 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1029米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1029,
+      "walk_min": 13,
+      "hours": "09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6380332926",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 32.75451,
+      "lon": 129.8716288
+    },
+    {
+      "id": "st00445-013",
+      "category": "shopping",
+      "name": {
+        "ja": "福砂屋",
+        "en": "Fukusaya",
+        "zh": "福砂屋"
+      },
+      "desc": {
+        "ja": "駅から約863mにあるベーカリー。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Bakery about 863 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约863米的面包店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 863,
+      "walk_min": 11,
+      "hours": "Mo-Su 08:30-20:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5808528653",
+      "tel": "095-822-4532",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 32.7511887,
+      "lon": 129.8718209,
+      "official_url_pending": "http://www.Fukusaya.co.jp"
+    },
+    {
+      "id": "st00445-014",
+      "category": "medical",
+      "name": {
+        "ja": "医療法人恵仁会  いまむらウィミンズクリニック",
+        "en": "医療法人恵仁会  imamurauiminzukuriniku",
+        "zh": "医療法人恵仁会 Imamurauiminzukuriniku"
+      },
+      "desc": {
+        "ja": "駅から約1564mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 1564 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1564米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1564,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423804629",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 32.7379784,
+      "lon": 129.8710302,
+      "official_url_pending": "http://www.imamura-byoin.com/"
+    },
+    {
+      "id": "st00445-015",
+      "category": "sight",
+      "name": {
+        "ja": "長崎県美術館",
+        "en": "Nagasaki Prefectural Art Museum",
+        "zh": "长崎县美术馆"
+      },
+      "desc": {
+        "ja": "駅から約1287mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1287 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1287米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1287,
+      "walk_min": 17,
+      "hours": "Mo-Su 10:00-20:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1423822086",
+      "tel": "+81 95-833-2110",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 32.7417323,
+      "lon": 129.8704873,
+      "official_url_pending": "https://www.nagasaki-museum.jp/"
+    },
+    {
+      "id": "st00445-016",
+      "category": "sight",
+      "name": {
+        "ja": "シーボルト記念館",
+        "en": "Siebold Memorial Museum",
+        "zh": "シーボルト纪念馆"
+      },
+      "desc": {
+        "ja": "駅から約1288mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1288 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1288米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1288,
+      "walk_min": 17,
+      "hours": "Tu-Su 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1423797426",
+      "tel": "+81 95-823-0707",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 32.755863,
+      "lon": 129.892228
+    },
+    {
+      "id": "st00445-017",
+      "category": "police",
+      "name": {
+        "ja": "大浦警察署",
+        "en": "大浦 Police Station",
+        "zh": "大浦警察署"
+      },
+      "desc": {
+        "ja": "駅から約1965mにある警察署。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1965 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1965米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1965,
+      "walk_min": 25,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423801912",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 32.735642,
+      "lon": 129.867598
+    },
+    {
+      "id": "st00445-018",
+      "category": "bank_atm",
+      "name": {
+        "ja": "福岡銀行　長崎支店",
+        "en": "福冈 长崎支店 Bank",
+        "zh": "福冈银行　长崎支店"
+      },
+      "desc": {
+        "ja": "福岡銀行　長崎支店の支店。駅から約725mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 725 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约725米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 725,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5258613761",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 32.742881,
+      "lon": 129.8802704
+    },
+    {
+      "id": "st00445-019",
+      "category": "sight",
+      "name": {
+        "ja": "ちゃんぽんミュージアム",
+        "en": "Chanpon Museum",
+        "zh": "Chiyanponmiyu-jiamu"
+      },
+      "desc": {
+        "ja": "駅から約1781mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1781 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1781米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1781,
+      "walk_min": 23,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2503735320",
+      "tel": "+81 95-822-1296",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 32.7363721,
+      "lon": 129.8697138
+    },
+    {
+      "id": "st00445-020",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "大浦天主堂",
+        "en": "Oura Catholic Church",
+        "zh": "大浦天主堂"
+      },
+      "desc": {
+        "ja": "駅から約1967mにある礼拝所。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "place of worship about 1967 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1967米的宗教场所，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1967,
+      "walk_min": 25,
+      "hours": "08:00-18:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/243003159",
+      "tel": "+81 95 823-2628",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 32.7341462,
+      "lon": 129.8701396,
+      "official_url_pending": "https://nagasaki-oura-church.jp/"
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 298,
+    "floor_check": {
+      "medical": {
+        "candidates": 17,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 5,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 22,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 16,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 10,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
