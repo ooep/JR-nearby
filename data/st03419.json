@@ -1,0 +1,546 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st03419",
+    "name": {
+      "ja": "北戸田",
+      "en": "Kita-Toda",
+      "zh": "北户田"
+    },
+    "line_group": [
+      "山手線",
+      "川越線",
+      "相鉄本線",
+      "赤羽線"
+    ],
+    "pref": "埼玉県",
+    "lat": 35.82758,
+    "lon": 139.66014
+  },
+  "generated_at": "2026-11-10T14:04:17Z",
+  "pois": [
+    {
+      "id": "st03419-001",
+      "category": "police",
+      "name": {
+        "ja": "浦和警察署 六辻交番",
+        "en": "浦和 六辻交番 Police Station",
+        "zh": "浦和警察署 六辻交番"
+      },
+      "desc": {
+        "ja": "駅から約1317mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1317 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1317米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1317,
+      "walk_min": 17,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420180051",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8394255,
+      "lon": 139.6600553
+    },
+    {
+      "id": "st03419-002",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "セブン-イレブンのコンビニエンスストア。駅から約81mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 81 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约81米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 81,
+      "walk_min": 2,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1997625158",
+      "tel": "+81-48-4445579",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.826855,
+      "lon": 139.6600997,
+      "official_url_pending": "https://www.sej.co.jp/"
+    },
+    {
+      "id": "st03419-003",
+      "category": "shopping",
+      "name": {
+        "ja": "イオン北戸田ショッピングセンター",
+        "en": "AEON Kita-Toda Shopping Center",
+        "zh": "イオン北户田ショッピングセンター"
+      },
+      "desc": {
+        "ja": "駅から約666mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 666 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约666米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 666,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/986872046",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8268919,
+      "lon": 139.6527976
+    },
+    {
+      "id": "st03419-004",
+      "category": "food",
+      "name": {
+        "ja": "マクドナルド",
+        "en": "McDonald's",
+        "zh": "麦当劳"
+      },
+      "desc": {
+        "ja": "駅から約685mにある飲食店。burger料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Su 09:00-22:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 685 m from the station. Serves burger cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约685米的餐馆主营burger，适合旅途中用餐，Mo-Su 09:00-22:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 685,
+      "walk_min": 9,
+      "hours": "Mo-Su 09:00-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1997914144",
+      "tel": "+81-48-4221606",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.827507,
+      "lon": 139.6525465,
+      "official_url_pending": "https://www.mcdonalds.co.jp/"
+    },
+    {
+      "id": "st03419-005",
+      "category": "cafe",
+      "name": {
+        "ja": "スターバックス",
+        "en": "Starbucks",
+        "zh": "Suta-bakusu"
+      },
+      "desc": {
+        "ja": "駅から約595mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。Mo-Su 09:00-22:00（JST）。",
+        "en": "Cafe about 595 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约595米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 595,
+      "walk_min": 8,
+      "hours": "Mo-Su 09:00-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1880307158",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8265913,
+      "lon": 139.6536492,
+      "official_url_pending": "https://www.starbucks.co.jp/"
+    },
+    {
+      "id": "st03419-006",
+      "category": "food",
+      "name": {
+        "ja": "吉野家",
+        "en": "Yoshinoya",
+        "zh": "吉野家"
+      },
+      "desc": {
+        "ja": "駅から約1213mにある飲食店。beef_bowl料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は24時間営業。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1213 m from the station. Serves beef_bowl cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1213米的餐馆主营beef_bowl，适合旅途中用餐，全天24小时营业，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1213,
+      "walk_min": 16,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1994528844",
+      "tel": "+81-48-4205580",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8166742,
+      "lon": 139.6598609,
+      "official_url_pending": "https://www.yoshinoya.com/"
+    },
+    {
+      "id": "st03419-007",
+      "category": "public_service",
+      "name": {
+        "ja": "さいたま市立 文蔵公民館",
+        "en": "saitama市立 文蔵公民館",
+        "zh": "Saitama市立 文蔵公民館"
+      },
+      "desc": {
+        "ja": "駅から約1421mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 1421 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1421米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1421,
+      "walk_min": 18,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/3744122730",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8379182,
+      "lon": 139.669404
+    },
+    {
+      "id": "st03419-008",
+      "category": "sight",
+      "name": {
+        "ja": "戸田市立郷土博物館",
+        "en": "Toda City Museum of Local History",
+        "zh": "户田市立郷土博物馆"
+      },
+      "desc": {
+        "ja": "駅から約987mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 987 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约987米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 987,
+      "walk_min": 13,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420178896",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.819106,
+      "lon": 139.663382,
+      "official_url_pending": "https://www.city.toda.saitama.jp/soshiki/377/"
+    },
+    {
+      "id": "st03419-009",
+      "category": "food",
+      "name": {
+        "ja": "モスバーガー",
+        "en": "MOS Burger",
+        "zh": "摩斯汉堡"
+      },
+      "desc": {
+        "ja": "駅から約1205mにある飲食店。burger料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Su 07:00-24:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1205 m from the station. Serves burger cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1205米的餐馆主营burger，适合旅途中用餐，Mo-Su 07:00-24:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1205,
+      "walk_min": 16,
+      "hours": "Mo-Su 07:00-24:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1986402051",
+      "tel": "+81-48-4478403",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8190476,
+      "lon": 139.6683825,
+      "official_url_pending": "https://www.mos.co.jp/"
+    },
+    {
+      "id": "st03419-010",
+      "category": "shopping",
+      "name": {
+        "ja": "T-FRONTE",
+        "en": "T-FRONTE",
+        "zh": "T-FRONTE"
+      },
+      "desc": {
+        "ja": "駅から約1341mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 1341 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1341米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准。"
+      },
+      "distance_m": 1341,
+      "walk_min": 17,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/753527107",
+      "tel": "+81 48 434 5826",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8174524,
+      "lon": 139.6682161,
+      "official_url_pending": "https://t-fronte.jp/"
+    },
+    {
+      "id": "st03419-011",
+      "category": "bank_atm",
+      "name": {
+        "ja": "JAさいたま蕨支店",
+        "en": "JAsaitama蕨支店",
+        "zh": "JAsaitama蕨支店"
+      },
+      "desc": {
+        "ja": "JAさいたま蕨支店の支店。駅から約1592mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 1592 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约1592米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 1592,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/10856432128",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8247722,
+      "lon": 139.6774513
+    },
+    {
+      "id": "st03419-012",
+      "category": "convenience",
+      "name": {
+        "ja": "ローソン",
+        "en": "Lawson",
+        "zh": "罗森"
+      },
+      "desc": {
+        "ja": "ローソンのコンビニエンスストア。駅から約1422mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 1422 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约1422米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 1422,
+      "walk_min": 18,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/924640217",
+      "tel": "+81 48 432 0419",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8171655,
+      "lon": 139.6692911,
+      "official_url_pending": "https://www.lawson.co.jp/"
+    },
+    {
+      "id": "st03419-013",
+      "category": "shopping",
+      "name": {
+        "ja": "デイジイ蕨店",
+        "en": "deijii蕨店",
+        "zh": "デイジイ蕨店"
+      },
+      "desc": {
+        "ja": "駅から約1786mにあるベーカリー。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Bakery about 1786 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1786米的面包店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1786,
+      "walk_min": 23,
+      "hours": "08:00-19:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/13164972604",
+      "tel": "+8148 434 6366",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8220963,
+      "lon": 139.6787637,
+      "official_url_pending": "https://www.daisy1962.co.jp/shoplist-蕨店"
+    },
+    {
+      "id": "st03419-014",
+      "category": "police",
+      "name": {
+        "ja": "蕨警察署北町交番",
+        "en": "蕨北町交番 Police Station",
+        "zh": "蕨警察署北町交番"
+      },
+      "desc": {
+        "ja": "駅から約1394mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1394 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1394米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1394,
+      "walk_min": 18,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420203140",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.828084,
+      "lon": 139.675593
+    },
+    {
+      "id": "st03419-015",
+      "category": "medical",
+      "name": {
+        "ja": "セイムス戸田新曽店",
+        "en": "seimusu戸田新曽店",
+        "zh": "セイムス户田新曽店"
+      },
+      "desc": {
+        "ja": "駅から約192mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 192 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约192米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 192,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/13163265228",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8259052,
+      "lon": 139.6596222
+    },
+    {
+      "id": "st03419-016",
+      "category": "public_service",
+      "name": {
+        "ja": "戸田市役所",
+        "en": "Toda city office",
+        "zh": "户田市政府"
+      },
+      "desc": {
+        "ja": "駅から約1953mにある役所・行政施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Civic office about 1953 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1953米的行政机构，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1953,
+      "walk_min": 25,
+      "hours": "Mo-Fr 08:30-17:15; Sa-Su,PH off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/150796499",
+      "tel": "+81 48 441 1800",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.817561,
+      "lon": 139.6779254,
+      "official_url_pending": "https://www.city.toda.saitama.jp/"
+    },
+    {
+      "id": "st03419-017",
+      "category": "post_office",
+      "name": {
+        "ja": "戸田美女木東郵便局",
+        "en": "Post Office",
+        "zh": "户田美女木东邮政局"
+      },
+      "desc": {
+        "ja": "駅から約444mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 444 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约444米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 444,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420196058",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.828667,
+      "lon": 139.655401
+    }
+  ],
+  "coverage": {
+    "poi_count": 17,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 320,
+    "floor_check": {
+      "medical": {
+        "candidates": 21,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 9,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 43,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 10,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 6,
+        "selected": 2
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
