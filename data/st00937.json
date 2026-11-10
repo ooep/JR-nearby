@@ -1,0 +1,602 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st00937",
+    "name": {
+      "ja": "勝田台",
+      "en": "Katsutadai",
+      "zh": "勝田台"
+    },
+    "line_group": [
+      "京急本線",
+      "京成本線",
+      "東成田線",
+      "浅草線"
+    ],
+    "pref": "千葉県",
+    "lat": 35.71545,
+    "lon": 140.12605
+  },
+  "generated_at": "2026-11-10T00:51:38Z",
+  "pois": [
+    {
+      "id": "st00937-001",
+      "category": "bank_atm",
+      "name": {
+        "ja": "千葉興業銀行",
+        "en": "Chiba Kogyo Bank",
+        "zh": "千葉興業银行"
+      },
+      "desc": {
+        "ja": "千葉興業銀行の支店。駅から約81mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 81 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约81米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 81,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/13912964329",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7160646,
+      "lon": 140.1255723
+    },
+    {
+      "id": "st00937-002",
+      "category": "shopping",
+      "name": {
+        "ja": "リブレ京成",
+        "en": "ribure京成",
+        "zh": "リブレ京成"
+      },
+      "desc": {
+        "ja": "駅から約86mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 86 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约86米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 86,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/13912964282",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7150515,
+      "lon": 140.1268619
+    },
+    {
+      "id": "st00937-003",
+      "category": "police",
+      "name": {
+        "ja": "八千代警察署村上駅前交番",
+        "en": "八千代村上站前交番 Police Station",
+        "zh": "八千代警察署村上站前交番"
+      },
+      "desc": {
+        "ja": "駅から約1055mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1055 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1055米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1055,
+      "walk_min": 14,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2581949291",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7231489,
+      "lon": 140.1192297
+    },
+    {
+      "id": "st00937-004",
+      "category": "post_office",
+      "name": {
+        "ja": "佐倉井野郵便局",
+        "en": "Sakura Ino Post Office",
+        "zh": "佐倉井野邮政局"
+      },
+      "desc": {
+        "ja": "駅から約344mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 344 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约344米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 344,
+      "walk_min": 5,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1420725101",
+      "tel": "+81-43-461-1123",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7167855,
+      "lon": 140.1294917
+    },
+    {
+      "id": "st00937-005",
+      "category": "post_office",
+      "name": {
+        "ja": "八千代勝田台郵便局",
+        "en": "Yachiyo Katsutadai Post Office",
+        "zh": "八千代勝田台邮政局"
+      },
+      "desc": {
+        "ja": "駅から約373mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 373 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约373米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 373,
+      "walk_min": 5,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1420726037",
+      "tel": "+81-47-482-4984",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.712184,
+      "lon": 140.126984
+    },
+    {
+      "id": "st00937-006",
+      "category": "park",
+      "name": {
+        "ja": "勝田市民の森",
+        "en": "勝田市民no森",
+        "zh": "勝田市民no森"
+      },
+      "desc": {
+        "ja": "駅から約791mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 791 m from the station, with paths and benches for a rest.",
+        "zh": "距站约791米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 791,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/91059829",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7089643,
+      "lon": 140.122458,
+      "official_url_pending": "https://www.city.yachiyo.chiba.jp//142500/page000047.html"
+    },
+    {
+      "id": "st00937-007",
+      "category": "park",
+      "name": {
+        "ja": "八千代総合運動公園",
+        "en": "Yachiyo General Exercise Park",
+        "zh": "八千代総合運動公园"
+      },
+      "desc": {
+        "ja": "駅から約1628mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1628 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1628米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1628,
+      "walk_min": 21,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/269208573",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7240739,
+      "lon": 140.111473,
+      "official_url_pending": "http://www.city.yachiyo.chiba.jp.e.ip.hp.transer.com/142500/page000029.html"
+    },
+    {
+      "id": "st00937-008",
+      "category": "food",
+      "name": {
+        "ja": "銚子丸",
+        "en": "Choushimaru",
+        "zh": "銚子丸"
+      },
+      "desc": {
+        "ja": "駅から約805mにある飲食店。sushi料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 805 m from the station. Serves sushi cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约805米的餐馆主营sushi，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 805,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4418406399",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7171611,
+      "lon": 140.1347123,
+      "official_url_pending": "https://www.choushimaru.co.jp/"
+    },
+    {
+      "id": "st00937-009",
+      "category": "shopping",
+      "name": {
+        "ja": "フルルガーデン八千代",
+        "en": "Fululu Garden Yachiyo",
+        "zh": "フルルガーデン八千代"
+      },
+      "desc": {
+        "ja": "駅から約1086mにある百貨店。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Department store about 1086 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1086米的百货店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1086,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/447222370",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7223712,
+      "lon": 140.1175652
+    },
+    {
+      "id": "st00937-010",
+      "category": "convenience",
+      "name": {
+        "ja": "ローソン",
+        "en": "Lawson",
+        "zh": "罗森"
+      },
+      "desc": {
+        "ja": "ローソンのコンビニエンスストア。駅から約1103mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 1103 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约1103米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 1103,
+      "walk_min": 14,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5308591433",
+      "tel": "+81474098380",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7232869,
+      "lon": 140.1185673,
+      "official_url_pending": "https://www.lawson.co.jp/"
+    },
+    {
+      "id": "st00937-011",
+      "category": "medical",
+      "name": {
+        "ja": "マツモトキヨシ",
+        "en": "Matsukiyo",
+        "zh": "Matsumotokiyoshi"
+      },
+      "desc": {
+        "ja": "駅から約1039mにある薬局。体調を崩した際の受診や薬の購入に対応する。受付はMo-Fr 10:00-20:00; Sa-Su 10:00-21:00（JST）。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 1039 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1039米的药房，Mo-Fr 10:00-20:00, Sa-Su 10:00-21:00（JST），旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1039,
+      "walk_min": 13,
+      "hours": "Mo-Fr 10:00-20:00; Sa-Su 10:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6433521190",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7221134,
+      "lon": 140.1179876
+    },
+    {
+      "id": "st00937-012",
+      "category": "food",
+      "name": {
+        "ja": "サイゼリヤ",
+        "en": "Saizeriya",
+        "zh": "萨莉亚"
+      },
+      "desc": {
+        "ja": "駅から約1205mにある飲食店。italian料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は10:00-03:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1205 m from the station. Serves italian cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1205米的餐馆主营italian，适合旅途中用餐，10:00-03:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1205,
+      "walk_min": 16,
+      "hours": "10:00-03:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5309547822",
+      "tel": "047-484-0989",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7235162,
+      "lon": 140.1171401,
+      "official_url_pending": "https://www.saizeriya.co.jp/restaurant/shop_detail.php?cd=318"
+    },
+    {
+      "id": "st00937-013",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "横戸元池弁天宮",
+        "en": "Yokoto Motoike Bentengu",
+        "zh": "横户元池弁天宫"
+      },
+      "desc": {
+        "ja": "駅から約1193mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1193 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1193米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1193,
+      "walk_min": 15,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4650784689",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7068909,
+      "lon": 140.1180862
+    },
+    {
+      "id": "st00937-014",
+      "category": "food",
+      "name": {
+        "ja": "かつや",
+        "en": "Katsuya",
+        "zh": "吉豚屋"
+      },
+      "desc": {
+        "ja": "駅から約1441mにある飲食店。fried_food料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は10:00-23:30（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1441 m from the station. Serves fried_food cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1441米的餐馆主营fried_food，适合旅途中用餐，10:00-23:30（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1441,
+      "walk_min": 19,
+      "hours": "10:00-23:30 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/9425943428",
+      "tel": "+81474117305",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7263311,
+      "lon": 140.1173887,
+      "official_url_pending": "https://www.arclandservice.co.jp/katsuya/"
+    },
+    {
+      "id": "st00937-015",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "セブン-イレブンのコンビニエンスストア。駅から約1451mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 1451 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约1451米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 1451,
+      "walk_min": 19,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2208187596",
+      "tel": "+81474878055",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7248696,
+      "lon": 140.1149288,
+      "official_url_pending": "https://www.sej.co.jp/"
+    },
+    {
+      "id": "st00937-016",
+      "category": "sight",
+      "name": {
+        "ja": "八千代市立郷土博物館",
+        "en": "Yachiyo City Museum of Local History",
+        "zh": "八千代市立郷土博物馆"
+      },
+      "desc": {
+        "ja": "駅から約1757mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1757 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1757米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1757,
+      "walk_min": 22,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420726479",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.729821,
+      "lon": 140.117955
+    },
+    {
+      "id": "st00937-017",
+      "category": "shopping",
+      "name": {
+        "ja": "Big-A",
+        "en": "Big-A",
+        "zh": "Big-A"
+      },
+      "desc": {
+        "ja": "駅から約1829mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 1829 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1829米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1829,
+      "walk_min": 23,
+      "hours": "Mo-Su 02:00-04:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5308590839",
+      "tel": "+81474842455",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7117474,
+      "lon": 140.106311,
+      "official_url_pending": "https://www.biga.co.jp/archives/store/884"
+    },
+    {
+      "id": "st00937-018",
+      "category": "sight",
+      "name": {
+        "ja": "オーエンス八千代市民ギャラリー",
+        "en": "O-ENS Yachiyo Citizen Gallery",
+        "zh": "オーエンス八千代市民ギャラリー"
+      },
+      "desc": {
+        "ja": "駅から約1836mにあるギャラリー。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Gallery about 1836 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1836米的画廊，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1836,
+      "walk_min": 23,
+      "hours": "Tu-Su 09:00-20:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/10147996578",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.728471,
+      "lon": 140.1135511,
+      "official_url_pending": "https://www.yachiyo-library-gallery.jp/gallery/"
+    },
+    {
+      "id": "st00937-019",
+      "category": "public_service",
+      "name": {
+        "ja": "TRC八千代中央図書館",
+        "en": "TRC Yachiyo Central Library",
+        "zh": "TRC八千代中央图书馆"
+      },
+      "desc": {
+        "ja": "駅から約1867mにある図書館。手続きや調べ物、休憩に利用できる公共の施設。詳細は現地の案内を参照。",
+        "en": "Library about 1867 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1867米的图书馆，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1867,
+      "walk_min": 24,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5155570325",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7286457,
+      "lon": 140.1132679,
+      "official_url_pending": "https://www.yachiyo-library-gallery.jp/"
+    }
+  ],
+  "coverage": {
+    "poi_count": 19,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 160,
+    "floor_check": {
+      "medical": {
+        "candidates": 12,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 5,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 28,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 7,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 5,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
