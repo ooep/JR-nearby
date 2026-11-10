@@ -1,0 +1,509 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st01899",
+    "name": {
+      "ja": "十日市場",
+      "en": "Tōkaichiba",
+      "zh": "十日市场"
+    },
+    "line_group": [
+      "中央本線",
+      "大月線",
+      "山手線"
+    ],
+    "pref": "山梨県",
+    "lat": 35.53888,
+    "lon": 138.88759
+  },
+  "generated_at": "2026-11-10T22:55:09Z",
+  "pois": [
+    {
+      "id": "st01899-001",
+      "category": "sight",
+      "name": {
+        "ja": "田原の滝",
+        "en": "田原no滝",
+        "zh": "田原no滝"
+      },
+      "desc": {
+        "ja": "駅から約180mにある観光スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Attraction about 180 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约180米的观光景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 180,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/758937874",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5397412,
+      "lon": 138.8892718
+    },
+    {
+      "id": "st01899-002",
+      "category": "convenience",
+      "name": {
+        "ja": "ファミリーマート",
+        "en": "FamilyMart",
+        "zh": "全家便利店"
+      },
+      "desc": {
+        "ja": "ファミリーマートのコンビニエンスストア。駅から約596mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 596 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约596米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 596,
+      "walk_min": 8,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/277934585",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5414877,
+      "lon": 138.8933483
+    },
+    {
+      "id": "st01899-003",
+      "category": "shopping",
+      "name": {
+        "ja": "セルバ",
+        "en": "seruba",
+        "zh": "Seruba"
+      },
+      "desc": {
+        "ja": "駅から約620mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 620 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约620米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 620,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2440993980",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.538752,
+      "lon": 138.880737
+    },
+    {
+      "id": "st01899-004",
+      "category": "food",
+      "name": {
+        "ja": "モスバーガー",
+        "en": "MOS Burger",
+        "zh": "摩斯汉堡"
+      },
+      "desc": {
+        "ja": "駅から約672mにある飲食店。burger料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 672 m from the station. Serves burger cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约672米的餐馆主营burger，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 672,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5203495443",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5413377,
+      "lon": 138.894374
+    },
+    {
+      "id": "st01899-005",
+      "category": "medical",
+      "name": {
+        "ja": "ツルハドラッグ",
+        "en": "Tsuruha",
+        "zh": "Tsuruhadoragu"
+      },
+      "desc": {
+        "ja": "駅から約765mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 765 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约765米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 765,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/277934746",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5417838,
+      "lon": 138.8952567
+    },
+    {
+      "id": "st01899-006",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "セブン-イレブンのコンビニエンスストア。駅から約853mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 853 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约853米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 853,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2440993309",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.54276,
+      "lon": 138.89572
+    },
+    {
+      "id": "st01899-007",
+      "category": "police",
+      "name": {
+        "ja": "大月警察署 都留文科大学前駅交番",
+        "en": "大月 都留文科大学前站交番 Police Station",
+        "zh": "大月警察署 都留文科大学前站交番"
+      },
+      "desc": {
+        "ja": "駅から約878mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 878 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约878米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 878,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/13028077215",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5423688,
+      "lon": 138.8962935
+    },
+    {
+      "id": "st01899-008",
+      "category": "shopping",
+      "name": {
+        "ja": "オギノ",
+        "en": "Ogino",
+        "zh": "Ogino"
+      },
+      "desc": {
+        "ja": "駅から約943mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 943 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约943米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 943,
+      "walk_min": 12,
+      "hours": "Mo-Su 09:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/277934484",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5420277,
+      "lon": 138.8972663,
+      "official_url_pending": "https://www.ogino.co.jp/spotsearch/805?doing_wp_cron=1645624495.5133581161499023437500"
+    },
+    {
+      "id": "st01899-009",
+      "category": "food",
+      "name": {
+        "ja": "牛角",
+        "en": "Gyū-Kaku",
+        "zh": "牛角"
+      },
+      "desc": {
+        "ja": "駅から約824mにある飲食店。barbecue料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 824 m from the station. Serves barbecue cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约824米的餐馆主营barbecue，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 824,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/537318302",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5405411,
+      "lon": 138.8964611
+    },
+    {
+      "id": "st01899-010",
+      "category": "bank_atm",
+      "name": {
+        "ja": "山梨中央銀行",
+        "en": "山梨中央 Bank",
+        "zh": "山梨中央银行"
+      },
+      "desc": {
+        "ja": "山梨中央銀行のATM。駅から約1210mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 1210 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约1210米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 1210,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5187328396",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5366499,
+      "lon": 138.8744971
+    },
+    {
+      "id": "st01899-011",
+      "category": "shopping",
+      "name": {
+        "ja": "フーズマーケットおかじま都留店",
+        "en": "fu-zuma-ketookajima都留店",
+        "zh": "Fu-zuma-ketookajima都留店"
+      },
+      "desc": {
+        "ja": "駅から約1221mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 1221 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1221米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1221,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6762789485",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5439165,
+      "lon": 138.8995851
+    },
+    {
+      "id": "st01899-012",
+      "category": "police",
+      "name": {
+        "ja": "都留警察署東桂駐在所",
+        "en": "都留东桂駐在所 Police Station",
+        "zh": "都留警察署东桂駐在所"
+      },
+      "desc": {
+        "ja": "駅から約1304mにある駐在所。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1304 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1304米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1304,
+      "walk_min": 17,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420934910",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.536475,
+      "lon": 138.873485
+    },
+    {
+      "id": "st01899-013",
+      "category": "post_office",
+      "name": {
+        "ja": "東桂郵便局",
+        "en": "东桂 Post Office",
+        "zh": "东桂邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1319mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1319 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1319米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 1319,
+      "walk_min": 17,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420932253",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.536764,
+      "lon": 138.873243
+    },
+    {
+      "id": "st01899-014",
+      "category": "post_office",
+      "name": {
+        "ja": "都留上谷郵便局",
+        "en": "都留上谷 Post Office",
+        "zh": "都留上谷邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1339mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1339 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1339米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 1339,
+      "walk_min": 17,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420934774",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.544935,
+      "lon": 138.900379
+    },
+    {
+      "id": "st01899-015",
+      "category": "food",
+      "name": {
+        "ja": "すき家",
+        "en": "SUKIYA",
+        "zh": "食其家"
+      },
+      "desc": {
+        "ja": "駅から約1490mにある飲食店。beef_bowl料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は24時間営業。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1490 m from the station. Serves beef_bowl cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1490米的餐馆主营beef_bowl，适合旅途中用餐，全天24小时营业，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1490,
+      "walk_min": 19,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1791646478",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5358663,
+      "lon": 138.8715428,
+      "official_url_pending": "https://www.sukiya.jp/"
+    },
+    {
+      "id": "st01899-016",
+      "category": "sight",
+      "name": {
+        "ja": "都留市博物館ミュージアム都留",
+        "en": "都留市博物館miyu-jiamu都留",
+        "zh": "都留市博物馆ミュージアム都留"
+      },
+      "desc": {
+        "ja": "駅から約1981mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1981 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1981米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1981,
+      "walk_min": 25,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420934794",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.549761,
+      "lon": 138.904934
+    }
+  ],
+  "coverage": {
+    "poi_count": 16,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 29,
+    "floor_check": {
+      "medical": {
+        "candidates": 1,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 3,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 6,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 2,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 2,
+        "selected": 2
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
