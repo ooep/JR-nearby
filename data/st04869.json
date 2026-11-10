@@ -1,0 +1,624 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st04869",
+    "name": {
+      "ja": "桃山台",
+      "en": "Momoyamadai",
+      "zh": "桃山台"
+    },
+    "line_group": [
+      "御堂筋線"
+    ],
+    "pref": "大阪府",
+    "lat": 34.79285,
+    "lon": 135.49737
+  },
+  "generated_at": "2026-11-10T21:45:56Z",
+  "pois": [
+    {
+      "id": "st04869-001",
+      "category": "bank_atm",
+      "name": {
+        "ja": "三菱UFJ銀行",
+        "en": "MUFG Bank",
+        "zh": "三菱UFJ银行"
+      },
+      "desc": {
+        "ja": "三菱UFJ銀行の支店。駅から約1968mにあり、預け入れ・引き出しやATMの利用に対応する。窓口はMo-Fr 09:00-15:00（JST）。",
+        "en": "Bank about 1968 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约1968米的银行网点，Mo-Fr 09:00-15:00（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 1968,
+      "walk_min": 25,
+      "hours": "Mo-Fr 09:00-15:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/4609351916",
+      "tel": "+81 6 6831 3633",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8104864,
+      "lon": 135.4955509
+    },
+    {
+      "id": "st04869-002",
+      "category": "post_office",
+      "name": {
+        "ja": "アザール桃山台郵便局",
+        "en": "Azall Momoyamadai Post Office",
+        "zh": "アザール桃山台邮政局"
+      },
+      "desc": {
+        "ja": "駅から約188mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 188 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约188米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 188,
+      "walk_min": 3,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1422982631",
+      "tel": "+81-6-6831-2001",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7921956,
+      "lon": 135.4954665
+    },
+    {
+      "id": "st04869-003",
+      "category": "shopping",
+      "name": {
+        "ja": "阪急オアシス",
+        "en": "阪急oashisu",
+        "zh": "阪急オアシス"
+      },
+      "desc": {
+        "ja": "駅から約198mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 198 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约198米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 198,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/7304843909",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7922433,
+      "lon": 135.4953336
+    },
+    {
+      "id": "st04869-004",
+      "category": "sight",
+      "name": {
+        "ja": "千里ニュータウン情報館",
+        "en": "千里niyu-taun情報館",
+        "zh": "千里ニュータウン情報馆"
+      },
+      "desc": {
+        "ja": "駅から約997mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 997 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约997米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 997,
+      "walk_min": 13,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6387151359",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7929708,
+      "lon": 135.5082893
+    },
+    {
+      "id": "st04869-005",
+      "category": "park",
+      "name": {
+        "ja": "しいのき公園",
+        "en": "shiinoki公園",
+        "zh": "Shiinoki公園"
+      },
+      "desc": {
+        "ja": "駅から約415mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 415 m from the station, with paths and benches for a rest.",
+        "zh": "距站约415米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 415,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/487125877",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7949652,
+      "lon": 135.5011157
+    },
+    {
+      "id": "st04869-006",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "セブン-イレブンのコンビニエンスストア。駅から約349mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 349 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约349米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 349,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4434640590",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7937895,
+      "lon": 135.5010189
+    },
+    {
+      "id": "st04869-007",
+      "category": "park",
+      "name": {
+        "ja": "もものき公園",
+        "en": "momonoki公園",
+        "zh": "Momonoki公園"
+      },
+      "desc": {
+        "ja": "駅から約473mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 473 m from the station, with paths and benches for a rest.",
+        "zh": "距站约473米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 473,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/481201130",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7919055,
+      "lon": 135.5024212
+    },
+    {
+      "id": "st04869-008",
+      "category": "food",
+      "name": {
+        "ja": "カプリチョーザ",
+        "en": "Capricciosa",
+        "zh": "Kapurichiyo-za"
+      },
+      "desc": {
+        "ja": "駅から約170mにある飲食店。italian料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 170 m from the station. Serves italian cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约170米的餐馆主营italian，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 170,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/7300815167",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7922439,
+      "lon": 135.4956615
+    },
+    {
+      "id": "st04869-009",
+      "category": "medical",
+      "name": {
+        "ja": "タンジョー薬局",
+        "en": "tanjiyo-薬局",
+        "zh": "タンジョー薬局"
+      },
+      "desc": {
+        "ja": "駅から約809mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 809 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约809米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 809,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/11184726181",
+      "tel": "+81-6-6871-9324",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7985935,
+      "lon": 135.4919238,
+      "official_url_pending": "https://tanjo-ph.com/"
+    },
+    {
+      "id": "st04869-010",
+      "category": "public_service",
+      "name": {
+        "ja": "吹田市立千里図書館",
+        "en": "Suita Municipal Senri library",
+        "zh": "吹田市立千里图书馆"
+      },
+      "desc": {
+        "ja": "駅から約1010mにある図書館。手続きや調べ物、休憩に利用できる公共の施設。詳細は現地の案内を参照。",
+        "en": "Library about 1010 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1010米的图书馆，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1010,
+      "walk_min": 13,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1422985878",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7929804,
+      "lon": 135.508426
+    },
+    {
+      "id": "st04869-011",
+      "category": "police",
+      "name": {
+        "ja": "豊中警察署東豊中交番",
+        "en": "豊中东豊中交番 Police Station",
+        "zh": "豊中警察署东豊中交番"
+      },
+      "desc": {
+        "ja": "駅から約1370mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1370 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1370米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1370,
+      "walk_min": 18,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423015524",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.797797,
+      "lon": 135.483634
+    },
+    {
+      "id": "st04869-012",
+      "category": "food",
+      "name": {
+        "ja": "中国鮮家 響鈴（シャンリン）",
+        "en": "中国鮮家 響鈴（shiyanrin）",
+        "zh": "中国鮮家 響鈴（シャンリン）"
+      },
+      "desc": {
+        "ja": "駅から約528mにある飲食店。chinese料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 528 m from the station. Serves chinese cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约528米的餐馆主营chinese，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 528,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/11187398984",
+      "tel": "+81 6 6832 2888",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7960784,
+      "lon": 135.4931301
+    },
+    {
+      "id": "st04869-013",
+      "category": "shopping",
+      "name": {
+        "ja": "トナリエ南千里",
+        "en": "Tonarie Minamisenri",
+        "zh": "トナリエ南千里"
+      },
+      "desc": {
+        "ja": "駅から約1121mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 1121 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1121米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准。"
+      },
+      "distance_m": 1121,
+      "walk_min": 15,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/442871359",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7938613,
+      "lon": 135.5095841
+    },
+    {
+      "id": "st04869-014",
+      "category": "medical",
+      "name": {
+        "ja": "済生会千里病院",
+        "en": "Saiseikaisenri Hospital",
+        "zh": "济生会千里病院"
+      },
+      "desc": {
+        "ja": "駅から約1184mにある病院。体調を崩した際の受診や薬の購入に対応する。受付はMo-Fr 09:00-17:00; Sa 09:00-12:00（JST）。旅先でも頼れる医療施設。",
+        "en": "Hospital about 1184 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1184米的医院，Mo-Fr 09:00-17:00, Sa 09:00-12:00（JST），旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1184,
+      "walk_min": 15,
+      "hours": "Mo-Fr 09:00-17:00; Sa 09:00-12:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/469666369",
+      "tel": "06-6871-0121",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7949371,
+      "lon": 135.5100888,
+      "official_url_pending": "https://www.senri.saiseikai.or.jp/"
+    },
+    {
+      "id": "st04869-015",
+      "category": "post_office",
+      "name": {
+        "ja": "吹田千里郵便局",
+        "en": "Suita Senri Post Office",
+        "zh": "吹田千里邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1587mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1587 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1587米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 1587,
+      "walk_min": 20,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/12925106256",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8060032,
+      "lon": 135.5041133
+    },
+    {
+      "id": "st04869-016",
+      "category": "cafe",
+      "name": {
+        "ja": "さたけん家",
+        "en": "sataken家",
+        "zh": "Sataken家"
+      },
+      "desc": {
+        "ja": "駅から約1608mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。",
+        "en": "Cafe about 1608 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约1608米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 1608,
+      "walk_min": 21,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5453063721",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7910215,
+      "lon": 135.5148426,
+      "official_url_pending": "https://satakenchi.com/"
+    },
+    {
+      "id": "st04869-017",
+      "category": "food",
+      "name": {
+        "ja": "bb.q オリーブチキンカフェ 千里中央店",
+        "en": "bb.q ori-buchikinkafue 千里中央店",
+        "zh": "bb.q オリーブチキンカフェ 千里中央店"
+      },
+      "desc": {
+        "ja": "駅から約1782mにある飲食店。burger;korean;chicken料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は11:00-21:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1782 m from the station. Serves burger and korean and chicken cuisine. Handy for a meal between sights.",
+        "zh": "距站约1782米的餐馆主营burger and korean and chicken，适合旅途中用餐，11:00-21:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1782,
+      "walk_min": 23,
+      "hours": "11:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/10091630512",
+      "tel": "+81 6 6318 5421",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8087485,
+      "lon": 135.4948807,
+      "official_url_pending": "https://bbq-olivechickencafe.jp/menu/"
+    },
+    {
+      "id": "st04869-018",
+      "category": "shopping",
+      "name": {
+        "ja": "パン プラトー",
+        "en": "Pain Plateau",
+        "zh": "Pan Purato-"
+      },
+      "desc": {
+        "ja": "駅から約1989mにあるベーカリー。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Bakery about 1989 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1989米的面包店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1989,
+      "walk_min": 25,
+      "hours": "We-Su 07:30-18:30 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/4954562695",
+      "tel": "+81 6 6871 1665",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8035024,
+      "lon": 135.5148736,
+      "official_url_pending": "https://www.panportal.jp/painplateau/"
+    },
+    {
+      "id": "st04869-019",
+      "category": "sight",
+      "name": {
+        "ja": "画廊ル・パルク",
+        "en": "Gallery Le Parc",
+        "zh": "影廊ル・パルク"
+      },
+      "desc": {
+        "ja": "駅から約1949mにあるギャラリー。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Gallery about 1949 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1949米的画廊，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1949,
+      "walk_min": 25,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5504144422",
+      "tel": "+81 6 6387 9499",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.776892,
+      "lon": 135.5062051,
+      "official_url_pending": "https://leparc.co.jp/gallery"
+    },
+    {
+      "id": "st04869-020",
+      "category": "public_service",
+      "name": {
+        "ja": "吹田市立市民公益活動センター ラコルタ",
+        "en": "吹田市立市民公益活動senta- rakoruta",
+        "zh": "吹田市立市民公益活動センター ラコルタ"
+      },
+      "desc": {
+        "ja": "駅から約1002mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 1002 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1002米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1002,
+      "walk_min": 13,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4885029820",
+      "tel": "0661553167",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7930227,
+      "lon": 135.5083449,
+      "official_url_pending": "https://suita-koueki.org/"
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 361,
+    "floor_check": {
+      "medical": {
+        "candidates": 46,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 15,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 21,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 17,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 2,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
