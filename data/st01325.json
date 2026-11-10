@@ -1,0 +1,572 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st01325",
+    "name": {
+      "ja": "長野",
+      "en": "Nagano",
+      "zh": "长野"
+    },
+    "line_group": [
+      "しなの鉄道線",
+      "上越新幹線",
+      "信越本線",
+      "北しなの線",
+      "北陸新幹線",
+      "大糸線",
+      "篠ノ井線",
+      "長野電鉄長野線"
+    ],
+    "pref": "長野県",
+    "lat": 36.643263,
+    "lon": 138.188829
+  },
+  "generated_at": "2026-11-10T14:16:32Z",
+  "pois": [
+    {
+      "id": "st01325-001",
+      "category": "cafe",
+      "name": {
+        "ja": "Cafe Shinka",
+        "en": "Cafe Shinka",
+        "zh": "Cafe Shinka"
+      },
+      "desc": {
+        "ja": "駅から約482mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。Mo 11:30-17:00; We-Th,Su 11:30-22:00; Fr-Sa 11:30-22:00（JST）。",
+        "en": "Cafe about 482 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约482米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 482,
+      "walk_min": 7,
+      "hours": "Mo 11:30-17:00; We-Th,Su 11:30-22:00; Fr-Sa 11:30-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/4896305722",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.6473875,
+      "lon": 138.187177
+    },
+    {
+      "id": "st01325-002",
+      "category": "convenience",
+      "name": {
+        "ja": "デイリーヤマザキ",
+        "en": "Daily Yamazaki",
+        "zh": "Daily Yamazaki便利店"
+      },
+      "desc": {
+        "ja": "デイリーヤマザキのコンビニエンスストア。駅から約83mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 83 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约83米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 83,
+      "walk_min": 2,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1473462467",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.6439766,
+      "lon": 138.1885606
+    },
+    {
+      "id": "st01325-003",
+      "category": "police",
+      "name": {
+        "ja": "権堂町交番",
+        "en": "権堂町 Police Box",
+        "zh": "権堂町交番"
+      },
+      "desc": {
+        "ja": "駅から約1136mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1136 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1136米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1136,
+      "walk_min": 15,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5901424994",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.6531091,
+      "lon": 138.1922056
+    },
+    {
+      "id": "st01325-004",
+      "category": "convenience",
+      "name": {
+        "ja": "ファミリーマート",
+        "en": "FamilyMart",
+        "zh": "全家便利店"
+      },
+      "desc": {
+        "ja": "ファミリーマートのコンビニエンスストア。駅から約135mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 135 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约135米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 135,
+      "walk_min": 2,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1948312924",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.644,
+      "lon": 138.1876297
+    },
+    {
+      "id": "st01325-005",
+      "category": "food",
+      "name": {
+        "ja": "ちりめん亭",
+        "en": "chirimen亭",
+        "zh": "Chirimen亭"
+      },
+      "desc": {
+        "ja": "駅から約103mにある飲食店。noodle;ramen料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はPH,Mo-Su 11:00-21:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 103 m from the station. Serves noodle and ramen cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约103米的餐馆主营noodle and ramen，适合旅途中用餐，PH, Mo-Su 11:00-21:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 103,
+      "walk_min": 2,
+      "hours": "PH,Mo-Su 11:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5609633524",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.6441351,
+      "lon": 138.1884443,
+      "official_url_pending": "https://www.tomos.co.jp/"
+    },
+    {
+      "id": "st01325-006",
+      "category": "food",
+      "name": {
+        "ja": "浅草ラーメン きび太郎",
+        "en": "Asakusa Ramen Kibiraro",
+        "zh": "浅草ra-men Kibi太郎"
+      },
+      "desc": {
+        "ja": "駅から約415mにある飲食店。noodle;ramen料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Sa 11:30-14:00,17:30-23:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 415 m from the station. Serves noodle and ramen cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约415米的餐馆主营noodle and ramen，适合旅途中用餐，Mo-Sa 11:30-14:00, 17:30-23:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 415,
+      "walk_min": 6,
+      "hours": "Mo-Sa 11:30-14:00,17:30-23:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5626571622",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.6465262,
+      "lon": 138.1910971,
+      "official_url_pending": "https://www.ten-japan.com/shop08/"
+    },
+    {
+      "id": "st01325-007",
+      "category": "food",
+      "name": {
+        "ja": "サイゼリヤ",
+        "en": "Saizeriya",
+        "zh": "萨莉亚"
+      },
+      "desc": {
+        "ja": "駅から約177mにある飲食店。italian料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Su 11:00-22:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 177 m from the station. Serves italian cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约177米的餐馆主营italian，适合旅途中用餐，Mo-Su 11:00-22:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 177,
+      "walk_min": 3,
+      "hours": "Mo-Su 11:00-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6167656609",
+      "tel": "+81 26-267-5214",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.6447583,
+      "lon": 138.1881568,
+      "official_url_pending": "https://www.saizeriya.co.jp/restaurant/shop_detail.php?cd=1048"
+    },
+    {
+      "id": "st01325-008",
+      "category": "public_service",
+      "name": {
+        "ja": "長野市ふれあい福祉センター",
+        "en": "長野市fureai福祉senta-",
+        "zh": "長野市fureai福祉senta-"
+      },
+      "desc": {
+        "ja": "駅から約873mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 873 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约873米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 873,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5852980564",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.6485865,
+      "lon": 138.1960142
+    },
+    {
+      "id": "st01325-009",
+      "category": "public_service",
+      "name": {
+        "ja": "長野県議会",
+        "en": "Nagano Prefectural Assembly",
+        "zh": "长野县議会"
+      },
+      "desc": {
+        "ja": "駅から約1094mにある役所・行政施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Civic office about 1094 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1094米的行政机构，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1094,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5251867369",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.6506834,
+      "lon": 138.1807793
+    },
+    {
+      "id": "st01325-010",
+      "category": "shopping",
+      "name": {
+        "ja": "西友",
+        "en": "Seiyu",
+        "zh": "西友"
+      },
+      "desc": {
+        "ja": "駅から約307mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 307 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约307米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 307,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2738206708",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.645298,
+      "lon": 138.1865033
+    },
+    {
+      "id": "st01325-011",
+      "category": "medical",
+      "name": {
+        "ja": "コウジヤ薬局",
+        "en": "koujiya薬局",
+        "zh": "コウジヤ薬局"
+      },
+      "desc": {
+        "ja": "駅から約249mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 249 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约249米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 249,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6219741711",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.6446442,
+      "lon": 138.1866333
+    },
+    {
+      "id": "st01325-012",
+      "category": "post_office",
+      "name": {
+        "ja": "長野小柴見簡易郵便局",
+        "en": "长野小柴見簡易 Post Office",
+        "zh": "长野小柴見簡易邮政局"
+      },
+      "desc": {
+        "ja": "駅から約971mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 971 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约971米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 971,
+      "walk_min": 13,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6077865274",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.6460543,
+      "lon": 138.1785107
+    },
+    {
+      "id": "st01325-013",
+      "category": "medical",
+      "name": {
+        "ja": "アイセイ薬局",
+        "en": "Aisei Pharmacy",
+        "zh": "アイセイ薬局"
+      },
+      "desc": {
+        "ja": "駅から約396mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 396 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约396米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 396,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2387619411",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.6468216,
+      "lon": 138.1885664
+    },
+    {
+      "id": "st01325-014",
+      "category": "bank_atm",
+      "name": {
+        "ja": "八十二銀行",
+        "en": "Hachijuni Bank",
+        "zh": "八十二银行"
+      },
+      "desc": {
+        "ja": "八十二銀行の支店。駅から約518mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 518 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约518米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 518,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2738206705",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.6442071,
+      "lon": 138.1831442
+    },
+    {
+      "id": "st01325-015",
+      "category": "shopping",
+      "name": {
+        "ja": "モトヤ",
+        "en": "motoya",
+        "zh": "Motoya"
+      },
+      "desc": {
+        "ja": "駅から約832mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 832 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约832米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 832,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/3136408564",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.6506586,
+      "lon": 138.1873814
+    },
+    {
+      "id": "st01325-016",
+      "category": "post_office",
+      "name": {
+        "ja": "長野旭郵便局",
+        "en": "长野旭 Post Office",
+        "zh": "长野旭邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1420mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1420 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1420米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 1420,
+      "walk_min": 18,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6072727742",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.6553864,
+      "lon": 138.1838269
+    },
+    {
+      "id": "st01325-017",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "大本願",
+        "en": "Daihongan",
+        "zh": "大本願"
+      },
+      "desc": {
+        "ja": "駅から約1668mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 1668 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1668米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1668,
+      "walk_min": 21,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1723583884",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.6582163,
+      "lon": 138.1872955
+    },
+    {
+      "id": "st01325-018",
+      "category": "sight",
+      "name": {
+        "ja": "tokiori",
+        "en": "tokiori",
+        "zh": "tokiori"
+      },
+      "desc": {
+        "ja": "駅から約1295mにあるギャラリー。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Gallery about 1295 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1295米的画廊，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1295,
+      "walk_min": 17,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6313534118",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.6542613,
+      "lon": 138.18406,
+      "official_url_pending": "https://tokiori-agata.com/"
+    }
+  ],
+  "coverage": {
+    "poi_count": 18,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 393,
+    "floor_check": {
+      "medical": {
+        "candidates": 16,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 9,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 21,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 7,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 4,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
