@@ -1,0 +1,567 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st02825",
+    "name": {
+      "ja": "星ケ丘",
+      "en": "星ke丘",
+      "zh": "星ケ丘"
+    },
+    "line_group": [
+      "交野線"
+    ],
+    "pref": "大阪府",
+    "lat": 34.80734,
+    "lon": 135.65995
+  },
+  "generated_at": "2026-11-10T01:06:35Z",
+  "pois": [
+    {
+      "id": "st02825-001",
+      "category": "post_office",
+      "name": {
+        "ja": "枚方星丘郵便局",
+        "en": "Hirakata Hoshigaoka Post Office",
+        "zh": "枚方星丘邮政局"
+      },
+      "desc": {
+        "ja": "駅から約191mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 191 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约191米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 191,
+      "walk_min": 3,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1423003550",
+      "tel": "+81-72-849-4992",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8059323,
+      "lon": 135.6611535
+    },
+    {
+      "id": "st02825-002",
+      "category": "medical",
+      "name": {
+        "ja": "アカカベ",
+        "en": "akakabe",
+        "zh": "Akakabe"
+      },
+      "desc": {
+        "ja": "駅から約616mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 616 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约616米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 616,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4437620777",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8041556,
+      "lon": 135.6544351
+    },
+    {
+      "id": "st02825-003",
+      "category": "bank_atm",
+      "name": {
+        "ja": "近畿大阪銀行 枚方支店",
+        "en": "Kinki Osaka Bank Hirakata Branch",
+        "zh": "近畿大阪银行 枚方支店"
+      },
+      "desc": {
+        "ja": "近畿大阪銀行 枚方支店の支店。駅から約1058mにあり、預け入れ・引き出しやATMの利用に対応する。窓口はMo-Fr 09:00-15:00（JST）。",
+        "en": "Bank about 1058 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约1058米的银行网点，Mo-Fr 09:00-15:00（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 1058,
+      "walk_min": 14,
+      "hours": "Mo-Fr 09:00-15:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5977921295",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8137108,
+      "lon": 135.6513426
+    },
+    {
+      "id": "st02825-004",
+      "category": "shopping",
+      "name": {
+        "ja": "フレスコ",
+        "en": "furesuko",
+        "zh": "Furesuko"
+      },
+      "desc": {
+        "ja": "駅から約656mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 656 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约656米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 656,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6004363106",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8074106,
+      "lon": 135.65276
+    },
+    {
+      "id": "st02825-005",
+      "category": "shopping",
+      "name": {
+        "ja": "サンディ 宮之阪店",
+        "en": "sandei 宮之阪店",
+        "zh": "サンディ 宫之阪店"
+      },
+      "desc": {
+        "ja": "駅から約616mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 616 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约616米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 616,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6006695531",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8125309,
+      "lon": 135.6575856
+    },
+    {
+      "id": "st02825-006",
+      "category": "shopping",
+      "name": {
+        "ja": "そらとぶパン舎",
+        "en": "soratobupan舎",
+        "zh": "Soratobupan舎"
+      },
+      "desc": {
+        "ja": "駅から約1024mにあるベーカリー。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Bakery about 1024 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1024米的面包店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1024,
+      "walk_min": 13,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6004367486",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8143416,
+      "lon": 135.6526588
+    },
+    {
+      "id": "st02825-007",
+      "category": "convenience",
+      "name": {
+        "ja": "ローソン",
+        "en": "Lawson",
+        "zh": "罗森"
+      },
+      "desc": {
+        "ja": "ローソンのコンビニエンスストア。駅から約676mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 676 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约676米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 676,
+      "walk_min": 9,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/4437620765",
+      "tel": "+81 72 841 3661",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8078026,
+      "lon": 135.6525682,
+      "official_url_pending": "https://www.lawson.co.jp/"
+    },
+    {
+      "id": "st02825-008",
+      "category": "sight",
+      "name": {
+        "ja": "ジーワン 枚方宮之阪",
+        "en": "ji-wan 枚方宮之阪",
+        "zh": "ジーワン 枚方宫之阪"
+      },
+      "desc": {
+        "ja": "駅から約703mにある観光スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Attraction about 703 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约703米的观光景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 703,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6006695388",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8132504,
+      "lon": 135.6572255
+    },
+    {
+      "id": "st02825-009",
+      "category": "cafe",
+      "name": {
+        "ja": "El Dios Cafe",
+        "en": "El Dios Cafe",
+        "zh": "El Dios Cafe"
+      },
+      "desc": {
+        "ja": "駅から約796mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。Tu-Th 10:00-22:00; Fr-Su 11:30-00:00（JST）。",
+        "en": "Cafe about 796 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约796米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 796,
+      "walk_min": 10,
+      "hours": "Tu-Th 10:00-22:00; Fr-Su 11:30-00:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6006701407",
+      "tel": "+81 72 845 6835",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8140358,
+      "lon": 135.6568511
+    },
+    {
+      "id": "st02825-010",
+      "category": "medical",
+      "name": {
+        "ja": "メイプル薬局",
+        "en": "meipuru薬局",
+        "zh": "メイプル薬局"
+      },
+      "desc": {
+        "ja": "駅から約1289mにある薬局。体調を崩した際の受診や薬の購入に対応する。受付はMo-Su 09:00-13:00, 19:00-19:00（JST）。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 1289 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1289米的药房，Mo-Su 09:00-13:00, 19:00-19:00（JST），旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1289,
+      "walk_min": 17,
+      "hours": "Mo-Su 09:00-13:00, 19:00-19:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/4110728491",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8143646,
+      "lon": 135.6487233
+    },
+    {
+      "id": "st02825-011",
+      "category": "post_office",
+      "name": {
+        "ja": "枚方宮之阪郵便局",
+        "en": "Hirakata Miyanosaka Post Office",
+        "zh": "枚方宫之阪邮政局"
+      },
+      "desc": {
+        "ja": "駅から約864mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 864 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约864米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 864,
+      "walk_min": 11,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1423002857",
+      "tel": "+81-72-848-8020",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.814637,
+      "lon": 135.656703
+    },
+    {
+      "id": "st02825-012",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "ひらかた寺",
+        "en": "hirakata寺",
+        "zh": "Hirakata寺"
+      },
+      "desc": {
+        "ja": "駅から約1523mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 1523 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1523米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1523,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5977920894",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8140976,
+      "lon": 135.6454357
+    },
+    {
+      "id": "st02825-013",
+      "category": "police",
+      "name": {
+        "ja": "枚方警察署村野交番",
+        "en": "枚方村野交番 Police Station",
+        "zh": "枚方警察署村野交番"
+      },
+      "desc": {
+        "ja": "駅から約800mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 800 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约800米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 800,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423003861",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8013041,
+      "lon": 135.6647244
+    },
+    {
+      "id": "st02825-014",
+      "category": "food",
+      "name": {
+        "ja": "西京家",
+        "en": "Saikyoya",
+        "zh": "西京家"
+      },
+      "desc": {
+        "ja": "駅から約1004mにある飲食店。fish料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Su 17:00-00:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1004 m from the station. Serves fish cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1004米的餐馆主营fish，适合旅途中用餐，Mo-Su 17:00-00:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1004,
+      "walk_min": 13,
+      "hours": "Mo-Su 17:00-00:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6006707785",
+      "tel": "+81 72 805 0640",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8156463,
+      "lon": 135.6556445,
+      "official_url_pending": "http://saikyoya.com"
+    },
+    {
+      "id": "st02825-015",
+      "category": "food",
+      "name": {
+        "ja": "サイゼリヤ",
+        "en": "Saizeriya",
+        "zh": "萨莉亚"
+      },
+      "desc": {
+        "ja": "駅から約1268mにある飲食店。italian料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は10:30-00:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1268 m from the station. Serves italian cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1268米的餐馆主营italian，适合旅途中用餐，10:30-00:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1268,
+      "walk_min": 16,
+      "hours": "10:30-00:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/4199710739",
+      "tel": "072-804-9061",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8154584,
+      "lon": 135.6501922,
+      "official_url_pending": "https://www.saizeriya.co.jp/restaurant/shop_detail.php?cd=1050"
+    },
+    {
+      "id": "st02825-016",
+      "category": "convenience",
+      "name": {
+        "ja": "ローソン 新枚方岡東町店",
+        "en": "LAWSON",
+        "zh": "ローソン 新枚方冈东町店"
+      },
+      "desc": {
+        "ja": "ローソン 新枚方岡東町店のコンビニエンスストア。駅から約1283mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 1283 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约1283米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 1283,
+      "walk_min": 17,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5977914789",
+      "tel": "+81 72 843 5030",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8133481,
+      "lon": 135.6479495,
+      "official_url_pending": "https://www.lawson.co.jp/"
+    },
+    {
+      "id": "st02825-017",
+      "category": "bank_atm",
+      "name": {
+        "ja": "三井住友銀行",
+        "en": "Sumitomo Mitsui Banking Corporation",
+        "zh": "三井住友银行"
+      },
+      "desc": {
+        "ja": "三井住友銀行の支店。駅から約1342mにあり、預け入れ・引き出しやATMの利用に対応する。窓口はMo-Fr 09:00-15:00（JST）。",
+        "en": "Bank about 1342 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约1342米的银行网点，Mo-Fr 09:00-15:00（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 1342,
+      "walk_min": 17,
+      "hours": "Mo-Fr 09:00-15:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5994871098",
+      "tel": "+81 72 846 2551",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8162795,
+      "lon": 135.6500744,
+      "official_url_pending": "http://smbc.co.jp"
+    },
+    {
+      "id": "st02825-018",
+      "category": "food",
+      "name": {
+        "ja": "よってこや 枚方市役所前店",
+        "en": "Yottekoya",
+        "zh": "Yotekoya 枚方市役所前店"
+      },
+      "desc": {
+        "ja": "駅から約1139mにある飲食店。ramen料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1139 m from the station. Serves ramen cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1139米的餐馆主营ramen，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1139,
+      "walk_min": 15,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5977938285",
+      "tel": "+81 72 843 0686",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8139327,
+      "lon": 135.6504044,
+      "official_url_pending": "http://yottekoya.com"
+    }
+  ],
+  "coverage": {
+    "poi_count": 18,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 383,
+    "floor_check": {
+      "medical": {
+        "candidates": 49,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 12,
+        "selected": 2
+      },
+      "convenience": {
+        "candidates": 20,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 9,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 6,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}

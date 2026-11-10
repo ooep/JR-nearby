@@ -1,0 +1,538 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st02824",
+    "name": {
+      "ja": "星ケ丘",
+      "en": "星ke丘",
+      "zh": "星ケ丘"
+    },
+    "line_group": [
+      "1号線東山線"
+    ],
+    "pref": "愛知県",
+    "lat": 35.16259,
+    "lon": 136.98557
+  },
+  "generated_at": "2026-11-10T01:06:34Z",
+  "pois": [
+    {
+      "id": "st02824-001",
+      "category": "bank_atm",
+      "name": {
+        "ja": "三菱UFJ銀行",
+        "en": "MUFG Bank",
+        "zh": "三菱UFJ银行"
+      },
+      "desc": {
+        "ja": "三菱UFJ銀行のATM。駅から約79mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 79 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约79米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 79,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2702819007",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1625029,
+      "lon": 136.9847051
+    },
+    {
+      "id": "st02824-002",
+      "category": "shopping",
+      "name": {
+        "ja": "無印良品",
+        "en": "Muji",
+        "zh": "无印良品"
+      },
+      "desc": {
+        "ja": "駅から約240mにある百貨店。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Department store about 240 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约240米的百货店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 240,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2703656393",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1604317,
+      "lon": 136.9856507
+    },
+    {
+      "id": "st02824-003",
+      "category": "shopping",
+      "name": {
+        "ja": "コノミヤ",
+        "en": "konomiya",
+        "zh": "Konomiya"
+      },
+      "desc": {
+        "ja": "駅から約1365mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 1365 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1365米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1365,
+      "walk_min": 18,
+      "hours": "Mo-Su 09:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6398525657",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1610473,
+      "lon": 136.9706724
+    },
+    {
+      "id": "st02824-004",
+      "category": "food",
+      "name": {
+        "ja": "Soup Stock Tokyo",
+        "en": "Soup Stock Tokyo",
+        "zh": "Soup Stock Tokyo"
+      },
+      "desc": {
+        "ja": "駅から約192mにある飲食店。soup;curry料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Su 10:00-20:00; PH 10:00-20:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 192 m from the station. Serves soup and curry cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约192米的餐馆主营soup and curry，适合旅途中用餐，Mo-Su 10:00-20:00, PH 10:00-20:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 192,
+      "walk_min": 3,
+      "hours": "Mo-Su 10:00-20:00; PH 10:00-20:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/13789681908",
+      "tel": "052-715-7560",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1608646,
+      "lon": 136.9856455,
+      "official_url_pending": "https://www.soup-stock-tokyo.com/store/detail/?id=1079"
+    },
+    {
+      "id": "st02824-005",
+      "category": "shopping",
+      "name": {
+        "ja": "イオンメイトピア",
+        "en": "ionmeitopia",
+        "zh": "Ionmeitopia"
+      },
+      "desc": {
+        "ja": "駅から約1615mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 1615 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1615米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1615,
+      "walk_min": 21,
+      "hours": "09:00-21:45 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/312445221",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1606733,
+      "lon": 137.0031778
+    },
+    {
+      "id": "st02824-006",
+      "category": "cafe",
+      "name": {
+        "ja": "コメダ珈琲店",
+        "en": "Komeda's Coffee",
+        "zh": "コメダ珈琲店"
+      },
+      "desc": {
+        "ja": "駅から約197mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。Mo-Su 07:00-23:00（JST）。",
+        "en": "Cafe about 197 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约197米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 197,
+      "walk_min": 3,
+      "hours": "Mo-Su 07:00-23:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/12136962517",
+      "tel": "+81 52-464-0801",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1620685,
+      "lon": 136.9835016,
+      "official_url_pending": "https://www.komeda.co.jp/"
+    },
+    {
+      "id": "st02824-007",
+      "category": "medical",
+      "name": {
+        "ja": "東恵会星ケ丘マタニティ病院",
+        "en": "東恵会星ke丘matanitei病院",
+        "zh": "东恵会星ケ丘マタニティ病院"
+      },
+      "desc": {
+        "ja": "駅から約211mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 211 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约211米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 211,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/269741662",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1625303,
+      "lon": 136.9832454
+    },
+    {
+      "id": "st02824-008",
+      "category": "police",
+      "name": {
+        "ja": "名東警察署西山交番",
+        "en": "名东西山交番 Police Station",
+        "zh": "名东警察署西山交番"
+      },
+      "desc": {
+        "ja": "駅から約630mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 630 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约630米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 630,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/310974450",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.160188,
+      "lon": 136.991841
+    },
+    {
+      "id": "st02824-009",
+      "category": "public_service",
+      "name": {
+        "ja": "グリーンサロン東山",
+        "en": "guri-nsaron東山",
+        "zh": "グリーンサロン东山"
+      },
+      "desc": {
+        "ja": "駅から約1620mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 1620 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1620米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1620,
+      "walk_min": 21,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1540761803",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1554879,
+      "lon": 136.9700077
+    },
+    {
+      "id": "st02824-010",
+      "category": "sight",
+      "name": {
+        "ja": "オオアリクイ",
+        "en": "ooarikui",
+        "zh": "Ooarikui"
+      },
+      "desc": {
+        "ja": "駅から約751mにある観光スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Attraction about 751 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约751米的观光景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 751,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/11047554093",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1583641,
+      "lon": 136.9791201
+    },
+    {
+      "id": "st02824-011",
+      "category": "park",
+      "name": {
+        "ja": "東山動植物園",
+        "en": "Higashiyama Zoo and Botanical Gardens",
+        "zh": "东山動植物园"
+      },
+      "desc": {
+        "ja": "駅から約796mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 796 m from the station, with paths and benches for a rest.",
+        "zh": "距站约796米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 796,
+      "walk_min": 10,
+      "hours": "Tu-Su 09:00-16:50; Mo off; Dec 29-Jan 01 off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/50894728",
+      "tel": "+81 52-782-2111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1565089,
+      "lon": 136.9809591,
+      "official_url_pending": "https://www.higashiyama.city.nagoya.jp/"
+    },
+    {
+      "id": "st02824-012",
+      "category": "park",
+      "name": {
+        "ja": "虹が丘公園",
+        "en": "虹ga丘公園",
+        "zh": "虹ga丘公園"
+      },
+      "desc": {
+        "ja": "駅から約687mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 687 m from the station, with paths and benches for a rest.",
+        "zh": "距站约687米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 687,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/155091406",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1588921,
+      "lon": 136.9916231
+    },
+    {
+      "id": "st02824-013",
+      "category": "convenience",
+      "name": {
+        "ja": "ミニストップ",
+        "en": "Ministop",
+        "zh": "迷你岛便利店"
+      },
+      "desc": {
+        "ja": "ミニストップのコンビニエンスストア。駅から約1167mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 1167 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约1167米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 1167,
+      "walk_min": 15,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2477185981",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1685287,
+      "lon": 136.9961526,
+      "official_url_pending": "https://www.ministop.co.jp/"
+    },
+    {
+      "id": "st02824-014",
+      "category": "food",
+      "name": {
+        "ja": "CoCo壱番屋",
+        "en": "CoCo ICHIBANYA",
+        "zh": "CoCo壱番屋"
+      },
+      "desc": {
+        "ja": "駅から約1721mにある飲食店。curry;japanese料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は11:00-24:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1721 m from the station. Serves curry and japanese cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1721米的餐馆主营curry and japanese，适合旅途中用餐，11:00-24:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1721,
+      "walk_min": 22,
+      "hours": "11:00-24:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/12116888317",
+      "tel": "+81 052 701 2144",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1511841,
+      "lon": 136.9983703,
+      "official_url_pending": "https://tenpo.ichibanya.co.jp/map/1013/"
+    },
+    {
+      "id": "st02824-015",
+      "category": "post_office",
+      "name": {
+        "ja": "名東郵便局",
+        "en": "Meito Post Office",
+        "zh": "名东邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1861mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1861 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1861米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 1861,
+      "walk_min": 24,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/13571958695",
+      "tel": "+81-800-0800-111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1664496,
+      "lon": 137.0054931
+    },
+    {
+      "id": "st02824-016",
+      "category": "food",
+      "name": {
+        "ja": "吉野家",
+        "en": "Yoshinoya",
+        "zh": "吉野家"
+      },
+      "desc": {
+        "ja": "駅から約731mにある飲食店。beef_bowl料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は24時間営業。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 731 m from the station. Serves beef_bowl cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约731米的餐馆主营beef_bowl，适合旅途中用餐，全天24小时营业，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 731,
+      "walk_min": 10,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/307925489",
+      "tel": "+81 52 789 1122",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1666467,
+      "lon": 136.9918996
+    },
+    {
+      "id": "st02824-017",
+      "category": "sight",
+      "name": {
+        "ja": "カピバラ",
+        "en": "kapibara",
+        "zh": "Kapibara"
+      },
+      "desc": {
+        "ja": "駅から約758mにある観光スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Attraction about 758 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约758米的观光景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 758,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/11047554092",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1584781,
+      "lon": 136.9789174
+    }
+  ],
+  "coverage": {
+    "poi_count": 17,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 281,
+    "floor_check": {
+      "medical": {
+        "candidates": 8,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 13,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 21,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 11,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 1,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}

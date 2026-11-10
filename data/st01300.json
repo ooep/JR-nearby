@@ -1,0 +1,631 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st01300",
+    "name": {
+      "ja": "西宮",
+      "en": "Nishinomiya",
+      "zh": "西宫"
+    },
+    "line_group": [
+      "神戸高速線",
+      "近鉄奈良線",
+      "阪神なんば線",
+      "阪神本線"
+    ],
+    "pref": "兵庫県",
+    "lat": 34.73686,
+    "lon": 135.33844
+  },
+  "generated_at": "2026-11-10T01:06:34Z",
+  "pois": [
+    {
+      "id": "st01300-001",
+      "category": "food",
+      "name": {
+        "ja": "Dining ROMO",
+        "en": "Dining ROMO",
+        "zh": "Dining ROMO"
+      },
+      "desc": {
+        "ja": "駅から約129mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 129 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约129米的餐馆适合旅途中用餐，菜单与价格以店内展示内容为准，具体信息以现场为准。"
+      },
+      "distance_m": 129,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/7059361714",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.735702,
+      "lon": 135.3385726,
+      "official_url_pending": "https://diningromo.owst.jp/"
+    },
+    {
+      "id": "st01300-002",
+      "category": "shopping",
+      "name": {
+        "ja": "オーケー 西宮北口店",
+        "en": "o-ke- 西宮北口店",
+        "zh": "オーケー 西宫北口店"
+      },
+      "desc": {
+        "ja": "駅から約1657mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 1657 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1657米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1657,
+      "walk_min": 21,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2866697023",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7420251,
+      "lon": 135.355446,
+      "official_url_pending": "https://ok-corporation.jp/shop/nishinomiyakitaguchi.html"
+    },
+    {
+      "id": "st01300-003",
+      "category": "post_office",
+      "name": {
+        "ja": "西宮戎郵便局",
+        "en": "Nishinomiya Ebisu Post Office",
+        "zh": "西宫戎邮政局"
+      },
+      "desc": {
+        "ja": "駅から約213mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 213 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约213米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 213,
+      "walk_min": 3,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1423090930",
+      "tel": "+81-798-35-4355",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7358776,
+      "lon": 135.3364396
+    },
+    {
+      "id": "st01300-004",
+      "category": "post_office",
+      "name": {
+        "ja": "西宮本町郵便局",
+        "en": "Nishinomiya Hommachi Post Office",
+        "zh": "西宫本町邮政局"
+      },
+      "desc": {
+        "ja": "駅から約321mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 321 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约321米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 321,
+      "walk_min": 5,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1423090941",
+      "tel": "+81-798-35-4358",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7343328,
+      "lon": 135.3401347
+    },
+    {
+      "id": "st01300-005",
+      "category": "police",
+      "name": {
+        "ja": "西宮警察署寿交番",
+        "en": "Koban",
+        "zh": "西宫警察署寿交番"
+      },
+      "desc": {
+        "ja": "駅から約734mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 734 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约734米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 734,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423091022",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.742653,
+      "lon": 135.3345866
+    },
+    {
+      "id": "st01300-006",
+      "category": "sight",
+      "name": {
+        "ja": "人間は なぜにうつむく 空無限",
+        "en": "人間ha nazeniutsumuku 空無限",
+        "zh": "人間ha Nazeniutsumuku 空無限"
+      },
+      "desc": {
+        "ja": "駅から約413mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Memorial about 413 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约413米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 413,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5563578664",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7343366,
+      "lon": 135.3351165
+    },
+    {
+      "id": "st01300-007",
+      "category": "sight",
+      "name": {
+        "ja": "宮水発祥の碑",
+        "en": "宮水発祥no碑",
+        "zh": "宮水発祥no碑"
+      },
+      "desc": {
+        "ja": "駅から約545mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Memorial about 545 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约545米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 545,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5108912043",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7321892,
+      "lon": 135.3402379
+    },
+    {
+      "id": "st01300-008",
+      "category": "convenience",
+      "name": {
+        "ja": "ファミリーマート 西宮鞍掛町店",
+        "en": "Family Mart",
+        "zh": "ファミリーマート 西宫鞍掛町店"
+      },
+      "desc": {
+        "ja": "ファミリーマート 西宮鞍掛町店のコンビニエンスストア。駅から約399mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 399 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约399米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 399,
+      "walk_min": 5,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1737217770",
+      "tel": "+81 798 37 1255",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7332726,
+      "lon": 135.3386198,
+      "official_url_pending": "http://family.co.jp"
+    },
+    {
+      "id": "st01300-009",
+      "category": "convenience",
+      "name": {
+        "ja": "ファミリーマート 丹仙与古道店",
+        "en": "FamilyMart",
+        "zh": "ファミリーマート 丹仙与古道店"
+      },
+      "desc": {
+        "ja": "ファミリーマート 丹仙与古道店のコンビニエンスストア。駅から約446mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 446 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约446米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 446,
+      "walk_min": 6,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2169733395",
+      "tel": "+81 798 34 9485",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7357941,
+      "lon": 135.3431477,
+      "official_url_pending": "http://family.co.jp"
+    },
+    {
+      "id": "st01300-010",
+      "category": "medical",
+      "name": {
+        "ja": "スギ薬局",
+        "en": "Sugi Pharmacy",
+        "zh": "スギ薬局"
+      },
+      "desc": {
+        "ja": "駅から約796mにある薬局。体調を崩した際の受診や薬の購入に対応する。受付はMo-Fr 09:00-19:00; Sa 09:00-17:00; PH,Su off（JST）。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 796 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约796米的药房，Mo-Fr 09:00-19:00, Sa 09:00-17:00, PH, Su off（JST），旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 796,
+      "walk_min": 10,
+      "hours": "Mo-Fr 09:00-19:00; Sa 09:00-17:00; PH,Su off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/4735590621",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7422607,
+      "lon": 135.344161
+    },
+    {
+      "id": "st01300-011",
+      "category": "food",
+      "name": {
+        "ja": "サイゼリヤ",
+        "en": "Saizeriya",
+        "zh": "萨莉亚"
+      },
+      "desc": {
+        "ja": "駅から約804mにある飲食店。italian料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は11:00-02:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 804 m from the station. Serves italian cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约804米的餐馆主营italian，适合旅途中用餐，11:00-02:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 804,
+      "walk_min": 11,
+      "hours": "11:00-02:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6154596980",
+      "tel": "0798-38-6040",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7340493,
+      "lon": 135.3465491,
+      "official_url_pending": "https://www.saizeriya.co.jp/restaurant/shop_detail.php?cd=692"
+    },
+    {
+      "id": "st01300-012",
+      "category": "food",
+      "name": {
+        "ja": "マクドナルド",
+        "en": "McDonald's",
+        "zh": "麦当劳"
+      },
+      "desc": {
+        "ja": "駅から約1160mにある飲食店。burger料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Su 06:30-23:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1160 m from the station. Serves burger cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1160米的餐馆主营burger，适合旅途中用餐，Mo-Su 06:30-23:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1160,
+      "walk_min": 15,
+      "hours": "Mo-Su 06:30-23:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/7051146432",
+      "tel": "+81 798 37 2800",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7419368,
+      "lon": 135.3273498,
+      "official_url_pending": "http://mcdonalds.co.jp"
+    },
+    {
+      "id": "st01300-013",
+      "category": "bank_atm",
+      "name": {
+        "ja": "三井住友銀行",
+        "en": "Sumitomo Mitsui Banking Corporation",
+        "zh": "三井住友银行"
+      },
+      "desc": {
+        "ja": "三井住友銀行の支店。駅から約1189mにあり、預け入れ・引き出しやATMの利用に対応する。窓口はMo-Fr 09:00-15:00（JST）。",
+        "en": "Bank about 1189 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约1189米的银行网点，Mo-Fr 09:00-15:00（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 1189,
+      "walk_min": 15,
+      "hours": "Mo-Fr 09:00-15:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/7051146987",
+      "tel": "+81 798 72 0951",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7427396,
+      "lon": 135.3275652,
+      "official_url_pending": "http://smbc.co.jp"
+    },
+    {
+      "id": "st01300-014",
+      "category": "cafe",
+      "name": {
+        "ja": "コメダ珈琲店",
+        "en": "Komeda Coffee Shop",
+        "zh": "コメダ珈琲店"
+      },
+      "desc": {
+        "ja": "駅から約151mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。",
+        "en": "Cafe about 151 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约151米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 151,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6807651427",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.737787,
+      "lon": 135.3396437
+    },
+    {
+      "id": "st01300-015",
+      "category": "medical",
+      "name": {
+        "ja": "ココカラファイン",
+        "en": "Cocokara Fine",
+        "zh": "Kokokarafuain"
+      },
+      "desc": {
+        "ja": "駅から約732mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 732 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约732米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 732,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/7053792901",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.743443,
+      "lon": 135.3384004
+    },
+    {
+      "id": "st01300-016",
+      "category": "bank_atm",
+      "name": {
+        "ja": "但馬銀行 苦楽園支店",
+        "en": "TajimaBank Kurakuen Branch",
+        "zh": "但马银行 苦楽园支店"
+      },
+      "desc": {
+        "ja": "但馬銀行 苦楽園支店の支店。駅から約1764mにあり、預け入れ・引き出しやATMの利用に対応する。窓口はMo-Fr 09:00-15:00（JST）。",
+        "en": "Bank about 1764 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约1764米的银行网点，Mo-Fr 09:00-15:00（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 1764,
+      "walk_min": 23,
+      "hours": "Mo-Fr 09:00-15:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/7051145240",
+      "tel": "+81 798 73 8100",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.749906,
+      "lon": 135.327459,
+      "official_url_pending": "https://www.tajimabank.co.jp/"
+    },
+    {
+      "id": "st01300-017",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "廣田神社",
+        "en": "Hirota-jinja Shrine",
+        "zh": "广田神社"
+      },
+      "desc": {
+        "ja": "駅から約1793mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1793 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1793米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1793,
+      "walk_min": 23,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4185021597",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7529338,
+      "lon": 135.3400056
+    },
+    {
+      "id": "st01300-018",
+      "category": "public_service",
+      "name": {
+        "ja": "西宮中央公民館",
+        "en": "Nishinomiya Central Community Center",
+        "zh": "西宫中央公民馆"
+      },
+      "desc": {
+        "ja": "駅から約1886mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 1886 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1886米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1886,
+      "walk_min": 24,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5672943061",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7439066,
+      "lon": 135.3572106,
+      "official_url_pending": "https://www.nishi.or.jp/access/kominkan/kominkan-list.files/01chuo_2904.pdf"
+    },
+    {
+      "id": "st01300-019",
+      "category": "shopping",
+      "name": {
+        "ja": "阪急ベーカリー&カフェ",
+        "en": "阪急be-kari-&kafue",
+        "zh": "阪急ベーカリー&カフェ"
+      },
+      "desc": {
+        "ja": "駅から約1935mにあるベーカリー。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Bakery about 1935 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1935米的面包店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1935,
+      "walk_min": 25,
+      "hours": "Mo-Sa 07:00-20:00; Su,PH 08:00-19:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/4589327692",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7461675,
+      "lon": 135.3563343,
+      "official_url_pending": "https://www.hankyu-bakery.co.jp/"
+    },
+    {
+      "id": "st01300-020",
+      "category": "shopping",
+      "name": {
+        "ja": "西宮阪急",
+        "en": "Nishinomiya Hankyu",
+        "zh": "西宫阪急"
+      },
+      "desc": {
+        "ja": "駅から約1992mにある百貨店。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Department store about 1992 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1992米的百货店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1992,
+      "walk_min": 25,
+      "hours": "Mo-Su 10:00-20:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6083776790",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7435025,
+      "lon": 135.3586923,
+      "official_url_pending": "https://hh.hankyu-dept.co.jp/nishinomiya/"
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 361,
+    "floor_check": {
+      "medical": {
+        "candidates": 32,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 10,
+        "selected": 2
+      },
+      "convenience": {
+        "candidates": 26,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 14,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 5,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
