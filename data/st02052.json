@@ -1,0 +1,561 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st02052",
+    "name": {
+      "ja": "日野",
+      "en": "Hino",
+      "zh": "日野"
+    },
+    "line_group": [
+      "長野電鉄長野線"
+    ],
+    "pref": "長野県",
+    "lat": 36.65606,
+    "lon": 138.28833
+  },
+  "generated_at": "2026-11-10T11:54:09Z",
+  "pois": [
+    {
+      "id": "st02052-001",
+      "category": "public_service",
+      "name": {
+        "ja": "日野地域児童クラブ",
+        "en": "日野地域児童kurabu",
+        "zh": "日野地域児童クラブ"
+      },
+      "desc": {
+        "ja": "駅から約544mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 544 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约544米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 544,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/476069838",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.6602742,
+      "lon": 138.2914293
+    },
+    {
+      "id": "st02052-002",
+      "category": "food",
+      "name": {
+        "ja": "Laid-Back Shrimps",
+        "en": "Laid-Back Shrimps",
+        "zh": "Laid-Back Shrimps"
+      },
+      "desc": {
+        "ja": "駅から約1985mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。営業はMo,We-Su 11:00-19:30（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1985 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约1985米的餐馆适合旅途中用餐，Mo, We-Su 11:00-19:30（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1985,
+      "walk_min": 25,
+      "hours": "Mo,We-Su 11:00-19:30 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/10875158910",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.6553761,
+      "lon": 138.3105667
+    },
+    {
+      "id": "st02052-003",
+      "category": "convenience",
+      "name": {
+        "ja": "デイリーヤマザキ",
+        "en": "Daily YAMAZAKI",
+        "zh": "Daily Yamazaki便利店"
+      },
+      "desc": {
+        "ja": "デイリーヤマザキのコンビニエンスストア。駅から約1037mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 1037 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约1037米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 1037,
+      "walk_min": 13,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/133618728",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.6592934,
+      "lon": 138.2774263
+    },
+    {
+      "id": "st02052-004",
+      "category": "food",
+      "name": {
+        "ja": "バーミヤン",
+        "en": "Bamiyan",
+        "zh": "Ba-miyan"
+      },
+      "desc": {
+        "ja": "駅から約1335mにある飲食店。chinese料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1335 m from the station. Serves chinese cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1335米的餐馆主营chinese，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1335,
+      "walk_min": 17,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/738011896",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.6542655,
+      "lon": 138.3031233
+    },
+    {
+      "id": "st02052-005",
+      "category": "park",
+      "name": {
+        "ja": "村山橋メモリアルパーク",
+        "en": "村山橋memoriarupa-ku",
+        "zh": "村山桥メモリアルパーク"
+      },
+      "desc": {
+        "ja": "駅から約1105mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1105 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1105米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1105,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/612798013",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.660202,
+      "lon": 138.2770701
+    },
+    {
+      "id": "st02052-006",
+      "category": "convenience",
+      "name": {
+        "ja": "セブンイレブン(Seven-Eleven)",
+        "en": "sebunirebun(Seven-Eleven)",
+        "zh": "セブンイレブン(Seven-Eleven)"
+      },
+      "desc": {
+        "ja": "セブンイレブン(Seven-Eleven)のコンビニエンスストア。駅から約1140mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 1140 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约1140米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 1140,
+      "walk_min": 15,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/620786791",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.647511,
+      "lon": 138.2953833
+    },
+    {
+      "id": "st02052-007",
+      "category": "food",
+      "name": {
+        "ja": "感激ダイニング 三代目 太一 須坂本店",
+        "en": "感激dainingu 三代目 太一 須坂本店",
+        "zh": "感激ダイニング 三代目 太一 須坂本店"
+      },
+      "desc": {
+        "ja": "駅から約1172mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1172 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约1172米的餐馆适合旅途中用餐，菜单与价格以店内展示内容为准，具体信息以现场为准。"
+      },
+      "distance_m": 1172,
+      "walk_min": 15,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/1377709376",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.6544413,
+      "lon": 138.3013105
+    },
+    {
+      "id": "st02052-008",
+      "category": "police",
+      "name": {
+        "ja": "須坂警察署",
+        "en": "須坂 Police Station",
+        "zh": "須坂警察署"
+      },
+      "desc": {
+        "ja": "駅から約1255mにある警察署。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1255 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1255米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1255,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/610073223",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.6628993,
+      "lon": 138.2995266
+    },
+    {
+      "id": "st02052-009",
+      "category": "shopping",
+      "name": {
+        "ja": "ツルヤ須坂店",
+        "en": "tsuruya須坂店",
+        "zh": "ツルヤ須坂店"
+      },
+      "desc": {
+        "ja": "駅から約1298mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 1298 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1298米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1298,
+      "walk_min": 17,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/636988798",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.6539517,
+      "lon": 138.3026465
+    },
+    {
+      "id": "st02052-010",
+      "category": "medical",
+      "name": {
+        "ja": "アメリカンドラッグ墨坂店＆ダイソー墨坂店",
+        "en": "amerikandoragu墨坂店＆daiso-墨坂店",
+        "zh": "アメリカンドラッグ墨坂店＆ダイソー墨坂店"
+      },
+      "desc": {
+        "ja": "駅から約1322mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 1322 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1322米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1322,
+      "walk_min": 17,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/14107431603",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.6473912,
+      "lon": 138.2984686
+    },
+    {
+      "id": "st02052-011",
+      "category": "shopping",
+      "name": {
+        "ja": "イオン",
+        "en": "AEON",
+        "zh": "永旺"
+      },
+      "desc": {
+        "ja": "駅から約1517mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 1517 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1517米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1517,
+      "walk_min": 19,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1469143050",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.6573807,
+      "lon": 138.3052535
+    },
+    {
+      "id": "st02052-012",
+      "category": "bank_atm",
+      "name": {
+        "ja": "長野銀行",
+        "en": "长野 Bank",
+        "zh": "长野银行"
+      },
+      "desc": {
+        "ja": "長野銀行の支店。駅から約1770mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 1770 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约1770米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 1770,
+      "walk_min": 23,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/612489452",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.656158,
+      "lon": 138.3081747
+    },
+    {
+      "id": "st02052-013",
+      "category": "post_office",
+      "name": {
+        "ja": "須坂郵便局",
+        "en": "須坂 Post Office",
+        "zh": "須坂邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1597mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1597 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1597米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 1597,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/476313988",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.657288,
+      "lon": 138.3061654
+    },
+    {
+      "id": "st02052-014",
+      "category": "shopping",
+      "name": {
+        "ja": "西友",
+        "en": "Seiyu",
+        "zh": "西友"
+      },
+      "desc": {
+        "ja": "駅から約1716mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 1716 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1716米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1716,
+      "walk_min": 22,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/477922932",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.6517785,
+      "lon": 138.3068137
+    },
+    {
+      "id": "st02052-015",
+      "category": "police",
+      "name": {
+        "ja": "横町中央交番",
+        "en": "横町中央 Police Box",
+        "zh": "横町中央交番"
+      },
+      "desc": {
+        "ja": "駅から約1733mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1733 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1733米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1733,
+      "walk_min": 22,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2706665134",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.6546337,
+      "lon": 138.3076806
+    },
+    {
+      "id": "st02052-016",
+      "category": "public_service",
+      "name": {
+        "ja": "須坂市役所 (Suzaka City Hall)",
+        "en": "Suzaka City Hall",
+        "zh": "須坂市役所 (Suzaka City Hall)"
+      },
+      "desc": {
+        "ja": "駅から約1777mにある役所・行政施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Civic office about 1777 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1777米的行政机构，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1777,
+      "walk_min": 23,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2892689081",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.6510302,
+      "lon": 138.3072408
+    },
+    {
+      "id": "st02052-017",
+      "category": "medical",
+      "name": {
+        "ja": "長野県立信州医療センター",
+        "en": "長野県立信州医療senta-",
+        "zh": "长野县立信州医療センター"
+      },
+      "desc": {
+        "ja": "駅から約1896mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 1896 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1896米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1896,
+      "walk_min": 24,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/477051605",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.6539492,
+      "lon": 138.309417
+    },
+    {
+      "id": "st02052-018",
+      "category": "sight",
+      "name": {
+        "ja": "須坂クラッシック美術館美術館",
+        "en": "須坂kurashiku美術館美術館",
+        "zh": "須坂クラッシック美术馆美术馆"
+      },
+      "desc": {
+        "ja": "駅から約1803mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1803 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1803米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1803,
+      "walk_min": 23,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/265143545",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.6544682,
+      "lon": 138.3084397
+    }
+  ],
+  "coverage": {
+    "poi_count": 18,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 55,
+    "floor_check": {
+      "medical": {
+        "candidates": 3,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 3,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 5,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 1,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 2,
+        "selected": 2
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}

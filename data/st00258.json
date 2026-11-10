@@ -1,0 +1,567 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st00258",
+    "name": {
+      "ja": "大久保",
+      "en": "Ōkubo",
+      "zh": "大久保"
+    },
+    "line_group": [
+      "北陸本線",
+      "山陽本線"
+    ],
+    "pref": "兵庫県",
+    "lat": 34.68221,
+    "lon": 134.93883
+  },
+  "generated_at": "2026-11-10T11:54:09Z",
+  "pois": [
+    {
+      "id": "st00258-001",
+      "category": "shopping",
+      "name": {
+        "ja": "ビエラ大久保",
+        "en": "biera大久保",
+        "zh": "ビエラ大久保"
+      },
+      "desc": {
+        "ja": "駅から約60mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 60 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约60米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 60,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/7681851942",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6818194,
+      "lon": 134.9383825
+    },
+    {
+      "id": "st00258-002",
+      "category": "cafe",
+      "name": {
+        "ja": "スターバックス",
+        "en": "Starbucks",
+        "zh": "Suta-bakusu"
+      },
+      "desc": {
+        "ja": "駅から約140mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。",
+        "en": "Cafe about 140 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约140米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 140,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/9500735147",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6811422,
+      "lon": 134.9380178
+    },
+    {
+      "id": "st00258-003",
+      "category": "police",
+      "name": {
+        "ja": "明石警察署八木交番",
+        "en": "明石八木交番 Police Station",
+        "zh": "明石警察署八木交番"
+      },
+      "desc": {
+        "ja": "駅から約1335mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1335 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1335米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1335,
+      "walk_min": 17,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423068760",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.670395,
+      "lon": 134.936252
+    },
+    {
+      "id": "st00258-004",
+      "category": "post_office",
+      "name": {
+        "ja": "明石大久保郵便局",
+        "en": "Akashi Okubo Post Office",
+        "zh": "明石大久保邮政局"
+      },
+      "desc": {
+        "ja": "駅から約235mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 235 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约235米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 235,
+      "walk_min": 3,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1423068695",
+      "tel": "+81-78-936-1955",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.684314,
+      "lon": 134.938594
+    },
+    {
+      "id": "st00258-005",
+      "category": "post_office",
+      "name": {
+        "ja": "オーズタウン郵便局",
+        "en": "O's Town Post Office",
+        "zh": "オーズタウン邮政局"
+      },
+      "desc": {
+        "ja": "駅から約242mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 242 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约242米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 242,
+      "walk_min": 4,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1423046582",
+      "tel": "+81-78-934-9911",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6800993,
+      "lon": 134.9382035
+    },
+    {
+      "id": "st00258-006",
+      "category": "police",
+      "name": {
+        "ja": "明石警察署大久保南交番",
+        "en": "明石大久保南交番 Police Station",
+        "zh": "明石警察署大久保南交番"
+      },
+      "desc": {
+        "ja": "駅から約312mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 312 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约312米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 312,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423068762",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6796957,
+      "lon": 134.9373229
+    },
+    {
+      "id": "st00258-007",
+      "category": "medical",
+      "name": {
+        "ja": "ウエルシア明石大久保",
+        "en": "uerushia明石大久保",
+        "zh": "ウエルシア明石大久保"
+      },
+      "desc": {
+        "ja": "駅から約332mにある薬局。体調を崩した際の受診や薬の購入に対応する。受付は24時間営業。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 332 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约332米的药房，全天24小时营业，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 332,
+      "walk_min": 5,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/1449323003",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.682252,
+      "lon": 134.9351961
+    },
+    {
+      "id": "st00258-008",
+      "category": "shopping",
+      "name": {
+        "ja": "イオン明石ショッピングセンター 2番街",
+        "en": "ion明石shiyopingusenta- 2番街",
+        "zh": "イオン明石ショッピングセンター 2番街"
+      },
+      "desc": {
+        "ja": "駅から約340mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 340 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约340米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 340,
+      "walk_min": 5,
+      "hours": "10:00-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/195741927",
+      "tel": "078-934-2881",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6797907,
+      "lon": 134.9365612,
+      "official_url_pending": "https://www.aeon.jp/sc/akashi/"
+    },
+    {
+      "id": "st00258-009",
+      "category": "park",
+      "name": {
+        "ja": "ゆりのき通東公園",
+        "en": "yurinoki通東公園",
+        "zh": "Yurinoki通東公園"
+      },
+      "desc": {
+        "ja": "駅から約359mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 359 m from the station, with paths and benches for a rest.",
+        "zh": "距站约359米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 359,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/195741021",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6791211,
+      "lon": 134.9399765
+    },
+    {
+      "id": "st00258-010",
+      "category": "convenience",
+      "name": {
+        "ja": "セブンイレブン ハートイン JR大久保駅北口店",
+        "en": "sebunirebun ha-toin JR大久保駅北口店",
+        "zh": "セブンイレブン ハートイン JR大久保站北口店"
+      },
+      "desc": {
+        "ja": "セブンイレブン ハートイン JR大久保駅北口店のコンビニエンスストア。駅から約45mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 45 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约45米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 45,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/7681851908",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6821142,
+      "lon": 134.9393052
+    },
+    {
+      "id": "st00258-011",
+      "category": "food",
+      "name": {
+        "ja": "サイゼリヤ",
+        "en": "Saizeriya",
+        "zh": "萨莉亚"
+      },
+      "desc": {
+        "ja": "駅から約422mにある飲食店。italian料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は10:00-22:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 422 m from the station. Serves italian cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约422米的餐馆主营italian，适合旅途中用餐，10:00-22:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 422,
+      "walk_min": 6,
+      "hours": "10:00-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6154596982",
+      "tel": "078-938-2180",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6791299,
+      "lon": 134.9361322,
+      "official_url_pending": "https://www.saizeriya.co.jp/restaurant/shop_detail.php?cd=734"
+    },
+    {
+      "id": "st00258-012",
+      "category": "food",
+      "name": {
+        "ja": "ラーメン魁力屋 明石大久保店",
+        "en": "ramen kairikiya",
+        "zh": "ラーメン魁力屋 明石大久保店"
+      },
+      "desc": {
+        "ja": "駅から約521mにある飲食店。ramen料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は11:00-24:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 521 m from the station. Serves ramen cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约521米的餐馆主营ramen，适合旅途中用餐，11:00-24:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 521,
+      "walk_min": 7,
+      "hours": "11:00-24:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/413503739",
+      "tel": "+81 78-9626-226",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6859265,
+      "lon": 134.9353603,
+      "official_url_pending": "https://www.kairikiya.co.jp/"
+    },
+    {
+      "id": "st00258-013",
+      "category": "shopping",
+      "name": {
+        "ja": "イオン明石ショッピングセンター 1番街",
+        "en": "ion明石shiyopingusenta- 1番街",
+        "zh": "イオン明石ショッピングセンター 1番街"
+      },
+      "desc": {
+        "ja": "駅から約150mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 150 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约150米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 150,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/1144249895",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6811798,
+      "lon": 134.9377741
+    },
+    {
+      "id": "st00258-014",
+      "category": "medical",
+      "name": {
+        "ja": "明石市医師会立明石医療センター",
+        "en": "明石市医師会立明石医療senta-",
+        "zh": "明石市医師会立明石医療センター"
+      },
+      "desc": {
+        "ja": "駅から約856mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 856 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约856米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 856,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/195726468",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6745968,
+      "lon": 134.9374132
+    },
+    {
+      "id": "st00258-015",
+      "category": "convenience",
+      "name": {
+        "ja": "ローソン 明石医療センター店",
+        "en": "LAWSON",
+        "zh": "ローソン 明石医療センター店"
+      },
+      "desc": {
+        "ja": "ローソン 明石医療センター店のコンビニエンスストア。駅から約876mの場所にあり、Mo-Su 07:00-22:00（JST）。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 876 m from the station. Mo-Su 07:00-22:00 (JST). Stocks meals, drinks and daily necessities.",
+        "zh": "距站约876米的便利店，Mo-Su 07:00-22:00（JST），可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 876,
+      "walk_min": 11,
+      "hours": "Mo-Su 07:00-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6865986402",
+      "tel": "+81 78 937 0312",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6743787,
+      "lon": 134.9378309,
+      "official_url_pending": "https://www.lawson.co.jp/"
+    },
+    {
+      "id": "st00258-016",
+      "category": "park",
+      "name": {
+        "ja": "ゆりのき通南公園",
+        "en": "yurinoki通南公園",
+        "zh": "Yurinoki通南公園"
+      },
+      "desc": {
+        "ja": "駅から約420mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 420 m from the station, with paths and benches for a rest.",
+        "zh": "距站约420米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 420,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/7681851928",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.68023,
+      "lon": 134.9349173
+    },
+    {
+      "id": "st00258-017",
+      "category": "sight",
+      "name": {
+        "ja": "カゲユ池古墳",
+        "en": "kageyu池古墳",
+        "zh": "カゲユ池古墳"
+      },
+      "desc": {
+        "ja": "駅から約1761mにある展望スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Viewpoint about 1761 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1761米的观景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1761,
+      "walk_min": 23,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6865998799",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6709261,
+      "lon": 134.9523402
+    },
+    {
+      "id": "st00258-018",
+      "category": "food",
+      "name": {
+        "ja": "都きしめん 大久保店",
+        "en": "都kishimen 大久保店",
+        "zh": "都kishimen 大久保店"
+      },
+      "desc": {
+        "ja": "駅から約77mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 77 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约77米的餐馆适合旅途中用餐，菜单与价格以店内展示内容为准，具体信息以现场为准。"
+      },
+      "distance_m": 77,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/7681851906",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6828947,
+      "lon": 134.9387367
+    }
+  ],
+  "coverage": {
+    "poi_count": 18,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到银行/ATM候选",
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 129,
+    "floor_check": {
+      "medical": {
+        "candidates": 15,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 0,
+        "selected": 0
+      },
+      "convenience": {
+        "candidates": 14,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 7,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 3,
+        "selected": 2
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
