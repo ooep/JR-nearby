@@ -1,0 +1,119 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st04784",
+    "name": {
+      "ja": "山田",
+      "en": "Yamada",
+      "zh": "山田"
+    },
+    "line_group": [
+      "越美南線"
+    ],
+    "pref": "岐阜県",
+    "lat": 35.78817,
+    "lon": 136.91182
+  },
+  "generated_at": "2026-11-10T21:07:49Z",
+  "pois": [
+    {
+      "id": "st04784-001",
+      "category": "park",
+      "name": {
+        "ja": "古今伝授の里運動公園",
+        "en": "古今伝授no里運動公園",
+        "zh": "古今伝授no里運動公園"
+      },
+      "desc": {
+        "ja": "駅から約1115mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1115 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1115米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1115,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/686756880",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7943641,
+      "lon": 136.9020939
+    },
+    {
+      "id": "st04784-002",
+      "category": "food",
+      "name": {
+        "ja": "かつ弥",
+        "en": "Tonkatsu Katsu-ya",
+        "zh": "Katsu弥"
+      },
+      "desc": {
+        "ja": "駅から約1458mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。営業はTh-Tu 11:00-14:30, 17:00-21:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1458 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约1458米的餐馆适合旅途中用餐，Th-Tu 11:00-14:30, 17:00-21:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1458,
+      "walk_min": 19,
+      "hours": "Th-Tu 11:00-14:30, 17:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6341102088",
+      "tel": "0575-88-2118",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8007084,
+      "lon": 136.9070882
+    }
+  ],
+  "coverage": {
+    "poi_count": 2,
+    "radius_m": 2000,
+    "confidence": "low",
+    "gaps": [
+      "2公里圈内未检索到医疗机构候选",
+      "2公里圈内未检索到银行/ATM候选",
+      "2公里圈内未检索到便利店候选",
+      "2公里圈内未检索到邮局候选",
+      "2公里圈内未检索到警察设施候选",
+      "2公里圈内未检索到观光案内所候选",
+      "站周边候选稀少，仅收录上述条目，商业与餐饮需前往邻近车站周边"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 4,
+    "floor_check": {
+      "medical": {
+        "candidates": 0,
+        "selected": 0
+      },
+      "bank_atm": {
+        "candidates": 0,
+        "selected": 0
+      },
+      "convenience": {
+        "candidates": 0,
+        "selected": 0
+      },
+      "post_office": {
+        "candidates": 0,
+        "selected": 0
+      },
+      "police": {
+        "candidates": 0,
+        "selected": 0
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
