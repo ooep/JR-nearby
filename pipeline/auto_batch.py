@@ -144,12 +144,22 @@ def main():
         cdir = os.path.join(work, "candidates", "r%04d" % rounds)
         os.makedirs(cdir, exist_ok=True)
         items = []
+        fails = 0
         for i, slug in enumerate(pick):
             it = fetch_one(work, slug, universe[slug], a.radius, cdir)
             items.append(it)
             print("  [fetch] %-9s ok=%-5s cands=%-4s %ss att=%s %s"
                   % (slug, it["ok"], it["candidates"], it["secs"],
                      it["attempts"], it["stderr"][:70]), flush=True)
+            if it["ok"]:
+                fails = 0
+            else:
+                fails += 1
+                if fails >= 2:
+                    print("[auto] %d consecutive fetch failures; upstream "
+                          "likely throttled, cutting this round short" % fails,
+                          flush=True)
+                    break
             if i < len(pick) - 1:
                 time.sleep(a.spacing)
         with open(os.path.join(cdir, "_report.json"), "w", encoding="utf-8") as f:
@@ -194,6 +204,11 @@ def main():
                 skipped.add(slug)
             print("[warn] publish did not land; rolled back and deferred "
                   "%d stations to a later job" % len(pick), flush=True)
+            if items and all(not it["ok"] for it in items):
+                print("[stop] every fetch failed; endpoint likely down, "
+                      "not spinning further", flush=True)
+                time.sleep(15)
+                break
             time.sleep(15)
             continue
 
