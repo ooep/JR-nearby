@@ -1,0 +1,570 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st02152",
+    "name": {
+      "ja": "宮前平",
+      "en": "Miyamaedaira",
+      "zh": "宫前平"
+    },
+    "line_group": [
+      "田園都市線"
+    ],
+    "pref": "神奈川県",
+    "lat": 35.58498,
+    "lon": 139.58207
+  },
+  "generated_at": "2026-11-10T13:02:12Z",
+  "pois": [
+    {
+      "id": "st02152-001",
+      "category": "shopping",
+      "name": {
+        "ja": "東急ストア",
+        "en": "Tokyu Store",
+        "zh": "东急ストア"
+      },
+      "desc": {
+        "ja": "駅から約16mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 16 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约16米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 16,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/13688663043",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5849803,
+      "lon": 139.5822422
+    },
+    {
+      "id": "st02152-002",
+      "category": "medical",
+      "name": {
+        "ja": "ウェルネス宮前クリニック",
+        "en": "uerunesu宮前kuriniku",
+        "zh": "ウェルネス宫前クリニック"
+      },
+      "desc": {
+        "ja": "駅から約577mにあるクリニック。体調を崩した際の受診や薬の購入に対応する。受付はMo-Fr 09:00-12:00,14:00-18:00; Su,PH,We off; Sa 09:00-13:00（JST）。旅先でも頼れる医療施設。",
+        "en": "Clinic about 577 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约577米的诊所，Mo-Fr 09:00-12:00, 14:00-18:00, Su, PH, We off, Sa 09:00-13:00（JST），旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 577,
+      "walk_min": 8,
+      "hours": "Mo-Fr 09:00-12:00,14:00-18:00; Su,PH,We off; Sa 09:00-13:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/14292575268",
+      "tel": "044-866-3892",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5834519,
+      "lon": 139.5881687,
+      "official_url_pending": "https://www.wellness-miyamae.jp"
+    },
+    {
+      "id": "st02152-003",
+      "category": "shopping",
+      "name": {
+        "ja": "成城石井",
+        "en": "Seijo Ishii",
+        "zh": "成城石井"
+      },
+      "desc": {
+        "ja": "駅から約57mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 57 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约57米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 57,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1904277720",
+      "tel": "+81 44-870-1350",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.585297,
+      "lon": 139.5815759
+    },
+    {
+      "id": "st02152-004",
+      "category": "police",
+      "name": {
+        "ja": "宮前警察署土橋連絡所",
+        "en": "宫前土桥連絡所 Police Station",
+        "zh": "宫前警察署土桥連絡所"
+      },
+      "desc": {
+        "ja": "駅から約819mにある警察署。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 819 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约819米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 819,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420816748",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.587246,
+      "lon": 139.573455
+    },
+    {
+      "id": "st02152-005",
+      "category": "bank_atm",
+      "name": {
+        "ja": "三菱UFJ銀行ATMコーナー 宮前平",
+        "en": "三菱UFJ銀行ATMko-na- 宮前平",
+        "zh": "三菱UFJ银行ATMコーナー 宫前平"
+      },
+      "desc": {
+        "ja": "三菱UFJ銀行ATMコーナー 宮前平のATM。駅から約234mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 234 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约234米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 234,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/11960742856",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5841728,
+      "lon": 139.5844548
+    },
+    {
+      "id": "st02152-006",
+      "category": "bank_atm",
+      "name": {
+        "ja": "セレサ川崎農業協同組合",
+        "en": "seresa川崎農業協同組合",
+        "zh": "セレサ川崎農業協同組合"
+      },
+      "desc": {
+        "ja": "セレサ川崎農業協同組合の支店。駅から約116mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 116 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约116米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 116,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/13688663044",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5848868,
+      "lon": 139.5807875
+    },
+    {
+      "id": "st02152-007",
+      "category": "food",
+      "name": {
+        "ja": "道とん堀",
+        "en": "Dohtonbori",
+        "zh": "道ton堀"
+      },
+      "desc": {
+        "ja": "駅から約1364mにある飲食店。okonomiyaki料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Su 11:30-23:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1364 m from the station. Serves okonomiyaki cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1364米的餐馆主营okonomiyaki，适合旅途中用餐，Mo-Su 11:30-23:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1364,
+      "walk_min": 18,
+      "hours": "Mo-Su 11:30-23:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/3051464738",
+      "tel": "+81-44-860-1622",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5960993,
+      "lon": 139.5884272,
+      "official_url_pending": "https://dohtonbori.com/"
+    },
+    {
+      "id": "st02152-008",
+      "category": "police",
+      "name": {
+        "ja": "鷺沼駅前交番",
+        "en": "鷺沼站前 Police Box",
+        "zh": "鷺沼站前交番"
+      },
+      "desc": {
+        "ja": "駅から約955mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 955 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约955米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 955,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420816773",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5788547,
+      "lon": 139.5746718
+    },
+    {
+      "id": "st02152-009",
+      "category": "food",
+      "name": {
+        "ja": "サイゼリヤ",
+        "en": "Saizeriya",
+        "zh": "萨莉亚"
+      },
+      "desc": {
+        "ja": "駅から約603mにある飲食店。italian料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は11:00-02:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 603 m from the station. Serves italian cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约603米的餐馆主营italian，适合旅途中用餐，11:00-02:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 603,
+      "walk_min": 8,
+      "hours": "11:00-02:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2947321129",
+      "tel": "+81 44 872 5015",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.586538,
+      "lon": 139.575681,
+      "official_url_pending": "https://www.saizeriya.co.jp/restaurant/shop_detail.php?cd=695"
+    },
+    {
+      "id": "st02152-010",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "しばられ松",
+        "en": "Shibararematsu",
+        "zh": "Shibarare松"
+      },
+      "desc": {
+        "ja": "駅から約1360mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1360 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1360米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1360,
+      "walk_min": 17,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/11514476685",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5942677,
+      "lon": 139.5918561
+    },
+    {
+      "id": "st02152-011",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "長善寺",
+        "en": "Chozen-ji",
+        "zh": "长善寺"
+      },
+      "desc": {
+        "ja": "駅から約1997mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 1997 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1997米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1997,
+      "walk_min": 25,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6593185587",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5690326,
+      "lon": 139.592218
+    },
+    {
+      "id": "st02152-012",
+      "category": "medical",
+      "name": {
+        "ja": "ツクイ川崎梶ヶ谷",
+        "en": "Tsukui Kawasaki Kajigaya",
+        "zh": "ツクイ川崎梶ヶ谷"
+      },
+      "desc": {
+        "ja": "駅から約1344mにあるクリニック。体調を崩した際の受診や薬の購入に対応する。受付はMo-Su 09:00-17:00（JST）。旅先でも頼れる医療施設。",
+        "en": "Clinic about 1344 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1344米的诊所，Mo-Su 09:00-17:00（JST），旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1344,
+      "walk_min": 17,
+      "hours": "Mo-Su 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/11558368985",
+      "tel": "+81 44-862-5295",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5948989,
+      "lon": 139.5905665,
+      "official_url_pending": "https://tsukui.net/home-care/2219/"
+    },
+    {
+      "id": "st02152-013",
+      "category": "sight",
+      "name": {
+        "ja": "電車とバスの博物館",
+        "en": "Tokyu Train and Bus Museum",
+        "zh": "電車tobasuno博物館"
+      },
+      "desc": {
+        "ja": "駅から約993mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 993 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约993米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 993,
+      "walk_min": 13,
+      "hours": "Tu-Sa 10:00-17:00; Su 09:30-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1420834189",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.587838,
+      "lon": 139.5924695,
+      "official_url_pending": "https://www.tokyu.co.jp/museum-2/"
+    },
+    {
+      "id": "st02152-014",
+      "category": "post_office",
+      "name": {
+        "ja": "宮前郵便局",
+        "en": "Miyamae Post Office",
+        "zh": "宫前邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1142mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1142 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1142米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 1142,
+      "walk_min": 15,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420816775",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.575526,
+      "lon": 139.57715
+    },
+    {
+      "id": "st02152-015",
+      "category": "food",
+      "name": {
+        "ja": "魚屋路",
+        "en": "Totoyamichi",
+        "zh": "魚屋路"
+      },
+      "desc": {
+        "ja": "駅から約1339mにある飲食店。sushi料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Su 10:30-22:30（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1339 m from the station. Serves sushi cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1339米的餐馆主营sushi，适合旅途中用餐，Mo-Su 10:30-22:30（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1339,
+      "walk_min": 17,
+      "hours": "Mo-Su 10:30-22:30 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2947359295",
+      "tel": "+81-44-871-4380",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5959654,
+      "lon": 139.5881469,
+      "official_url_pending": "https://store-info.skylark.co.jp/totoyamichi/map/010895"
+    },
+    {
+      "id": "st02152-016",
+      "category": "convenience",
+      "name": {
+        "ja": "ローソン",
+        "en": "Lawson",
+        "zh": "罗森"
+      },
+      "desc": {
+        "ja": "ローソンのコンビニエンスストア。駅から約1359mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 1359 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约1359米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 1359,
+      "walk_min": 17,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6768035505",
+      "tel": "+81 44 861 8235",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5801893,
+      "lon": 139.5958987,
+      "official_url_pending": "https://www.e-map.ne.jp/p/lawson/dtl/064081/"
+    },
+    {
+      "id": "st02152-017",
+      "category": "cafe",
+      "name": {
+        "ja": "シモト珈琲",
+        "en": "Shimoto Coffee",
+        "zh": "シモト珈琲"
+      },
+      "desc": {
+        "ja": "駅から約1407mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。Mo-Su 11:00-20:00（JST）。",
+        "en": "Cafe about 1407 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约1407米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 1407,
+      "walk_min": 18,
+      "hours": "Mo-Su 11:00-20:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/11529942960",
+      "tel": "+8144-863-9500",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5933178,
+      "lon": 139.5937769,
+      "official_url_pending": "https://www.shimoto-coffee.com/"
+    },
+    {
+      "id": "st02152-018",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "セブン-イレブンのコンビニエンスストア。駅から約1532mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 1532 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约1532米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 1532,
+      "walk_min": 20,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1284484427",
+      "tel": "+81-44-865-2703",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5919222,
+      "lon": 139.596701,
+      "official_url_pending": "https://www.e-map.ne.jp/p/711map/dtl/006652/?&p_s1=40000&p_f2=1&p_f3=1&p_f4=1&cond2=1&cond40=1&cond41=1&&his=ar,nm"
+    }
+  ],
+  "coverage": {
+    "poi_count": 18,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 366,
+    "floor_check": {
+      "medical": {
+        "candidates": 41,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 14,
+        "selected": 2
+      },
+      "convenience": {
+        "candidates": 53,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 10,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 6,
+        "selected": 2
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
