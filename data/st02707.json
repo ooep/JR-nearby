@@ -1,0 +1,630 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st02707",
+    "name": {
+      "ja": "板宿",
+      "en": "Itayado",
+      "zh": "板宿"
+    },
+    "line_group": [
+      "北神線",
+      "山陽電鉄本線",
+      "神戸市営地下鉄山手線",
+      "神戸高速線",
+      "西神延伸線"
+    ],
+    "pref": "兵庫県",
+    "lat": 34.660257,
+    "lon": 135.133791
+  },
+  "generated_at": "2026-11-10T20:05:43Z",
+  "pois": [
+    {
+      "id": "st02707-001",
+      "category": "food",
+      "name": {
+        "ja": "松屋",
+        "en": "Matsuya",
+        "zh": "松屋"
+      },
+      "desc": {
+        "ja": "駅から約77mにある飲食店。japanese料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は24時間営業。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 77 m from the station. Serves japanese cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约77米的餐馆主营japanese，适合旅途中用餐，全天24小时营业，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 77,
+      "walk_min": 1,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/3158811193",
+      "tel": "+81-78-739-5221",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6601438,
+      "lon": 135.1346255
+    },
+    {
+      "id": "st02707-002",
+      "category": "cafe",
+      "name": {
+        "ja": "Aso Cafe",
+        "en": "Aso Cafe",
+        "zh": "Aso Cafe"
+      },
+      "desc": {
+        "ja": "駅から約187mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。Mo-Su 10:00-17:00; Th,Su off（JST）。",
+        "en": "Cafe about 187 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约187米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 187,
+      "walk_min": 3,
+      "hours": "Mo-Su 10:00-17:00; Th,Su off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/13999530188",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6598142,
+      "lon": 135.1357612,
+      "official_url_pending": "https://aso.cafe"
+    },
+    {
+      "id": "st02707-003",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "セブン-イレブンのコンビニエンスストア。駅から約245mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 245 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约245米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 245,
+      "walk_min": 4,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6829612802",
+      "tel": "+81 78 731 1303",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6588094,
+      "lon": 135.1317767,
+      "official_url_pending": "http://sej.co.jp"
+    },
+    {
+      "id": "st02707-004",
+      "category": "medical",
+      "name": {
+        "ja": "ドラッグストア ライフォート(ココカラファイン)",
+        "en": "drugstore LIFORT(Cocokara Fine)",
+        "zh": "Doragusutoa Raifuo-to(kokokarafuain)"
+      },
+      "desc": {
+        "ja": "駅から約1157mにある薬局。体調を崩した際の受診や薬の購入に対応する。受付はMo-Su 09:00-21:00（JST）。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 1157 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1157米的药房，Mo-Su 09:00-21:00（JST），旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1157,
+      "walk_min": 15,
+      "hours": "Mo-Su 09:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/10777256176",
+      "tel": "0786418010",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6701704,
+      "lon": 135.1376429,
+      "official_url_pending": "https://www.matsukiyococokara-online.com/map?kid=20001823"
+    },
+    {
+      "id": "st02707-005",
+      "category": "medical",
+      "name": {
+        "ja": "薬カッチャン",
+        "en": "薬kachiyan",
+        "zh": "薬カッチャン"
+      },
+      "desc": {
+        "ja": "駅から約1490mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 1490 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1490米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1490,
+      "walk_min": 19,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/10680792978",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6527569,
+      "lon": 135.1472922,
+      "official_url_pending": "https://drugstore-409.business.site/"
+    },
+    {
+      "id": "st02707-006",
+      "category": "sight",
+      "name": {
+        "ja": "鉄人28号モニュメント",
+        "en": "\"Tetsujin 28-go\" Monument",
+        "zh": "铁人28号"
+      },
+      "desc": {
+        "ja": "駅から約1061mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Monument about 1061 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1061米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1061,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1910262163",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6560131,
+      "lon": 135.1441792
+    },
+    {
+      "id": "st02707-007",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン 神戸育英高校南店",
+        "en": "7-Eleven",
+        "zh": "セブン-イレブン 神户育英高校南店"
+      },
+      "desc": {
+        "ja": "セブン-イレブン 神戸育英高校南店のコンビニエンスストア。駅から約702mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 702 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约702米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 702,
+      "walk_min": 9,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/10803653666",
+      "tel": "+81-78-631-7117",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6665144,
+      "lon": 135.1347981,
+      "official_url_pending": "https://www.sej.co.jp/"
+    },
+    {
+      "id": "st02707-008",
+      "category": "police",
+      "name": {
+        "ja": "須磨警察署板宿交番",
+        "en": "須磨板宿交番 Police Station",
+        "zh": "須磨警察署板宿交番"
+      },
+      "desc": {
+        "ja": "駅から約100mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 100 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约100米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 100,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423093081",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6595787,
+      "lon": 135.1330804
+    },
+    {
+      "id": "st02707-009",
+      "category": "public_service",
+      "name": {
+        "ja": "五位の池児童館",
+        "en": "Goinoike Children's Hall",
+        "zh": "五位no池児童館"
+      },
+      "desc": {
+        "ja": "駅から約771mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 771 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约771米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 771,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423051323",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.666918,
+      "lon": 135.136138
+    },
+    {
+      "id": "st02707-010",
+      "category": "park",
+      "name": {
+        "ja": "須磨海浜公園",
+        "en": "Suma Kaihin Park",
+        "zh": "須磨海滨公园"
+      },
+      "desc": {
+        "ja": "駅から約1909mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1909 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1909米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1909,
+      "walk_min": 24,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/320467169",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6439023,
+      "lon": 135.1274572
+    },
+    {
+      "id": "st02707-011",
+      "category": "park",
+      "name": {
+        "ja": "須磨学園高等学校庭園",
+        "en": "Garden",
+        "zh": "須磨学园高等学校庭园"
+      },
+      "desc": {
+        "ja": "駅から約634mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 634 m from the station, with paths and benches for a rest.",
+        "zh": "距站约634米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 634,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/360085978",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.66363,
+      "lon": 135.1282029
+    },
+    {
+      "id": "st02707-012",
+      "category": "public_service",
+      "name": {
+        "ja": "長田区文化センター",
+        "en": "長田区文化senta-",
+        "zh": "长田区文化センター"
+      },
+      "desc": {
+        "ja": "駅から約1056mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 1056 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1056米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1056,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/12117639836",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6566945,
+      "lon": 135.1444935
+    },
+    {
+      "id": "st02707-013",
+      "category": "food",
+      "name": {
+        "ja": "サイゼリヤ",
+        "en": "Saizeriya",
+        "zh": "萨莉亚"
+      },
+      "desc": {
+        "ja": "駅から約1158mにある飲食店。italian料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は11:00-23:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1158 m from the station. Serves italian cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1158米的餐馆主营italian，适合旅途中用餐，11:00-23:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1158,
+      "walk_min": 15,
+      "hours": "11:00-23:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6156128725",
+      "tel": "+81 78 646 8126",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6559848,
+      "lon": 135.1453382,
+      "official_url_pending": "https://www.saizeriya.co.jp/restaurant/shop_detail.php?cd=855"
+    },
+    {
+      "id": "st02707-014",
+      "category": "shopping",
+      "name": {
+        "ja": "スーパーマルハチ上池田店",
+        "en": "su-pa-maruhachi上池田店",
+        "zh": "スーパーマルハチ上池田店"
+      },
+      "desc": {
+        "ja": "駅から約1202mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 1202 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1202米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1202,
+      "walk_min": 16,
+      "hours": "09:00-21:45 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/11280691445",
+      "tel": "078-611-0850",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6704902,
+      "lon": 135.1380278,
+      "official_url_pending": "http://www.supermaruhachi.co.jp/shop/%E7%93%9C%E7%94%9F%E5%A0%82%E5%BA%97-2/"
+    },
+    {
+      "id": "st02707-015",
+      "category": "sight",
+      "name": {
+        "ja": "神戸映画資料館",
+        "en": "Kobe Planet Film Archive",
+        "zh": "神户电影资料馆"
+      },
+      "desc": {
+        "ja": "駅から約1322mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1322 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1322米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1322,
+      "walk_min": 17,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1911040322",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6543635,
+      "lon": 135.1463454
+    },
+    {
+      "id": "st02707-016",
+      "category": "post_office",
+      "name": {
+        "ja": "須磨郵便局",
+        "en": "Suma Post Office",
+        "zh": "須磨邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1347mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1347 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1347米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 1347,
+      "walk_min": 17,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/12289491989",
+      "tel": "+81-800-0800-111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6481688,
+      "lon": 135.1346765
+    },
+    {
+      "id": "st02707-017",
+      "category": "bank_atm",
+      "name": {
+        "ja": "三井住友銀行",
+        "en": "Sumitomo Mitsui Banking Corporation",
+        "zh": "三井住友银行"
+      },
+      "desc": {
+        "ja": "三井住友銀行の支店。駅から約1624mにあり、預け入れ・引き出しやATMの利用に対応する。窓口はMo-Fr 09:00-15:00（JST）。",
+        "en": "Bank about 1624 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约1624米的银行网点，Mo-Fr 09:00-15:00（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 1624,
+      "walk_min": 21,
+      "hours": "Mo-Fr 09:00-15:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6825238592",
+      "tel": "+81 78 731 1431",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6490887,
+      "lon": 135.1223475,
+      "official_url_pending": "http://smbc.co.jp"
+    },
+    {
+      "id": "st02707-018",
+      "category": "police",
+      "name": {
+        "ja": "長田警察署",
+        "en": "Nagata Police Station",
+        "zh": "长田警察署"
+      },
+      "desc": {
+        "ja": "駅から約1683mにある警察署。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1683 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1683米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1683,
+      "walk_min": 22,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423092682",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.666251,
+      "lon": 135.150693
+    },
+    {
+      "id": "st02707-019",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "長田神社",
+        "en": "Nagata Shrine",
+        "zh": "长田神社"
+      },
+      "desc": {
+        "ja": "駅から約1725mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1725 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1725米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1725,
+      "walk_min": 22,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/58671791",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6712672,
+      "lon": 135.1470726
+    },
+    {
+      "id": "st02707-020",
+      "category": "sight",
+      "name": {
+        "ja": "神戸須磨シーワールド",
+        "en": "Kobe Suma Sea World",
+        "zh": "神户須磨シーワールド"
+      },
+      "desc": {
+        "ja": "駅から約1895mにある水族館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Aquarium about 1895 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1895米的水族馆，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1895,
+      "walk_min": 24,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/320467182",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6439289,
+      "lon": 135.1278689,
+      "official_url_pending": "https://www.kobesuma-seaworld.jp/"
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 375,
+    "floor_check": {
+      "medical": {
+        "candidates": 31,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 17,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 36,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 24,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 7,
+        "selected": 2
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
