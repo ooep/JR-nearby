@@ -1,0 +1,628 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st01789",
+    "name": {
+      "ja": "大和西大寺",
+      "en": "Yamato-Saidaiji",
+      "zh": "大和西大寺"
+    },
+    "line_group": [
+      "橿原線",
+      "近鉄京都線",
+      "近鉄奈良線"
+    ],
+    "pref": "奈良県",
+    "lat": 34.69384,
+    "lon": 135.78277
+  },
+  "generated_at": "2026-11-10T12:10:46Z",
+  "pois": [
+    {
+      "id": "st01789-001",
+      "category": "bank_atm",
+      "name": {
+        "ja": "大和信用金庫",
+        "en": "Yamato Shinkin Bank",
+        "zh": "大和信用金庫"
+      },
+      "desc": {
+        "ja": "大和信用金庫の支店。駅から約47mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 47 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约47米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 47,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/212248209",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6940758,
+      "lon": 135.7831959
+    },
+    {
+      "id": "st01789-002",
+      "category": "shopping",
+      "name": {
+        "ja": "Kinsho",
+        "en": "Kinsho",
+        "zh": "Kinsho"
+      },
+      "desc": {
+        "ja": "駅から約114mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 114 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约114米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 114,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2343206717",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6929739,
+      "lon": 135.7834341,
+      "official_url_pending": "https://www.kinshostore.co.jp/store/saidaiji/"
+    },
+    {
+      "id": "st01789-003",
+      "category": "food",
+      "name": {
+        "ja": "Trattoria la Crocetta",
+        "en": "Trattoria la Crocetta",
+        "zh": "Trattoria la Crocetta"
+      },
+      "desc": {
+        "ja": "駅から約122mにある飲食店。italian料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 122 m from the station. Serves italian cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约122米的餐馆主营italian，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 122,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/13424813165",
+      "tel": "+81-742-46-1600",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6927729,
+      "lon": 135.7830618,
+      "official_url_pending": "https://crocetta.nara.jp/"
+    },
+    {
+      "id": "st01789-004",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "秋篠寺",
+        "en": "Akishino Temple",
+        "zh": "秋篠寺"
+      },
+      "desc": {
+        "ja": "駅から約1227mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 1227 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1227米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1227,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/223321895",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7033809,
+      "lon": 135.7760244
+    },
+    {
+      "id": "st01789-005",
+      "category": "food",
+      "name": {
+        "ja": "彩華 ラーメン",
+        "en": "彩華 ra-men",
+        "zh": "彩华 ラーメン"
+      },
+      "desc": {
+        "ja": "駅から約1547mにある飲食店。ramen料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Su 11:00-24:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1547 m from the station. Serves ramen cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1547米的餐馆主营ramen，适合旅途中用餐，Mo-Su 11:00-24:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1547,
+      "walk_min": 20,
+      "hours": "Mo-Su 11:00-24:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/375749268",
+      "tel": "0742-36-1853",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.682051,
+      "lon": 135.7917539,
+      "official_url_pending": "https://www.saikaramen.com/shop/nara/"
+    },
+    {
+      "id": "st01789-006",
+      "category": "police",
+      "name": {
+        "ja": "奈良警察署佐紀駐在所",
+        "en": "奈良佐紀駐在所 Police Station",
+        "zh": "奈良警察署佐紀駐在所"
+      },
+      "desc": {
+        "ja": "駅から約1191mにある駐在所。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1191 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1191米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1191,
+      "walk_min": 15,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/378259779",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6944852,
+      "lon": 135.795768
+    },
+    {
+      "id": "st01789-007",
+      "category": "medical",
+      "name": {
+        "ja": "サン薬局",
+        "en": "san薬局",
+        "zh": "サン薬局"
+      },
+      "desc": {
+        "ja": "駅から約173mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 173 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约173米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 173,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/13424813147",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.692477,
+      "lon": 135.7836936,
+      "official_url_pending": "https://kansaimedico.com/shoparea/nara/#shop412"
+    },
+    {
+      "id": "st01789-008",
+      "category": "post_office",
+      "name": {
+        "ja": "奈良西大寺郵便局",
+        "en": "Nara Saidaiji Post Office",
+        "zh": "奈良西大寺邮政局"
+      },
+      "desc": {
+        "ja": "駅から約177mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 177 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约177米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 177,
+      "walk_min": 3,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/446752127",
+      "tel": "+81-742-45-4750",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6928015,
+      "lon": 135.7813003
+    },
+    {
+      "id": "st01789-009",
+      "category": "shopping",
+      "name": {
+        "ja": "スーパーいそかわ",
+        "en": "su-pa-isokawa",
+        "zh": "Su-pa-isokawa"
+      },
+      "desc": {
+        "ja": "駅から約1301mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 1301 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1301米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1301,
+      "walk_min": 17,
+      "hours": "Mo-Su 09:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/296426127",
+      "tel": "0742-45-5781",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6822383,
+      "lon": 135.7809008,
+      "official_url_pending": "http://www.ik-isokawa.co.jp/i_amagatsuji.html"
+    },
+    {
+      "id": "st01789-010",
+      "category": "sight",
+      "name": {
+        "ja": "玄武の石碑",
+        "en": "玄武no石碑",
+        "zh": "玄武no石碑"
+      },
+      "desc": {
+        "ja": "駅から約208mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Memorial about 208 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约208米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 208,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4458785514",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6932836,
+      "lon": 135.7805937
+    },
+    {
+      "id": "st01789-011",
+      "category": "food",
+      "name": {
+        "ja": "ザ めしや",
+        "en": "za meshiya",
+        "zh": "Za Meshiya"
+      },
+      "desc": {
+        "ja": "駅から約1677mにある飲食店。japanese料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Fr 10:00-23:30; Sa-Su 09:00-23:30（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1677 m from the station. Serves japanese cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1677米的餐馆主营japanese，适合旅途中用餐，Mo-Fr 10:00-23:30, Sa-Su 09:00-23:30（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1677,
+      "walk_min": 21,
+      "hours": "Mo-Fr 10:00-23:30; Sa-Su 09:00-23:30 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/7125221985",
+      "tel": "0742-33-4401",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6845163,
+      "lon": 135.7971912,
+      "official_url_pending": "https://www.meshiya.co.jp/shop/477/"
+    },
+    {
+      "id": "st01789-012",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "セブン-イレブンのコンビニエンスストア。駅から約388mの場所にあり、Sa-Su 00:00-24:00（JST）。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 388 m from the station. Sa-Su 00:00-24:00 (JST). Stocks meals, drinks and daily necessities.",
+        "zh": "距站约388米的便利店，Sa-Su 00:00-24:00（JST），可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 388,
+      "walk_min": 5,
+      "hours": "Sa-Su 00:00-24:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/237182308",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6968547,
+      "lon": 135.7806392
+    },
+    {
+      "id": "st01789-013",
+      "category": "sight",
+      "name": {
+        "ja": "平城宮跡資料館",
+        "en": "Heijō History Museum",
+        "zh": "平城宫跡资料馆"
+      },
+      "desc": {
+        "ja": "駅から約622mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 622 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约622米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 622,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/relation/6706545",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6924072,
+      "lon": 135.7893472,
+      "official_url_pending": "https://www.nabunken.go.jp/heijo/museum"
+    },
+    {
+      "id": "st01789-014",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "喜光寺",
+        "en": "Kiko-ji temple",
+        "zh": "喜光寺"
+      },
+      "desc": {
+        "ja": "駅から約1103mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 1103 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1103米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1103,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/234985057",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6848965,
+      "lon": 135.777557,
+      "official_url_pending": "http://www.kikouji.com/"
+    },
+    {
+      "id": "st01789-015",
+      "category": "medical",
+      "name": {
+        "ja": "コクミン",
+        "en": "Kokumin",
+        "zh": "Kokumin"
+      },
+      "desc": {
+        "ja": "駅から約32mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 32 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约32米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 32,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1737905999",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6938157,
+      "lon": 135.7824234
+    },
+    {
+      "id": "st01789-016",
+      "category": "sight",
+      "name": {
+        "ja": "平城宮跡",
+        "en": "Heijō Palace",
+        "zh": "平城宫跡"
+      },
+      "desc": {
+        "ja": "駅から約1249mにある観光スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Attraction about 1249 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1249米的观光景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1249,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5654119556",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6905895,
+      "lon": 135.7958516
+    },
+    {
+      "id": "st01789-017",
+      "category": "park",
+      "name": {
+        "ja": "平城宮跡歴史公園",
+        "en": "Nara Palace Historical Park",
+        "zh": "平城宫跡历史公园"
+      },
+      "desc": {
+        "ja": "駅から約1259mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1259 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1259米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1259,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/426778267",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.690311,
+      "lon": 135.7958528
+    },
+    {
+      "id": "st01789-018",
+      "category": "sight",
+      "name": {
+        "ja": "朱雀門",
+        "en": "Suzakumon Gate",
+        "zh": "朱雀门"
+      },
+      "desc": {
+        "ja": "駅から約1304mにある観光スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Attraction about 1304 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1304米的观光景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1304,
+      "walk_min": 17,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/378251094",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.686925,
+      "lon": 135.7942842
+    },
+    {
+      "id": "st01789-019",
+      "category": "park",
+      "name": {
+        "ja": "東院庭園",
+        "en": "East Palace Garden",
+        "zh": "东院庭园"
+      },
+      "desc": {
+        "ja": "駅から約1848mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1848 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1848米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1848,
+      "walk_min": 24,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/378258859",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6897557,
+      "lon": 135.8023668
+    },
+    {
+      "id": "st01789-020",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "法華寺",
+        "en": "Hokke-ji Temple",
+        "zh": "法华寺"
+      },
+      "desc": {
+        "ja": "駅から約1991mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 1991 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1991米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1991,
+      "walk_min": 25,
+      "hours": "09:00-16:30 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/1499247841",
+      "tel": "+81 742 33 2261",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6921886,
+      "lon": 135.8044572,
+      "official_url_pending": "https://hokkejimonzeki.or.jp/"
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 262,
+    "floor_check": {
+      "medical": {
+        "candidates": 18,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 8,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 18,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 6,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 3,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
