@@ -1,0 +1,539 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st03205",
+    "name": {
+      "ja": "上福岡",
+      "en": "Kami-Fukuoka",
+      "zh": "上福冈"
+    },
+    "line_group": [
+      "東上本線",
+      "東横線",
+      "相鉄本線"
+    ],
+    "pref": "埼玉県",
+    "lat": 35.87385,
+    "lon": 139.51173
+  },
+  "generated_at": "2026-11-10T00:37:08Z",
+  "pois": [
+    {
+      "id": "st03205-001",
+      "category": "police",
+      "name": {
+        "ja": "東入間警察署 福岡交番",
+        "en": "东入間 福冈交番 Police Station",
+        "zh": "东入間警察署 福冈交番"
+      },
+      "desc": {
+        "ja": "駅から約450mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 450 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约450米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 450,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5156098705",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.875667,
+      "lon": 139.5161987
+    },
+    {
+      "id": "st03205-002",
+      "category": "shopping",
+      "name": {
+        "ja": "東武ストア",
+        "en": "Tobu Store",
+        "zh": "东武ストア"
+      },
+      "desc": {
+        "ja": "駅から約62mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 62 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约62米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 62,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/553776792",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8743989,
+      "lon": 139.5116319
+    },
+    {
+      "id": "st03205-003",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "セブン-イレブンのコンビニエンスストア。駅から約98mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 98 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约98米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 98,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5345070356",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8729707,
+      "lon": 139.5117606
+    },
+    {
+      "id": "st03205-004",
+      "category": "food",
+      "name": {
+        "ja": "キョウダイ",
+        "en": "kiyoudai",
+        "zh": "Kiyoudai"
+      },
+      "desc": {
+        "ja": "駅から約219mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Su 11:00-15:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 219 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约219米的餐馆适合旅途中用餐，Mo-Su 11:00-15:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 219,
+      "walk_min": 3,
+      "hours": "Mo-Su 11:00-15:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5809824042",
+      "tel": "+81 49 267 2009",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8745777,
+      "lon": 139.5139848
+    },
+    {
+      "id": "st03205-005",
+      "category": "bank_atm",
+      "name": {
+        "ja": "みずほ銀行",
+        "en": "Mizuho Bank",
+        "zh": "瑞穗银行"
+      },
+      "desc": {
+        "ja": "みずほ銀行の支店。駅から約193mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 193 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约193米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 193,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5437265692",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8752192,
+      "lon": 139.5130386
+    },
+    {
+      "id": "st03205-006",
+      "category": "park",
+      "name": {
+        "ja": "北野さくら公園",
+        "en": "北野sakura公園",
+        "zh": "北野sakura公園"
+      },
+      "desc": {
+        "ja": "駅から約427mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 427 m from the station, with paths and benches for a rest.",
+        "zh": "距站约427米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 427,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/1280388789",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8776846,
+      "lon": 139.5114338
+    },
+    {
+      "id": "st03205-007",
+      "category": "food",
+      "name": {
+        "ja": "音喫茶 一乗",
+        "en": "Ichijou",
+        "zh": "音喫茶 一乗"
+      },
+      "desc": {
+        "ja": "駅から約642mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 642 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约642米的餐馆适合旅途中用餐，菜单与价格以店内展示内容为准，具体信息以现场为准。"
+      },
+      "distance_m": 642,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/13897212375",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8758882,
+      "lon": 139.5050644,
+      "official_url_pending": "https://ichijou-live.com/index.html"
+    },
+    {
+      "id": "st03205-008",
+      "category": "medical",
+      "name": {
+        "ja": "マイ薬局",
+        "en": "mai薬局",
+        "zh": "マイ薬局"
+      },
+      "desc": {
+        "ja": "駅から約329mにある薬局。体調を崩した際の受診や薬の購入に対応する。受付はMo-We,Fr 09:00-18:00; Sa 09:00-13:00（JST）。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 329 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约329米的药房，Mo-We, Fr 09:00-18:00, Sa 09:00-13:00（JST），旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 329,
+      "walk_min": 5,
+      "hours": "Mo-We,Fr 09:00-18:00; Sa 09:00-13:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5756013124",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8758569,
+      "lon": 139.5144196
+    },
+    {
+      "id": "st03205-009",
+      "category": "food",
+      "name": {
+        "ja": "ステーキ宮 上福岡店",
+        "en": "sute-ki宮 上福岡店",
+        "zh": "ステーキ宫 上福冈店"
+      },
+      "desc": {
+        "ja": "駅から約859mにある飲食店。steak_house料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 859 m from the station. Serves steak_house cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约859米的餐馆主营steak_house，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 859,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/548633680",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8672274,
+      "lon": 139.5068139,
+      "official_url_pending": "https://www.miya.com/shop/detail.php?shop_no=93"
+    },
+    {
+      "id": "st03205-010",
+      "category": "medical",
+      "name": {
+        "ja": "サンドラッグ",
+        "en": "Sundrug",
+        "zh": "Sandoragu"
+      },
+      "desc": {
+        "ja": "駅から約511mにある薬局。体調を崩した際の受診や薬の購入に対応する。受付はMo-Su,PH 10:00-21:00（JST）。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 511 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约511米的药房，Mo-Su, PH 10:00-21:00（JST），旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 511,
+      "walk_min": 7,
+      "hours": "Mo-Su,PH 10:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/4745222448",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.876539,
+      "lon": 139.5163235
+    },
+    {
+      "id": "st03205-011",
+      "category": "post_office",
+      "name": {
+        "ja": "上福岡駅前郵便局",
+        "en": "上福冈站前 Post Office",
+        "zh": "上福冈站前邮政局"
+      },
+      "desc": {
+        "ja": "駅から約173mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 173 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约173米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 173,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420190254",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.872671,
+      "lon": 139.510479
+    },
+    {
+      "id": "st03205-012",
+      "category": "sight",
+      "name": {
+        "ja": "ふじみ野市立上福岡歴史民俗資料館",
+        "en": "fujimi野市立上福岡歴史民俗資料館",
+        "zh": "Fujimi野市立上福岡歴史民俗資料館"
+      },
+      "desc": {
+        "ja": "駅から約1504mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1504 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1504米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1504,
+      "walk_min": 19,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420167016",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.875723,
+      "lon": 139.528261
+    },
+    {
+      "id": "st03205-013",
+      "category": "sight",
+      "name": {
+        "ja": "ふじみ野市立福岡河岸記念館",
+        "en": "fujimi野市立福岡河岸記念館",
+        "zh": "Fujimi野市立福岡河岸記念館"
+      },
+      "desc": {
+        "ja": "駅から約1620mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1620 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1620米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1620,
+      "walk_min": 21,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420189522",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.885291,
+      "lon": 139.522855
+    },
+    {
+      "id": "st03205-014",
+      "category": "public_service",
+      "name": {
+        "ja": "ふじみ野第2庁舎",
+        "en": "fujimi野第2庁舎",
+        "zh": "Fujimi野第2庁舎"
+      },
+      "desc": {
+        "ja": "駅から約864mにある役所・行政施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Civic office about 864 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约864米的行政机构，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 864,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/566242803",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8788967,
+      "lon": 139.519019
+    },
+    {
+      "id": "st03205-015",
+      "category": "park",
+      "name": {
+        "ja": "南台あすなろ公園",
+        "en": "南台asunaro公園",
+        "zh": "南台asunaro公園"
+      },
+      "desc": {
+        "ja": "駅から約941mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 941 m from the station, with paths and benches for a rest.",
+        "zh": "距站约941米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 941,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/1064893098",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8690827,
+      "lon": 139.5203526
+    },
+    {
+      "id": "st03205-016",
+      "category": "cafe",
+      "name": {
+        "ja": "ドトールコーヒーショップ",
+        "en": "Doutor Coffee Shop",
+        "zh": "多特咖啡"
+      },
+      "desc": {
+        "ja": "駅から約1747mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。",
+        "en": "Cafe about 1747 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约1747米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 1747,
+      "walk_min": 22,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2969662427",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8605956,
+      "lon": 139.5221373,
+      "official_url_pending": "https://shop.doutor.co.jp/doutor/spot/detail?code=1011113"
+    },
+    {
+      "id": "st03205-017",
+      "category": "sight",
+      "name": {
+        "ja": "ふじみ野市立大井郷土資料館",
+        "en": "fujimi野市立大井郷土資料館",
+        "zh": "Fujimi野市立大井郷土資料館"
+      },
+      "desc": {
+        "ja": "駅から約1920mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。入場は無料。",
+        "en": "Museum about 1920 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1920米的博物馆·美术馆，免费开放，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1920,
+      "walk_min": 24,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420189520",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.857527,
+      "lon": 139.504766,
+      "official_url_pending": "https://www.city.fujimino.saitama.jp/soshikiichiran/oikyodoshiryokan/gakugeikakari/2573.html"
+    }
+  ],
+  "coverage": {
+    "poi_count": 17,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 318,
+    "floor_check": {
+      "medical": {
+        "candidates": 26,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 8,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 39,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 9,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 5,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}

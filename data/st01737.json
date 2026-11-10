@@ -1,0 +1,600 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st01737",
+    "name": {
+      "ja": "花小金井",
+      "en": "Hana-Koganei",
+      "zh": "花小金井"
+    },
+    "line_group": [
+      "西武新宿線"
+    ],
+    "pref": "東京都",
+    "lat": 35.72635,
+    "lon": 139.51303
+  },
+  "generated_at": "2026-11-10T00:37:08Z",
+  "pois": [
+    {
+      "id": "st01737-001",
+      "category": "police",
+      "name": {
+        "ja": "小金井警察署小金井公園前交番",
+        "en": "小金井小金井公园前交番 Police Station",
+        "zh": "小金井警察署小金井公园前交番"
+      },
+      "desc": {
+        "ja": "駅から約1507mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1507 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1507米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1507,
+      "walk_min": 19,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420776685",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.712804,
+      "lon": 139.512547
+    },
+    {
+      "id": "st01737-002",
+      "category": "bank_atm",
+      "name": {
+        "ja": "りそな銀行",
+        "en": "Resona Bank",
+        "zh": "理索纳银行"
+      },
+      "desc": {
+        "ja": "りそな銀行のATM。駅から約24mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 24 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约24米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 24,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/711278008",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7261468,
+      "lon": 139.5129317
+    },
+    {
+      "id": "st01737-003",
+      "category": "cafe",
+      "name": {
+        "ja": "ドトールコーヒーショップ",
+        "en": "Doutor Coffee Shop",
+        "zh": "多特咖啡"
+      },
+      "desc": {
+        "ja": "駅から約37mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。Mo-Fr 07:00-21:00; Sa-Su,PH 08:00-21:00（JST）。",
+        "en": "Cafe about 37 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约37米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 37,
+      "walk_min": 1,
+      "hours": "Mo-Fr 07:00-21:00; Sa-Su,PH 08:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/3652233635",
+      "tel": "+81 42-451-6550",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7266431,
+      "lon": 139.5128391,
+      "official_url_pending": "https://www.doutor.co.jp/dcs/"
+    },
+    {
+      "id": "st01737-004",
+      "category": "food",
+      "name": {
+        "ja": "くら寿司",
+        "en": "Kura Sushi",
+        "zh": "Kura寿司"
+      },
+      "desc": {
+        "ja": "駅から約1509mにある飲食店。sushi料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Fr 11:00-23:00; Sa,Su,PH 10:20-23:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1509 m from the station. Serves sushi cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1509米的餐馆主营sushi，适合旅途中用餐，Mo-Fr 11:00-23:00, Sa, Su, PH 10:20-23:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1509,
+      "walk_min": 19,
+      "hours": "Mo-Fr 11:00-23:00; Sa,Su,PH 10:20-23:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1799429149",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7128615,
+      "lon": 139.5112203,
+      "official_url_pending": "http://www.kura-corpo.co.jp/store/detail/222"
+    },
+    {
+      "id": "st01737-005",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "セブン-イレブンのコンビニエンスストア。駅から約122mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 122 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约122米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 122,
+      "walk_min": 2,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/683960523",
+      "tel": "+81 42-469-4221",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7252518,
+      "lon": 139.5130488,
+      "official_url_pending": "https://www.sej.co.jp/"
+    },
+    {
+      "id": "st01737-006",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "鈴木稲荷神社",
+        "en": "Suzuki Inari Jinja",
+        "zh": "鈴木稲荷神社"
+      },
+      "desc": {
+        "ja": "駅から約1673mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1673 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1673米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1673,
+      "walk_min": 21,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/695228511",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7222289,
+      "lon": 139.4952061
+    },
+    {
+      "id": "st01737-007",
+      "category": "food",
+      "name": {
+        "ja": "Y's Burger",
+        "en": "Y's Burger",
+        "zh": "Y's Burger"
+      },
+      "desc": {
+        "ja": "駅から約469mにある飲食店。burger料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Su 11:00-21:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 469 m from the station. Serves burger cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约469米的餐馆主营burger，适合旅途中用餐，Mo-Su 11:00-21:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 469,
+      "walk_min": 6,
+      "hours": "Mo-Su 11:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/9554355783",
+      "tel": "+81 50 8881 5176",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7251846,
+      "lon": 139.5080367,
+      "official_url_pending": "https://tabelog.com/tokyo/A1328/A132804/13258924/"
+    },
+    {
+      "id": "st01737-008",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "武蔵野神社",
+        "en": "Musashino-Jinja",
+        "zh": "武蔵野神社"
+      },
+      "desc": {
+        "ja": "駅から約922mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 922 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约922米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 922,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/13521411997",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7315233,
+      "lon": 139.5050435
+    },
+    {
+      "id": "st01737-009",
+      "category": "medical",
+      "name": {
+        "ja": "マツモトキヨシ",
+        "en": "Matsukiyo",
+        "zh": "Matsumotokiyoshi"
+      },
+      "desc": {
+        "ja": "駅から約49mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 49 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约49米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 49,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/8337294816",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7266803,
+      "lon": 139.5126757
+    },
+    {
+      "id": "st01737-010",
+      "category": "shopping",
+      "name": {
+        "ja": "Big-A",
+        "en": "Big-A",
+        "zh": "Big-A"
+      },
+      "desc": {
+        "ja": "駅から約1046mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 1046 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1046米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1046,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/684006574",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7228608,
+      "lon": 139.5022666,
+      "official_url_pending": "https://www.biga.co.jp/shop/list/ShopID6037.htm"
+    },
+    {
+      "id": "st01737-011",
+      "category": "sight",
+      "name": {
+        "ja": "西東京市郷土資料室",
+        "en": "Nishitokyo Local History Museum",
+        "zh": "西东京市郷土资料室"
+      },
+      "desc": {
+        "ja": "駅から約1848mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1848 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1848米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1848,
+      "walk_min": 24,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/13294628725",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7367501,
+      "lon": 139.529005,
+      "official_url_pending": "https://www.city.nishitokyo.lg.jp/sisetu/other/kyodo.html"
+    },
+    {
+      "id": "st01737-012",
+      "category": "convenience",
+      "name": {
+        "ja": "ファミリーマート",
+        "en": "FamilyMart",
+        "zh": "全家便利店"
+      },
+      "desc": {
+        "ja": "ファミリーマートのコンビニエンスストア。駅から約1126mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 1126 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约1126米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 1126,
+      "walk_min": 15,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2968355827",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7278103,
+      "lon": 139.5006908,
+      "official_url_pending": "http://as.chizumaru.com/200080/detailMap?account=200080&accmd=0&bid=01015290&key=%E5%B0%8F%E5%B9%B3%E5%B8%82%E5%A4%A9%E7%A5%9E%E7%94%BA&adr=13211Z035032&x=502202.593&y=128617.667&lscl=997&lrot=0&pgret=1"
+    },
+    {
+      "id": "st01737-013",
+      "category": "post_office",
+      "name": {
+        "ja": "ヤマト運輸",
+        "en": "yamato運輸",
+        "zh": "ヤマト運輸"
+      },
+      "desc": {
+        "ja": "駅から約1146mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1146 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1146米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 1146,
+      "walk_min": 15,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2968355826",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7278041,
+      "lon": 139.5004604,
+      "official_url_pending": "http://www.e-map.ne.jp/p/yamato01/dtl/039492/?&his=al1,al2,al3,nm"
+    },
+    {
+      "id": "st01737-014",
+      "category": "park",
+      "name": {
+        "ja": "小金井公園",
+        "en": "Koganei Park",
+        "zh": "小金井公园"
+      },
+      "desc": {
+        "ja": "駅から約1204mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1204 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1204米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1204,
+      "walk_min": 16,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/591077391",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7164997,
+      "lon": 139.5185673,
+      "official_url_pending": "https://www.tokyo-park.or.jp/park/koganei/"
+    },
+    {
+      "id": "st01737-015",
+      "category": "sight",
+      "name": {
+        "ja": "多摩六都科学館",
+        "en": "Tamarokuto Science Center",
+        "zh": "多摩六都科学馆"
+      },
+      "desc": {
+        "ja": "駅から約1284mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1284 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1284米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1284,
+      "walk_min": 17,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420772465",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7345533,
+      "lon": 139.5230366,
+      "official_url_pending": "https://www.tamarokuto.or.jp/"
+    },
+    {
+      "id": "st01737-016",
+      "category": "sight",
+      "name": {
+        "ja": "スカイタワー西東京",
+        "en": "sukaitawa-西東京",
+        "zh": "スカイタワー西东京"
+      },
+      "desc": {
+        "ja": "駅から約1324mにある展望スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Viewpoint about 1324 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1324米的观景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1324,
+      "walk_min": 17,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6901773291",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7351079,
+      "lon": 139.5229679
+    },
+    {
+      "id": "st01737-017",
+      "category": "medical",
+      "name": {
+        "ja": "花小金井西野整形外科",
+        "en": "Hanakoganei Nishino Orthopedic Surgical Clinic",
+        "zh": "花小金井西野整形外科"
+      },
+      "desc": {
+        "ja": "駅から約202mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 202 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约202米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 202,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/12450359591",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7267115,
+      "lon": 139.5108409
+    },
+    {
+      "id": "st01737-018",
+      "category": "food",
+      "name": {
+        "ja": "モスバーガー",
+        "en": "MOS Burger",
+        "zh": "摩斯汉堡"
+      },
+      "desc": {
+        "ja": "駅から約1420mにある飲食店。burger料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Su 10:00-20:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1420 m from the station. Serves burger cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1420米的餐馆主营burger，适合旅途中用餐，Mo-Su 10:00-20:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1420,
+      "walk_min": 18,
+      "hours": "Mo-Su 10:00-20:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/745027806",
+      "tel": "+81-42-4514110",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7388557,
+      "lon": 139.5098314,
+      "official_url_pending": "https://www.mos.co.jp/"
+    },
+    {
+      "id": "st01737-019",
+      "category": "shopping",
+      "name": {
+        "ja": "いなげや",
+        "en": "Inageya",
+        "zh": "Inageya"
+      },
+      "desc": {
+        "ja": "駅から約83mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 83 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约83米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 83,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/13452348047",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.7269978,
+      "lon": 139.5134975
+    }
+  ],
+  "coverage": {
+    "poi_count": 19,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 330,
+    "floor_check": {
+      "medical": {
+        "candidates": 29,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 5,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 39,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 13,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 3,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
