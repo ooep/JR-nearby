@@ -1,0 +1,543 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st06777",
+    "name": {
+      "ja": "越谷レイクタウン",
+      "en": "Koshigaya-Laketown",
+      "zh": "越谷レイクタウン"
+    },
+    "line_group": [
+      "京葉線",
+      "東北本線",
+      "武蔵野線"
+    ],
+    "pref": "埼玉県",
+    "lat": 35.87627,
+    "lon": 139.82165
+  },
+  "generated_at": "2026-11-10T00:21:47Z",
+  "pois": [
+    {
+      "id": "st06777-001",
+      "category": "convenience",
+      "name": {
+        "ja": "ミニストップ",
+        "en": "Ministop",
+        "zh": "迷你岛便利店"
+      },
+      "desc": {
+        "ja": "ミニストップのコンビニエンスストア。駅から約95mの場所にあり、Mo-Su 07:00-00:00（JST）。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 95 m from the station. Mo-Su 07:00-00:00 (JST). Stocks meals, drinks and daily necessities.",
+        "zh": "距站约95米的便利店，Mo-Su 07:00-00:00（JST），可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 95,
+      "walk_min": 2,
+      "hours": "Mo-Su 07:00-00:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/3122258044",
+      "tel": "+81 48-934-3102",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8764754,
+      "lon": 139.8226732,
+      "official_url_pending": "https://www.ministop.co.jp/"
+    },
+    {
+      "id": "st06777-002",
+      "category": "bank_atm",
+      "name": {
+        "ja": "千葉銀行",
+        "en": "Chiba Bank",
+        "zh": "千葉银行"
+      },
+      "desc": {
+        "ja": "千葉銀行の支店。駅から約169mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 169 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约169米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 169,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/3125784353",
+      "tel": "+81 48-961-2101",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8775328,
+      "lon": 139.8226987,
+      "official_url_pending": "http://sasp.mapion.co.jp"
+    },
+    {
+      "id": "st06777-003",
+      "category": "food",
+      "name": {
+        "ja": "サイゼリヤ",
+        "en": "Saizeriya",
+        "zh": "萨莉亚"
+      },
+      "desc": {
+        "ja": "駅から約182mにある飲食店。italian料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 182 m from the station. Serves italian cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约182米的餐馆主营italian，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 182,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/3122257198",
+      "tel": "+81 48-990-1061",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8763549,
+      "lon": 139.8236648,
+      "official_url_pending": "http://saizeriya.co.jp"
+    },
+    {
+      "id": "st06777-004",
+      "category": "cafe",
+      "name": {
+        "ja": "タリーズコーヒー",
+        "en": "Tully's Coffee",
+        "zh": "塔利咖啡"
+      },
+      "desc": {
+        "ja": "駅から約207mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。Mo-Su 09:00-23:00（JST）。",
+        "en": "Cafe about 207 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约207米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 207,
+      "walk_min": 3,
+      "hours": "Mo-Su 09:00-23:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6433502008",
+      "tel": "+81 48-990-3382",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8769319,
+      "lon": 139.8237958
+    },
+    {
+      "id": "st06777-005",
+      "category": "shopping",
+      "name": {
+        "ja": "ヴィ・ド・フランス",
+        "en": "Vie de France",
+        "zh": "ヴi・do・furansu"
+      },
+      "desc": {
+        "ja": "駅から約75mにあるベーカリー。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Bakery about 75 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约75米的面包店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 75,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6433501901",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8763245,
+      "lon": 139.8224746
+    },
+    {
+      "id": "st06777-006",
+      "category": "food",
+      "name": {
+        "ja": "マクドナルド",
+        "en": "McDonald's",
+        "zh": "麦当劳"
+      },
+      "desc": {
+        "ja": "駅から約399mにある飲食店。burger料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Su 09:00-22:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 399 m from the station. Serves burger cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约399米的餐馆主营burger，适合旅途中用餐，Mo-Su 09:00-22:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 399,
+      "walk_min": 5,
+      "hours": "Mo-Su 09:00-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/3908773472",
+      "tel": "+81 48-988-7641",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8784231,
+      "lon": 139.8251932,
+      "official_url_pending": "https://map.mcdonalds.co.jp/"
+    },
+    {
+      "id": "st06777-007",
+      "category": "shopping",
+      "name": {
+        "ja": "イオンレイクタウン OUTLET",
+        "en": "AEON LAKETOWN OUTLET",
+        "zh": "イオンレイクタウン OUTLET"
+      },
+      "desc": {
+        "ja": "駅から約549mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 549 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约549米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 549,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/relation/2262031",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8803465,
+      "lon": 139.8250966,
+      "official_url_pending": "https://laketown-outlet.jp/"
+    },
+    {
+      "id": "st06777-008",
+      "category": "food",
+      "name": {
+        "ja": "湘南カレー",
+        "en": "湘南kare-",
+        "zh": "湘南カレー"
+      },
+      "desc": {
+        "ja": "駅から約424mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Su 11:00-23:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 424 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约424米的餐馆适合旅途中用餐，Mo-Su 11:00-23:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 424,
+      "walk_min": 6,
+      "hours": "Mo-Su 11:00-23:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6433502012",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8785452,
+      "lon": 139.82542
+    },
+    {
+      "id": "st06777-009",
+      "category": "sight",
+      "name": {
+        "ja": "中村家住宅",
+        "en": "Former Nakamura Family Residence",
+        "zh": "中村家住宅"
+      },
+      "desc": {
+        "ja": "駅から約730mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 730 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约730米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 730,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/1185171608",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8815801,
+      "lon": 139.8168867,
+      "official_url_pending": "https://www.city.koshigaya.saitama.jp/toiawase/shisetsu/dentobunka/kyuuhigasikatamuranakamurake.html"
+    },
+    {
+      "id": "st06777-010",
+      "category": "shopping",
+      "name": {
+        "ja": "イオンレイクタウン mori",
+        "en": "AEON LakeTown mori",
+        "zh": "イオンレイクタウン mori"
+      },
+      "desc": {
+        "ja": "駅から約903mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 903 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约903米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 903,
+      "walk_min": 12,
+      "hours": "Mo-Su,PH 10:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/23890580",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8823516,
+      "lon": 139.8282993
+    },
+    {
+      "id": "st06777-011",
+      "category": "sight",
+      "name": {
+        "ja": "VRセンター",
+        "en": "VRsenta-",
+        "zh": "VRセンター"
+      },
+      "desc": {
+        "ja": "駅から約981mにある観光スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Attraction about 981 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约981米的观光景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 981,
+      "walk_min": 13,
+      "hours": "Mo-Su 09:00-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6433502037",
+      "tel": "+81 48-930-7437",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8836892,
+      "lon": 139.8275487
+    },
+    {
+      "id": "st06777-012",
+      "category": "police",
+      "name": {
+        "ja": "ニチレキ株式会社 東京支店",
+        "en": "nichireki株式会社 東京支店",
+        "zh": "ニチレキ株式会社 东京支店"
+      },
+      "desc": {
+        "ja": "駅から約1456mにある警察署。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1456 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1456米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1456,
+      "walk_min": 19,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4359448293",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.880455,
+      "lon": 139.8063362
+    },
+    {
+      "id": "st06777-013",
+      "category": "post_office",
+      "name": {
+        "ja": "越谷レイクタウン郵便局",
+        "en": "越谷reikutaun郵便局",
+        "zh": "越谷レイクタウン邮政局"
+      },
+      "desc": {
+        "ja": "駅から約559mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 559 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约559米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 559,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/10992068159",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8787251,
+      "lon": 139.8162417
+    },
+    {
+      "id": "st06777-014",
+      "category": "medical",
+      "name": {
+        "ja": "越谷ハートフルクリニック",
+        "en": "Koshigaya Heartful Clinic",
+        "zh": "越谷ハートフルクリニック"
+      },
+      "desc": {
+        "ja": "駅から約1681mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 1681 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1681米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1681,
+      "walk_min": 22,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4239268090",
+      "tel": "+81 48-989-8020",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.862912,
+      "lon": 139.8129165,
+      "official_url_pending": "http://k-hc.jp"
+    },
+    {
+      "id": "st06777-015",
+      "category": "park",
+      "name": {
+        "ja": "レイクタウン第4公園",
+        "en": "reikutaun第4公園",
+        "zh": "レイクタウン第4公园"
+      },
+      "desc": {
+        "ja": "駅から約717mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 717 m from the station, with paths and benches for a rest.",
+        "zh": "距站约717米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 717,
+      "walk_min": 9,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/1068112701",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8752234,
+      "lon": 139.8294971
+    },
+    {
+      "id": "st06777-016",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "セブン-イレブンのコンビニエンスストア。駅から約1818mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 1818 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约1818米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 1818,
+      "walk_min": 23,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6285814204",
+      "tel": "+81 48-983-7067",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8744698,
+      "lon": 139.8417009,
+      "official_url_pending": "http://sej.co.jp"
+    },
+    {
+      "id": "st06777-017",
+      "category": "bank_atm",
+      "name": {
+        "ja": "JAバンク",
+        "en": "JA Bank",
+        "zh": "JAバンク"
+      },
+      "desc": {
+        "ja": "JAバンクの支店。駅から約1400mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 1400 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约1400米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 1400,
+      "walk_min": 18,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5464747841",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8637494,
+      "lon": 139.8199901
+    }
+  ],
+  "coverage": {
+    "poi_count": 17,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 153,
+    "floor_check": {
+      "medical": {
+        "candidates": 14,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 4,
+        "selected": 2
+      },
+      "convenience": {
+        "candidates": 17,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 3,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 4,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
