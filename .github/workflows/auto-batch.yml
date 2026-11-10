@@ -3,14 +3,18 @@ name: auto-batch
 # Self-sustaining Nearby pipeline. The runner has the only working outbound
 # network, so the whole loop (fetch -> assemble -> validate -> publish) lives
 # here. The queue is rebuilt from the remote index on every round, which means
-# a job can stop at any time and the next scheduled job continues exactly
-# where it left off. No workstation, no artifact download, no human "continue".
+# a job can stop at any time and the next job continues exactly where it left
+# off. No workstation, no artifact download, no human "continue".
+#
+# Each run relays the next one with workflow_dispatch before it exits. The
+# hourly schedule is only a safety net for a lost relay (canceled job, API
+# error, GitHub incident). The concurrency group keeps exactly one run active,
+# so neither mechanism can cause parallel fetching.
 
 on:
   schedule:
-    # Every 3h. Combined with the concurrency group this keeps exactly one
-    # run active and one queued, so the pipeline advances near-continuously.
-    - cron: "17 */3 * * *"
+    # Hourly safety net only. Primary trigger is the relay step below.
+    - cron: "17 * * * *"
   workflow_dispatch:
     inputs:
       max_stations:
@@ -112,3 +116,37 @@ jobs:
       - name: Finalize (cleanup + worktree assertion)
         if: always()
         run: bash encryption/finalize.sh "$JR_WORK"
+
+      - name: Relay to the next round (best effort)
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -uo pipefail
+          API="https://api.github.com/repos/${GITHUB_REPOSITORY}/actions/workflows/auto-batch.yml/runs?per_page=20"
+          ACTIVE=$(curl -s -m 20 \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            "$API" | python3 -c '
+          import sys, json, os
+          me = int(os.environ.get("GITHUB_RUN_ID", "0"))
+          try:
+              d = json.load(sys.stdin)
+          except Exception:
+              print(-1)
+              raise SystemExit
+          print(sum(1 for r in d.get("workflow_runs", [])
+                    if r.get("status") in ("queued", "in_progress", "waiting", "pending")
+                    and r.get("id") != me))
+          ')
+          if [ "$ACTIVE" = "0" ]; then
+            curl -s -m 20 -X POST \
+              -H "Authorization: Bearer $GH_TOKEN" \
+              -H "Accept: application/vnd.github+json" \
+              -H "Content-Type: application/json" \
+              -d '{"ref":"main"}' \
+              "https://api.github.com/repos/${GITHUB_REPOSITORY}/actions/workflows/auto-batch.yml/dispatches" \
+              -o /dev/null -w "relay dispatch http=%{http_code}\n" || true
+          else
+            echo "relay skipped: ${ACTIVE} run(s) already queued or active"
+          fi
