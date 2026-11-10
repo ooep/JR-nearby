@@ -1,0 +1,598 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st00563",
+    "name": {
+      "ja": "加古川",
+      "en": "Kakogawa",
+      "zh": "加古川"
+    },
+    "line_group": [
+      "加古川線",
+      "北陸本線",
+      "山陰本線",
+      "山陽本線"
+    ],
+    "pref": "兵庫県",
+    "lat": 34.767732,
+    "lon": 134.839374
+  },
+  "generated_at": "2026-11-10T12:33:22Z",
+  "pois": [
+    {
+      "id": "st00563-001",
+      "category": "sight",
+      "name": {
+        "ja": "涅槃の木 沙羅樹",
+        "en": "涅槃no木 沙羅樹",
+        "zh": "涅槃no木 沙羅樹"
+      },
+      "desc": {
+        "ja": "駅から約1845mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Memorial about 1845 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1845米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1845,
+      "walk_min": 24,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/7842977486",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7520792,
+      "lon": 134.8326647
+    },
+    {
+      "id": "st00563-002",
+      "category": "shopping",
+      "name": {
+        "ja": "ブランジェリー ドンク",
+        "en": "buranjieri- donku",
+        "zh": "Buranjieri- Donku"
+      },
+      "desc": {
+        "ja": "駅から約182mにあるベーカリー。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Bakery about 182 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约182米的面包店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 182,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5395164726",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7661146,
+      "lon": 134.8390624
+    },
+    {
+      "id": "st00563-003",
+      "category": "police",
+      "name": {
+        "ja": "加古川警察署鳩里交番",
+        "en": "加古川鳩里交番 Police Station",
+        "zh": "加古川警察署鳩里交番"
+      },
+      "desc": {
+        "ja": "駅から約1258mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1258 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1258米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1258,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423055056",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7569653,
+      "lon": 134.835143
+    },
+    {
+      "id": "st00563-004",
+      "category": "bank_atm",
+      "name": {
+        "ja": "三井住友銀行",
+        "en": "Sumitomo Mitsui Banking Corporation",
+        "zh": "三井住友银行"
+      },
+      "desc": {
+        "ja": "三井住友銀行の支店。駅から約204mにあり、預け入れ・引き出しやATMの利用に対応する。窓口はPH,Mo-Sa 07:00-24:00; Su 07:00-21:00（JST）。",
+        "en": "Bank about 204 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约204米的银行网点，PH, Mo-Sa 07:00-24:00, Su 07:00-21:00（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 204,
+      "walk_min": 3,
+      "hours": "PH,Mo-Sa 07:00-24:00; Su 07:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5395272430",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7659211,
+      "lon": 134.8397488
+    },
+    {
+      "id": "st00563-005",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "セブン-イレブンのコンビニエンスストア。駅から約211mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 211 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约211米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 211,
+      "walk_min": 3,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5395272832",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.765851,
+      "lon": 134.8396668
+    },
+    {
+      "id": "st00563-006",
+      "category": "cafe",
+      "name": {
+        "ja": "うみそらCafe",
+        "en": "umisoraCafe",
+        "zh": "UmisoraCafe"
+      },
+      "desc": {
+        "ja": "駅から約366mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。We-Fr 13:00-17:00; Sa-Su 12:00-17:00（JST）。",
+        "en": "Cafe about 366 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约366米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 366,
+      "walk_min": 5,
+      "hours": "We-Fr 13:00-17:00; Sa-Su 12:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5392480440",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7667039,
+      "lon": 134.8355633,
+      "official_url_pending": "https://www.umisora-cafe.com/"
+    },
+    {
+      "id": "st00563-007",
+      "category": "bank_atm",
+      "name": {
+        "ja": "JA兵庫南加古川支店",
+        "en": "JA兵庫南加古川支店",
+        "zh": "JA兵庫南加古川支店"
+      },
+      "desc": {
+        "ja": "JA兵庫南加古川支店の支店。駅から約231mにあり、預け入れ・引き出しやATMの利用に対応する。窓口はMo-Fr 09:00-15:00（JST）。",
+        "en": "Bank about 231 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约231米的银行网点，Mo-Fr 09:00-15:00（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 231,
+      "walk_min": 3,
+      "hours": "Mo-Fr 09:00-15:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/9593142275",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7662262,
+      "lon": 134.8376379
+    },
+    {
+      "id": "st00563-008",
+      "category": "public_service",
+      "name": {
+        "ja": "00. Work Shop space & Office",
+        "en": "00. Work Shop space & Office",
+        "zh": "00. Work Shop space & Office"
+      },
+      "desc": {
+        "ja": "駅から約289mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 289 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约289米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 289,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6210526015",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7663256,
+      "lon": 134.8367142,
+      "official_url_pending": "https://kakogawa-machi.com/"
+    },
+    {
+      "id": "st00563-009",
+      "category": "food",
+      "name": {
+        "ja": "サイゼリヤ",
+        "en": "Saizeriya",
+        "zh": "萨莉亚"
+      },
+      "desc": {
+        "ja": "駅から約283mにある飲食店。italian料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は10:00-22:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 283 m from the station. Serves italian cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约283米的餐馆主营italian，适合旅途中用餐，10:00-22:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 283,
+      "walk_min": 4,
+      "hours": "10:00-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5392479726",
+      "tel": "079-456-6078",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7688359,
+      "lon": 134.8365789,
+      "official_url_pending": "https://www.saizeriya.co.jp/restaurant/shop_detail.php?cd=1299"
+    },
+    {
+      "id": "st00563-010",
+      "category": "medical",
+      "name": {
+        "ja": "住吉医院",
+        "en": "住吉 Hospital",
+        "zh": "住吉医院"
+      },
+      "desc": {
+        "ja": "駅から約361mにあるクリニック。体調を崩した際の受診や薬の購入に対応する。受付はMo-Fr 09:00-12:00,16:00-18:30; Th,Sa 09:00-12:00（JST）。旅先でも頼れる医療施設。",
+        "en": "Clinic about 361 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约361米的诊所，Mo-Fr 09:00-12:00, 16:00-18:30, Th, Sa 09:00-12:00（JST），旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 361,
+      "walk_min": 5,
+      "hours": "Mo-Fr 09:00-12:00,16:00-18:30; Th,Sa 09:00-12:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5392479737",
+      "tel": "+81 79-420-7333",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7662565,
+      "lon": 134.8358517
+    },
+    {
+      "id": "st00563-011",
+      "category": "convenience",
+      "name": {
+        "ja": "ローソン",
+        "en": "Lawson",
+        "zh": "罗森"
+      },
+      "desc": {
+        "ja": "ローソンのコンビニエンスストア。駅から約309mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 309 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约309米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 309,
+      "walk_min": 4,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5392214634",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7683105,
+      "lon": 134.8426862
+    },
+    {
+      "id": "st00563-012",
+      "category": "sight",
+      "name": {
+        "ja": "成道の木 菩提樹",
+        "en": "成道no木 菩提樹",
+        "zh": "成道no木 菩提樹"
+      },
+      "desc": {
+        "ja": "駅から約1848mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Memorial about 1848 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1848米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1848,
+      "walk_min": 24,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/7842977489",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7520987,
+      "lon": 134.8325108
+    },
+    {
+      "id": "st00563-013",
+      "category": "food",
+      "name": {
+        "ja": "ステーキ藤久",
+        "en": "sute-ki藤久",
+        "zh": "ステーキ藤久"
+      },
+      "desc": {
+        "ja": "駅から約156mにある飲食店。steak_house料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 156 m from the station. Serves steak_house cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约156米的餐馆主营steak_house，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 156,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/7391870427",
+      "tel": "+81 79-422-4129",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7663348,
+      "lon": 134.8392029,
+      "official_url_pending": "https://www.fujikyu4129.com/steak.html"
+    },
+    {
+      "id": "st00563-014",
+      "category": "public_service",
+      "name": {
+        "ja": "マイスタ加古川",
+        "en": "maisuta加古川",
+        "zh": "マイスタ加古川"
+      },
+      "desc": {
+        "ja": "駅から約515mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 515 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约515米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 515,
+      "walk_min": 7,
+      "hours": "09:00-19:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/7241294885",
+      "tel": "079-440-7156",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7650856,
+      "lon": 134.8347475,
+      "official_url_pending": "https://my-st.fun/"
+    },
+    {
+      "id": "st00563-015",
+      "category": "post_office",
+      "name": {
+        "ja": "加古川木村郵便局",
+        "en": "Kakogawa Kimura Post Office",
+        "zh": "加古川木村邮政局"
+      },
+      "desc": {
+        "ja": "駅から約643mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 643 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约643米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 643,
+      "walk_min": 9,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1423054950",
+      "tel": "+81-79-423-5000",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7649428,
+      "lon": 134.8332103
+    },
+    {
+      "id": "st00563-016",
+      "category": "food",
+      "name": {
+        "ja": "串くし本舗 加古川店",
+        "en": "串kushi本舗 加古川店",
+        "zh": "串kushi本舗 加古川店"
+      },
+      "desc": {
+        "ja": "駅から約215mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 215 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约215米的餐馆适合旅途中用餐，菜单与价格以店内展示内容为准，具体信息以现场为准。"
+      },
+      "distance_m": 215,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/7445097682",
+      "tel": "+81 79-453-4188",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7663149,
+      "lon": 134.837774,
+      "official_url_pending": "https://kushikakogawa.owst.jp/"
+    },
+    {
+      "id": "st00563-017",
+      "category": "medical",
+      "name": {
+        "ja": "マツモトキヨシ",
+        "en": "Matsukiyo",
+        "zh": "Matsumotokiyoshi"
+      },
+      "desc": {
+        "ja": "駅から約72mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 72 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约72米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 72,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6290709485",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7671586,
+      "lon": 134.8390187
+    },
+    {
+      "id": "st00563-018",
+      "category": "shopping",
+      "name": {
+        "ja": "ぱん工房 ぶうらんじぇ",
+        "en": "pan工房 buuranjie",
+        "zh": "Pan工房 Buuranjie"
+      },
+      "desc": {
+        "ja": "駅から約393mにあるベーカリー。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Bakery about 393 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约393米的面包店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 393,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5392483221",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7699754,
+      "lon": 134.8360443
+    },
+    {
+      "id": "st00563-019",
+      "category": "post_office",
+      "name": {
+        "ja": "加古川郵便局",
+        "en": "Kakogawa Post Office",
+        "zh": "加古川邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1124mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 08:00-19:00; Sa 08:00-18:00; PH,Su 09:00-16:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1124 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1124米的邮局，Mo-Fr 08:00-19:00, Sa 08:00-18:00, PH, Su 09:00-16:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 1124,
+      "walk_min": 15,
+      "hours": "Mo-Fr 08:00-19:00; Sa 08:00-18:00; PH,Su 09:00-16:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1423055057",
+      "tel": "+81 79 422 3383",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.757623,
+      "lon": 134.839245
+    }
+  ],
+  "coverage": {
+    "poi_count": 19,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 380,
+    "floor_check": {
+      "medical": {
+        "candidates": 41,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 21,
+        "selected": 2
+      },
+      "convenience": {
+        "candidates": 16,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 8,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 3,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
