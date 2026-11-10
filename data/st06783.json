@@ -1,0 +1,597 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st06783",
+    "name": {
+      "ja": "南船橋",
+      "en": "Minami-Funabashi",
+      "zh": "南船桥"
+    },
+    "line_group": [
+      "京葉線",
+      "外房線"
+    ],
+    "pref": "千葉県",
+    "lat": 35.6819,
+    "lon": 139.99555
+  },
+  "generated_at": "2026-11-10T13:14:52Z",
+  "pois": [
+    {
+      "id": "st06783-001",
+      "category": "post_office",
+      "name": {
+        "ja": "船橋若松郵便局",
+        "en": "Funabashi Wakamatsu Post Office",
+        "zh": "船桥若松邮政局"
+      },
+      "desc": {
+        "ja": "駅から約225mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 225 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约225米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 225,
+      "walk_min": 3,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1420742793",
+      "tel": "+81-47-433-4361",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.681074,
+      "lon": 139.993275
+    },
+    {
+      "id": "st06783-002",
+      "category": "food",
+      "name": {
+        "ja": "銚子丸",
+        "en": "Choushimaru",
+        "zh": "銚子丸"
+      },
+      "desc": {
+        "ja": "駅から約418mにある飲食店。sushi料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 418 m from the station. Serves sushi cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约418米的餐馆主营sushi，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 418,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4465630032",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6852049,
+      "lon": 139.9933343,
+      "official_url_pending": "https://www.choushimaru.co.jp/"
+    },
+    {
+      "id": "st06783-003",
+      "category": "shopping",
+      "name": {
+        "ja": "アコレ",
+        "en": "Akore",
+        "zh": "Akore"
+      },
+      "desc": {
+        "ja": "駅から約288mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 288 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约288米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 288,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5469671861",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6800366,
+      "lon": 139.9933308
+    },
+    {
+      "id": "st06783-004",
+      "category": "shopping",
+      "name": {
+        "ja": "オーケーストア",
+        "en": "OK Store",
+        "zh": "O-ke-sutoa"
+      },
+      "desc": {
+        "ja": "駅から約624mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 624 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约624米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 624,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5066014806",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6874018,
+      "lon": 139.9969278
+    },
+    {
+      "id": "st06783-005",
+      "category": "park",
+      "name": {
+        "ja": "谷津バラ園",
+        "en": "谷津bara園",
+        "zh": "谷津バラ园"
+      },
+      "desc": {
+        "ja": "駅から約888mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 888 m from the station, with paths and benches for a rest.",
+        "zh": "距站约888米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 888,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/145557054",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6808069,
+      "lon": 140.0052864
+    },
+    {
+      "id": "st06783-006",
+      "category": "bank_atm",
+      "name": {
+        "ja": "ゆうちょ銀行",
+        "en": "Japan Post Bank",
+        "zh": "邮储银行"
+      },
+      "desc": {
+        "ja": "ゆうちょ銀行のATM。駅から約895mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 895 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约895米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 895,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2319177866",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.689779,
+      "lon": 139.997599
+    },
+    {
+      "id": "st06783-007",
+      "category": "shopping",
+      "name": {
+        "ja": "スーパーバリュー",
+        "en": "Super Value",
+        "zh": "Su-pa-bariyu-"
+      },
+      "desc": {
+        "ja": "駅から約697mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 697 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约697米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 697,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/3849027029",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6878003,
+      "lon": 139.9929311
+    },
+    {
+      "id": "st06783-008",
+      "category": "post_office",
+      "name": {
+        "ja": "船橋浜町郵便局",
+        "en": "Funabashi Hamacho Post Office",
+        "zh": "船桥滨町邮政局"
+      },
+      "desc": {
+        "ja": "駅から約986mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 986 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约986米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 986,
+      "walk_min": 13,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/4474081298",
+      "tel": "+81-47-435-2324",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6893631,
+      "lon": 139.9896536,
+      "official_url_pending": "https://map.japanpost.jp/p/search/dtl/300105605000/"
+    },
+    {
+      "id": "st06783-009",
+      "category": "park",
+      "name": {
+        "ja": "かえる公園",
+        "en": "kaeru公園",
+        "zh": "Kaeru公園"
+      },
+      "desc": {
+        "ja": "駅から約182mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 182 m from the station, with paths and benches for a rest.",
+        "zh": "距站约182米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 182,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4726247475",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6804224,
+      "lon": 139.9946919
+    },
+    {
+      "id": "st06783-010",
+      "category": "medical",
+      "name": {
+        "ja": "ローズ薬局",
+        "en": "ro-zu薬局",
+        "zh": "ローズ薬局"
+      },
+      "desc": {
+        "ja": "駅から約949mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 949 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约949米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 949,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2319184903",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.686456,
+      "lon": 140.004435
+    },
+    {
+      "id": "st06783-011",
+      "category": "police",
+      "name": {
+        "ja": "船橋警察署宮本交番",
+        "en": "船桥宫本交番 Police Station",
+        "zh": "船桥警察署宫本交番"
+      },
+      "desc": {
+        "ja": "駅から約1870mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1870 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1870米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1870,
+      "walk_min": 24,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420742831",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.696204,
+      "lon": 140.006448
+    },
+    {
+      "id": "st06783-012",
+      "category": "food",
+      "name": {
+        "ja": "スシロー",
+        "en": "Sushiro",
+        "zh": "壽司郎"
+      },
+      "desc": {
+        "ja": "駅から約1154mにある飲食店。sushi料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Fr 11:00-23:00; Sa-Su,PH 10:30-23:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1154 m from the station. Serves sushi cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1154米的餐馆主营sushi，适合旅途中用餐，Mo-Fr 11:00-23:00, Sa-Su, PH 10:30-23:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1154,
+      "walk_min": 15,
+      "hours": "Mo-Fr 11:00-23:00; Sa-Su,PH 10:30-23:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1964068244",
+      "tel": "+81-47-4953270",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.69196,
+      "lon": 139.9923995,
+      "official_url_pending": "http://www.akindo-sushiro.co.jp/"
+    },
+    {
+      "id": "st06783-013",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "セブン-イレブンのコンビニエンスストア。駅から約1540mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 1540 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约1540米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 1540,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/3978356796",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6857251,
+      "lon": 139.9791655,
+      "official_url_pending": "https://www.sej.co.jp/"
+    },
+    {
+      "id": "st06783-014",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "正一位伏見稲荷大明神",
+        "en": "Fushimi Inari Daimyojin Shrine",
+        "zh": "正一位伏見稲荷大明神"
+      },
+      "desc": {
+        "ja": "駅から約976mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 976 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约976米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 976,
+      "walk_min": 13,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/3297981961",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.689063,
+      "lon": 139.989305
+    },
+    {
+      "id": "st06783-015",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "船橋大神宮",
+        "en": "Funabashi Daijingu Shrine",
+        "zh": "船桥大神宫"
+      },
+      "desc": {
+        "ja": "駅から約1610mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1610 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1610米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1610,
+      "walk_min": 21,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/431902047",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6962229,
+      "lon": 139.9929669
+    },
+    {
+      "id": "st06783-016",
+      "category": "public_service",
+      "name": {
+        "ja": "船橋市役所",
+        "en": "Funabashi City Hall",
+        "zh": "船桥市役所"
+      },
+      "desc": {
+        "ja": "駅から約1838mにある役所・行政施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Civic office about 1838 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1838米的行政机构，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1838,
+      "walk_min": 23,
+      "hours": "Mo-Fr 09:00-17:00; PH off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1420742592",
+      "tel": "+81-47-436-2111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6946,
+      "lon": 139.982526,
+      "official_url_pending": "http://www.city.funabashi.chiba.jp/"
+    },
+    {
+      "id": "st06783-017",
+      "category": "food",
+      "name": {
+        "ja": "将泰庵",
+        "en": "Shoutaian",
+        "zh": "将泰庵"
+      },
+      "desc": {
+        "ja": "駅から約1853mにある飲食店。barbecue;yakiniku;焼肉料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Fr 11:30-14:00,17:00-23:00; Sa-Su 11:30-14:30,17:。",
+        "en": "Restaurant about 1853 m from the station. Serves barbecue and yakiniku and yakiniku cuisine. Handy for a meal between s.",
+        "zh": "距站约1853米的餐馆主营barbecue and yakiniku and yakiniku，适合旅途中用餐，Mo-Fr 11:30-14:00, 17:00-23:00, Sa-Su 11:30-14:30, 17:00-23:00（。"
+      },
+      "distance_m": 1853,
+      "walk_min": 24,
+      "hours": "Mo-Fr 11:30-14:00,17:00-23:00; Sa-Su 11:30-14:30,17:00-23:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/4354829403",
+      "tel": "0081474238929",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6973442,
+      "lon": 139.9878352,
+      "official_url_pending": "https://shoutaian.co.jp/"
+    },
+    {
+      "id": "st06783-018",
+      "category": "convenience",
+      "name": {
+        "ja": "ファミリーマート",
+        "en": "FamilyMart",
+        "zh": "全家便利店"
+      },
+      "desc": {
+        "ja": "ファミリーマートのコンビニエンスストア。駅から約1900mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 1900 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约1900米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 1900,
+      "walk_min": 24,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/3122258032",
+      "tel": "047-423-6533",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.697765,
+      "lon": 139.9877363,
+      "official_url_pending": "https://as.chizumaru.com/famima/detailMap?kkw001=%e8%88%b9%e6%a9%8b%e6%9c%ac%e7%94%ba%e5%9b%9b%e4%b8%81%e7%9b%ae&account=famima&accmd=0&c2=1&bitemtype=0&bid=18220&pgret=2"
+    },
+    {
+      "id": "st06783-019",
+      "category": "public_service",
+      "name": {
+        "ja": "船橋市中央図書館",
+        "en": "Funabashi City Central Library",
+        "zh": "船桥市中央图书馆"
+      },
+      "desc": {
+        "ja": "駅から約1947mにある図書館。手続きや調べ物、休憩に利用できる公共の施設。詳細は現地の案内を参照。",
+        "en": "Library about 1947 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1947米的图书馆，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1947,
+      "walk_min": 25,
+      "hours": "Tu-Fr 09:30-19:00; Sa-Su 09:30-17:00; Mo off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1420742574",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6981595,
+      "lon": 139.9875621
+    }
+  ],
+  "coverage": {
+    "poi_count": 19,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 305,
+    "floor_check": {
+      "medical": {
+        "candidates": 12,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 8,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 36,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 5,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 2,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
