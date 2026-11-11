@@ -1,0 +1,578 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st01337",
+    "name": {
+      "ja": "金沢",
+      "en": "Kanazawa",
+      "zh": "金泽"
+    },
+    "line_group": [
+      "IRいしかわ鉄道線",
+      "JR七尾線",
+      "あいの風とやま鉄道線",
+      "ハピラインふくい線",
+      "北陸新幹線"
+    ],
+    "pref": "石川県",
+    "lat": 36.578184,
+    "lon": 136.647937
+  },
+  "generated_at": "2026-11-11T06:03:15Z",
+  "pois": [
+    {
+      "id": "st01337-001",
+      "category": "food",
+      "name": {
+        "ja": "高崎屋",
+        "en": "Takasaki ya",
+        "zh": "高崎屋"
+      },
+      "desc": {
+        "ja": "駅から約309mにある飲食店。japanese;seafood料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Tu,Fr-Su 11:30-14:00,17:30-22:00; We-Th off（JST）。メニューや。",
+        "en": "Restaurant about 309 m from the station. Serves japanese and seafood cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约309米的餐馆主营japanese and seafood，适合旅途中用餐，Mo-Tu, Fr-Su 11:30-14:00, 17:30-22:00, We-Th off（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 309,
+      "walk_min": 4,
+      "hours": "Mo-Tu,Fr-Su 11:30-14:00,17:30-22:00; We-Th off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2261179056",
+      "tel": "+81 76-2313-589; 050-5484-4073",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.5765928,
+      "lon": 136.6507717,
+      "official_url_pending": "https://takasakiya-1933.gorp.jp"
+    },
+    {
+      "id": "st01337-002",
+      "category": "convenience",
+      "name": {
+        "ja": "7-Eleven",
+        "en": "7-Eleven",
+        "zh": "7-Eleven"
+      },
+      "desc": {
+        "ja": "7-Elevenのコンビニエンスストア。駅から約62mの場所にあり、05:00-01:30（JST）。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 62 m from the station. 05:00-01:30 (JST). Stocks meals, drinks and daily necessities.",
+        "zh": "距站约62米的便利店，05:00-01:30（JST），可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 62,
+      "walk_min": 1,
+      "hours": "05:00-01:30 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/4776616625",
+      "tel": "+81 76-2352-061",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.578655,
+      "lon": 136.6475624,
+      "official_url_pending": "https://sn-kanazawa.net"
+    },
+    {
+      "id": "st01337-003",
+      "category": "food",
+      "name": {
+        "ja": "GOEN",
+        "en": "GOEN",
+        "zh": "GOEN"
+      },
+      "desc": {
+        "ja": "駅から約470mにある飲食店。japanese;regional;seafood料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Sa 17:00-24:00; Su 17:00-23:00（JST）。メニューや予算は店。",
+        "en": "Restaurant about 470 m from the station. Serves japanese and regional and seafood cuisine. Handy for a meal between sig.",
+        "zh": "距站约470米的餐馆主营japanese and regional and seafood，适合旅途中用餐，Mo-Sa 17:00-24:00, Su 17:00-23:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 470,
+      "walk_min": 6,
+      "hours": "Mo-Sa 17:00-24:00; Su 17:00-23:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/3379083238",
+      "tel": "+81 76-2234-150",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.573958,
+      "lon": 136.6477734,
+      "official_url_pending": "https://www.goen-kanazawa.com/sp/"
+    },
+    {
+      "id": "st01337-004",
+      "category": "police",
+      "name": {
+        "ja": "金沢東警察署 金沢駅前交番",
+        "en": "Koban",
+        "zh": "金泽东警察署 金泽站前交番"
+      },
+      "desc": {
+        "ja": "駅から約109mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 109 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约109米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 109,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/3088666386",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.5773293,
+      "lon": 136.6485441
+    },
+    {
+      "id": "st01337-005",
+      "category": "food",
+      "name": {
+        "ja": "サイゼリヤ",
+        "en": "Saizeriya",
+        "zh": "萨莉亚"
+      },
+      "desc": {
+        "ja": "駅から約137mにある飲食店。italian料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は10:00-00:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 137 m from the station. Serves italian cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约137米的餐馆主营italian，适合旅途中用餐，10:00-00:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 137,
+      "walk_min": 2,
+      "hours": "10:00-00:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6167493338",
+      "tel": "076-236-6071",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.5780949,
+      "lon": 136.6464049,
+      "official_url_pending": "https://www.saizeriya.co.jp/restaurant/shop_detail.php?cd=1274"
+    },
+    {
+      "id": "st01337-006",
+      "category": "medical",
+      "name": {
+        "ja": "あおぞら薬局",
+        "en": "aozora薬局",
+        "zh": "Aozora薬局"
+      },
+      "desc": {
+        "ja": "駅から約249mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 249 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约249米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 249,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4907600843",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.578046,
+      "lon": 136.6451541
+    },
+    {
+      "id": "st01337-007",
+      "category": "public_service",
+      "name": {
+        "ja": "金沢学生のまち 市民交流館",
+        "en": "金沢学生nomachi 市民交流館",
+        "zh": "金沢学生nomachi 市民交流館"
+      },
+      "desc": {
+        "ja": "駅から約1929mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 1929 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1929米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1929,
+      "walk_min": 25,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2507292316",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.5611477,
+      "lon": 136.6519848,
+      "official_url_pending": "https://www4.city.kanazawa.lg.jp/22050/shiminkouryukan/"
+    },
+    {
+      "id": "st01337-008",
+      "category": "public_service",
+      "name": {
+        "ja": "公益財団法人石川県国際交流協会",
+        "en": "Ishikawa Foundation for International Exchange",
+        "zh": "公益財団法人石川县国際交流協会"
+      },
+      "desc": {
+        "ja": "駅から約428mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 428 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约428米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 428,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/3108317866",
+      "tel": "+81 76 262 5931",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.5757497,
+      "lon": 136.6516485,
+      "official_url_pending": "https://www.ifie.or.jp/index.php"
+    },
+    {
+      "id": "st01337-009",
+      "category": "post_office",
+      "name": {
+        "ja": "金沢中央郵便局",
+        "en": "Kanazawa Central Post Office",
+        "zh": "金泽中央邮政局"
+      },
+      "desc": {
+        "ja": "駅から約798mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 798 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约798米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 798,
+      "walk_min": 10,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1420935292",
+      "tel": "+81-800-0800-111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.571304,
+      "lon": 136.645402
+    },
+    {
+      "id": "st01337-010",
+      "category": "cafe",
+      "name": {
+        "ja": "東出珈琲店",
+        "en": "Higashide Coffee",
+        "zh": "东出珈琲店"
+      },
+      "desc": {
+        "ja": "駅から約1172mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。Mo-Tu,Th-Sa 08:00-19:00; We,Su,PH off（JST）。",
+        "en": "Cafe about 1172 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约1172米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 1172,
+      "walk_min": 15,
+      "hours": "Mo-Tu,Th-Sa 08:00-19:00; We,Su,PH off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6157557119",
+      "tel": "+81 76-2323-399",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.5705952,
+      "lon": 136.6570453,
+      "official_url_pending": "https://www.instagram.com/higashide_coffee/"
+    },
+    {
+      "id": "st01337-011",
+      "category": "convenience",
+      "name": {
+        "ja": "ファミリーマート",
+        "en": "FamilyMart/",
+        "zh": "全家便利店"
+      },
+      "desc": {
+        "ja": "ファミリーマートのコンビニエンスストア。駅から約1021mの場所にあり、06:00-24:00（JST）。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 1021 m from the station. 06:00-24:00 (JST). Stocks meals, drinks and daily necessities.",
+        "zh": "距站约1021米的便利店，06:00-24:00（JST），可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 1021,
+      "walk_min": 13,
+      "hours": "06:00-24:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5793398095",
+      "tel": "+81 76-2219-910",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.5711564,
+      "lon": 136.6552965,
+      "official_url_pending": "https://store.family.co.jp/points/76380"
+    },
+    {
+      "id": "st01337-012",
+      "category": "bank_atm",
+      "name": {
+        "ja": "信用組合",
+        "en": "Credit Cooperative",
+        "zh": "信用組合"
+      },
+      "desc": {
+        "ja": "信用組合のATM。駅から約1184mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 1184 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约1184米的银行网点，Mo-Fr 09:00-19:00, Sa 09:00-17:00, Su off（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 1184,
+      "walk_min": 15,
+      "hours": "Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6153523843",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.5709273,
+      "lon": 136.6576379,
+      "official_url_pending": "https://www.e-map.ne.jp/p/shinkumi/dtl/2411001/"
+    },
+    {
+      "id": "st01337-013",
+      "category": "post_office",
+      "name": {
+        "ja": "金沢近江町郵便局",
+        "en": "Kanazawa Omicho Post Office",
+        "zh": "金泽近江町邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1286mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1286 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1286米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 1286,
+      "walk_min": 17,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1420935635",
+      "tel": "+81-76-262-5449",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.5707713,
+      "lon": 136.6589905
+    },
+    {
+      "id": "st01337-014",
+      "category": "bank_atm",
+      "name": {
+        "ja": "金沢信用金庫 本店",
+        "en": "Kanazawa Shinkin Bank Main Shop",
+        "zh": "金泽信用金庫 本店"
+      },
+      "desc": {
+        "ja": "金沢信用金庫 本店の支店。駅から約1562mにあり、預け入れ・引き出しやATMの利用に対応する。窓口はMo-Fr 09:00-12:30,13:30-15:00; Sa-Su off（JST）。",
+        "en": "Bank about 1562 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约1562米的银行网点，Mo-Fr 09:00-12:30, 13:30-15:00, Sa-Su off（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 1562,
+      "walk_min": 20,
+      "hours": "Mo-Fr 09:00-12:30,13:30-15:00; Sa-Su off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/3318704373",
+      "tel": "+81 76-2314-261",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.564978,
+      "lon": 136.653914,
+      "official_url_pending": "https://www.shinkin.co.jp/kanazawa/"
+    },
+    {
+      "id": "st01337-015",
+      "category": "sight",
+      "name": {
+        "ja": "金沢市立安江金箔工芸館",
+        "en": "Kanazawa Yasue Gold Leaf Museum",
+        "zh": "金泽市立安江金箔工艺馆"
+      },
+      "desc": {
+        "ja": "駅から約1685mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1685 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1685米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1685,
+      "walk_min": 22,
+      "hours": "09:30-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2143998214",
+      "tel": "+81 76 251 8950",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.5737572,
+      "lon": 136.6659874,
+      "official_url_pending": "https://www.kanazawa-museum.jp/kinpaku/"
+    },
+    {
+      "id": "st01337-016",
+      "category": "sight",
+      "name": {
+        "ja": "金沢菓子木型美術館",
+        "en": "Kanazawa Confectionery Wooden Molds Museum",
+        "zh": "金泽菓子木型美术馆"
+      },
+      "desc": {
+        "ja": "駅から約1722mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。入場は有料。",
+        "en": "Museum about 1722 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1722米的博物馆·美术馆，入场收费，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1722,
+      "walk_min": 22,
+      "hours": "Mo-Su 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2837485304",
+      "tel": "+81-076-262-6251",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.5695015,
+      "lon": 136.663901,
+      "official_url_pending": "https://www.morihachi.co.jp/honten_museum"
+    },
+    {
+      "id": "st01337-017",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "宇多須神社",
+        "en": "Utasu Jinja Shrine",
+        "zh": "宇多須神社"
+      },
+      "desc": {
+        "ja": "駅から約1892mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1892 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1892米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1892,
+      "walk_min": 24,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/3465220834",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.5730488,
+      "lon": 136.6681409
+    },
+    {
+      "id": "st01337-018",
+      "category": "sight",
+      "name": {
+        "ja": "徳田秋聲記念館",
+        "en": "Tokuda Shusei Kinenkan Museum",
+        "zh": "徳田秋聲纪念馆"
+      },
+      "desc": {
+        "ja": "駅から約1898mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1898 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1898米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1898,
+      "walk_min": 24,
+      "hours": "09:30-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2143998216",
+      "tel": "076-251-4300",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.570902,
+      "lon": 136.6671625,
+      "official_url_pending": "https://www.kanazawa-museum.jp/shusei/"
+    }
+  ],
+  "coverage": {
+    "poi_count": 18,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 348,
+    "floor_check": {
+      "medical": {
+        "candidates": 8,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 6,
+        "selected": 2
+      },
+      "convenience": {
+        "candidates": 18,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 16,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 6,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}

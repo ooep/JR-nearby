@@ -1,0 +1,173 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st03268",
+    "name": {
+      "ja": "瀬田",
+      "en": "Seta",
+      "zh": "濑田"
+    },
+    "line_group": [
+      "豊肥本線",
+      "高森線"
+    ],
+    "pref": "熊本県",
+    "lat": 32.87252,
+    "lon": 130.91429
+  },
+  "generated_at": "2026-11-11T06:03:16Z",
+  "pois": [
+    {
+      "id": "st03268-001",
+      "category": "post_office",
+      "name": {
+        "ja": "瀬田郵便局",
+        "en": "濑田 Post Office",
+        "zh": "濑田邮政局"
+      },
+      "desc": {
+        "ja": "駅から約556mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 556 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约556米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 556,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423807652",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 32.868036,
+      "lon": 130.911647
+    },
+    {
+      "id": "st03268-002",
+      "category": "post_office",
+      "name": {
+        "ja": "吹田団地簡易郵便局",
+        "en": "吹田団地簡易 Post Office",
+        "zh": "吹田団地簡易邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1530mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1530 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1530米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 1530,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423800781",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 32.882563,
+      "lon": 130.903092
+    },
+    {
+      "id": "st03268-003",
+      "category": "park",
+      "name": {
+        "ja": "インクルージブ遊具施設（公園）",
+        "en": "inkuru-jibu遊具施設（公園）",
+        "zh": "インクルージブ游具施設（公园）"
+      },
+      "desc": {
+        "ja": "駅から約1754mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1754 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1754米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1754,
+      "walk_min": 22,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/13984016310",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 32.8740386,
+      "lon": 130.8955978
+    },
+    {
+      "id": "st03268-004",
+      "category": "police",
+      "name": {
+        "ja": "大津警察署錦野駐在所",
+        "en": "大津錦野駐在所 Police Station",
+        "zh": "大津警察署錦野駐在所"
+      },
+      "desc": {
+        "ja": "駅から約1973mにある駐在所。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1973 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1973米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1973,
+      "walk_min": 25,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4152641649",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 32.8657537,
+      "lon": 130.8947586
+    }
+  ],
+  "coverage": {
+    "poi_count": 4,
+    "radius_m": 2000,
+    "confidence": "medium",
+    "gaps": [
+      "2公里圈内未检索到医疗机构候选",
+      "2公里圈内未检索到银行/ATM候选",
+      "2公里圈内未检索到便利店候选",
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 5,
+    "floor_check": {
+      "medical": {
+        "candidates": 0,
+        "selected": 0
+      },
+      "bank_atm": {
+        "candidates": 0,
+        "selected": 0
+      },
+      "convenience": {
+        "candidates": 0,
+        "selected": 0
+      },
+      "post_office": {
+        "candidates": 2,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 1,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,626 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st01439",
+    "name": {
+      "ja": "新富町",
+      "en": "Shintomichō",
+      "zh": "新富町"
+    },
+    "line_group": [
+      "富山軌道線支線",
+      "軌道線富山都心線"
+    ],
+    "pref": "富山県",
+    "lat": 36.69881,
+    "lon": 137.21133
+  },
+  "generated_at": "2026-11-11T06:03:16Z",
+  "pois": [
+    {
+      "id": "st01439-001",
+      "category": "convenience",
+      "name": {
+        "ja": "ローソン",
+        "en": "Lawson",
+        "zh": "罗森"
+      },
+      "desc": {
+        "ja": "ローソンのコンビニエンスストア。駅から約70mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 70 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约70米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 70,
+      "walk_min": 1,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/198531400",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.6985113,
+      "lon": 137.2120157
+    },
+    {
+      "id": "st01439-002",
+      "category": "shopping",
+      "name": {
+        "ja": "富山ステーションフロントCiC",
+        "en": "富山sute-shiyonfurontoCiC",
+        "zh": "富山ステーションフロントCiC"
+      },
+      "desc": {
+        "ja": "駅から約142mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 142 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约142米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 142,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/198533821",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.6997428,
+      "lon": 137.2124118,
+      "official_url_pending": "https://www.cicnavi.com/"
+    },
+    {
+      "id": "st01439-003",
+      "category": "shopping",
+      "name": {
+        "ja": "とやマルシェ",
+        "en": "toyamarushie",
+        "zh": "Toyamarushie"
+      },
+      "desc": {
+        "ja": "駅から約376mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 376 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约376米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 376,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/13758881357",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.7011737,
+      "lon": 137.21435
+    },
+    {
+      "id": "st01439-004",
+      "category": "food",
+      "name": {
+        "ja": "サイゼリヤ",
+        "en": "Saizeriya",
+        "zh": "萨莉亚"
+      },
+      "desc": {
+        "ja": "駅から約112mにある飲食店。italian料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は10:00-22:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 112 m from the station. Serves italian cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约112米的餐馆主营italian，适合旅途中用餐，10:00-22:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 112,
+      "walk_min": 2,
+      "hours": "10:00-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5430346401",
+      "tel": "076-433-1801",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.6996125,
+      "lon": 137.2120898,
+      "official_url_pending": "https://www.saizeriya.co.jp/restaurant/shop_detail.php?cd=1145"
+    },
+    {
+      "id": "st01439-005",
+      "category": "sight",
+      "name": {
+        "ja": "高志の国文学館",
+        "en": "高志no国文学館",
+        "zh": "高志no国文学館"
+      },
+      "desc": {
+        "ja": "駅から約577mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 577 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约577米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 577,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/540892146",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.6954547,
+      "lon": 137.2063869
+    },
+    {
+      "id": "st01439-006",
+      "category": "post_office",
+      "name": {
+        "ja": "富山中央郵便局",
+        "en": "Toyama Central Post Office",
+        "zh": "富山中央邮政局"
+      },
+      "desc": {
+        "ja": "駅から約388mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 388 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约388米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 388,
+      "walk_min": 5,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/12749319269",
+      "tel": "+81-76-432-3950",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.6987338,
+      "lon": 137.2156759
+    },
+    {
+      "id": "st01439-007",
+      "category": "public_service",
+      "name": {
+        "ja": "富山市役所",
+        "en": "Toyama City Hall",
+        "zh": "富山市役所"
+      },
+      "desc": {
+        "ja": "駅から約391mにある役所・行政施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Civic office about 391 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约391米的行政机构，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 391,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/198148134",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.6959036,
+      "lon": 137.2137934
+    },
+    {
+      "id": "st01439-008",
+      "category": "bank_atm",
+      "name": {
+        "ja": "三井住友信託銀行",
+        "en": "Sumitomo Mitsui Trust Bank",
+        "zh": "三井住友信託银行"
+      },
+      "desc": {
+        "ja": "三井住友信託銀行の支店。駅から約416mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 416 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约416米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 416,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4241479692",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.6993441,
+      "lon": 137.2159531
+    },
+    {
+      "id": "st01439-009",
+      "category": "police",
+      "name": {
+        "ja": "富山県警察本部 (Toyama Prefectural Police Headquarters)",
+        "en": "Toyama Prefectural Police Headquarters",
+        "zh": "富山县警察本部 (Toyama Prefectural Police Headquarters)"
+      },
+      "desc": {
+        "ja": "駅から約450mにある警察署。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 450 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约450米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 450,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/198148144",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.6948213,
+      "lon": 137.2104456
+    },
+    {
+      "id": "st01439-010",
+      "category": "sight",
+      "name": {
+        "ja": "富山市佐藤記念美術館",
+        "en": "Sato Memorial Art Museum Toyama",
+        "zh": "富山市佐藤纪念美术馆"
+      },
+      "desc": {
+        "ja": "駅から約542mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 542 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约542米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 542,
+      "walk_min": 7,
+      "hours": "Mo-Sa 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/198247844",
+      "tel": "076-432-9031",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.6939601,
+      "lon": 137.2119242,
+      "official_url_pending": "https://www.city.toyama.toyama.jp/etc/muse/index.html"
+    },
+    {
+      "id": "st01439-011",
+      "category": "park",
+      "name": {
+        "ja": "富山城址公園",
+        "en": "Toyama Castle Park",
+        "zh": "富山城址公园"
+      },
+      "desc": {
+        "ja": "駅から約615mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 615 m from the station, with paths and benches for a rest.",
+        "zh": "距站约615米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 615,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/338862862",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.6932877,
+      "lon": 137.2108793
+    },
+    {
+      "id": "st01439-012",
+      "category": "sight",
+      "name": {
+        "ja": "富山市郷土博物館",
+        "en": "Toyama Municipal Folk Museum",
+        "zh": "富山市郷土博物馆"
+      },
+      "desc": {
+        "ja": "駅から約674mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 674 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约674米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 674,
+      "walk_min": 9,
+      "hours": "Mo-Sa 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/198247843",
+      "tel": "076-432-7911",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.692752,
+      "lon": 137.2114955,
+      "official_url_pending": "https://www.city.toyama.toyama.jp/etc/muse/index.html"
+    },
+    {
+      "id": "st01439-013",
+      "category": "sight",
+      "name": {
+        "ja": "松川遊覧船 チケット売場",
+        "en": "松川遊覧船 chiketo売場",
+        "zh": "松川游覧船 チケット売场"
+      },
+      "desc": {
+        "ja": "駅から約311mにある展望スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Viewpoint about 311 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约311米的观景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 311,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6543309587",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.7006923,
+      "lon": 137.2139065
+    },
+    {
+      "id": "st01439-014",
+      "category": "shopping",
+      "name": {
+        "ja": "総曲輪フェリオ",
+        "en": "Ferio Sogawa",
+        "zh": "総曲輪フェリオ"
+      },
+      "desc": {
+        "ja": "駅から約1070mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 1070 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1070米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1070,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2031816725",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.6893356,
+      "lon": 137.2134247,
+      "official_url_pending": "https://www.ferio.ne.jp/"
+    },
+    {
+      "id": "st01439-015",
+      "category": "park",
+      "name": {
+        "ja": "富岩運河環水公園",
+        "en": "Toyama Canal Park",
+        "zh": "富岩運河环水公园"
+      },
+      "desc": {
+        "ja": "駅から約1212mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1212 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1212米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1212,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/338875394",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.7096662,
+      "lon": 137.2126042
+    },
+    {
+      "id": "st01439-016",
+      "category": "medical",
+      "name": {
+        "ja": "ドラッグセイムス",
+        "en": "Drug Seims",
+        "zh": "Doraguseimusu"
+      },
+      "desc": {
+        "ja": "駅から約386mにある薬局。体調を崩した際の受診や薬の購入に対応する。受付はMo-Su 08:00-22:00（JST）。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 386 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约386米的药房，Mo-Su 08:00-22:00（JST），旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 386,
+      "walk_min": 5,
+      "hours": "Mo-Su 08:00-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/219862085",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.7019724,
+      "lon": 137.2095569
+    },
+    {
+      "id": "st01439-017",
+      "category": "sight",
+      "name": {
+        "ja": "TOYAMAキラリ",
+        "en": "TOYAMAkirari",
+        "zh": "TOYAMAキラリ"
+      },
+      "desc": {
+        "ja": "駅から約1206mにあるギャラリー。周辺を代表する見どころの一つで、散策の目的地にしやすい。入場は有料。",
+        "en": "Gallery about 1206 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1206米的画廊，入场收费，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1206,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/199752760",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.6883901,
+      "lon": 137.2150967
+    },
+    {
+      "id": "st01439-018",
+      "category": "sight",
+      "name": {
+        "ja": "富山市ガラス美術館",
+        "en": "Toyama Glass Art Museum",
+        "zh": "富山市ガラス美术馆"
+      },
+      "desc": {
+        "ja": "駅から約1207mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。入場は有料。",
+        "en": "Museum about 1207 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1207米的博物馆·美术馆，入场收费，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1207,
+      "walk_min": 16,
+      "hours": "Mo-Tu,Th-Su 09:30-18:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/3769895563",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.6883464,
+      "lon": 137.2149413,
+      "official_url_pending": "https://toyama-glass-art-museum.jp/"
+    },
+    {
+      "id": "st01439-019",
+      "category": "sight",
+      "name": {
+        "ja": "富山県水墨美術館 (Suiboku Museum, Toyama)",
+        "en": "Suiboku Museum, Toyama",
+        "zh": "富山县水墨美术馆 (Suiboku Museum, Toyama)"
+      },
+      "desc": {
+        "ja": "駅から約1309mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1309 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1309米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1309,
+      "walk_min": 17,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/185988732",
+      "tel": "076-431-3719",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.6988952,
+      "lon": 137.1966496,
+      "official_url_pending": "https://www.pref.toyama.jp/branches/3044/gra_in.htm"
+    },
+    {
+      "id": "st01439-020",
+      "category": "sight",
+      "name": {
+        "ja": "富山市科学博物館(Toyama Science Museum)",
+        "en": "Toyama Science Museum",
+        "zh": "富山市科学博物馆(Toyama Science Museum)"
+      },
+      "desc": {
+        "ja": "駅から約1999mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1999 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1999米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1999,
+      "walk_min": 25,
+      "hours": "Mo-Sa 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/199752772",
+      "tel": "076-491-2123",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 36.6808384,
+      "lon": 137.2118484,
+      "official_url_pending": "https://www.tsm.toyama.toyama.jp/"
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 361,
+    "floor_check": {
+      "medical": {
+        "candidates": 25,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 19,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 28,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 20,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 8,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
