@@ -1,0 +1,539 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st02279",
+    "name": {
+      "ja": "東岡崎",
+      "en": "Higashi-Okazaki",
+      "zh": "东冈崎"
+    },
+    "line_group": [
+      "名古屋本線",
+      "津島線",
+      "犬山線",
+      "豊川線"
+    ],
+    "pref": "愛知県",
+    "lat": 34.95185,
+    "lon": 137.16758
+  },
+  "generated_at": "2026-11-11T03:25:28Z",
+  "pois": [
+    {
+      "id": "st02279-001",
+      "category": "food",
+      "name": {
+        "ja": "バーミヤン",
+        "en": "Bamiyan",
+        "zh": "Ba-miyan"
+      },
+      "desc": {
+        "ja": "駅から約1134mにある飲食店。chinese料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1134 m from the station. Serves chinese cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1134米的餐馆主营chinese，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1134,
+      "walk_min": 15,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/14239831409",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9454747,
+      "lon": 137.1772852,
+      "official_url_pending": "https://store-info.skylark.co.jp/bamiyan/map/171609/"
+    },
+    {
+      "id": "st02279-002",
+      "category": "police",
+      "name": {
+        "ja": "岡崎警察署伝馬交番",
+        "en": "冈崎伝马交番 Police Station",
+        "zh": "冈崎警察署伝马交番"
+      },
+      "desc": {
+        "ja": "駅から約831mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 831 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约831米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 831,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423979843",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9588065,
+      "lon": 137.1709251
+    },
+    {
+      "id": "st02279-003",
+      "category": "convenience",
+      "name": {
+        "ja": "ファミリーマート",
+        "en": "FamilyMart",
+        "zh": "全家便利店"
+      },
+      "desc": {
+        "ja": "ファミリーマートのコンビニエンスストア。駅から約97mの場所にあり、Mo-Su 06:00-23:00（JST）。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 97 m from the station. Mo-Su 06:00-23:00 (JST). Stocks meals, drinks and daily necessities.",
+        "zh": "距站约97米的便利店，Mo-Su 06:00-23:00（JST），可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 97,
+      "walk_min": 2,
+      "hours": "Mo-Su 06:00-23:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/4460217090",
+      "tel": "+81 564 66 0002",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9521546,
+      "lon": 137.1665771
+    },
+    {
+      "id": "st02279-004",
+      "category": "post_office",
+      "name": {
+        "ja": "岡崎明大寺郵便局",
+        "en": "Okazaki Myodaiji Post Office",
+        "zh": "冈崎明大寺邮政局"
+      },
+      "desc": {
+        "ja": "駅から約192mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 192 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约192米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 192,
+      "walk_min": 3,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1423979827",
+      "tel": "+81-564-21-5994",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9530134,
+      "lon": 137.1660229
+    },
+    {
+      "id": "st02279-005",
+      "category": "cafe",
+      "name": {
+        "ja": "CAFEDAYS東岡崎",
+        "en": "CAFEDAYS東岡崎",
+        "zh": "CAFEDAYS东冈崎"
+      },
+      "desc": {
+        "ja": "駅から約205mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。Mo-Su 11:00-22:00（JST）。",
+        "en": "Cafe about 205 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约205米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 205,
+      "walk_min": 3,
+      "hours": "Mo-Su 11:00-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/9659469703",
+      "tel": "+81 564 64 6317",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9530128,
+      "lon": 137.1658321
+    },
+    {
+      "id": "st02279-006",
+      "category": "food",
+      "name": {
+        "ja": "スシロー",
+        "en": "Sushiro",
+        "zh": "壽司郎"
+      },
+      "desc": {
+        "ja": "駅から約1161mにある飲食店。sushi料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1161 m from the station. Serves sushi cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1161米的餐馆主营sushi，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1161,
+      "walk_min": 15,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/14289943525",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9452851,
+      "lon": 137.1774783,
+      "official_url_pending": "https://www.akindo-sushiro.co.jp/"
+    },
+    {
+      "id": "st02279-007",
+      "category": "medical",
+      "name": {
+        "ja": "エステティック TBC",
+        "en": "esuteteiku TBC",
+        "zh": "エステティック TBC"
+      },
+      "desc": {
+        "ja": "駅から約245mにあるクリニック。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Clinic about 245 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约245米的诊所，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 245,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/8491412498",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9526512,
+      "lon": 137.1700788
+    },
+    {
+      "id": "st02279-008",
+      "category": "bank_atm",
+      "name": {
+        "ja": "十六銀行",
+        "en": "十六 Bank",
+        "zh": "十六银行"
+      },
+      "desc": {
+        "ja": "十六銀行の支店。駅から約612mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 612 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约612米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 612,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4621765906",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9562316,
+      "lon": 137.1635178
+    },
+    {
+      "id": "st02279-009",
+      "category": "public_service",
+      "name": {
+        "ja": "岡崎市役所 (Okazaki City Hall)",
+        "en": "Okazaki City Hall",
+        "zh": "冈崎市役所 (Okazaki City Hall)"
+      },
+      "desc": {
+        "ja": "駅から約647mにある役所・行政施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Civic office about 647 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约647米的行政机构，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 647,
+      "walk_min": 9,
+      "hours": "Mo-Fr 08:30-17:15; PH off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1423979758",
+      "tel": "+81-564-236000",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9546801,
+      "lon": 137.1737794,
+      "official_url_pending": "http://www.city.okazaki.aichi.jp/"
+    },
+    {
+      "id": "st02279-010",
+      "category": "sight",
+      "name": {
+        "ja": "浄瑠璃淵の句碑",
+        "en": "浄瑠璃淵no句碑",
+        "zh": "浄瑠璃淵no句碑"
+      },
+      "desc": {
+        "ja": "駅から約355mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Memorial about 355 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约355米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 355,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/7640182782",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.952638,
+      "lon": 137.1713515
+    },
+    {
+      "id": "st02279-011",
+      "category": "park",
+      "name": {
+        "ja": "道城ケ入公園",
+        "en": "道城ke入公園",
+        "zh": "道城ケ入公园"
+      },
+      "desc": {
+        "ja": "駅から約1076mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1076 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1076米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1076,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/466095978",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9421792,
+      "lon": 137.16799
+    },
+    {
+      "id": "st02279-012",
+      "category": "sight",
+      "name": {
+        "ja": "つどい",
+        "en": "tsudoi",
+        "zh": "Tsudoi"
+      },
+      "desc": {
+        "ja": "駅から約771mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Memorial about 771 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约771米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 771,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/11622452176",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9459404,
+      "lon": 137.163151
+    },
+    {
+      "id": "st02279-013",
+      "category": "public_service",
+      "name": {
+        "ja": "岡崎市三島学区こどもの家",
+        "en": "岡崎市三島学区kodomono家",
+        "zh": "岡崎市三島学区kodomono家"
+      },
+      "desc": {
+        "ja": "駅から約642mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 642 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约642米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 642,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/466786709",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9477452,
+      "lon": 137.1725355
+    },
+    {
+      "id": "st02279-014",
+      "category": "shopping",
+      "name": {
+        "ja": "SWING MALL",
+        "en": "SWING MALL",
+        "zh": "SWING MALL"
+      },
+      "desc": {
+        "ja": "駅から約37mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 37 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约37米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 37,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/233612736",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9517514,
+      "lon": 137.1671875
+    },
+    {
+      "id": "st02279-015",
+      "category": "sight",
+      "name": {
+        "ja": "東海の観光と史跡認定地",
+        "en": "東海no観光to史跡認定地",
+        "zh": "東海no観光to史跡認定地"
+      },
+      "desc": {
+        "ja": "駅から約933mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Memorial about 933 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约933米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 933,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/7087977592",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9560361,
+      "lon": 137.1587089
+    },
+    {
+      "id": "st02279-016",
+      "category": "food",
+      "name": {
+        "ja": "広島焼き",
+        "en": "広島焼ki",
+        "zh": "広島焼ki"
+      },
+      "desc": {
+        "ja": "駅から約183mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 183 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约183米的餐馆适合旅途中用餐，菜单与价格以店内展示内容为准，具体信息以现场为准。"
+      },
+      "distance_m": 183,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/8091114717",
+      "tel": "+81 567 23 2449",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.953075,
+      "lon": 137.166246
+    },
+    {
+      "id": "st02279-017",
+      "category": "post_office",
+      "name": {
+        "ja": "岡崎郵便局",
+        "en": "Okazaki Post Office",
+        "zh": "冈崎邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1821mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1821 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1821米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 1821,
+      "walk_min": 23,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1423979926",
+      "tel": "+81-800-0800-111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.9354944,
+      "lon": 137.1665966
+    }
+  ],
+  "coverage": {
+    "poi_count": 17,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 368,
+    "floor_check": {
+      "medical": {
+        "candidates": 50,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 10,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 24,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 9,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 5,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
