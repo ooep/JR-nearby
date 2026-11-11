@@ -1,0 +1,637 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st04992",
+    "name": {
+      "ja": "麻生",
+      "en": "Asabu",
+      "zh": "麻生"
+    },
+    "line_group": [
+      "札幌市営地下鉄南北線"
+    ],
+    "pref": "北海道",
+    "lat": 43.10837,
+    "lon": 141.33836
+  },
+  "generated_at": "2026-11-11T02:25:13Z",
+  "pois": [
+    {
+      "id": "st04992-001",
+      "category": "food",
+      "name": {
+        "ja": "ケンタッキーフライドチキン",
+        "en": "KFC",
+        "zh": "肯德基"
+      },
+      "desc": {
+        "ja": "駅から約36mにある飲食店。chicken料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は07:00-22:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 36 m from the station. Serves chicken cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约36米的餐馆主营chicken，适合旅途中用餐，07:00-22:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 36,
+      "walk_min": 1,
+      "hours": "07:00-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5052412981",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.1086763,
+      "lon": 141.3384943,
+      "official_url_pending": "https://www.kfc.co.jp/"
+    },
+    {
+      "id": "st04992-002",
+      "category": "shopping",
+      "name": {
+        "ja": "東光ストア",
+        "en": "Tokou Store",
+        "zh": "东光ストア"
+      },
+      "desc": {
+        "ja": "駅から約53mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 53 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约53米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 53,
+      "walk_min": 1,
+      "hours": "10:00-23:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1818553568",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.1084547,
+      "lon": 141.3390057,
+      "official_url_pending": "https://www.arcs-g.co.jp/group/toukou_store/"
+    },
+    {
+      "id": "st04992-003",
+      "category": "convenience",
+      "name": {
+        "ja": "ローソン",
+        "en": "Lawson",
+        "zh": "罗森"
+      },
+      "desc": {
+        "ja": "ローソンのコンビニエンスストア。駅から約55mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 55 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约55米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 55,
+      "walk_min": 1,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5052412978",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.1079386,
+      "lon": 141.3386964,
+      "official_url_pending": "https://www.lawson.co.jp/"
+    },
+    {
+      "id": "st04992-004",
+      "category": "convenience",
+      "name": {
+        "ja": "セイコーマート",
+        "en": "Seicomart",
+        "zh": "セイコーマート便利店"
+      },
+      "desc": {
+        "ja": "セイコーマートのコンビニエンスストア。駅から約95mの場所にあり、06:00-01:00（JST）。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 95 m from the station. 06:00-01:00 (JST). Stocks meals, drinks and daily necessities.",
+        "zh": "距站约95米的便利店，06:00-01:00（JST），可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 95,
+      "walk_min": 2,
+      "hours": "06:00-01:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6419811418",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.1075771,
+      "lon": 141.3388096,
+      "official_url_pending": "https://www.seicomart.co.jp/"
+    },
+    {
+      "id": "st04992-005",
+      "category": "bank_atm",
+      "name": {
+        "ja": "北陸銀行",
+        "en": "Hokuriku Bank",
+        "zh": "北陆银行"
+      },
+      "desc": {
+        "ja": "北陸銀行の支店。駅から約121mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 121 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约121米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 121,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4723034258",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.1073851,
+      "lon": 141.3390057,
+      "official_url_pending": "https://www.hokugin.co.jp/"
+    },
+    {
+      "id": "st04992-006",
+      "category": "food",
+      "name": {
+        "ja": "チロリン村",
+        "en": "chirorin村",
+        "zh": "チロリン村"
+      },
+      "desc": {
+        "ja": "駅から約149mにある飲食店。italian料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Tu, Th-Su 11:00-21:30; We off（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 149 m from the station. Serves italian cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约149米的餐馆主营italian，适合旅途中用餐，Mo-Tu, Th-Su 11:00-21:30, We off（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 149,
+      "walk_min": 2,
+      "hours": "Mo-Tu, Th-Su 11:00-21:30; We off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/13611429243",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.1095106,
+      "lon": 141.3374071,
+      "official_url_pending": "https://chirorin.do-kyu.com/"
+    },
+    {
+      "id": "st04992-007",
+      "category": "medical",
+      "name": {
+        "ja": "ナカジマ薬局",
+        "en": "nakajima薬局",
+        "zh": "ナカジマ薬局"
+      },
+      "desc": {
+        "ja": "駅から約529mにある薬局。体調を崩した際の受診や薬の購入に対応する。受付はMo-Fr 09:00-21:00; Sa-Su 09:00-16:30; PH 09:00-16:30（JST）。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 529 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约529米的药房，Mo-Fr 09:00-21:00, Sa-Su 09:00-16:30, PH 09:00-16:30（JST），旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 529,
+      "walk_min": 7,
+      "hours": "Mo-Fr 09:00-21:00; Sa-Su 09:00-16:30; PH 09:00-16:30 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/4608816797",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.1072199,
+      "lon": 141.3446879,
+      "official_url_pending": "https://www.nakajima-phar.co.jp/"
+    },
+    {
+      "id": "st04992-008",
+      "category": "shopping",
+      "name": {
+        "ja": "イオン",
+        "en": "AEON",
+        "zh": "永旺"
+      },
+      "desc": {
+        "ja": "駅から約168mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 168 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约168米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 168,
+      "walk_min": 3,
+      "hours": "08:00-23:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1818885454",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.1072357,
+      "lon": 141.3397278,
+      "official_url_pending": "https://www.aeon-hokkaido.jp/"
+    },
+    {
+      "id": "st04992-009",
+      "category": "cafe",
+      "name": {
+        "ja": "タリーズコーヒー",
+        "en": "Tully's Coffee",
+        "zh": "塔利咖啡"
+      },
+      "desc": {
+        "ja": "駅から約176mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。08:00-21:00（JST）。",
+        "en": "Cafe about 176 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约176米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 176,
+      "walk_min": 3,
+      "hours": "08:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5049824318",
+      "tel": "011-299-8084",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.1070321,
+      "lon": 141.3395196,
+      "official_url_pending": "https://shop.tullys.co.jp/detail/1000936"
+    },
+    {
+      "id": "st04992-010",
+      "category": "food",
+      "name": {
+        "ja": "吉野家",
+        "en": "Yoshinoya",
+        "zh": "吉野家"
+      },
+      "desc": {
+        "ja": "駅から約178mにある飲食店。beef_bowl料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は05:00-03:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 178 m from the station. Serves beef_bowl cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约178米的餐馆主营beef_bowl，适合旅途中用餐，05:00-03:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 178,
+      "walk_min": 3,
+      "hours": "05:00-03:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6685610194",
+      "tel": "+81 11 792 5787",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.1094566,
+      "lon": 141.3367543,
+      "official_url_pending": "https://stores.yoshinoya.com/yoshinoya/spot/detail?code=ysn_046972"
+    },
+    {
+      "id": "st04992-011",
+      "category": "shopping",
+      "name": {
+        "ja": "マックスバリュ",
+        "en": "MaxValu",
+        "zh": "Makusubariyu"
+      },
+      "desc": {
+        "ja": "駅から約681mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 681 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约681米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 681,
+      "walk_min": 9,
+      "hours": "08:00-21:45 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5008495336",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.1078999,
+      "lon": 141.3467286,
+      "official_url_pending": "https://www.aeon-hokkaido.jp/"
+    },
+    {
+      "id": "st04992-012",
+      "category": "medical",
+      "name": {
+        "ja": "北札幌病院",
+        "en": "Kita sapporo Hospital",
+        "zh": "北札幌病院"
+      },
+      "desc": {
+        "ja": "駅から約500mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 500 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约500米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 500,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5061227596",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.1127852,
+      "lon": 141.3371999,
+      "official_url_pending": "https://kitasatsu.or.jp/"
+    },
+    {
+      "id": "st04992-013",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "菩提寺",
+        "en": "Bodaiji Temple",
+        "zh": "菩提寺"
+      },
+      "desc": {
+        "ja": "駅から約1848mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 1848 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1848米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1848,
+      "walk_min": 24,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5025391057",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.0921117,
+      "lon": 141.3430891,
+      "official_url_pending": "http://www.sougi-bon.com/jiin12/"
+    },
+    {
+      "id": "st04992-014",
+      "category": "public_service",
+      "name": {
+        "ja": "札幌市新琴似図書館",
+        "en": "Shinkotoni Library",
+        "zh": "札幌市新琴似图书馆"
+      },
+      "desc": {
+        "ja": "駅から約898mにある図書館。手続きや調べ物、休憩に利用できる公共の施設。詳細は現地の案内を参照。",
+        "en": "Library about 898 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约898米的图书馆，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 898,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/429341633",
+      "tel": "+81-11-764-1901",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.1133997,
+      "lon": 141.3297128,
+      "official_url_pending": "https://www.city.sapporo.jp/toshokan/sisetu/sinkotoni/sinkotoni.html"
+    },
+    {
+      "id": "st04992-015",
+      "category": "post_office",
+      "name": {
+        "ja": "札幌北郵便局",
+        "en": "Sapporo Kita Post Office",
+        "zh": "札幌北邮政局"
+      },
+      "desc": {
+        "ja": "駅から約925mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 925 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约925米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 925,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5096644386",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.1072999,
+      "lon": 141.3270572,
+      "official_url_pending": "https://www.post.japanpost.jp/"
+    },
+    {
+      "id": "st04992-016",
+      "category": "sight",
+      "name": {
+        "ja": "札幌市下水道科学館",
+        "en": "Sapporo Sewerage Science Museum",
+        "zh": "札幌市下水道科学馆"
+      },
+      "desc": {
+        "ja": "駅から約1004mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1004 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1004米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1004,
+      "walk_min": 13,
+      "hours": "Th-Su 09:30-16:30 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5063244080",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.1168763,
+      "lon": 141.3425132,
+      "official_url_pending": "https://sapporo-src.com/kagakukan/"
+    },
+    {
+      "id": "st04992-017",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "法城寺",
+        "en": "Hojoji Temple",
+        "zh": "法城寺"
+      },
+      "desc": {
+        "ja": "駅から約1863mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 1863 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1863米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1863,
+      "walk_min": 24,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5025394963",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.0917575,
+      "lon": 141.341309,
+      "official_url_pending": "http://www.sougi-bon.com/jiin15/"
+    },
+    {
+      "id": "st04992-018",
+      "category": "park",
+      "name": {
+        "ja": "ひのまる公園",
+        "en": "Hinomaru Park",
+        "zh": "Hinomaru公園"
+      },
+      "desc": {
+        "ja": "駅から約1786mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1786 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1786米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1786,
+      "walk_min": 23,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/154506436",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.110874,
+      "lon": 141.3600912,
+      "official_url_pending": "http://www2.wagamachi-guide.com/sapporo_koen/"
+    },
+    {
+      "id": "st04992-019",
+      "category": "park",
+      "name": {
+        "ja": "若草公園",
+        "en": "Wakakusa Park",
+        "zh": "若草公园"
+      },
+      "desc": {
+        "ja": "駅から約1857mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1857 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1857米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1857,
+      "walk_min": 24,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/514360673",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.0916715,
+      "lon": 141.3386446,
+      "official_url_pending": "http://www2.wagamachi-guide.com/sapporo_koen/"
+    },
+    {
+      "id": "st04992-020",
+      "category": "police",
+      "name": {
+        "ja": "北警察署",
+        "en": "Kita Police Station",
+        "zh": "北警察署"
+      },
+      "desc": {
+        "ja": "駅から約1993mにある警察署。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1993 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1993米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1993,
+      "walk_min": 25,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/155572855",
+      "tel": "+81-11-727-0110",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 43.090456,
+      "lon": 141.3377722,
+      "official_url_pending": "https://www.police.pref.hokkaido.lg.jp/00ps/kita-syo/index.html"
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 390,
+    "floor_check": {
+      "medical": {
+        "candidates": 34,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 23,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 57,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 16,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 5,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}

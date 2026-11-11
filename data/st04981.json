@@ -1,0 +1,621 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st04981",
+    "name": {
+      "ja": "河内長野",
+      "en": "Kawachi-Nagano",
+      "zh": "河内长野"
+    },
+    "line_group": [
+      "南海本線",
+      "近鉄長野線",
+      "高野線"
+    ],
+    "pref": "大阪府",
+    "lat": 34.451448,
+    "lon": 135.57332
+  },
+  "generated_at": "2026-11-11T02:25:13Z",
+  "pois": [
+    {
+      "id": "st04981-001",
+      "category": "bank_atm",
+      "name": {
+        "ja": "セブン銀行",
+        "en": "Seven Bank",
+        "zh": "セブン银行"
+      },
+      "desc": {
+        "ja": "セブン銀行のATM。駅から約45mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 45 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约45米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 45,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/14356504276",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.451095,
+      "lon": 135.5730692
+    },
+    {
+      "id": "st04981-002",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "セブン-イレブンのコンビニエンスストア。駅から約50mの場所にあり、06:30-22:30（JST）。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 50 m from the station. 06:30-22:30 (JST). Stocks meals, drinks and daily necessities.",
+        "zh": "距站约50米的便利店，06:30-22:30（JST），可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 50,
+      "walk_min": 1,
+      "hours": "06:30-22:30 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/13041601147",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.4510512,
+      "lon": 135.5730522
+    },
+    {
+      "id": "st04981-003",
+      "category": "cafe",
+      "name": {
+        "ja": "Black blanx",
+        "en": "Black blanx",
+        "zh": "Black blanx"
+      },
+      "desc": {
+        "ja": "駅から約166mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。",
+        "en": "Cafe about 166 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约166米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 166,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/14356504263",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.4503987,
+      "lon": 135.572036
+    },
+    {
+      "id": "st04981-004",
+      "category": "police",
+      "name": {
+        "ja": "河内長野駅前交番",
+        "en": "Police Koban",
+        "zh": "河内长野站前交番"
+      },
+      "desc": {
+        "ja": "駅から約62mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 62 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约62米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 62,
+      "walk_min": 1,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1423005299",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.4514671,
+      "lon": 135.5726392
+    },
+    {
+      "id": "st04981-005",
+      "category": "shopping",
+      "name": {
+        "ja": "ショップ南海",
+        "en": "shiyopu南海",
+        "zh": "ショップ南海"
+      },
+      "desc": {
+        "ja": "駅から約51mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 51 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约51米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 51,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/494694353",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.4512159,
+      "lon": 135.5728383
+    },
+    {
+      "id": "st04981-006",
+      "category": "shopping",
+      "name": {
+        "ja": "ノバティながの",
+        "en": "Novaty Nagano North",
+        "zh": "Nobateinagano"
+      },
+      "desc": {
+        "ja": "駅から約90mにある百貨店。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Department store about 90 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约90米的百货店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 90,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6673509185",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.4514531,
+      "lon": 135.5723405
+    },
+    {
+      "id": "st04981-007",
+      "category": "food",
+      "name": {
+        "ja": "お好み焼き 花まる亭",
+        "en": "o好mi焼ki 花maru亭",
+        "zh": "O好mi焼ki 花maru亭"
+      },
+      "desc": {
+        "ja": "駅から約361mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 361 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约361米的餐馆适合旅途中用餐，菜单与价格以店内展示内容为准，具体信息以现场为准。"
+      },
+      "distance_m": 361,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/11470088634",
+      "tel": "+81-721-53-2550",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.4538695,
+      "lon": 135.5706963
+    },
+    {
+      "id": "st04981-008",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "長野神社",
+        "en": "Nagano Shrine",
+        "zh": "长野神社"
+      },
+      "desc": {
+        "ja": "駅から約234mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 234 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约234米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 234,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/557692876",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.4499901,
+      "lon": 135.57148
+    },
+    {
+      "id": "st04981-009",
+      "category": "post_office",
+      "name": {
+        "ja": "河内長野本町郵便局",
+        "en": "Kawachinagano Hommachi Post Office",
+        "zh": "河内长野本町邮政局"
+      },
+      "desc": {
+        "ja": "駅から約245mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 245 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约245米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 245,
+      "walk_min": 4,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/12007826455",
+      "tel": "+81-721-53-0750",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.4528259,
+      "lon": 135.5712321
+    },
+    {
+      "id": "st04981-010",
+      "category": "medical",
+      "name": {
+        "ja": "孝仁会澤田病院",
+        "en": "Sawada Hospital",
+        "zh": "孝仁会澤田病院"
+      },
+      "desc": {
+        "ja": "駅から約278mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 278 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约278米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 278,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1422991850",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.449421,
+      "lon": 135.57155
+    },
+    {
+      "id": "st04981-011",
+      "category": "shopping",
+      "name": {
+        "ja": "ノバティながの 北館",
+        "en": "Novaty Nagano North",
+        "zh": "Nobateinagano 北館"
+      },
+      "desc": {
+        "ja": "駅から約90mにある百貨店。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Department store about 90 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约90米的百货店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 90,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/495216778",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.451516,
+      "lon": 135.5723416
+    },
+    {
+      "id": "st04981-012",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "西代神社",
+        "en": "Nishidai Shrine",
+        "zh": "西代神社"
+      },
+      "desc": {
+        "ja": "駅から約834mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 834 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约834米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 834,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/710074369",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.4527931,
+      "lon": 135.5643717
+    },
+    {
+      "id": "st04981-013",
+      "category": "post_office",
+      "name": {
+        "ja": "河内長野郵便局",
+        "en": "Kawachinagano Post Office",
+        "zh": "河内长野邮政局"
+      },
+      "desc": {
+        "ja": "駅から約887mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 887 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约887米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 887,
+      "walk_min": 12,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/12007826454",
+      "tel": "+81-800-0800-111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.444214,
+      "lon": 135.5692532
+    },
+    {
+      "id": "st04981-014",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "烏帽子形八幡神社",
+        "en": "Eboshigata Hachiman Shrine",
+        "zh": "烏帽子形八幡神社"
+      },
+      "desc": {
+        "ja": "駅から約1021mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1021 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1021米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1021,
+      "walk_min": 13,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/1053955730",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.4441958,
+      "lon": 135.5664916
+    },
+    {
+      "id": "st04981-015",
+      "category": "police",
+      "name": {
+        "ja": "河内長野警察署",
+        "en": "Kawachinagano Police Headquarters",
+        "zh": "河内长野警察署"
+      },
+      "desc": {
+        "ja": "駅から約1086mにある警察署。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1086 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1086米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1086,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/413616637",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.4547816,
+      "lon": 135.5621886
+    },
+    {
+      "id": "st04981-016",
+      "category": "public_service",
+      "name": {
+        "ja": "河内長野市立図書館",
+        "en": "City Library - KICCS",
+        "zh": "河内长野市立图书馆"
+      },
+      "desc": {
+        "ja": "駅から約1207mにある図書館。手続きや調べ物、休憩に利用できる公共の施設。詳細は現地の案内を参照。",
+        "en": "Library about 1207 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1207米的图书馆，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1207,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423005274",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.4543691,
+      "lon": 135.5606421
+    },
+    {
+      "id": "st04981-017",
+      "category": "food",
+      "name": {
+        "ja": "すき家",
+        "en": "Sukiya",
+        "zh": "食其家"
+      },
+      "desc": {
+        "ja": "駅から約1490mにある飲食店。beef_bowl料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は24時間営業。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1490 m from the station. Serves beef_bowl cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1490米的餐馆主营beef_bowl，适合旅途中用餐，全天24小时营业，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1490,
+      "walk_min": 19,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6048284416",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.438726,
+      "lon": 135.5682149,
+      "official_url_pending": "https://sukiya.jp/"
+    },
+    {
+      "id": "st04981-018",
+      "category": "medical",
+      "name": {
+        "ja": "ヤナセ薬局",
+        "en": "yanase薬局",
+        "zh": "ヤナセ薬局"
+      },
+      "desc": {
+        "ja": "駅から約141mにある薬局。体調を崩した際の受診や薬の購入に対応する。受付はMo-Fr 09:00-20:00; Sa 09:00-14:00（JST）。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 141 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约141米的药房，Mo-Fr 09:00-20:00, Sa 09:00-14:00（JST），旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 141,
+      "walk_min": 2,
+      "hours": "Mo-Fr 09:00-20:00; Sa 09:00-14:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/14242832875",
+      "tel": "+81-721-52-2506",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.4503503,
+      "lon": 135.572548
+    },
+    {
+      "id": "st04981-019",
+      "category": "convenience",
+      "name": {
+        "ja": "ローソン",
+        "en": "Lawson",
+        "zh": "罗森"
+      },
+      "desc": {
+        "ja": "ローソンのコンビニエンスストア。駅から約1696mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 1696 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约1696米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 1696,
+      "walk_min": 22,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/3127439379",
+      "tel": "+81 721 63 5482",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.4366347,
+      "lon": 135.568897,
+      "official_url_pending": "https://www.lawson.co.jp/"
+    },
+    {
+      "id": "st04981-020",
+      "category": "park",
+      "name": {
+        "ja": "寺ケ池公園",
+        "en": "Teragaike Park",
+        "zh": "寺ケ池公园"
+      },
+      "desc": {
+        "ja": "駅から約1766mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1766 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1766米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1766,
+      "walk_min": 23,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/479498744",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.4618109,
+      "lon": 135.5587234
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 314,
+    "floor_check": {
+      "medical": {
+        "candidates": 30,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 10,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 20,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 6,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 4,
+        "selected": 2
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
