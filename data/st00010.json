@@ -1,0 +1,570 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st00010",
+    "name": {
+      "ja": "志都美",
+      "en": "Shizumi",
+      "zh": "志都美"
+    },
+    "line_group": [
+      "和歌山線",
+      "大阪環状線",
+      "桜井線",
+      "関西本線"
+    ],
+    "pref": "奈良県",
+    "lat": 34.56183,
+    "lon": 135.70194
+  },
+  "generated_at": "2026-11-11T06:50:56Z",
+  "pois": [
+    {
+      "id": "st00010-001",
+      "category": "medical",
+      "name": {
+        "ja": "志都美薬局",
+        "en": "Shizumi Pharmacy",
+        "zh": "志都美薬局"
+      },
+      "desc": {
+        "ja": "駅から約67mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 67 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约67米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 67,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6277955608",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5616009,
+      "lon": 135.7012624
+    },
+    {
+      "id": "st00010-002",
+      "category": "post_office",
+      "name": {
+        "ja": "香芝上中簡易郵便局",
+        "en": "Kashiba Kaminaka Summary Post Office",
+        "zh": "香芝上中簡易邮政局"
+      },
+      "desc": {
+        "ja": "駅から約77mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 77 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约77米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 77,
+      "walk_min": 1,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1423093544",
+      "tel": "+81-745-78-4105",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5611477,
+      "lon": 135.7020503
+    },
+    {
+      "id": "st00010-003",
+      "category": "police",
+      "name": {
+        "ja": "香芝警察署 志都美交番",
+        "en": "Shizumi Koban",
+        "zh": "香芝警察署 志都美交番"
+      },
+      "desc": {
+        "ja": "駅から約130mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 130 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约130米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 130,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6277957086",
+      "tel": "+81 745 76 2824",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5612595,
+      "lon": 135.7007015
+    },
+    {
+      "id": "st00010-004",
+      "category": "convenience",
+      "name": {
+        "ja": "ローソン",
+        "en": "Lawson",
+        "zh": "罗森"
+      },
+      "desc": {
+        "ja": "ローソンのコンビニエンスストア。駅から約179mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 179 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约179米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 179,
+      "walk_min": 3,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6277955605",
+      "tel": "+81 745 78 3683",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5616297,
+      "lon": 135.7000046,
+      "official_url_pending": "https://www.lawson.co.jp/"
+    },
+    {
+      "id": "st00010-005",
+      "category": "post_office",
+      "name": {
+        "ja": "今泉簡易郵便局",
+        "en": "Imaizumi Summary Post Office",
+        "zh": "今泉簡易邮政局"
+      },
+      "desc": {
+        "ja": "駅から約407mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 407 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约407米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 407,
+      "walk_min": 6,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5504629421",
+      "tel": "+81-745-77-5015",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5609786,
+      "lon": 135.6976145
+    },
+    {
+      "id": "st00010-006",
+      "category": "shopping",
+      "name": {
+        "ja": "メガセンタートライアル西大和店",
+        "en": "megasenta-toraiaru西大和店",
+        "zh": "メガセンタートライアル西大和店"
+      },
+      "desc": {
+        "ja": "駅から約1585mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 1585 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1585米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1585,
+      "walk_min": 20,
+      "hours": "Sa-Su 00:00-24:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/13551260979",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5708,
+      "lon": 135.715391
+    },
+    {
+      "id": "st00010-007",
+      "category": "park",
+      "name": {
+        "ja": "友が丘西公園",
+        "en": "友ga丘西公園",
+        "zh": "友ga丘西公園"
+      },
+      "desc": {
+        "ja": "駅から約1332mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1332 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1332米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1332,
+      "walk_min": 17,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/617985667",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5713634,
+      "lon": 135.7107394
+    },
+    {
+      "id": "st00010-008",
+      "category": "food",
+      "name": {
+        "ja": "吉野家 168号線香芝店",
+        "en": "Yoshinoya",
+        "zh": "吉野家 168号线香芝店"
+      },
+      "desc": {
+        "ja": "駅から約568mにある飲食店。beef_bowl料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は24時間営業。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 568 m from the station. Serves beef_bowl cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约568米的餐馆主营beef_bowl，适合旅途中用餐，全天24小时营业，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 568,
+      "walk_min": 8,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6277962186",
+      "tel": "+81 745 79 2858",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.556908,
+      "lon": 135.7002897
+    },
+    {
+      "id": "st00010-009",
+      "category": "shopping",
+      "name": {
+        "ja": "業務スーパー 香芝高店",
+        "en": "Gyomu Super",
+        "zh": "業務スーパー 香芝高店"
+      },
+      "desc": {
+        "ja": "駅から約700mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 700 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约700米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 700,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6277955600",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.555568,
+      "lon": 135.7011261
+    },
+    {
+      "id": "st00010-010",
+      "category": "park",
+      "name": {
+        "ja": "香芝市青少年野外活動センター",
+        "en": "香芝市青少年野外活動senta-",
+        "zh": "香芝市青少年野外活動センター"
+      },
+      "desc": {
+        "ja": "駅から約1364mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1364 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1364米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1364,
+      "walk_min": 18,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/463397408",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.556891,
+      "lon": 135.6883065
+    },
+    {
+      "id": "st00010-011",
+      "category": "food",
+      "name": {
+        "ja": "マクドナルド 168香芝店",
+        "en": "McDonald's",
+        "zh": "マクドナルド 168香芝店"
+      },
+      "desc": {
+        "ja": "駅から約725mにある飲食店。burger料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は24時間営業。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 725 m from the station. Serves burger cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约725米的餐馆主营burger，适合旅途中用餐，全天24小时营业，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 725,
+      "walk_min": 10,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/358726588",
+      "tel": "+81 745 78 9039",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.555441,
+      "lon": 135.7003765,
+      "official_url_pending": "https://www.mcdonalds.co.jp/shop/map/map.php?strcode=29014"
+    },
+    {
+      "id": "st00010-012",
+      "category": "medical",
+      "name": {
+        "ja": "クスリのアオキ 高店",
+        "en": "kusurinoaoki 高店",
+        "zh": "Kusurinoaoki 高店"
+      },
+      "desc": {
+        "ja": "駅から約640mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 640 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约640米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 640,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6277961786",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5560796,
+      "lon": 135.7016319
+    },
+    {
+      "id": "st00010-013",
+      "category": "cafe",
+      "name": {
+        "ja": "カフェ 寿限無",
+        "en": "kafue 寿限無",
+        "zh": "カフェ 寿限無"
+      },
+      "desc": {
+        "ja": "駅から約929mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。",
+        "en": "Cafe about 929 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约929米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 929,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6251081988",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5538984,
+      "lon": 135.698762
+    },
+    {
+      "id": "st00010-014",
+      "category": "sight",
+      "name": {
+        "ja": "GEO 香芝店",
+        "en": "GEO 香芝店",
+        "zh": "GEO 香芝店"
+      },
+      "desc": {
+        "ja": "駅から約952mにある観光スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Attraction about 952 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约952米的观光景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 952,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6251081987",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5534754,
+      "lon": 135.6996572
+    },
+    {
+      "id": "st00010-015",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン 香芝北今市店",
+        "en": "Seven-Eleven",
+        "zh": "セブン-イレブン 香芝北今市店"
+      },
+      "desc": {
+        "ja": "セブン-イレブン 香芝北今市店のコンビニエンスストア。駅から約1457mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 1457 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约1457米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 1457,
+      "walk_min": 19,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/490767262",
+      "tel": "+81 745 77 6678",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5488752,
+      "lon": 135.6995632,
+      "official_url_pending": "http://sej.co.jp"
+    },
+    {
+      "id": "st00010-016",
+      "category": "food",
+      "name": {
+        "ja": "サイゼリヤ",
+        "en": "Saizeriya",
+        "zh": "萨莉亚"
+      },
+      "desc": {
+        "ja": "駅から約1837mにある飲食店。italian料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は09:00-21:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1837 m from the station. Serves italian cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1837米的餐馆主营italian，适合旅途中用餐，09:00-21:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1837,
+      "walk_min": 23,
+      "hours": "09:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6154596958",
+      "tel": "0745-71-3630",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5665181,
+      "lon": 135.7211743,
+      "official_url_pending": "https://www.saizeriya.co.jp/restaurant/shop_detail.php?cd=1188"
+    },
+    {
+      "id": "st00010-017",
+      "category": "shopping",
+      "name": {
+        "ja": "ラスパ西大和",
+        "en": "Raspa",
+        "zh": "ラスパ西大和"
+      },
+      "desc": {
+        "ja": "駅から約1849mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 1849 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1849米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准。"
+      },
+      "distance_m": 1849,
+      "walk_min": 24,
+      "hours": "08:00-24:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/259556550",
+      "tel": "0745-77-6511",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5664384,
+      "lon": 135.721338,
+      "official_url_pending": "https://apita-nishiyamato.com/"
+    },
+    {
+      "id": "st00010-018",
+      "category": "bank_atm",
+      "name": {
+        "ja": "南都銀行 香芝支店",
+        "en": "Nanto Bank Kashiba Branch",
+        "zh": "南都银行 香芝支店"
+      },
+      "desc": {
+        "ja": "南都銀行 香芝支店の支店。駅から約1899mにあり、預け入れ・引き出しやATMの利用に対応する。窓口はMo-Fr 09:00-15:00（JST）。",
+        "en": "Bank about 1899 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约1899米的银行网点，Mo-Fr 09:00-15:00（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 1899,
+      "walk_min": 24,
+      "hours": "Mo-Fr 09:00-15:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6277962197",
+      "tel": "+81 745 77 2881",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5447864,
+      "lon": 135.7033087,
+      "official_url_pending": "http://nantobank.co.jp"
+    }
+  ],
+  "coverage": {
+    "poi_count": 18,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 138,
+    "floor_check": {
+      "medical": {
+        "candidates": 18,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 4,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 11,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 7,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 3,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
