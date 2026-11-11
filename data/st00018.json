@@ -1,0 +1,506 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st00018",
+    "name": {
+      "ja": "船戸",
+      "en": "Funato",
+      "zh": "船户"
+    },
+    "line_group": [
+      "和歌山線"
+    ],
+    "pref": "和歌山県",
+    "lat": 34.24839,
+    "lon": 135.31158
+  },
+  "generated_at": "2026-11-11T06:59:50Z",
+  "pois": [
+    {
+      "id": "st00018-001",
+      "category": "medical",
+      "name": {
+        "ja": "おおたに眼科",
+        "en": "ootani眼科",
+        "zh": "Ootani眼科"
+      },
+      "desc": {
+        "ja": "駅から約1714mにあるクリニック。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Clinic about 1714 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1714米的诊所，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1714,
+      "walk_min": 22,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/701078286",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.2637964,
+      "lon": 135.3121288
+    },
+    {
+      "id": "st00018-002",
+      "category": "medical",
+      "name": {
+        "ja": "おおみや診療所",
+        "en": "oomiya診療所",
+        "zh": "Oomiya診療所"
+      },
+      "desc": {
+        "ja": "駅から約838mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 838 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约838米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 838,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/12970536901",
+      "tel": "0736-61-6151;0736-69-2266",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.2550791,
+      "lon": 135.3157764,
+      "official_url_pending": "https://www.w-iryoseikyo.com/facility/oomiya/"
+    },
+    {
+      "id": "st00018-003",
+      "category": "food",
+      "name": {
+        "ja": "豚骨中華そば がんたれ",
+        "en": "豚骨中華soba gantare",
+        "zh": "豚骨中華soba Gantare"
+      },
+      "desc": {
+        "ja": "駅から約1139mにある飲食店。japanese料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1139 m from the station. Serves japanese cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1139米的餐馆主营japanese，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1139,
+      "walk_min": 15,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/14028739943",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.2571876,
+      "lon": 135.3179318
+    },
+    {
+      "id": "st00018-004",
+      "category": "post_office",
+      "name": {
+        "ja": "岩出郵便局",
+        "en": "Iwade Post Office",
+        "zh": "岩出邮政局"
+      },
+      "desc": {
+        "ja": "駅から約939mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 939 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约939米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 939,
+      "walk_min": 12,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/12550723768",
+      "tel": "+81-800-0800-111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.2553147,
+      "lon": 135.317423
+    },
+    {
+      "id": "st00018-005",
+      "category": "convenience",
+      "name": {
+        "ja": "セブンイ-レブン 岩出市役所前店",
+        "en": "Seven-Eleven",
+        "zh": "セブンイ-レブン 岩出市役所前店"
+      },
+      "desc": {
+        "ja": "セブンイ-レブン 岩出市役所前店のコンビニエンスストア。駅から約945mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 945 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约945米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 945,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4437376889",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.2568891,
+      "lon": 135.3112718
+    },
+    {
+      "id": "st00018-006",
+      "category": "food",
+      "name": {
+        "ja": "山崎ラーメン",
+        "en": "山崎ra-men",
+        "zh": "山崎ラーメン"
+      },
+      "desc": {
+        "ja": "駅から約1012mにある飲食店。ramen料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1012 m from the station. Serves ramen cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1012米的餐馆主营ramen，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1012,
+      "walk_min": 13,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4425069884",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.2441328,
+      "lon": 135.3213134
+    },
+    {
+      "id": "st00018-007",
+      "category": "convenience",
+      "name": {
+        "ja": "ローソン",
+        "en": "Lawson",
+        "zh": "罗森"
+      },
+      "desc": {
+        "ja": "ローソンのコンビニエンスストア。駅から約1069mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 1069 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约1069米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 1069,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4437449502",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.2564531,
+      "lon": 135.3179058
+    },
+    {
+      "id": "st00018-008",
+      "category": "food",
+      "name": {
+        "ja": "すき家",
+        "en": "Sukiya",
+        "zh": "食其家"
+      },
+      "desc": {
+        "ja": "駅から約1194mにある飲食店。beef_bowl料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1194 m from the station. Serves beef_bowl cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1194米的餐馆主营beef_bowl，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1194,
+      "walk_min": 15,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/12919310465",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.2590503,
+      "lon": 135.3131474
+    },
+    {
+      "id": "st00018-009",
+      "category": "shopping",
+      "name": {
+        "ja": "NEX 岩出中迫店",
+        "en": "NEX 岩出中迫店",
+        "zh": "NEX 岩出中迫店"
+      },
+      "desc": {
+        "ja": "駅から約1658mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 1658 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1658米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1658,
+      "walk_min": 21,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4438730097",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.2624586,
+      "lon": 135.3175591
+    },
+    {
+      "id": "st00018-010",
+      "category": "public_service",
+      "name": {
+        "ja": "岩出町立駅前ライブラリー",
+        "en": "岩出町立駅前raiburari-",
+        "zh": "岩出町立站前ライブラリー"
+      },
+      "desc": {
+        "ja": "駅から約1190mにある図書館。手続きや調べ物、休憩に利用できる公共の施設。詳細は現地の案内を参照。",
+        "en": "Library about 1190 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1190米的图书馆，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1190,
+      "walk_min": 15,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423061740",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.2554766,
+      "lon": 135.3212766
+    },
+    {
+      "id": "st00018-011",
+      "category": "shopping",
+      "name": {
+        "ja": "パン工房カワ 岩出店",
+        "en": "pan工房kawa 岩出店",
+        "zh": "パン工房カワ 岩出店"
+      },
+      "desc": {
+        "ja": "駅から約1712mにあるベーカリー。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Bakery about 1712 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1712米的面包店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1712,
+      "walk_min": 22,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4437655995",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.2631606,
+      "lon": 135.3168368
+    },
+    {
+      "id": "st00018-012",
+      "category": "shopping",
+      "name": {
+        "ja": "スーパーエバグリーン",
+        "en": "su-pa-ebaguri-n",
+        "zh": "Su-pa-ebaguri-n"
+      },
+      "desc": {
+        "ja": "駅から約1898mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 1898 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1898米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1898,
+      "walk_min": 24,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4438730099",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.2618454,
+      "lon": 135.3242888
+    },
+    {
+      "id": "st00018-013",
+      "category": "police",
+      "name": {
+        "ja": "岩出警察署畑毛交番",
+        "en": "岩出畑毛交番 Police Station",
+        "zh": "岩出警察署畑毛交番"
+      },
+      "desc": {
+        "ja": "駅から約1434mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1434 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1434米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1434,
+      "walk_min": 18,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423061753",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.2589807,
+      "lon": 135.3026809
+    },
+    {
+      "id": "st00018-014",
+      "category": "bank_atm",
+      "name": {
+        "ja": "近畿労働金庫",
+        "en": "近畿労働 Credit Union",
+        "zh": "近畿労働金庫"
+      },
+      "desc": {
+        "ja": "近畿労働金庫の支店。駅から約1528mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 1528 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约1528米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 1528,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/12905965718",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.2580645,
+      "lon": 135.3233937
+    },
+    {
+      "id": "st00018-015",
+      "category": "police",
+      "name": {
+        "ja": "岩出警察署",
+        "en": "岩出 Police Station",
+        "zh": "岩出警察署"
+      },
+      "desc": {
+        "ja": "駅から約1789mにある警察署。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1789 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1789米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1789,
+      "walk_min": 23,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423061745",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.260827,
+      "lon": 135.323935
+    },
+    {
+      "id": "st00018-016",
+      "category": "park",
+      "name": {
+        "ja": "那賀スポーツレクリエーションセンター",
+        "en": "那賀supo-tsurekurie-shiyonsenta-",
+        "zh": "那賀supo-tsurekurie-shiyonsenta-"
+      },
+      "desc": {
+        "ja": "駅から約1934mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1934 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1934米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1934,
+      "walk_min": 25,
+      "hours": "Tu-Su 10:00-21:00; Sa 10:00-18:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/758318191",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.2430706,
+      "lon": 135.3316132
+    }
+  ],
+  "coverage": {
+    "poi_count": 16,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 75,
+    "floor_check": {
+      "medical": {
+        "candidates": 4,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 1,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 4,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 1,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 3,
+        "selected": 2
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
