@@ -1,0 +1,565 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st00062",
+    "name": {
+      "ja": "天理",
+      "en": "Tenri",
+      "zh": "天理"
+    },
+    "line_group": [
+      "天理線",
+      "桜井線",
+      "橿原線",
+      "近鉄奈良線"
+    ],
+    "pref": "奈良県",
+    "lat": 34.601167,
+    "lon": 135.829873
+  },
+  "generated_at": "2026-11-11T10:45:41Z",
+  "pois": [
+    {
+      "id": "st00062-001",
+      "category": "convenience",
+      "name": {
+        "ja": "ファミリーマート",
+        "en": "FamilyMart",
+        "zh": "全家便利店"
+      },
+      "desc": {
+        "ja": "ファミリーマートのコンビニエンスストア。駅から約53mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 53 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约53米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 53,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/11005329499",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6013608,
+      "lon": 135.8303996
+    },
+    {
+      "id": "st00062-002",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "セブン-イレブンのコンビニエンスストア。駅から約74mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 74 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约74米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 74,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/11005329492",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6007766,
+      "lon": 135.830534
+    },
+    {
+      "id": "st00062-003",
+      "category": "sight",
+      "name": {
+        "ja": "D51-691",
+        "en": "D51-691",
+        "zh": "D51-691"
+      },
+      "desc": {
+        "ja": "駅から約79mにある観光スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Attraction about 79 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约79米的观光景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 79,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/161630230",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6009812,
+      "lon": 135.8290367
+    },
+    {
+      "id": "st00062-004",
+      "category": "park",
+      "name": {
+        "ja": "バスケ公園",
+        "en": "basuke公園",
+        "zh": "バスケ公园"
+      },
+      "desc": {
+        "ja": "駅から約443mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 443 m from the station, with paths and benches for a rest.",
+        "zh": "距站约443米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 443,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/721247713",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6051224,
+      "lon": 135.8304297
+    },
+    {
+      "id": "st00062-005",
+      "category": "cafe",
+      "name": {
+        "ja": "TEN.TEN.CAFE",
+        "en": "TEN.TEN.CAFE",
+        "zh": "TEN.TEN.CAFE"
+      },
+      "desc": {
+        "ja": "駅から約126mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。11:30-19:00（JST）。",
+        "en": "Cafe about 126 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约126米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 126,
+      "walk_min": 2,
+      "hours": "11:30-19:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/12550198101",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6003917,
+      "lon": 135.830876
+    },
+    {
+      "id": "st00062-006",
+      "category": "food",
+      "name": {
+        "ja": "本店 越前すし",
+        "en": "本店 越前sushi",
+        "zh": "本店 越前sushi"
+      },
+      "desc": {
+        "ja": "駅から約199mにある飲食店。sushi料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 199 m from the station. Serves sushi cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约199米的餐馆主营sushi，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 199,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/11005329488",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.599834,
+      "lon": 135.8313192
+    },
+    {
+      "id": "st00062-007",
+      "category": "police",
+      "name": {
+        "ja": "天理警察署二階堂交番",
+        "en": "天理二階堂交番 Police Station",
+        "zh": "天理警察署二階堂交番"
+      },
+      "desc": {
+        "ja": "駅から約1403mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1403 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1403米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1403,
+      "walk_min": 18,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423058125",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.595047,
+      "lon": 135.81647
+    },
+    {
+      "id": "st00062-008",
+      "category": "police",
+      "name": {
+        "ja": "天理警察署山の辺交番",
+        "en": "天理警察署山no辺交番",
+        "zh": "天理警察署山no辺交番"
+      },
+      "desc": {
+        "ja": "駅から約1702mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1702 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1702米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1702,
+      "walk_min": 22,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423058129",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.600019,
+      "lon": 135.848411
+    },
+    {
+      "id": "st00062-009",
+      "category": "bank_atm",
+      "name": {
+        "ja": "大和信用金庫",
+        "en": "大和 Credit Union",
+        "zh": "大和信用金庫"
+      },
+      "desc": {
+        "ja": "大和信用金庫の支店。駅から約1899mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 1899 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约1899米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 1899,
+      "walk_min": 24,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/1122888315",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.618145,
+      "lon": 135.8321374
+    },
+    {
+      "id": "st00062-010",
+      "category": "post_office",
+      "name": {
+        "ja": "天理郵便局",
+        "en": "Tenri Post Office",
+        "zh": "天理邮政局"
+      },
+      "desc": {
+        "ja": "駅から約590mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 590 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约590米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 590,
+      "walk_min": 8,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1423058136",
+      "tel": "+81-800-0800-111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.600769,
+      "lon": 135.836301
+    },
+    {
+      "id": "st00062-011",
+      "category": "medical",
+      "name": {
+        "ja": "ニシダ薬局",
+        "en": "nishida薬局",
+        "zh": "ニシダ薬局"
+      },
+      "desc": {
+        "ja": "駅から約206mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 206 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约206米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 206,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/11005329487",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5998554,
+      "lon": 135.8314626
+    },
+    {
+      "id": "st00062-012",
+      "category": "food",
+      "name": {
+        "ja": "彩華ラーメン 屋台",
+        "en": "彩華ra-men 屋台",
+        "zh": "彩华ラーメン 屋台"
+      },
+      "desc": {
+        "ja": "駅から約862mにある飲食店。ramen料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Su 17:30-00:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 862 m from the station. Serves ramen cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约862米的餐馆主营ramen，适合旅途中用餐，Mo-Su 17:30-00:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 862,
+      "walk_min": 11,
+      "hours": "Mo-Su 17:30-00:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/12817317102",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6074026,
+      "lon": 135.8354622
+    },
+    {
+      "id": "st00062-013",
+      "category": "post_office",
+      "name": {
+        "ja": "天理丹波市郵便局",
+        "en": "Tenri Tambaichi Post Office",
+        "zh": "天理丹波市邮政局"
+      },
+      "desc": {
+        "ja": "駅から約977mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 977 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约977米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 977,
+      "walk_min": 13,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1423058081",
+      "tel": "+81-743-63-1030",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.593297,
+      "lon": 135.834617
+    },
+    {
+      "id": "st00062-014",
+      "category": "medical",
+      "name": {
+        "ja": "天理市メディカルセンター",
+        "en": "天理市medeikarusenta-",
+        "zh": "天理市メディカルセンター"
+      },
+      "desc": {
+        "ja": "駅から約1168mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 1168 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1168米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1168,
+      "walk_min": 15,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423058115",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.59763,
+      "lon": 135.817858
+    },
+    {
+      "id": "st00062-015",
+      "category": "sight",
+      "name": {
+        "ja": "ギャラリーおやさと",
+        "en": "giyarari-oyasato",
+        "zh": "Giyarari-oyasato"
+      },
+      "desc": {
+        "ja": "駅から約709mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 709 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约709米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 709,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/601066650",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5998121,
+      "lon": 135.837437
+    },
+    {
+      "id": "st00062-016",
+      "category": "park",
+      "name": {
+        "ja": "西山古墳",
+        "en": "Nishiyama tumulus",
+        "zh": "西山古墳"
+      },
+      "desc": {
+        "ja": "駅から約1542mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1542 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1542米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1542,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/307997390",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.592381,
+      "lon": 135.8429016
+    },
+    {
+      "id": "st00062-017",
+      "category": "public_service",
+      "name": {
+        "ja": "天理大学附属天理図書館",
+        "en": "Tenri Central Library",
+        "zh": "天理大学附属天理图书馆"
+      },
+      "desc": {
+        "ja": "駅から約1667mにある図書館。手続きや調べ物、休憩に利用できる公共の施設。詳細は現地の案内を参照。",
+        "en": "Library about 1667 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1667米的图书馆，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1667,
+      "walk_min": 21,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/803690646",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5946738,
+      "lon": 135.8462842
+    },
+    {
+      "id": "st00062-018",
+      "category": "food",
+      "name": {
+        "ja": "彩華ラーメン本店 (Saika ramen)",
+        "en": "Saika ramen",
+        "zh": "彩华ラーメン本店 (Saika ramen)"
+      },
+      "desc": {
+        "ja": "駅から約1811mにある飲食店。ramen料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は11:00-03:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1811 m from the station. Serves ramen cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1811米的餐馆主营ramen，适合旅途中用餐，11:00-03:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1811,
+      "walk_min": 23,
+      "hours": "11:00-03:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1154159593",
+      "tel": "0743-63-3165",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5951439,
+      "lon": 135.8114864,
+      "official_url_pending": "https://www.saikaramen.com/shop/honten.html"
+    }
+  ],
+  "coverage": {
+    "poi_count": 18,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 101,
+    "floor_check": {
+      "medical": {
+        "candidates": 7,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 2,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 13,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 5,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 4,
+        "selected": 2
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
