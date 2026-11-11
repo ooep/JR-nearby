@@ -1,0 +1,567 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st02018",
+    "name": {
+      "ja": "近江八幡",
+      "en": "Ōmi-Hachiman",
+      "zh": "近江八幡"
+    },
+    "line_group": [
+      "八日市線",
+      "北陸本線",
+      "山陽本線",
+      "東海道本線",
+      "近江鉄道本線"
+    ],
+    "pref": "滋賀県",
+    "lat": 35.122762,
+    "lon": 136.102872
+  },
+  "generated_at": "2026-11-11T04:19:06Z",
+  "pois": [
+    {
+      "id": "st02018-001",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "セブン-イレブンのコンビニエンスストア。駅から約35mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 35 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约35米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 35,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5009828783",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1230501,
+      "lon": 136.1027295
+    },
+    {
+      "id": "st02018-002",
+      "category": "food",
+      "name": {
+        "ja": "だるま八",
+        "en": "daruma八",
+        "zh": "Daruma八"
+      },
+      "desc": {
+        "ja": "駅から約69mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 69 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约69米的餐馆适合旅途中用餐，菜单与价格以店内展示内容为准，具体信息以现场为准。"
+      },
+      "distance_m": 69,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/3240574141",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1233813,
+      "lon": 136.102851
+    },
+    {
+      "id": "st02018-003",
+      "category": "sight",
+      "name": {
+        "ja": "アクト",
+        "en": "akuto",
+        "zh": "Akuto"
+      },
+      "desc": {
+        "ja": "駅から約1012mにある観光スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Attraction about 1012 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1012米的观光景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1012,
+      "walk_min": 13,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/317754735",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1318458,
+      "lon": 136.1022229
+    },
+    {
+      "id": "st02018-004",
+      "category": "shopping",
+      "name": {
+        "ja": "イオン",
+        "en": "AEON",
+        "zh": "永旺"
+      },
+      "desc": {
+        "ja": "駅から約107mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 107 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约107米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 107,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/12378721453",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1217957,
+      "lon": 136.1028479
+    },
+    {
+      "id": "st02018-005",
+      "category": "police",
+      "name": {
+        "ja": "近江八幡警察署近江八幡駅前交番",
+        "en": "近江八幡近江八幡站前交番 Police Station",
+        "zh": "近江八幡警察署近江八幡站前交番"
+      },
+      "desc": {
+        "ja": "駅から約114mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 114 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约114米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 114,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1422944879",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1236728,
+      "lon": 136.102302
+    },
+    {
+      "id": "st02018-006",
+      "category": "sight",
+      "name": {
+        "ja": "OMI HACHIMAN",
+        "en": "OMI HACHIMAN",
+        "zh": "OMI HACHIMAN"
+      },
+      "desc": {
+        "ja": "駅から約117mにある観光スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Attraction about 117 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约117米的观光景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 117,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/552335565",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1221995,
+      "lon": 136.1039569
+    },
+    {
+      "id": "st02018-007",
+      "category": "sight",
+      "name": {
+        "ja": "Former Hachiman Post Office 旧八幡郵便局",
+        "en": "Former Hachiman Post Office 旧八幡郵便局",
+        "zh": "Former Hachiman Post Office 旧八幡邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1988mにある観光スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Attraction about 1988 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1988米的观光景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1988,
+      "walk_min": 25,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5743714621",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1384991,
+      "lon": 136.0924978
+    },
+    {
+      "id": "st02018-008",
+      "category": "shopping",
+      "name": {
+        "ja": "イオン近江八幡ショッピングセンター 1番街",
+        "en": "ÆON ŌMI-HACHIMAN SHOPPING CENTER",
+        "zh": "イオン近江八幡ショッピングセンター 1番街"
+      },
+      "desc": {
+        "ja": "駅から約124mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 124 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约124米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 124,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/304353727",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1216527,
+      "lon": 136.1029676,
+      "official_url_pending": "https://www.aeon.jp/sc/oumihachiman/"
+    },
+    {
+      "id": "st02018-009",
+      "category": "bank_atm",
+      "name": {
+        "ja": "滋賀銀行 八幡南出張所",
+        "en": "滋賀 八幡南出張所 Bank",
+        "zh": "滋賀银行 八幡南出張所"
+      },
+      "desc": {
+        "ja": "滋賀銀行 八幡南出張所の支店。駅から約222mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 222 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约222米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 222,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/310030439",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1218331,
+      "lon": 136.1050353
+    },
+    {
+      "id": "st02018-010",
+      "category": "post_office",
+      "name": {
+        "ja": "近江八幡鷹飼郵便局",
+        "en": "Omihachiman Takakai Post Office",
+        "zh": "近江八幡鷹飼邮政局"
+      },
+      "desc": {
+        "ja": "駅から約225mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 225 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约225米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 225,
+      "walk_min": 3,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1422944883",
+      "tel": "+81-748-33-6950",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1247202,
+      "lon": 136.1035047
+    },
+    {
+      "id": "st02018-011",
+      "category": "convenience",
+      "name": {
+        "ja": "ファミリーマート",
+        "en": "FamilyMart",
+        "zh": "全家便利店"
+      },
+      "desc": {
+        "ja": "ファミリーマートのコンビニエンスストア。駅から約86mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 86 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约86米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 86,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2664659128",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1235233,
+      "lon": 136.1027159
+    },
+    {
+      "id": "st02018-012",
+      "category": "cafe",
+      "name": {
+        "ja": "ライフ",
+        "en": "Life",
+        "zh": "Life超市"
+      },
+      "desc": {
+        "ja": "駅から約105mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。",
+        "en": "Cafe about 105 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约105米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 105,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/315428138",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1236939,
+      "lon": 136.1027112
+    },
+    {
+      "id": "st02018-013",
+      "category": "post_office",
+      "name": {
+        "ja": "近江八幡郵便局",
+        "en": "Omihachiman Post Office",
+        "zh": "近江八幡邮政局"
+      },
+      "desc": {
+        "ja": "駅から約903mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 903 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约903米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 903,
+      "walk_min": 12,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/12517660910",
+      "tel": "+81-800-0800-111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1277765,
+      "lon": 136.095065
+    },
+    {
+      "id": "st02018-014",
+      "category": "police",
+      "name": {
+        "ja": "近江八幡警察署",
+        "en": "近江八幡 Police Station",
+        "zh": "近江八幡警察署"
+      },
+      "desc": {
+        "ja": "駅から約947mにある警察署。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 947 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约947米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 947,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/388175103",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1261939,
+      "lon": 136.0933435
+    },
+    {
+      "id": "st02018-015",
+      "category": "shopping",
+      "name": {
+        "ja": "イオン近江八幡ショッピングセンター 3番街",
+        "en": "ion近江八幡shiyopingusenta- 3番街",
+        "zh": "イオン近江八幡ショッピングセンター 3番街"
+      },
+      "desc": {
+        "ja": "駅から約206mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 206 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约206米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 206,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/317678942",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1209573,
+      "lon": 136.1023667
+    },
+    {
+      "id": "st02018-016",
+      "category": "food",
+      "name": {
+        "ja": "JAZZ & Gallery Café YUGEYA",
+        "en": "JAZZ & Gallery Café YUGEYA",
+        "zh": "JAZZ & Gallery Café YUGEYA"
+      },
+      "desc": {
+        "ja": "駅から約1076mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1076 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约1076米的餐馆适合旅途中用餐，菜单与价格以店内展示内容为准，具体信息以现场为准。"
+      },
+      "distance_m": 1076,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/13866198232",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1173738,
+      "lon": 136.0930515,
+      "official_url_pending": "http://www.yugeya-jazz.com/"
+    },
+    {
+      "id": "st02018-017",
+      "category": "medical",
+      "name": {
+        "ja": "近江八幡市立総合医療センター",
+        "en": "近江八幡市立総合医療senta-",
+        "zh": "近江八幡市立総合医療センター"
+      },
+      "desc": {
+        "ja": "駅から約1430mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 1430 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1430米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1430,
+      "walk_min": 18,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/1360343525",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1241178,
+      "lon": 136.0872311
+    },
+    {
+      "id": "st02018-018",
+      "category": "food",
+      "name": {
+        "ja": "ロッテリア",
+        "en": "Lotteria",
+        "zh": "Roteria"
+      },
+      "desc": {
+        "ja": "駅から約106mにある飲食店。burger料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 106 m from the station. Serves burger cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约106米的餐馆主营burger，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 106,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/12378721454",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.1218579,
+      "lon": 136.1032531
+    }
+  ],
+  "coverage": {
+    "poi_count": 18,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 150,
+    "floor_check": {
+      "medical": {
+        "candidates": 15,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 5,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 14,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 4,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 2,
+        "selected": 2
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
