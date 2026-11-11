@@ -1,0 +1,628 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st00053",
+    "name": {
+      "ja": "畝傍",
+      "en": "Unebi",
+      "zh": "畝傍"
+    },
+    "line_group": [
+      "桜井線"
+    ],
+    "pref": "奈良県",
+    "lat": 34.50824,
+    "lon": 135.79361
+  },
+  "generated_at": "2026-11-11T08:56:50Z",
+  "pois": [
+    {
+      "id": "st00053-001",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "セブン-イレブンのコンビニエンスストア。駅から約227mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 227 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约227米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 227,
+      "walk_min": 3,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6277969110",
+      "tel": "+81 744 29 2191",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5074212,
+      "lon": 135.7913424,
+      "official_url_pending": "http://sej.co.jp"
+    },
+    {
+      "id": "st00053-002",
+      "category": "post_office",
+      "name": {
+        "ja": "橿原郵便局",
+        "en": "Kashihara Post Office",
+        "zh": "橿原邮政局"
+      },
+      "desc": {
+        "ja": "駅から約230mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 230 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约230米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 230,
+      "walk_min": 3,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1423070303",
+      "tel": "+81-800-0800-111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.509056,
+      "lon": 135.791306
+    },
+    {
+      "id": "st00053-003",
+      "category": "food",
+      "name": {
+        "ja": "Trattoria 前澤",
+        "en": "Trattoria Maezawa",
+        "zh": "Trattoria 前澤"
+      },
+      "desc": {
+        "ja": "駅から約232mにある飲食店。italian料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 232 m from the station. Serves italian cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约232米的餐馆主营italian，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 232,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6283933624",
+      "tel": "+81 744 48 3808",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5098586,
+      "lon": 135.7920149,
+      "official_url_pending": "http://trattoria-maezawa.com"
+    },
+    {
+      "id": "st00053-004",
+      "category": "food",
+      "name": {
+        "ja": "たち花",
+        "en": "Tachibana",
+        "zh": "Tachi花"
+      },
+      "desc": {
+        "ja": "駅から約482mにある飲食店。japanese料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 482 m from the station. Serves japanese cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约482米的餐馆主营japanese，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 482,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6277969887",
+      "tel": "+81 744 29 3677",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5122274,
+      "lon": 135.7915345,
+      "official_url_pending": "http://t-tachibana.jp"
+    },
+    {
+      "id": "st00053-005",
+      "category": "cafe",
+      "name": {
+        "ja": "ミュージックカフェ アンジェス",
+        "en": "Music Café Anges",
+        "zh": "Miyu-jikukafue Anjiesu"
+      },
+      "desc": {
+        "ja": "駅から約1151mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。Mo-Fr 11:00-18:00（JST）。",
+        "en": "Cafe about 1151 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约1151米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 1151,
+      "walk_min": 15,
+      "hours": "Mo-Fr 11:00-18:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6277969101",
+      "tel": "+81 744 35 4018",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5169209,
+      "lon": 135.8004525,
+      "official_url_pending": "https://cafeanges.com/"
+    },
+    {
+      "id": "st00053-006",
+      "category": "food",
+      "name": {
+        "ja": "山葵",
+        "en": "Wasabi",
+        "zh": "山葵"
+      },
+      "desc": {
+        "ja": "駅から約483mにある飲食店。japanese料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 483 m from the station. Serves japanese cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约483米的餐馆主营japanese，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 483,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6277967687",
+      "tel": "+81 744 25 7504",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5121968,
+      "lon": 135.7914441,
+      "official_url_pending": "http://wasabi.hungry.jp"
+    },
+    {
+      "id": "st00053-007",
+      "category": "medical",
+      "name": {
+        "ja": "奈良県立医大病院",
+        "en": "Nara Medical University Hospital",
+        "zh": "奈良县立医大病院"
+      },
+      "desc": {
+        "ja": "駅から約466mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 466 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约466米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 466,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/814759213",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5041585,
+      "lon": 135.792466
+    },
+    {
+      "id": "st00053-008",
+      "category": "bank_atm",
+      "name": {
+        "ja": "南都銀行 畝傍支店",
+        "en": "Nanto Bank Unebi Branch",
+        "zh": "南都银行 畝傍支店"
+      },
+      "desc": {
+        "ja": "南都銀行 畝傍支店の支店。駅から約474mにあり、預け入れ・引き出しやATMの利用に対応する。窓口はMo-Fr 09:00-15:00（JST）。",
+        "en": "Bank about 474 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约474米的银行网点，Mo-Fr 09:00-15:00（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 474,
+      "walk_min": 6,
+      "hours": "Mo-Fr 09:00-15:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6277969593",
+      "tel": "+81 744 22 3621",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5080989,
+      "lon": 135.7884435,
+      "official_url_pending": "http://nantobank.co.jp"
+    },
+    {
+      "id": "st00053-009",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン 近鉄大和八木駅南口店",
+        "en": "Seven-Eleven",
+        "zh": "セブン-イレブン 近铁大和八木站南口店"
+      },
+      "desc": {
+        "ja": "セブン-イレブン 近鉄大和八木駅南口店のコンビニエンスストア。駅から約482mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 482 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约482米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 482,
+      "walk_min": 7,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/4435282091",
+      "tel": "+81 744 25 7118",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.512319,
+      "lon": 135.79183,
+      "official_url_pending": "http://sej.co.jp"
+    },
+    {
+      "id": "st00053-010",
+      "category": "shopping",
+      "name": {
+        "ja": "成城石井 大和八木店",
+        "en": "Seijo Ishii",
+        "zh": "成城石井 大和八木店"
+      },
+      "desc": {
+        "ja": "駅から約579mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 579 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约579米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 579,
+      "walk_min": 8,
+      "hours": "Mo-Sa 07:30-22:30; Su 07:30-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6277967309",
+      "tel": "+81 744 20 2651",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5132787,
+      "lon": 135.792002,
+      "official_url_pending": "https://seijoishii.co.jp/"
+    },
+    {
+      "id": "st00053-011",
+      "category": "bank_atm",
+      "name": {
+        "ja": "りそな銀行",
+        "en": "Resona Bank",
+        "zh": "理索纳银行"
+      },
+      "desc": {
+        "ja": "りそな銀行の支店。駅から約611mにあり、預け入れ・引き出しやATMの利用に対応する。窓口はMo-Fr 09:00-15:00（JST）。",
+        "en": "Bank about 611 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约611米的银行网点，Mo-Fr 09:00-15:00（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 611,
+      "walk_min": 8,
+      "hours": "Mo-Fr 09:00-15:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6277967705",
+      "tel": "+81 744 22 3501",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5137183,
+      "lon": 135.7930829,
+      "official_url_pending": "http://resonabank.co.jp"
+    },
+    {
+      "id": "st00053-012",
+      "category": "police",
+      "name": {
+        "ja": "橿原警察署",
+        "en": "Kashihara Police Station",
+        "zh": "橿原警察署"
+      },
+      "desc": {
+        "ja": "駅から約616mにある警察署。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 616 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约616米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 616,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423070287",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.503112,
+      "lon": 135.791056
+    },
+    {
+      "id": "st00053-013",
+      "category": "shopping",
+      "name": {
+        "ja": "コープみみなし",
+        "en": "ko-pumiminashi",
+        "zh": "Ko-pumiminashi"
+      },
+      "desc": {
+        "ja": "駅から約1069mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 1069 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1069米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1069,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6277967715",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.516309,
+      "lon": 135.7999505
+    },
+    {
+      "id": "st00053-014",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "西光寺",
+        "en": "Saiko-ji Temple",
+        "zh": "西光寺"
+      },
+      "desc": {
+        "ja": "駅から約495mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 495 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约495米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 495,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4032263912",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5075649,
+      "lon": 135.7882742
+    },
+    {
+      "id": "st00053-015",
+      "category": "post_office",
+      "name": {
+        "ja": "橿原四条郵便局",
+        "en": "Kashihara Shijo Post Office",
+        "zh": "橿原四条邮政局"
+      },
+      "desc": {
+        "ja": "駅から約748mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 748 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约748米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 748,
+      "walk_min": 10,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1423070259",
+      "tel": "+81-744-25-2404",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5016054,
+      "lon": 135.7949318
+    },
+    {
+      "id": "st00053-016",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "稱念寺",
+        "en": "Shonen-ji Temple",
+        "zh": "稱念寺"
+      },
+      "desc": {
+        "ja": "駅から約772mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 772 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约772米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 772,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4032263911",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5060757,
+      "lon": 135.7856068
+    },
+    {
+      "id": "st00053-017",
+      "category": "medical",
+      "name": {
+        "ja": "錦織病院",
+        "en": "Nishigori Hospital",
+        "zh": "錦織病院"
+      },
+      "desc": {
+        "ja": "駅から約808mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 808 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约808米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 808,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6277967710",
+      "tel": "+81 774 29 5600",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5121748,
+      "lon": 135.8010178,
+      "official_url_pending": "https://nishigori.jp/"
+    },
+    {
+      "id": "st00053-018",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "蓮妙寺",
+        "en": "Remmyo-ji Temple",
+        "zh": "蓮妙寺"
+      },
+      "desc": {
+        "ja": "駅から約544mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 544 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约544米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 544,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4032263913",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5076671,
+      "lon": 135.7877182
+    },
+    {
+      "id": "st00053-019",
+      "category": "sight",
+      "name": {
+        "ja": "緑の一里塚",
+        "en": "緑no一里塚",
+        "zh": "緑no一里塚"
+      },
+      "desc": {
+        "ja": "駅から約349mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Memorial about 349 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约349米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 349,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/11214802598",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5110256,
+      "lon": 135.7918567
+    },
+    {
+      "id": "st00053-020",
+      "category": "sight",
+      "name": {
+        "ja": "奈良県立橿原考古学研究所附属博物館",
+        "en": "The Museum, Archaeological Institute of Kashihara, Nara Prefecture",
+        "zh": "奈良县立橿原考古学研究所附属博物馆"
+      },
+      "desc": {
+        "ja": "駅から約1799mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1799 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1799米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1799,
+      "walk_min": 23,
+      "hours": "Tu-Su 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1423058477",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.492169,
+      "lon": 135.791362,
+      "official_url_pending": "http://www.kashikoken.jp/museum/"
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 302,
+    "floor_check": {
+      "medical": {
+        "candidates": 33,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 3,
+        "selected": 2
+      },
+      "convenience": {
+        "candidates": 16,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 5,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 3,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
