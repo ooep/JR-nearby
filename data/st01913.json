@@ -1,0 +1,564 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st01913",
+    "name": {
+      "ja": "本郷台",
+      "en": "Hongōdai",
+      "zh": "本郷台"
+    },
+    "line_group": [
+      "東海道本線",
+      "根岸線",
+      "横浜線"
+    ],
+    "pref": "神奈川県",
+    "lat": 35.36797,
+    "lon": 139.55018
+  },
+  "generated_at": "2026-11-11T02:41:46Z",
+  "pois": [
+    {
+      "id": "st01913-001",
+      "category": "convenience",
+      "name": {
+        "ja": "NewDays",
+        "en": "NewDays",
+        "zh": "NewDays"
+      },
+      "desc": {
+        "ja": "NewDaysのコンビニエンスストア。駅から約66mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 66 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约66米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 66,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/12824382532",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3674338,
+      "lon": 139.5504829
+    },
+    {
+      "id": "st01913-002",
+      "category": "park",
+      "name": {
+        "ja": "小菅ケ谷和田公園",
+        "en": "小菅ke谷和田公園",
+        "zh": "小菅ケ谷和田公园"
+      },
+      "desc": {
+        "ja": "駅から約145mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 145 m from the station, with paths and benches for a rest.",
+        "zh": "距站约145米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 145,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/511178272",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3692676,
+      "lon": 139.5503601
+    },
+    {
+      "id": "st01913-003",
+      "category": "food",
+      "name": {
+        "ja": "マクドナルド",
+        "en": "McDonald's",
+        "zh": "麦当劳"
+      },
+      "desc": {
+        "ja": "駅から約150mにある飲食店。burger料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 150 m from the station. Serves burger cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约150米的餐馆主营burger，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 150,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/8575322697",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3666284,
+      "lon": 139.5503378
+    },
+    {
+      "id": "st01913-004",
+      "category": "cafe",
+      "name": {
+        "ja": "ドトールコーヒーショップ",
+        "en": "Doutor Coffee Shop",
+        "zh": "多特咖啡"
+      },
+      "desc": {
+        "ja": "駅から約151mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。Mo-Fr 06:00-21:00; Sa,Su,PH 06:00-20:00（JST）。",
+        "en": "Cafe about 151 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约151米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 151,
+      "walk_min": 2,
+      "hours": "Mo-Fr 06:00-21:00; Sa,Su,PH 06:00-20:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/8575322700",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3667048,
+      "lon": 139.5507818
+    },
+    {
+      "id": "st01913-005",
+      "category": "bank_atm",
+      "name": {
+        "ja": "りそな銀行",
+        "en": "Resona Bank",
+        "zh": "理索纳银行"
+      },
+      "desc": {
+        "ja": "りそな銀行のATM。駅から約152mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 152 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约152米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 152,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/8575322699",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3666037,
+      "lon": 139.5501814
+    },
+    {
+      "id": "st01913-006",
+      "category": "shopping",
+      "name": {
+        "ja": "Fuji",
+        "en": "Fuji",
+        "zh": "Fuji"
+      },
+      "desc": {
+        "ja": "駅から約161mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 161 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约161米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 161,
+      "walk_min": 3,
+      "hours": "Mo-Su 09:30-01:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/4704829474",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3679636,
+      "lon": 139.551951
+    },
+    {
+      "id": "st01913-007",
+      "category": "sight",
+      "name": {
+        "ja": "横浜道の同祖供養塔",
+        "en": "横浜道no同祖供養塔",
+        "zh": "横浜道no同祖供養塔"
+      },
+      "desc": {
+        "ja": "駅から約1485mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Memorial about 1485 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1485米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1485,
+      "walk_min": 19,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/3138003407",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3721119,
+      "lon": 139.5657487
+    },
+    {
+      "id": "st01913-008",
+      "category": "medical",
+      "name": {
+        "ja": "さくら薬局",
+        "en": "Sakura Pharmacy",
+        "zh": "Sakura薬局"
+      },
+      "desc": {
+        "ja": "駅から約562mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 562 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约562米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 562,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/9411714776",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3631243,
+      "lon": 139.5519394
+    },
+    {
+      "id": "st01913-009",
+      "category": "police",
+      "name": {
+        "ja": "本郷台駅前交番",
+        "en": "本郷台站前 Police Box",
+        "zh": "本郷台站前交番"
+      },
+      "desc": {
+        "ja": "駅から約80mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 80 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约80米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 80,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/923795337",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3674571,
+      "lon": 139.5508061
+    },
+    {
+      "id": "st01913-010",
+      "category": "convenience",
+      "name": {
+        "ja": "ファミリーマート",
+        "en": "FamilyMart",
+        "zh": "全家便利店"
+      },
+      "desc": {
+        "ja": "ファミリーマートのコンビニエンスストア。駅から約689mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 689 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约689米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 689,
+      "walk_min": 9,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/4258286596",
+      "tel": "+81 45 897 3095",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3622952,
+      "lon": 139.553231,
+      "official_url_pending": "https://www.family.co.jp/"
+    },
+    {
+      "id": "st01913-011",
+      "category": "post_office",
+      "name": {
+        "ja": "本郷台駅前郵便局",
+        "en": "本郷台站前 Post Office",
+        "zh": "本郷台站前邮政局"
+      },
+      "desc": {
+        "ja": "駅から約179mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 179 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约179米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 179,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/8575322678",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3664479,
+      "lon": 139.5495232
+    },
+    {
+      "id": "st01913-012",
+      "category": "shopping",
+      "name": {
+        "ja": "FUJI",
+        "en": "FUJI",
+        "zh": "FUJI"
+      },
+      "desc": {
+        "ja": "駅から約752mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 752 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约752米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 752,
+      "walk_min": 10,
+      "hours": "Mo-Su 10:00-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/4698955610",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3649691,
+      "lon": 139.5427497
+    },
+    {
+      "id": "st01913-013",
+      "category": "public_service",
+      "name": {
+        "ja": "横浜市本郷地区センター",
+        "en": "横浜市本郷地区senta-",
+        "zh": "横滨市本郷地区センター"
+      },
+      "desc": {
+        "ja": "駅から約242mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 242 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约242米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 242,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/9405072251",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.365917,
+      "lon": 139.5510754
+    },
+    {
+      "id": "st01913-014",
+      "category": "park",
+      "name": {
+        "ja": "小菅ケ谷石神公園",
+        "en": "小菅ke谷石神公園",
+        "zh": "小菅ケ谷石神公园"
+      },
+      "desc": {
+        "ja": "駅から約318mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 318 m from the station, with paths and benches for a rest.",
+        "zh": "距站约318米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 318,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/507540322",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3692737,
+      "lon": 139.5532978
+    },
+    {
+      "id": "st01913-015",
+      "category": "public_service",
+      "name": {
+        "ja": "野村港南台つつじケ丘自治会館",
+        "en": "野村港南台tsutsujike丘自治会館",
+        "zh": "野村港南台tsutsujike丘自治会館"
+      },
+      "desc": {
+        "ja": "駅から約1508mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 1508 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1508米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1508,
+      "walk_min": 19,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/9498179911",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3773829,
+      "lon": 139.5621468
+    },
+    {
+      "id": "st01913-016",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "證菩提寺",
+        "en": "Shōbodaiji Temple",
+        "zh": "證菩提寺"
+      },
+      "desc": {
+        "ja": "駅から約1881mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 1881 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1881米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1881,
+      "walk_min": 24,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/1083108594",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3628457,
+      "lon": 139.5699497
+    },
+    {
+      "id": "st01913-017",
+      "category": "police",
+      "name": {
+        "ja": "笠間交番",
+        "en": "笠間 Police Box",
+        "zh": "笠間交番"
+      },
+      "desc": {
+        "ja": "駅から約1092mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1092 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1092米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1092,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/1392176998",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.3615148,
+      "lon": 139.5411047
+    },
+    {
+      "id": "st01913-018",
+      "category": "post_office",
+      "name": {
+        "ja": "横浜桂郵便局",
+        "en": "横滨桂 Post Office",
+        "zh": "横滨桂邮政局"
+      },
+      "desc": {
+        "ja": "駅から約759mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 759 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约759米的邮局，可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片，具体信息以现场为准。"
+      },
+      "distance_m": 759,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420825542",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.364732,
+      "lon": 139.557545
+    }
+  ],
+  "coverage": {
+    "poi_count": 18,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 299,
+    "floor_check": {
+      "medical": {
+        "candidates": 34,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 8,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 29,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 8,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 7,
+        "selected": 2
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}

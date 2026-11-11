@@ -1,0 +1,630 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st01571",
+    "name": {
+      "ja": "長町",
+      "en": "Nagamachi",
+      "zh": "长町"
+    },
+    "line_group": [
+      "仙台市地下鉄南北線",
+      "東北本線",
+      "阿武隈急行線"
+    ],
+    "pref": "宮城県",
+    "lat": 38.22693,
+    "lon": 140.885556
+  },
+  "generated_at": "2026-11-11T02:41:46Z",
+  "pois": [
+    {
+      "id": "st01571-001",
+      "category": "convenience",
+      "name": {
+        "ja": "NewDays",
+        "en": "NewDays",
+        "zh": "NewDays"
+      },
+      "desc": {
+        "ja": "NewDaysのコンビニエンスストア。駅から約20mの場所にあり、Mo-Sa 06:30-21:30; Su 06:30-21:00（JST）。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 20 m from the station. Mo-Sa 06:30-21:30, Su 06:30-21:00 (JST). Stocks meals, drinks and daily.",
+        "zh": "距站约20米的便利店，Mo-Sa 06:30-21:30, Su 06:30-21:00（JST），可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 20,
+      "walk_min": 1,
+      "hours": "Mo-Sa 06:30-21:30; Su 06:30-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5213943123",
+      "tel": "+81 22 746 5610",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.2270985,
+      "lon": 140.8854626,
+      "official_url_pending": "https://shop.jr-cross.co.jp/eki/spot/detail?code=1531525"
+    },
+    {
+      "id": "st01571-002",
+      "category": "cafe",
+      "name": {
+        "ja": "タリーズコーヒー",
+        "en": "Tully's Coffee",
+        "zh": "塔利咖啡"
+      },
+      "desc": {
+        "ja": "駅から約38mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。Mo-Fr 07:30-21:00; Sa-Su 09:00-21:00（JST）。",
+        "en": "Cafe about 38 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约38米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 38,
+      "walk_min": 1,
+      "hours": "Mo-Fr 07:30-21:00; Sa-Su 09:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6765674002",
+      "tel": "+81 22 281 9178",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.2272602,
+      "lon": 140.8856789,
+      "official_url_pending": "https://shop.tullys.co.jp/detail/1000881"
+    },
+    {
+      "id": "st01571-003",
+      "category": "food",
+      "name": {
+        "ja": "IKEAレストラン",
+        "en": "IKEA Restaurant",
+        "zh": "IKEAレストラン"
+      },
+      "desc": {
+        "ja": "駅から約188mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Fr 11:00-19:00; Sa-Su,PH 10:00-20:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 188 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约188米的餐馆适合旅途中用餐，Mo-Fr 11:00-19:00, Sa-Su, PH 10:00-20:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 188,
+      "walk_min": 3,
+      "hours": "Mo-Fr 11:00-19:00; Sa-Su,PH 10:00-20:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6765703485",
+      "tel": "+81 570 013 900",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.2254953,
+      "lon": 140.8866851,
+      "official_url_pending": "https://www.ikea.com/jp/ja/stores/restaurant/"
+    },
+    {
+      "id": "st01571-004",
+      "category": "shopping",
+      "name": {
+        "ja": "パン工房 パンセ",
+        "en": "Pansee",
+        "zh": "パン工房 パンセ"
+      },
+      "desc": {
+        "ja": "駅から約119mにあるベーカリー。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Bakery about 119 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约119米的面包店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 119,
+      "walk_min": 2,
+      "hours": "Mo-Su 10:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6765674195",
+      "tel": "+81 22 226 8640",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.227973,
+      "lon": 140.8858439,
+      "official_url_pending": "https://www.i-pensee.jp/"
+    },
+    {
+      "id": "st01571-005",
+      "category": "food",
+      "name": {
+        "ja": "マクドナルド",
+        "en": "McDonald's",
+        "zh": "麦当劳"
+      },
+      "desc": {
+        "ja": "駅から約237mにある飲食店。burger料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は24時間営業。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 237 m from the station. Serves burger cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约237米的餐馆主营burger，适合旅途中用餐，全天24小时营业，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 237,
+      "walk_min": 3,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/3690600430",
+      "tel": "+81 22 246 1955",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.2258261,
+      "lon": 140.8878819,
+      "official_url_pending": "https://map.mcdonalds.co.jp/map/04547"
+    },
+    {
+      "id": "st01571-006",
+      "category": "medical",
+      "name": {
+        "ja": "仙台今村クリニック",
+        "en": "Sendai Imamura Clinic",
+        "zh": "仙台今村クリニック"
+      },
+      "desc": {
+        "ja": "駅から約182mにあるクリニック。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Clinic about 182 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约182米的诊所，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 182,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6765680688",
+      "tel": "+81 22 249 7611",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.2283904,
+      "lon": 140.8846119,
+      "official_url_pending": "https://imamura-clinic.mcpu.jp/"
+    },
+    {
+      "id": "st01571-007",
+      "category": "food",
+      "name": {
+        "ja": "ココス",
+        "en": "Coco's",
+        "zh": "Kokosu"
+      },
+      "desc": {
+        "ja": "駅から約378mにある飲食店。western;japanese料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Fr 10:00-02:00; Sa-Su,PH 07:00-02:00（JST）。メニューや予算は店頭で確。",
+        "en": "Restaurant about 378 m from the station. Serves western and japanese cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约378米的餐馆主营western and japanese，适合旅途中用餐，Mo-Fr 10:00-02:00, Sa-Su, PH 07:00-02:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 378,
+      "walk_min": 5,
+      "hours": "Mo-Fr 10:00-02:00; Sa-Su,PH 07:00-02:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/4485653294",
+      "tel": "+81 22 304 1143",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.225824,
+      "lon": 140.8814599,
+      "official_url_pending": "https://www.cocos-jpn.co.jp/"
+    },
+    {
+      "id": "st01571-008",
+      "category": "bank_atm",
+      "name": {
+        "ja": "仙台農業協同組合 長町支店",
+        "en": "JA Sendai Nagamachi Branch",
+        "zh": "仙台農業協同組合 长町支店"
+      },
+      "desc": {
+        "ja": "仙台農業協同組合 長町支店の支店。駅から約329mにあり、預け入れ・引き出しやATMの利用に対応する。窓口はMo-Fr 09:00-15:00（JST）。",
+        "en": "Bank about 329 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约329米的银行网点，Mo-Fr 09:00-15:00（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 329,
+      "walk_min": 5,
+      "hours": "Mo-Fr 09:00-15:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6765703486",
+      "tel": "+81 22 246 0185",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.2240935,
+      "lon": 140.8844732,
+      "official_url_pending": "http://jasendai.or.jp"
+    },
+    {
+      "id": "st01571-009",
+      "category": "medical",
+      "name": {
+        "ja": "長町病院",
+        "en": "Nagamachi Hospital",
+        "zh": "长町病院"
+      },
+      "desc": {
+        "ja": "駅から約344mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 344 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约344米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 344,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4516898491",
+      "tel": "+81 22 746 5161",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.2297648,
+      "lon": 140.8839673,
+      "official_url_pending": "https://www.m-kousei.com/nagamati/"
+    },
+    {
+      "id": "st01571-010",
+      "category": "convenience",
+      "name": {
+        "ja": "ファミリーマート",
+        "en": "FamilyMart",
+        "zh": "全家便利店"
+      },
+      "desc": {
+        "ja": "ファミリーマートのコンビニエンスストア。駅から約402mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 402 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约402米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 402,
+      "walk_min": 6,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6715356015",
+      "tel": "+81 22 304 0257",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.2255008,
+      "lon": 140.8897852,
+      "official_url_pending": "https://www.family.co.jp"
+    },
+    {
+      "id": "st01571-011",
+      "category": "bank_atm",
+      "name": {
+        "ja": "七十七銀行",
+        "en": "77 Bank",
+        "zh": "七十七银行"
+      },
+      "desc": {
+        "ja": "七十七銀行の支店。駅から約433mにあり、預け入れ・引き出しやATMの利用に対応する。窓口はMo-Fr 09:00-15:00（JST）。",
+        "en": "Bank about 433 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约433米的银行网点，Mo-Fr 09:00-15:00（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 433,
+      "walk_min": 6,
+      "hours": "Mo-Fr 09:00-15:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/4473109728",
+      "tel": "+81 22 248 2111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.2308189,
+      "lon": 140.885343,
+      "official_url_pending": "https://www.77bank.co.jp"
+    },
+    {
+      "id": "st01571-012",
+      "category": "shopping",
+      "name": {
+        "ja": "サンエトワール",
+        "en": "Saint Etoile",
+        "zh": "Sanetowa-ru"
+      },
+      "desc": {
+        "ja": "駅から約9mにあるベーカリー。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Bakery about 9 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约9米的面包店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 9,
+      "walk_min": 1,
+      "hours": "Mo-Su 07:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6765701288",
+      "tel": "+81 22 246 2744",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.2269631,
+      "lon": 140.8856438
+    },
+    {
+      "id": "st01571-013",
+      "category": "post_office",
+      "name": {
+        "ja": "仙台南郵便局",
+        "en": "Sendai Minami Post Office",
+        "zh": "仙台南邮政局"
+      },
+      "desc": {
+        "ja": "駅から約791mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-19:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 791 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约791米的邮局，Mo-Fr 09:00-19:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 791,
+      "walk_min": 10,
+      "hours": "Mo-Fr 09:00-19:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/4473109729",
+      "tel": "+81-22-248-0983",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.2277796,
+      "lon": 140.87657
+    },
+    {
+      "id": "st01571-014",
+      "category": "post_office",
+      "name": {
+        "ja": "仙台八本松郵便局",
+        "en": "Sendai Hachihonmatsu Post Office",
+        "zh": "仙台八本松邮政局"
+      },
+      "desc": {
+        "ja": "駅から約856mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 856 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约856米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 856,
+      "walk_min": 11,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/4479301699",
+      "tel": "+81 22 248 9817",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.2269338,
+      "lon": 140.8953542
+    },
+    {
+      "id": "st01571-015",
+      "category": "police",
+      "name": {
+        "ja": "郡山交番",
+        "en": "Koriyama Police Station",
+        "zh": "郡山交番"
+      },
+      "desc": {
+        "ja": "駅から約1010mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1010 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1010米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1010,
+      "walk_min": 13,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/4485719792",
+      "tel": "+81 22 248 4970",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.2247768,
+      "lon": 140.8967889
+    },
+    {
+      "id": "st01571-016",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "常源寺",
+        "en": "Jogenji",
+        "zh": "常源寺"
+      },
+      "desc": {
+        "ja": "駅から約632mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 632 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约632米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 632,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6424824587",
+      "tel": "+81 22 247 9704",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.2323921,
+      "lon": 140.8835577
+    },
+    {
+      "id": "st01571-017",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "旅立稲荷神社",
+        "en": "Tabidachi Inari Jinja",
+        "zh": "旅立稲荷神社"
+      },
+      "desc": {
+        "ja": "駅から約979mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 979 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约979米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 979,
+      "walk_min": 13,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4702955890",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.234037,
+      "lon": 140.8921642
+    },
+    {
+      "id": "st01571-018",
+      "category": "sight",
+      "name": {
+        "ja": "北目城跡",
+        "en": "Site of Kitame Castle",
+        "zh": "北目城跡"
+      },
+      "desc": {
+        "ja": "駅から約1101mにある城郭。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Castle about 1101 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1101米的城堡，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1101,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4677679591",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.2234268,
+      "lon": 140.8973436
+    },
+    {
+      "id": "st01571-019",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "須賀神社",
+        "en": "Suga Jinja",
+        "zh": "須賀神社"
+      },
+      "desc": {
+        "ja": "駅から約1430mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1430 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1430米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1430,
+      "walk_min": 18,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4971986130",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.2397152,
+      "lon": 140.8873364
+    },
+    {
+      "id": "st01571-020",
+      "category": "shopping",
+      "name": {
+        "ja": "イオンエクスプレス 仙台古城店",
+        "en": "Aeon Express Sendai Furujiro",
+        "zh": "イオンエクスプレス 仙台古城店"
+      },
+      "desc": {
+        "ja": "駅から約1493mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 1493 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1493米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1493,
+      "walk_min": 19,
+      "hours": "Mo-Su 09:00-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5490341428",
+      "tel": "+81 22 285 8760",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.2375285,
+      "lon": 140.8960483
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 386,
+    "floor_check": {
+      "medical": {
+        "candidates": 68,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 17,
+        "selected": 2
+      },
+      "convenience": {
+        "candidates": 31,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 8,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 2,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
