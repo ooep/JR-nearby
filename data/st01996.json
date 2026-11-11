@@ -1,0 +1,540 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st01996",
+    "name": {
+      "ja": "大津",
+      "en": "Ōtsu",
+      "zh": "大津"
+    },
+    "line_group": [
+      "北陸本線",
+      "大阪環状線",
+      "山陽本線",
+      "東海道本線"
+    ],
+    "pref": "滋賀県",
+    "lat": 35.00303,
+    "lon": 135.8649
+  },
+  "generated_at": "2026-11-11T05:15:23Z",
+  "pois": [
+    {
+      "id": "st01996-001",
+      "category": "cafe",
+      "name": {
+        "ja": "きまま",
+        "en": "kimama",
+        "zh": "Kimama"
+      },
+      "desc": {
+        "ja": "駅から約220mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。",
+        "en": "Cafe about 220 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约220米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 220,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5870323440",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.0046784,
+      "lon": 135.863562
+    },
+    {
+      "id": "st01996-002",
+      "category": "food",
+      "name": {
+        "ja": "ハワイアンキッチンズ",
+        "en": "Hawaiian Kitchens",
+        "zh": "Hawaiankichinzu"
+      },
+      "desc": {
+        "ja": "駅から約825mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 825 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约825米的餐馆适合旅途中用餐，菜单与价格以店内展示内容为准，具体信息以现场为准。"
+      },
+      "distance_m": 825,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5811636855",
+      "tel": "+81 77 527 7773",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.0104447,
+      "lon": 135.8652575,
+      "official_url_pending": "http://hawaiian-kitchens.com"
+    },
+    {
+      "id": "st01996-003",
+      "category": "convenience",
+      "name": {
+        "ja": "ファミリーマート",
+        "en": "FamilyMart",
+        "zh": "全家便利店"
+      },
+      "desc": {
+        "ja": "ファミリーマートのコンビニエンスストア。駅から約197mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 197 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约197米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 197,
+      "walk_min": 3,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5522597422",
+      "tel": "+81 77 510 0155",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.0018263,
+      "lon": 135.866483
+    },
+    {
+      "id": "st01996-004",
+      "category": "post_office",
+      "name": {
+        "ja": "大津駅前郵便局",
+        "en": "Otsu Ekimae Post Office",
+        "zh": "大津站前邮政局"
+      },
+      "desc": {
+        "ja": "駅から約231mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 231 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约231米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 231,
+      "walk_min": 3,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1422942154",
+      "tel": "+81-77-524-9603",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.0047878,
+      "lon": 135.8635504
+    },
+    {
+      "id": "st01996-005",
+      "category": "sight",
+      "name": {
+        "ja": "「海」ブロンズ像",
+        "en": "「海」buronzu像",
+        "zh": "「海」ブロンズ像"
+      },
+      "desc": {
+        "ja": "駅から約373mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Monument about 373 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约373米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 373,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5817471153",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.0050853,
+      "lon": 135.8681382
+    },
+    {
+      "id": "st01996-006",
+      "category": "post_office",
+      "name": {
+        "ja": "大津京町郵便局",
+        "en": "Otsu Kyomachi Post Office",
+        "zh": "大津京町邮政局"
+      },
+      "desc": {
+        "ja": "駅から約488mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 488 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约488米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 488,
+      "walk_min": 7,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1422941669",
+      "tel": "+81-77-524-9607",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.006699,
+      "lon": 135.861959
+    },
+    {
+      "id": "st01996-007",
+      "category": "medical",
+      "name": {
+        "ja": "あそうクリニック",
+        "en": "asoukuriniku",
+        "zh": "Asoukuriniku"
+      },
+      "desc": {
+        "ja": "駅から約291mにあるクリニック。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Clinic about 291 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约291米的诊所，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 291,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5870458850",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.0056351,
+      "lon": 135.8651492
+    },
+    {
+      "id": "st01996-008",
+      "category": "bank_atm",
+      "name": {
+        "ja": "滋賀銀行",
+        "en": "Shiga Bank",
+        "zh": "滋賀银行"
+      },
+      "desc": {
+        "ja": "滋賀銀行の支店。駅から約700mにあり、預け入れ・引き出しやATMの利用に対応する。窓口はMo-Fr 09:00-15:00（JST）。",
+        "en": "Bank about 700 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约700米的银行网点，Mo-Fr 09:00-15:00（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 700,
+      "walk_min": 9,
+      "hours": "Mo-Fr 09:00-15:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5822257655",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.0092674,
+      "lon": 135.8659145
+    },
+    {
+      "id": "st01996-009",
+      "category": "bank_atm",
+      "name": {
+        "ja": "みずほ銀行",
+        "en": "Mizuho Bank",
+        "zh": "瑞穗银行"
+      },
+      "desc": {
+        "ja": "みずほ銀行の支店。駅から約719mにあり、預け入れ・引き出しやATMの利用に対応する。窓口はMo-Fr 09:00-15:00（JST）。",
+        "en": "Bank about 719 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约719米的银行网点，Mo-Fr 09:00-15:00（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 719,
+      "walk_min": 9,
+      "hours": "Mo-Fr 09:00-15:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5822257759",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.00948,
+      "lon": 135.8653811
+    },
+    {
+      "id": "st01996-010",
+      "category": "sight",
+      "name": {
+        "ja": "滋賀県民の歌 歌碑",
+        "en": "滋賀県民no歌 歌碑",
+        "zh": "滋賀県民no歌 歌碑"
+      },
+      "desc": {
+        "ja": "駅から約432mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Monument about 432 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约432米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 432,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5817471953",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.0048073,
+      "lon": 135.8691153
+    },
+    {
+      "id": "st01996-011",
+      "category": "public_service",
+      "name": {
+        "ja": "逢坂市民センター",
+        "en": "逢坂市民senta-",
+        "zh": "逢坂市民センター"
+      },
+      "desc": {
+        "ja": "駅から約163mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 163 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约163米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 163,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4851242761",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.0043968,
+      "lon": 135.865549
+    },
+    {
+      "id": "st01996-012",
+      "category": "police",
+      "name": {
+        "ja": "大津警察署浜大津交番",
+        "en": "大津滨大津交番 Police Station",
+        "zh": "大津警察署滨大津交番"
+      },
+      "desc": {
+        "ja": "駅から約980mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 980 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约980米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 980,
+      "walk_min": 13,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1422942104",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.0117434,
+      "lon": 135.8633187
+    },
+    {
+      "id": "st01996-013",
+      "category": "sight",
+      "name": {
+        "ja": "大津事件の碑",
+        "en": "大津事件no碑",
+        "zh": "大津事件no碑"
+      },
+      "desc": {
+        "ja": "駅から約440mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Memorial about 440 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约440米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 440,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4851242724",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.0069865,
+      "lon": 135.8648228
+    },
+    {
+      "id": "st01996-014",
+      "category": "food",
+      "name": {
+        "ja": "サイゼリヤ",
+        "en": "Saizeriya",
+        "zh": "萨莉亚"
+      },
+      "desc": {
+        "ja": "駅から約1263mにある飲食店。italian料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は11:00-22:30（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1263 m from the station. Serves italian cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1263米的餐馆主营italian，适合旅途中用餐，11:00-22:30（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1263,
+      "walk_min": 16,
+      "hours": "11:00-22:30 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5809952656",
+      "tel": "077-510-8625",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.0044819,
+      "lon": 135.8786577,
+      "official_url_pending": "https://www.saizeriya.co.jp/restaurant/shop_detail.php?cd=1081"
+    },
+    {
+      "id": "st01996-015",
+      "category": "medical",
+      "name": {
+        "ja": "くすりのやまじ",
+        "en": "kusurinoyamaji",
+        "zh": "Kusurinoyamaji"
+      },
+      "desc": {
+        "ja": "駅から約350mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 350 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约350米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 350,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5817471755",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.0058602,
+      "lon": 135.86657
+    },
+    {
+      "id": "st01996-016",
+      "category": "food",
+      "name": {
+        "ja": "Ristorante Lago",
+        "en": "Ristorante Lago",
+        "zh": "Ristorante Lago"
+      },
+      "desc": {
+        "ja": "駅から約837mにある飲食店。italian料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 837 m from the station. Serves italian cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约837米的餐馆主营italian，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 837,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5811645154",
+      "tel": "+81 77 525 2701",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.0105497,
+      "lon": 135.8652788,
+      "official_url_pending": "https://www.ristorante-lago.jp/"
+    },
+    {
+      "id": "st01996-017",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "セブン-イレブンのコンビニエンスストア。駅から約1518mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 1518 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约1518米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 1518,
+      "walk_min": 19,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/4683458681",
+      "tel": "+81 77 521 7386",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.0005277,
+      "lon": 135.8812797,
+      "official_url_pending": "http://sej.co.jp"
+    }
+  ],
+  "coverage": {
+    "poi_count": 17,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 372,
+    "floor_check": {
+      "medical": {
+        "candidates": 33,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 13,
+        "selected": 2
+      },
+      "convenience": {
+        "candidates": 16,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 9,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 4,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,572 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st01253",
+    "name": {
+      "ja": "四条畷",
+      "en": "Shijōnawate",
+      "zh": "四条畷"
+    },
+    "line_group": [
+      "JR東西線",
+      "片町線"
+    ],
+    "pref": "大阪府",
+    "lat": 34.73045,
+    "lon": 135.63932
+  },
+  "generated_at": "2026-11-11T05:15:23Z",
+  "pois": [
+    {
+      "id": "st01253-001",
+      "category": "police",
+      "name": {
+        "ja": "四条畷警察署中野交番",
+        "en": "四条畷中野交番 Police Station",
+        "zh": "四条畷警察署中野交番"
+      },
+      "desc": {
+        "ja": "駅から約1177mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1177 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1177米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1177,
+      "walk_min": 15,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1422986205",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7404527,
+      "lon": 135.643543
+    },
+    {
+      "id": "st01253-002",
+      "category": "food",
+      "name": {
+        "ja": "ピソラ 寝屋川堀溝店",
+        "en": "Pisola",
+        "zh": "ピソラ 寝屋川堀溝店"
+      },
+      "desc": {
+        "ja": "駅から約1795mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Su 11:00-00:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1795 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约1795米的餐馆适合旅途中用餐，Mo-Su 11:00-00:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1795,
+      "walk_min": 23,
+      "hours": "Mo-Su 11:00-00:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6033498038",
+      "tel": "+81 72 813 5590",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7406033,
+      "lon": 135.6240463,
+      "official_url_pending": "https://pisola.jp/"
+    },
+    {
+      "id": "st01253-003",
+      "category": "shopping",
+      "name": {
+        "ja": "万代",
+        "en": "MANDAI",
+        "zh": "万代"
+      },
+      "desc": {
+        "ja": "駅から約692mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 692 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约692米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 692,
+      "walk_min": 9,
+      "hours": "Mo-Su 09:00-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/10823042439",
+      "tel": "+81-72-803-0870",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7243548,
+      "lon": 135.6378129
+    },
+    {
+      "id": "st01253-004",
+      "category": "medical",
+      "name": {
+        "ja": "すみれ薬局",
+        "en": "sumire薬局",
+        "zh": "Sumire薬局"
+      },
+      "desc": {
+        "ja": "駅から約129mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 129 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约129米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 129,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5554023322",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7297873,
+      "lon": 135.6404756
+    },
+    {
+      "id": "st01253-005",
+      "category": "bank_atm",
+      "name": {
+        "ja": "大阪厚生信用金庫",
+        "en": "大阪厚生 Credit Union",
+        "zh": "大阪厚生信用金庫"
+      },
+      "desc": {
+        "ja": "大阪厚生信用金庫の支店。駅から約803mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 803 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约803米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 803,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5919985792",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7339299,
+      "lon": 135.6316249,
+      "official_url_pending": "https://www.e-map.ne.jp/p/GP151033/dtl/010/"
+    },
+    {
+      "id": "st01253-006",
+      "category": "food",
+      "name": {
+        "ja": "久太郎 寝屋川店",
+        "en": "Kutaro",
+        "zh": "久太郎 寝屋川店"
+      },
+      "desc": {
+        "ja": "駅から約735mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 735 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约735米的餐馆适合旅途中用餐，菜单与价格以店内展示内容为准，具体信息以现场为准。"
+      },
+      "distance_m": 735,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5919986594",
+      "tel": "+81 72 820 6750",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7296994,
+      "lon": 135.6313329,
+      "official_url_pending": "https://kutaro.com/"
+    },
+    {
+      "id": "st01253-007",
+      "category": "medical",
+      "name": {
+        "ja": "彭医院",
+        "en": "Hou Clinic",
+        "zh": "彭医院"
+      },
+      "desc": {
+        "ja": "駅から約1002mにあるクリニック。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Clinic about 1002 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1002米的诊所，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1002,
+      "walk_min": 13,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5919986185",
+      "tel": "+81 72 878 5533",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7227819,
+      "lon": 135.6335654,
+      "official_url_pending": "https://houiin.com/"
+    },
+    {
+      "id": "st01253-008",
+      "category": "park",
+      "name": {
+        "ja": "深北 緑地",
+        "en": "Fukakita Park",
+        "zh": "深北 緑地"
+      },
+      "desc": {
+        "ja": "駅から約1026mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1026 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1026米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1026,
+      "walk_min": 13,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/171761286",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7272285,
+      "lon": 135.6287952
+    },
+    {
+      "id": "st01253-009",
+      "category": "public_service",
+      "name": {
+        "ja": "大東市立北条青少年教育センター分館(児童館)",
+        "en": "大東市立北条青少年教育senta-分館(児童館)",
+        "zh": "大东市立北条青少年教育センター分馆(児童馆)"
+      },
+      "desc": {
+        "ja": "駅から約466mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 466 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约466米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 466,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1422987998",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.730247,
+      "lon": 135.64441
+    },
+    {
+      "id": "st01253-010",
+      "category": "post_office",
+      "name": {
+        "ja": "四條畷郵便局",
+        "en": "Shijonawate Post Office",
+        "zh": "四條畷邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1343mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1343 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1343米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 1343,
+      "walk_min": 17,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1422986231",
+      "tel": "+81-800-0800-111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.742501,
+      "lon": 135.638288
+    },
+    {
+      "id": "st01253-011",
+      "category": "sight",
+      "name": {
+        "ja": "墓の堂古墳",
+        "en": "墓no堂古墳",
+        "zh": "墓no堂古墳"
+      },
+      "desc": {
+        "ja": "駅から約893mにある展望スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Viewpoint about 893 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约893米的观景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 893,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5554023045",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7380986,
+      "lon": 135.6423159
+    },
+    {
+      "id": "st01253-012",
+      "category": "park",
+      "name": {
+        "ja": "三箇第１公園",
+        "en": "Sanga First Park",
+        "zh": "三箇第１公园"
+      },
+      "desc": {
+        "ja": "駅から約1415mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1415 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1415米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1415,
+      "walk_min": 18,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/771024619",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7278231,
+      "lon": 135.6241692,
+      "official_url_pending": "https://www.city.daito.lg.jp/kakukakaranoosirase/machizukuri/tosiseibisitu/midori/tosikouennosyoukai/1531458590051.html"
+    },
+    {
+      "id": "st01253-013",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "セブン-イレブンのコンビニエンスストア。駅から約1468mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 1468 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约1468米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 1468,
+      "walk_min": 19,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5965694549",
+      "tel": "+81 72 879 3719",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7435036,
+      "lon": 135.6369086,
+      "official_url_pending": "http://sej.co.jp"
+    },
+    {
+      "id": "st01253-014",
+      "category": "public_service",
+      "name": {
+        "ja": "大東市立東部図書館",
+        "en": "Daito City East Library",
+        "zh": "大东市立东部图书馆"
+      },
+      "desc": {
+        "ja": "駅から約1560mにある図書館。手続きや調べ物、休憩に利用できる公共の施設。詳細は現地の案内を参照。",
+        "en": "Library about 1560 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1560米的图书馆，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1560,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/8447560114",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7165853,
+      "lon": 135.6419348
+    },
+    {
+      "id": "st01253-015",
+      "category": "convenience",
+      "name": {
+        "ja": "デイリーヤマザキ",
+        "en": "Daily Yamazaki",
+        "zh": "Daily Yamazaki便利店"
+      },
+      "desc": {
+        "ja": "デイリーヤマザキのコンビニエンスストア。駅から約1603mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 1603 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约1603米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 1603,
+      "walk_min": 21,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/539600098",
+      "tel": "+81 72 877 8009",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7407783,
+      "lon": 135.6270844,
+      "official_url_pending": "https://www.daily-yamazaki.jp/"
+    },
+    {
+      "id": "st01253-016",
+      "category": "food",
+      "name": {
+        "ja": "牛庵",
+        "en": "Gyuan",
+        "zh": "牛庵"
+      },
+      "desc": {
+        "ja": "駅から約1693mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。営業は00:00-01:00, 11:00-24:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1693 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约1693米的餐馆适合旅途中用餐，00:00-01:00, 11:00-24:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1693,
+      "walk_min": 22,
+      "hours": "00:00-01:00, 11:00-24:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5965694509",
+      "tel": "+81-72-879-3999",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7446695,
+      "lon": 135.6326917,
+      "official_url_pending": "https://maps.gyuan.jp/jp/detail/4593.html"
+    },
+    {
+      "id": "st01253-017",
+      "category": "post_office",
+      "name": {
+        "ja": "四條畷岡山郵便局",
+        "en": "Shijonawate Okayama Post Office",
+        "zh": "四條畷冈山邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1731mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1731 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1731米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 1731,
+      "walk_min": 22,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5558299233",
+      "tel": "+81-72-878-1800",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7453128,
+      "lon": 135.6449522,
+      "official_url_pending": "https://map.japanpost.jp/p/search/dtl/300140100000/"
+    },
+    {
+      "id": "st01253-018",
+      "category": "shopping",
+      "name": {
+        "ja": "イオンモール四條畷",
+        "en": "AEON MALL Shijonawate",
+        "zh": "イオンモール四條畷"
+      },
+      "desc": {
+        "ja": "駅から約1998mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 1998 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1998米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准。"
+      },
+      "distance_m": 1998,
+      "walk_min": 25,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/386776288",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.7463772,
+      "lon": 135.6291876,
+      "official_url_pending": "https://shijonawate-aeonmall.com/"
+    }
+  ],
+  "coverage": {
+    "poi_count": 18,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 374,
+    "floor_check": {
+      "medical": {
+        "candidates": 52,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 12,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 27,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 10,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 3,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}

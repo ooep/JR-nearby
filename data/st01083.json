@@ -1,0 +1,591 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st01083",
+    "name": {
+      "ja": "柏の葉キャンパス",
+      "en": "Kashiwanoha Campus",
+      "zh": "柏之叶校园"
+    },
+    "line_group": [
+      "つくばエクスプレス線"
+    ],
+    "pref": "千葉県",
+    "lat": 35.89342,
+    "lon": 139.95252
+  },
+  "generated_at": "2026-11-11T05:15:23Z",
+  "pois": [
+    {
+      "id": "st01083-001",
+      "category": "convenience",
+      "name": {
+        "ja": "ファミリーマート",
+        "en": "FamilyMart",
+        "zh": "全家便利店"
+      },
+      "desc": {
+        "ja": "ファミリーマートのコンビニエンスストア。駅から約28mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 28 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约28米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 28,
+      "walk_min": 1,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/316347960",
+      "tel": "+81-4-7137-1071",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8936671,
+      "lon": 139.9525059
+    },
+    {
+      "id": "st01083-002",
+      "category": "post_office",
+      "name": {
+        "ja": "柏田中郵便局",
+        "en": "Kashiwa Tanaka Post Office",
+        "zh": "柏田中邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1122mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1122 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1122米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 1122,
+      "walk_min": 15,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1420740912",
+      "tel": "+81-4-7131-4951",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9000829,
+      "lon": 139.9618796
+    },
+    {
+      "id": "st01083-003",
+      "category": "cafe",
+      "name": {
+        "ja": "タリーズコーヒー",
+        "en": "Tully's Coffee",
+        "zh": "塔利咖啡"
+      },
+      "desc": {
+        "ja": "駅から約88mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。",
+        "en": "Cafe about 88 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约88米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 88,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6653580448",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8941995,
+      "lon": 139.9526915
+    },
+    {
+      "id": "st01083-004",
+      "category": "shopping",
+      "name": {
+        "ja": "KOIL LINK GARAGE",
+        "en": "KOIL LINK GARAGE",
+        "zh": "KOIL LINK GARAGE"
+      },
+      "desc": {
+        "ja": "駅から約302mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 302 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约302米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 302,
+      "walk_min": 4,
+      "hours": "Mo-Su 08:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/9327943361",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8959829,
+      "lon": 139.9536256
+    },
+    {
+      "id": "st01083-005",
+      "category": "bank_atm",
+      "name": {
+        "ja": "千葉銀行",
+        "en": "Chiba Bank",
+        "zh": "千葉银行"
+      },
+      "desc": {
+        "ja": "千葉銀行の支店。駅から約141mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 141 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约141米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 141,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/708097398",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8942609,
+      "lon": 139.9513412
+    },
+    {
+      "id": "st01083-006",
+      "category": "food",
+      "name": {
+        "ja": "マクドナルド",
+        "en": "McDonald's",
+        "zh": "麦当劳"
+      },
+      "desc": {
+        "ja": "駅から約40mにある飲食店。burger料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 40 m from the station. Serves burger cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约40米的餐馆主营burger，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 40,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6417200865",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8937773,
+      "lon": 139.9525886
+    },
+    {
+      "id": "st01083-007",
+      "category": "police",
+      "name": {
+        "ja": "柏警察署花野井交番",
+        "en": "柏花野井交番 Police Station",
+        "zh": "柏警察署花野井交番"
+      },
+      "desc": {
+        "ja": "駅から約1385mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1385 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1385米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1385,
+      "walk_min": 18,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420740930",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.897086,
+      "lon": 139.967212
+    },
+    {
+      "id": "st01083-008",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "セブン-イレブンのコンビニエンスストア。駅から約453mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 453 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约453米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 453,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/418607263",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8894985,
+      "lon": 139.9538893,
+      "official_url_pending": "https://www.sej.co.jp/"
+    },
+    {
+      "id": "st01083-009",
+      "category": "food",
+      "name": {
+        "ja": "魚民",
+        "en": "Uotami",
+        "zh": "魚民"
+      },
+      "desc": {
+        "ja": "駅から約109mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 109 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约109米的餐馆适合旅途中用餐，菜单与价格以店内展示内容为准，具体信息以现场为准。"
+      },
+      "distance_m": 109,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4518796121",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8939547,
+      "lon": 139.9535391
+    },
+    {
+      "id": "st01083-010",
+      "category": "park",
+      "name": {
+        "ja": "柏の葉駅前児童公園",
+        "en": "柏no葉駅前児童公園",
+        "zh": "柏no葉駅前児童公園"
+      },
+      "desc": {
+        "ja": "駅から約225mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 225 m from the station, with paths and benches for a rest.",
+        "zh": "距站约225米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 225,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/753618541",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8953239,
+      "lon": 139.9516705
+    },
+    {
+      "id": "st01083-011",
+      "category": "shopping",
+      "name": {
+        "ja": "東急ストア",
+        "en": "Tokyu Store",
+        "zh": "东急ストア"
+      },
+      "desc": {
+        "ja": "駅から約62mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 62 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约62米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 62,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2127171089",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8933325,
+      "lon": 139.9518436
+    },
+    {
+      "id": "st01083-012",
+      "category": "food",
+      "name": {
+        "ja": "つむぎ",
+        "en": "tsumugi",
+        "zh": "Tsumugi"
+      },
+      "desc": {
+        "ja": "駅から約124mにある飲食店。japanese料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 124 m from the station. Serves japanese cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约124米的餐馆主营japanese，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 124,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/11834824686",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8945106,
+      "lon": 139.9528081
+    },
+    {
+      "id": "st01083-013",
+      "category": "park",
+      "name": {
+        "ja": "かしわのはらっぱ",
+        "en": "Kashiwanoharappa",
+        "zh": "Kashiwanoharapa"
+      },
+      "desc": {
+        "ja": "駅から約247mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 247 m from the station, with paths and benches for a rest.",
+        "zh": "距站约247米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 247,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/708718310",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8947893,
+      "lon": 139.9503559
+    },
+    {
+      "id": "st01083-014",
+      "category": "public_service",
+      "name": {
+        "ja": "アーバンデザインセンター柏の葉",
+        "en": "Urban Design Center Kashiwa-no-ha",
+        "zh": "A-bandezainsenta-柏no葉"
+      },
+      "desc": {
+        "ja": "駅から約139mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 139 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约139米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 139,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4735968384",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8946743,
+      "lon": 139.952551,
+      "official_url_pending": "https://www.udck.jp/"
+    },
+    {
+      "id": "st01083-015",
+      "category": "medical",
+      "name": {
+        "ja": "ハックドラッグ",
+        "en": "hakudoragu",
+        "zh": "Hakudoragu"
+      },
+      "desc": {
+        "ja": "駅から約212mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 212 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约212米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 212,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2402992535",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.894028,
+      "lon": 139.950288
+    },
+    {
+      "id": "st01083-016",
+      "category": "public_service",
+      "name": {
+        "ja": "柏儀式殿",
+        "en": "Kashiwa Ceremony Hall",
+        "zh": "柏儀式殿"
+      },
+      "desc": {
+        "ja": "駅から約496mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 496 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约496米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 496,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/685341990",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8962147,
+      "lon": 139.9568162
+    },
+    {
+      "id": "st01083-017",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "柏たなか病院の神社",
+        "en": "柏tanaka病院no神社",
+        "zh": "柏tanaka病院no神社"
+      },
+      "desc": {
+        "ja": "駅から約1960mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1960 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1960米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1960,
+      "walk_min": 25,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/10148625230",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.9109481,
+      "lon": 139.9547877
+    },
+    {
+      "id": "st01083-018",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "高田熊野神社",
+        "en": "Kumano Jinja",
+        "zh": "高田熊野神社"
+      },
+      "desc": {
+        "ja": "駅から約1966mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1966 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1966米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1966,
+      "walk_min": 25,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/3966183634",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.8760224,
+      "lon": 139.9564068
+    },
+    {
+      "id": "st01083-019",
+      "category": "shopping",
+      "name": {
+        "ja": "モラージュ柏",
+        "en": "mora-jiyu柏",
+        "zh": "モラージュ柏"
+      },
+      "desc": {
+        "ja": "駅から約1905mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 1905 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1905米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准。"
+      },
+      "distance_m": 1905,
+      "walk_min": 24,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2323908761",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.882747,
+      "lon": 139.9690588
+    }
+  ],
+  "coverage": {
+    "poi_count": 19,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 211,
+    "floor_check": {
+      "medical": {
+        "candidates": 12,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 6,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 26,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 7,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 5,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
