@@ -1,0 +1,538 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st06570",
+    "name": {
+      "ja": "泉ケ丘",
+      "en": "泉ke丘",
+      "zh": "泉ケ丘"
+    },
+    "line_group": [
+      "泉北線"
+    ],
+    "pref": "大阪府",
+    "lat": 34.49726,
+    "lon": 135.51162
+  },
+  "generated_at": "2026-11-11T00:22:33Z",
+  "pois": [
+    {
+      "id": "st06570-001",
+      "category": "post_office",
+      "name": {
+        "ja": "泉北泉ヶ丘郵便局",
+        "en": "Semboku Izumigaoka Post Office",
+        "zh": "泉北泉ヶ丘邮政局"
+      },
+      "desc": {
+        "ja": "駅から約91mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 91 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约91米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 91,
+      "walk_min": 2,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1423005552",
+      "tel": "+81-72-292-3933",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.498017,
+      "lon": 135.511242
+    },
+    {
+      "id": "st06570-002",
+      "category": "bank_atm",
+      "name": {
+        "ja": "りそな銀行",
+        "en": "Resona Bank",
+        "zh": "理索纳银行"
+      },
+      "desc": {
+        "ja": "りそな銀行の支店。駅から約93mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 93 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约93米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 93,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/10275163973",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.4965735,
+      "lon": 135.5122057
+    },
+    {
+      "id": "st06570-003",
+      "category": "police",
+      "name": {
+        "ja": "泉北警察署泉ケ丘交番",
+        "en": "Koban",
+        "zh": "泉北警察署泉ケ丘交番"
+      },
+      "desc": {
+        "ja": "駅から約147mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 147 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约147米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 147,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423005565",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.495943,
+      "lon": 135.511721
+    },
+    {
+      "id": "st06570-004",
+      "category": "cafe",
+      "name": {
+        "ja": "DesignOhasuDays キャンプパーク",
+        "en": "DesignOhasuDays kiyanpupa-ku",
+        "zh": "DesignOhasuDays キャンプパーク"
+      },
+      "desc": {
+        "ja": "駅から約575mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。Mo-Su　10:00-19:00（JST）。",
+        "en": "Cafe about 575 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约575米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 575,
+      "walk_min": 8,
+      "hours": "Mo-Su　10:00-19:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1422990173",
+      "tel": "+81 72 202 8841",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.4921203,
+      "lon": 135.5109352
+    },
+    {
+      "id": "st06570-005",
+      "category": "public_service",
+      "name": {
+        "ja": "堺市立南図書館",
+        "en": "Minami Library",
+        "zh": "堺市立南图书馆"
+      },
+      "desc": {
+        "ja": "駅から約254mにある図書館。手続きや調べ物、休憩に利用できる公共の施設。詳細は現地の案内を参照。",
+        "en": "Library about 254 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约254米的图书馆，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 254,
+      "walk_min": 4,
+      "hours": "Tu-Fr 10:00-20:00; Sa,Su,PH 10:00-18:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/11032181377",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.4949996,
+      "lon": 135.5112039
+    },
+    {
+      "id": "st06570-006",
+      "category": "shopping",
+      "name": {
+        "ja": "ジョイパーク泉ヶ丘",
+        "en": "JOYPARK",
+        "zh": "ジョイパーク泉ヶ丘"
+      },
+      "desc": {
+        "ja": "駅から約283mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 283 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约283米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 283,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/396816147",
+      "tel": "072-296-4346",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.4985523,
+      "lon": 135.5142811,
+      "official_url_pending": "https://www.joy-park.com/"
+    },
+    {
+      "id": "st06570-007",
+      "category": "public_service",
+      "name": {
+        "ja": "堺市立ビッグバン",
+        "en": "Children's Museum Big Bang",
+        "zh": "大型兒童馆Big Bang"
+      },
+      "desc": {
+        "ja": "駅から約307mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 307 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约307米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 307,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/11032181376",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.4949998,
+      "lon": 135.5135432
+    },
+    {
+      "id": "st06570-008",
+      "category": "shopping",
+      "name": {
+        "ja": "高島屋",
+        "en": "Takashimaya",
+        "zh": "高岛屋"
+      },
+      "desc": {
+        "ja": "駅から約321mにある百貨店。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Department store about 321 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约321米的百货店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 321,
+      "walk_min": 5,
+      "hours": "Mo-Su 10:00-19:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6157985697",
+      "tel": "+81 72 293 1101",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.4962493,
+      "lon": 135.5148983,
+      "official_url_pending": "https://www.takashimaya.co.jp/senboku/"
+    },
+    {
+      "id": "st06570-009",
+      "category": "shopping",
+      "name": {
+        "ja": "ロピア",
+        "en": "Lopia",
+        "zh": "Ropia"
+      },
+      "desc": {
+        "ja": "駅から約289mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 289 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约289米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 289,
+      "walk_min": 4,
+      "hours": "10:00-20:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/9182191129",
+      "tel": "+81-72-293-0298",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.4988472,
+      "lon": 135.5141108
+    },
+    {
+      "id": "st06570-010",
+      "category": "food",
+      "name": {
+        "ja": "鎌倉パスタ 泉北パンジョ店",
+        "en": "鎌倉pasuta 泉北panjiyo店",
+        "zh": "鎌倉パスタ 泉北パンジョ店"
+      },
+      "desc": {
+        "ja": "駅から約451mにある飲食店。pasta料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Su 11:00-22:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 451 m from the station. Serves pasta cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约451米的餐馆主营pasta，适合旅途中用餐，Mo-Su 11:00-22:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 451,
+      "walk_min": 6,
+      "hours": "Mo-Su 11:00-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/11026258410",
+      "tel": "+81 72 294 3289",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.4955014,
+      "lon": 135.516058
+    },
+    {
+      "id": "st06570-011",
+      "category": "medical",
+      "name": {
+        "ja": "堺市泉北急病診療センター",
+        "en": "堺市泉北急病診療senta-",
+        "zh": "堺市泉北急病診療センター"
+      },
+      "desc": {
+        "ja": "駅から約495mにあるクリニック。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Clinic about 495 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约495米的诊所，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 495,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1422987763",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.500998,
+      "lon": 135.508694
+    },
+    {
+      "id": "st06570-012",
+      "category": "park",
+      "name": {
+        "ja": "大蓮公園",
+        "en": "Ohasu Park",
+        "zh": "大蓮公园"
+      },
+      "desc": {
+        "ja": "駅から約692mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 692 m from the station, with paths and benches for a rest.",
+        "zh": "距站约692米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 692,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/490246296",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.4910827,
+      "lon": 135.5106988
+    },
+    {
+      "id": "st06570-013",
+      "category": "convenience",
+      "name": {
+        "ja": "ローソン 堺泉北深阪南店",
+        "en": "LAWSON",
+        "zh": "ローソン 堺泉北深阪南店"
+      },
+      "desc": {
+        "ja": "ローソン 堺泉北深阪南店のコンビニエンスストア。駅から約761mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 761 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约761米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 761,
+      "walk_min": 10,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/7562243092",
+      "tel": "+81 72 239 0888",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5028625,
+      "lon": 135.5068586,
+      "official_url_pending": "https://www.lawson.co.jp/"
+    },
+    {
+      "id": "st06570-014",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "セブン-イレブンのコンビニエンスストア。駅から約1372mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 1372 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约1372米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 1372,
+      "walk_min": 18,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/7562211988",
+      "tel": "+81 72 239 7811",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5086852,
+      "lon": 135.5059524,
+      "official_url_pending": "http://sej.co.jp"
+    },
+    {
+      "id": "st06570-015",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "多治速比売神社",
+        "en": "Tajihayahime Shrine",
+        "zh": "多治速比売神社"
+      },
+      "desc": {
+        "ja": "駅から約1434mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1434 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1434米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1434,
+      "walk_min": 18,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/368265641",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5024515,
+      "lon": 135.4972964
+    },
+    {
+      "id": "st06570-016",
+      "category": "post_office",
+      "name": {
+        "ja": "泉北郵便局",
+        "en": "Semboku Post Office",
+        "zh": "泉北邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1542mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1542 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1542米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 1542,
+      "walk_min": 20,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1423005571",
+      "tel": "+81-800-0800-111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.489153,
+      "lon": 135.497968
+    },
+    {
+      "id": "st06570-017",
+      "category": "food",
+      "name": {
+        "ja": "サイゼリヤ",
+        "en": "Saizeriya",
+        "zh": "萨莉亚"
+      },
+      "desc": {
+        "ja": "駅から約1724mにある飲食店。italian料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は11:00-03:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1724 m from the station. Serves italian cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1724米的餐馆主营italian，适合旅途中用餐，11:00-03:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1724,
+      "walk_min": 22,
+      "hours": "11:00-03:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/3266526479",
+      "tel": "072-296-5956",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.503598,
+      "lon": 135.4944535,
+      "official_url_pending": "https://www.saizeriya.co.jp/restaurant/shop_detail.php?cd=362"
+    }
+  ],
+  "coverage": {
+    "poi_count": 17,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 320,
+    "floor_check": {
+      "medical": {
+        "candidates": 38,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 1,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 18,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 10,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 4,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
