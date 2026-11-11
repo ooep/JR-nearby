@@ -1,0 +1,598 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st00001",
+    "name": {
+      "ja": "和田岬",
+      "en": "Wadamisaki",
+      "zh": "和田岬"
+    },
+    "line_group": [
+      "山陽本線",
+      "海岸線"
+    ],
+    "pref": "兵庫県",
+    "lat": 34.657697,
+    "lon": 135.17524
+  },
+  "generated_at": "2026-11-11T06:13:24Z",
+  "pois": [
+    {
+      "id": "st00001-001",
+      "category": "bank_atm",
+      "name": {
+        "ja": "みなと銀行",
+        "en": "minato銀行",
+        "zh": "Minato銀行"
+      },
+      "desc": {
+        "ja": "みなと銀行の支店。駅から約703mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 703 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约703米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 703,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/10676281089",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6551481,
+      "lon": 135.1682074
+    },
+    {
+      "id": "st00001-002",
+      "category": "convenience",
+      "name": {
+        "ja": "ファミリーマート",
+        "en": "FamilyMart",
+        "zh": "全家便利店"
+      },
+      "desc": {
+        "ja": "ファミリーマートのコンビニエンスストア。駅から約105mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 105 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约105米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 105,
+      "walk_min": 2,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/744240664",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6568716,
+      "lon": 135.1746857
+    },
+    {
+      "id": "st00001-003",
+      "category": "park",
+      "name": {
+        "ja": "浜山あいあい広場",
+        "en": "浜山aiai広場",
+        "zh": "浜山aiai広場"
+      },
+      "desc": {
+        "ja": "駅から約858mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 858 m from the station, with paths and benches for a rest.",
+        "zh": "距站约858米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 858,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/1147361391",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6547029,
+      "lon": 135.1666
+    },
+    {
+      "id": "st00001-004",
+      "category": "post_office",
+      "name": {
+        "ja": "神戸和田崎郵便局",
+        "en": "Kobe Wadasaki Post Office",
+        "zh": "神户和田崎邮政局"
+      },
+      "desc": {
+        "ja": "駅から約236mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 236 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约236米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 236,
+      "walk_min": 3,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1423079416",
+      "tel": "+81-78-652-2986",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.659363,
+      "lon": 135.17683
+    },
+    {
+      "id": "st00001-005",
+      "category": "shopping",
+      "name": {
+        "ja": "アサヒ屋",
+        "en": "asahi屋",
+        "zh": "アサヒ屋"
+      },
+      "desc": {
+        "ja": "駅から約310mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 310 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约310米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 310,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/10677721461",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.656789,
+      "lon": 135.1720396,
+      "official_url_pending": "https://ptl.zchain.co.jp/store/5022"
+    },
+    {
+      "id": "st00001-006",
+      "category": "post_office",
+      "name": {
+        "ja": "神戸小松郵便局",
+        "en": "Kobe Komtasu Post Office",
+        "zh": "神户小松邮政局"
+      },
+      "desc": {
+        "ja": "駅から約456mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 456 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约456米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 456,
+      "walk_min": 6,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/10676366470",
+      "tel": "+81-78-652-2980",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6554983,
+      "lon": 135.1710284
+    },
+    {
+      "id": "st00001-007",
+      "category": "police",
+      "name": {
+        "ja": "兵庫警察署中之島交番",
+        "en": "Koban",
+        "zh": "兵庫警察署中之岛交番"
+      },
+      "desc": {
+        "ja": "駅から約727mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 727 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约727米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 727,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/681588920",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6641993,
+      "lon": 135.1760925
+    },
+    {
+      "id": "st00001-008",
+      "category": "medical",
+      "name": {
+        "ja": "わだみさき薬局",
+        "en": "wadamisaki薬局",
+        "zh": "Wadamisaki薬局"
+      },
+      "desc": {
+        "ja": "駅から約260mにある薬局。体調を崩した際の受診や薬の購入に対応する。受付はMo-Fr 09:00-17:00; Sa 09:00-13:00; Sa[1,3,5],Su,PH off（JST）。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 260 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约260米的药房，Mo-Fr 09:00-17:00, Sa 09:00-13:00, Sa[1, 3, 5], Su, PH off（JST），旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 260,
+      "walk_min": 4,
+      "hours": "Mo-Fr 09:00-17:00; Sa 09:00-13:00; Sa[1,3,5],Su,PH off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/13974713869",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6554096,
+      "lon": 135.1758506
+    },
+    {
+      "id": "st00001-009",
+      "category": "sight",
+      "name": {
+        "ja": "兵庫津ミュージアム",
+        "en": "兵庫津miyu-jiamu",
+        "zh": "兵庫津ミュージアム"
+      },
+      "desc": {
+        "ja": "駅から約708mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。入場は有料。",
+        "en": "Museum about 708 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约708米的博物馆·美术馆，入场收费，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 708,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/9599585022",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6640621,
+      "lon": 135.1751403
+    },
+    {
+      "id": "st00001-010",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "真光寺",
+        "en": "Shinkō Temple",
+        "zh": "真光寺"
+      },
+      "desc": {
+        "ja": "駅から約849mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 849 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约849米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 849,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/690702281",
+      "tel": "+81 78-671-1958",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6641497,
+      "lon": 135.1702696,
+      "official_url_pending": "https://www.jishu-shinkouji.jp/"
+    },
+    {
+      "id": "st00001-011",
+      "category": "shopping",
+      "name": {
+        "ja": "コープミニ御崎",
+        "en": "ko-pumini御崎",
+        "zh": "コープミニ御崎"
+      },
+      "desc": {
+        "ja": "駅から約868mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 868 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约868米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 868,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/10676294119",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6550692,
+      "lon": 135.166299,
+      "official_url_pending": "https://shop.coop-kobe.net/shop/detail/index.php?id=3840"
+    },
+    {
+      "id": "st00001-012",
+      "category": "shopping",
+      "name": {
+        "ja": "イオンモール神戸南",
+        "en": "AEON Mall",
+        "zh": "イオンモール神户南"
+      },
+      "desc": {
+        "ja": "駅から約898mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 898 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约898米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 898,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/657297284",
+      "tel": "078-681-0511",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6657435,
+      "lon": 135.1743932,
+      "official_url_pending": "https://kobeminami-aeonmall.com/"
+    },
+    {
+      "id": "st00001-013",
+      "category": "food",
+      "name": {
+        "ja": "サイゼリヤ",
+        "en": "Saizeriya",
+        "zh": "萨莉亚"
+      },
+      "desc": {
+        "ja": "駅から約937mにある飲食店。italian料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は10:00-22:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 937 m from the station. Serves italian cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约937米的餐馆主营italian，适合旅途中用餐，10:00-22:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 937,
+      "walk_min": 12,
+      "hours": "10:00-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6156221833",
+      "tel": "078-686-1201",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.666119,
+      "lon": 135.1747674,
+      "official_url_pending": "https://www.saizeriya.co.jp/restaurant/shop_detail.php?cd=1369"
+    },
+    {
+      "id": "st00001-014",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "能福寺",
+        "en": "Nōfuku Temple",
+        "zh": "能福寺"
+      },
+      "desc": {
+        "ja": "駅から約1187mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 1187 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1187米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1187,
+      "walk_min": 15,
+      "hours": "Mo-Su 10:00-16:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/740974570",
+      "tel": "+81 78-652-1715",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6679292,
+      "lon": 135.1715447,
+      "official_url_pending": "http://nofukuji.jp/"
+    },
+    {
+      "id": "st00001-015",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "兵庫柳原蛭子神社",
+        "en": "Hyogo Yanagihara Ebisu Shrine",
+        "zh": "兵庫柳原蛭子神社"
+      },
+      "desc": {
+        "ja": "駅から約1450mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1450 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1450米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1450,
+      "walk_min": 19,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/1110701298",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6693814,
+      "lon": 135.1681936
+    },
+    {
+      "id": "st00001-016",
+      "category": "public_service",
+      "name": {
+        "ja": "松原児童館",
+        "en": "Matsubara Children's Hall",
+        "zh": "松原児童馆"
+      },
+      "desc": {
+        "ja": "駅から約1083mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 1083 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1083米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1083,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423069657",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.663724,
+      "lon": 135.165942
+    },
+    {
+      "id": "st00001-017",
+      "category": "food",
+      "name": {
+        "ja": "alto",
+        "en": "alto",
+        "zh": "alto"
+      },
+      "desc": {
+        "ja": "駅から約1969mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1969 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约1969米的餐馆适合旅途中用餐，菜单与价格以店内展示内容为准，具体信息以现场为准。"
+      },
+      "distance_m": 1969,
+      "walk_min": 25,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/11953969850",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6754077,
+      "lon": 135.1753239,
+      "official_url_pending": "https://www.instagram.com/alto_kobe/"
+    },
+    {
+      "id": "st00001-018",
+      "category": "food",
+      "name": {
+        "ja": "酒場オムロ",
+        "en": "酒場omuro",
+        "zh": "酒场オムロ"
+      },
+      "desc": {
+        "ja": "駅から約1962mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1962 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约1962米的餐馆适合旅途中用餐，菜单与价格以店内展示内容为准，具体信息以现场为准。"
+      },
+      "distance_m": 1962,
+      "walk_min": 25,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/12855737437",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.675258,
+      "lon": 135.1773216,
+      "official_url_pending": "https://www.instagram.com/kanzake_omuro/"
+    },
+    {
+      "id": "st00001-019",
+      "category": "medical",
+      "name": {
+        "ja": "神戸市立医療センター西市民病院",
+        "en": "神戸市立医療senta-西市民病院",
+        "zh": "神户市立医療センター西市民病院"
+      },
+      "desc": {
+        "ja": "駅から約1998mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 1998 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1998米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1998,
+      "walk_min": 25,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/675786248",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.6673773,
+      "lon": 135.1568408
+    }
+  ],
+  "coverage": {
+    "poi_count": 19,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 261,
+    "floor_check": {
+      "medical": {
+        "candidates": 16,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 4,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 28,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 11,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 8,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}

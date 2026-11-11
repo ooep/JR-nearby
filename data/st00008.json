@@ -1,0 +1,595 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st00008",
+    "name": {
+      "ja": "JR五位堂",
+      "en": "JR Goidō",
+      "zh": "JR五位堂"
+    },
+    "line_group": [
+      "和歌山線",
+      "大阪環状線",
+      "桜井線",
+      "関西本線"
+    ],
+    "pref": "奈良県",
+    "lat": 34.52776,
+    "lon": 135.71842
+  },
+  "generated_at": "2026-11-11T06:13:25Z",
+  "pois": [
+    {
+      "id": "st00008-001",
+      "category": "cafe",
+      "name": {
+        "ja": "Sola Cafe",
+        "en": "Sola Cafe",
+        "zh": "Sola Cafe"
+      },
+      "desc": {
+        "ja": "駅から約199mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。Mo-Su 09:00-17:00（JST）。",
+        "en": "Cafe about 199 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约199米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 199,
+      "walk_min": 3,
+      "hours": "Mo-Su 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/12610854001",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5267147,
+      "lon": 135.7166584
+    },
+    {
+      "id": "st00008-002",
+      "category": "park",
+      "name": {
+        "ja": "香芝泉台(鎌田)A公園",
+        "en": "香芝泉台(鎌田)A公園",
+        "zh": "香芝泉台(鎌田)A公园"
+      },
+      "desc": {
+        "ja": "駅から約450mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 450 m from the station, with paths and benches for a rest.",
+        "zh": "距站约450米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 450,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/617972623",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5260319,
+      "lon": 135.71398
+    },
+    {
+      "id": "st00008-003",
+      "category": "post_office",
+      "name": {
+        "ja": "香芝五位堂郵便局",
+        "en": "Kashiba Goido Post Office",
+        "zh": "香芝五位堂邮政局"
+      },
+      "desc": {
+        "ja": "駅から約498mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 498 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约498米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 498,
+      "walk_min": 7,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1423093562",
+      "tel": "+81-745-76-0288",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.530447,
+      "lon": 135.71407
+    },
+    {
+      "id": "st00008-004",
+      "category": "shopping",
+      "name": {
+        "ja": "天然酵母パン&ケーキ 香麦",
+        "en": "天然酵母pan&ke-ki 香麦",
+        "zh": "天然酵母パン&ケーキ 香麦"
+      },
+      "desc": {
+        "ja": "駅から約584mにあるベーカリー。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Bakery about 584 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约584米的面包店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 584,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6232004086",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5328696,
+      "lon": 135.7169588
+    },
+    {
+      "id": "st00008-005",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン 香芝五位堂3丁目店",
+        "en": "Seven-Eleven",
+        "zh": "セブン-イレブン 香芝五位堂3丁目店"
+      },
+      "desc": {
+        "ja": "セブン-イレブン 香芝五位堂3丁目店のコンビニエンスストア。駅から約605mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 605 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约605米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 605,
+      "walk_min": 8,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6231998291",
+      "tel": "+81 745 78 6070",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5330642,
+      "lon": 135.7169341,
+      "official_url_pending": "http://sej.co.jp"
+    },
+    {
+      "id": "st00008-006",
+      "category": "food",
+      "name": {
+        "ja": "かっぱ寿司",
+        "en": "Kappazushi",
+        "zh": "Kapa寿司"
+      },
+      "desc": {
+        "ja": "駅から約704mにある飲食店。sushi料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 704 m from the station. Serves sushi cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约704米的餐馆主营sushi，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 704,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/415456295",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5320132,
+      "lon": 135.724112
+    },
+    {
+      "id": "st00008-007",
+      "category": "convenience",
+      "name": {
+        "ja": "ローソン 香芝瓦口店",
+        "en": "LAWSON",
+        "zh": "ローソン 香芝瓦口店"
+      },
+      "desc": {
+        "ja": "ローソン 香芝瓦口店のコンビニエンスストア。駅から約702mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 702 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约702米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 702,
+      "walk_min": 9,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/415461693",
+      "tel": "+81 745 78 8807",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.533754,
+      "lon": 135.72083,
+      "official_url_pending": "https://www.lawson.co.jp/"
+    },
+    {
+      "id": "st00008-008",
+      "category": "sight",
+      "name": {
+        "ja": "パチンコ ポポラ",
+        "en": "pachinko popora",
+        "zh": "Pachinko Popora"
+      },
+      "desc": {
+        "ja": "駅から約1842mにある観光スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Attraction about 1842 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1842米的观光景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1842,
+      "walk_min": 24,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6277969401",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5387841,
+      "lon": 135.7034048
+    },
+    {
+      "id": "st00008-009",
+      "category": "police",
+      "name": {
+        "ja": "高田警察署 陵西駐在所",
+        "en": "高田 陵西駐在所 Police Station",
+        "zh": "高田警察署 陵西駐在所"
+      },
+      "desc": {
+        "ja": "駅から約1204mにある駐在所。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1204 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1204米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1204,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/723621209",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5183008,
+      "lon": 135.7248201
+    },
+    {
+      "id": "st00008-010",
+      "category": "post_office",
+      "name": {
+        "ja": "香芝別所郵便局",
+        "en": "Kashiba Bessho Post Office",
+        "zh": "香芝別所邮政局"
+      },
+      "desc": {
+        "ja": "駅から約802mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 802 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约802米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 802,
+      "walk_min": 11,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/12533446254",
+      "tel": "+81-745-76-0033",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5343648,
+      "lon": 135.721945
+    },
+    {
+      "id": "st00008-011",
+      "category": "food",
+      "name": {
+        "ja": "やきとり大吉 真美ヶ丘店",
+        "en": "Yakitori Daikichi",
+        "zh": "Yakitori大吉 真美ヶ丘店"
+      },
+      "desc": {
+        "ja": "駅から約813mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 813 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约813米的餐馆适合旅途中用餐，菜单与价格以店内展示内容为准，具体信息以现场为准。"
+      },
+      "distance_m": 813,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6231998889",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5300361,
+      "lon": 135.7268522
+    },
+    {
+      "id": "st00008-012",
+      "category": "shopping",
+      "name": {
+        "ja": "ハーベス 五位堂",
+        "en": "ha-besu 五位堂",
+        "zh": "ハーベス 五位堂"
+      },
+      "desc": {
+        "ja": "駅から約964mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 964 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约964米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 964,
+      "walk_min": 13,
+      "hours": "Mo-Su 09:00-21:50 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/672451909",
+      "tel": "+81 745 78 1581",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5363775,
+      "lon": 135.7172636
+    },
+    {
+      "id": "st00008-013",
+      "category": "food",
+      "name": {
+        "ja": "にぎわい酒場 葛菜",
+        "en": "nigiwai酒場 葛菜",
+        "zh": "Nigiwai酒場 葛菜"
+      },
+      "desc": {
+        "ja": "駅から約842mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 842 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约842米的餐馆适合旅途中用餐，菜单与价格以店内展示内容为准，具体信息以现场为准。"
+      },
+      "distance_m": 842,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6231997996",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5352122,
+      "lon": 135.7167973
+    },
+    {
+      "id": "st00008-014",
+      "category": "bank_atm",
+      "name": {
+        "ja": "りそな銀行",
+        "en": "Resona Bank",
+        "zh": "理索纳银行"
+      },
+      "desc": {
+        "ja": "りそな銀行の支店。駅から約983mにあり、預け入れ・引き出しやATMの利用に対応する。窓口はMo-Fr 09:00-15:00（JST）。",
+        "en": "Bank about 983 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约983米的银行网点，Mo-Fr 09:00-15:00（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 983,
+      "walk_min": 13,
+      "hours": "Mo-Fr 09:00-15:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6283930894",
+      "tel": "+81 745 76 6331",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5366004,
+      "lon": 135.7183577,
+      "official_url_pending": "http://resonabank.co.jp"
+    },
+    {
+      "id": "st00008-015",
+      "category": "park",
+      "name": {
+        "ja": "香芝泉台(鎌田)B公園",
+        "en": "香芝泉台(鎌田)B公園",
+        "zh": "香芝泉台(鎌田)B公园"
+      },
+      "desc": {
+        "ja": "駅から約508mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 508 m from the station, with paths and benches for a rest.",
+        "zh": "距站约508米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 508,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/617972624",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5246264,
+      "lon": 135.714387
+    },
+    {
+      "id": "st00008-016",
+      "category": "medical",
+      "name": {
+        "ja": "かなで薬局 五位堂店",
+        "en": "kanade薬局 五位堂店",
+        "zh": "Kanade薬局 五位堂店"
+      },
+      "desc": {
+        "ja": "駅から約656mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 656 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约656米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 656,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6232002885",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5334902,
+      "lon": 135.720125
+    },
+    {
+      "id": "st00008-017",
+      "category": "medical",
+      "name": {
+        "ja": "はとこ形成外科皮膚科クリニック",
+        "en": "hatoko形成外科皮膚科kuriniku",
+        "zh": "Hatoko形成外科皮膚科kuriniku"
+      },
+      "desc": {
+        "ja": "駅から約731mにあるクリニック。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Clinic about 731 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约731米的诊所，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 731,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6231997992",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5337603,
+      "lon": 135.7216755
+    },
+    {
+      "id": "st00008-018",
+      "category": "shopping",
+      "name": {
+        "ja": "ジャンボスクエア香芝",
+        "en": "jiyanbosukuea香芝",
+        "zh": "ジャンボスクエア香芝"
+      },
+      "desc": {
+        "ja": "駅から約1902mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 1902 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1902米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准。"
+      },
+      "distance_m": 1902,
+      "walk_min": 24,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/416251621",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5390102,
+      "lon": 135.7027863
+    },
+    {
+      "id": "st00008-019",
+      "category": "sight",
+      "name": {
+        "ja": "葛城市相撲館「けはや座」",
+        "en": "Sumo Wrestling Museum",
+        "zh": "葛城市相撲館「kehaya座」"
+      },
+      "desc": {
+        "ja": "駅から約1942mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1942 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1942米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1942,
+      "walk_min": 25,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423090558",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.515611,
+      "lon": 135.703187
+    }
+  ],
+  "coverage": {
+    "poi_count": 19,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 170,
+    "floor_check": {
+      "medical": {
+        "candidates": 19,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 5,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 12,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 9,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 4,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
