@@ -1,0 +1,563 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st03241",
+    "name": {
+      "ja": "摂津富田",
+      "en": "Settsu-Tonda",
+      "zh": "摂津富田"
+    },
+    "line_group": [
+      "山陽本線",
+      "東海道本線"
+    ],
+    "pref": "大阪府",
+    "lat": 34.83755,
+    "lon": 135.59338
+  },
+  "generated_at": "2026-11-11T00:35:31Z",
+  "pois": [
+    {
+      "id": "st03241-001",
+      "category": "shopping",
+      "name": {
+        "ja": "Mesa Verte",
+        "en": "Mesa Verte",
+        "zh": "Mesa Verte"
+      },
+      "desc": {
+        "ja": "駅から約13mにあるベーカリー。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Bakery about 13 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约13米的面包店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 13,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/7383634385",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8376594,
+      "lon": 135.5933406
+    },
+    {
+      "id": "st03241-002",
+      "category": "bank_atm",
+      "name": {
+        "ja": "三菱UFJ銀行",
+        "en": "MUFG Bank",
+        "zh": "三菱UFJ银行"
+      },
+      "desc": {
+        "ja": "三菱UFJ銀行のATM。駅から約52mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 52 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约52米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 52,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/7155490686",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8370798,
+      "lon": 135.593339
+    },
+    {
+      "id": "st03241-003",
+      "category": "bank_atm",
+      "name": {
+        "ja": "北おおさか信用金庫",
+        "en": "北oosaka信用金庫",
+        "zh": "北oosaka信用金庫"
+      },
+      "desc": {
+        "ja": "北おおさか信用金庫の支店。駅から約245mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 245 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约245米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 245,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/9394392817",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8354336,
+      "lon": 135.5941353
+    },
+    {
+      "id": "st03241-004",
+      "category": "sight",
+      "name": {
+        "ja": "蓮如上人の腰掛石",
+        "en": "蓮如上人no腰掛石",
+        "zh": "蓮如上人no腰掛石"
+      },
+      "desc": {
+        "ja": "駅から約598mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Memorial about 598 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约598米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 598,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4865806955",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8327767,
+      "lon": 135.5964048
+    },
+    {
+      "id": "st03241-005",
+      "category": "convenience",
+      "name": {
+        "ja": "ファミリーマート",
+        "en": "FamilyMart",
+        "zh": "全家便利店"
+      },
+      "desc": {
+        "ja": "ファミリーマートのコンビニエンスストア。駅から約166mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 166 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约166米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 166,
+      "walk_min": 3,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/4865562522",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8360622,
+      "lon": 135.5935802
+    },
+    {
+      "id": "st03241-006",
+      "category": "cafe",
+      "name": {
+        "ja": "ドトールコーヒーショップ",
+        "en": "Doutor Coffee Shop",
+        "zh": "多特咖啡"
+      },
+      "desc": {
+        "ja": "駅から約166mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。",
+        "en": "Cafe about 166 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约166米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 166,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/3143989697",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8360957,
+      "lon": 135.5937923
+    },
+    {
+      "id": "st03241-007",
+      "category": "food",
+      "name": {
+        "ja": "松屋",
+        "en": "Matsuya",
+        "zh": "松屋"
+      },
+      "desc": {
+        "ja": "駅から約170mにある飲食店。japanese料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は24時間営業。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 170 m from the station. Serves japanese cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约170米的餐馆主营japanese，适合旅途中用餐，全天24小时营业，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 170,
+      "walk_min": 3,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/3143975481",
+      "tel": "+81-72-697-2390",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8360557,
+      "lon": 135.5937968
+    },
+    {
+      "id": "st03241-008",
+      "category": "food",
+      "name": {
+        "ja": "OSTERIA COVO",
+        "en": "OSTERIA COVO",
+        "zh": "OSTERIA COVO"
+      },
+      "desc": {
+        "ja": "駅から約198mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。営業はPH,Mo-Su 11:30-23:00; Tu off; PH -1 day,Fr,Sa 11:30-24:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 198 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约198米的餐馆适合旅途中用餐，PH, Mo-Su 11:30-23:00, Tu off, PH -1 day, Fr, Sa 11:30-24:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 198,
+      "walk_min": 3,
+      "hours": "PH,Mo-Su 11:30-23:00; Tu off; PH -1 day,Fr,Sa 11:30-24:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/4865807003",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8357669,
+      "lon": 135.5933003
+    },
+    {
+      "id": "st03241-009",
+      "category": "public_service",
+      "name": {
+        "ja": "高槻市富田支所",
+        "en": "Takatsuki City Office Tonda Branch",
+        "zh": "高槻市富田支所"
+      },
+      "desc": {
+        "ja": "駅から約781mにある役所・行政施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Civic office about 781 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约781米的行政机构，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 781,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4867926272",
+      "tel": "072-696-3001",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.830671,
+      "lon": 135.595095
+    },
+    {
+      "id": "st03241-010",
+      "category": "convenience",
+      "name": {
+        "ja": "ローソン 高槻大畑町店",
+        "en": "Lawson",
+        "zh": "ローソン 高槻大畑町店"
+      },
+      "desc": {
+        "ja": "ローソン 高槻大畑町店のコンビニエンスストア。駅から約405mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 405 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约405米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 405,
+      "walk_min": 6,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5311802324",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8391519,
+      "lon": 135.5893928
+    },
+    {
+      "id": "st03241-011",
+      "category": "shopping",
+      "name": {
+        "ja": "業務スーパー",
+        "en": "Gyōmu sūpā",
+        "zh": "業務スーパー"
+      },
+      "desc": {
+        "ja": "駅から約430mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 430 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约430米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 430,
+      "walk_min": 6,
+      "hours": "Mo-Fr 09:00-21:30 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5311801475",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8399274,
+      "lon": 135.5896591
+    },
+    {
+      "id": "st03241-012",
+      "category": "food",
+      "name": {
+        "ja": "TONDAMACHI CAFE",
+        "en": "TONDAMACHI CAFE",
+        "zh": "TONDAMACHI CAFE"
+      },
+      "desc": {
+        "ja": "駅から約197mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 197 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约197米的餐馆适合旅途中用餐，菜单与价格以店内展示内容为准，具体信息以现场为准。"
+      },
+      "distance_m": 197,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5730366229",
+      "tel": "+81 72 697 7626",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.835779,
+      "lon": 135.593394
+    },
+    {
+      "id": "st03241-013",
+      "category": "shopping",
+      "name": {
+        "ja": "花パン",
+        "en": "花pan",
+        "zh": "花パン"
+      },
+      "desc": {
+        "ja": "駅から約746mにあるベーカリー。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Bakery about 746 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约746米的面包店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 746,
+      "walk_min": 10,
+      "hours": "Mo-Sa 09:00-19:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/4865826500",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8310315,
+      "lon": 135.5914586
+    },
+    {
+      "id": "st03241-014",
+      "category": "post_office",
+      "name": {
+        "ja": "高槻宮田郵便局",
+        "en": "Takatsuki Miyada Post Office",
+        "zh": "高槻宫田邮政局"
+      },
+      "desc": {
+        "ja": "駅から約967mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 967 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约967米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 967,
+      "walk_min": 13,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1423018045",
+      "tel": "+81-72-694-5300",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8435701,
+      "lon": 135.5857299
+    },
+    {
+      "id": "st03241-015",
+      "category": "police",
+      "name": {
+        "ja": "高槻警察署阿武野交番",
+        "en": "高槻阿武野交番 Police Station",
+        "zh": "高槻警察署阿武野交番"
+      },
+      "desc": {
+        "ja": "駅から約1541mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1541 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1541米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1541,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423018530",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8506129,
+      "lon": 135.5877565
+    },
+    {
+      "id": "st03241-016",
+      "category": "medical",
+      "name": {
+        "ja": "プラザ薬局",
+        "en": "puraza薬局",
+        "zh": "プラザ薬局"
+      },
+      "desc": {
+        "ja": "駅から約1085mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 1085 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1085米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1085,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5269536345",
+      "tel": "+81-72-697-0101",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8435893,
+      "lon": 135.5840405,
+      "official_url_pending": "https://www.plaza-pharmacy.co.jp/pharmacy/miyatacho"
+    },
+    {
+      "id": "st03241-017",
+      "category": "medical",
+      "name": {
+        "ja": "スズラン薬局",
+        "en": "suzuran薬局",
+        "zh": "スズラン薬局"
+      },
+      "desc": {
+        "ja": "駅から約225mにある薬局。体調を崩した際の受診や薬の購入に対応する。受付はMo-Fr 09:00-19:30; Sa 09:00-13:00（JST）。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 225 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约225米的药房，Mo-Fr 09:00-19:30, Sa 09:00-13:00（JST），旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 225,
+      "walk_min": 3,
+      "hours": "Mo-Fr 09:00-19:30; Sa 09:00-13:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/9741213217",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.8367888,
+      "lon": 135.5910937
+    },
+    {
+      "id": "st03241-018",
+      "category": "post_office",
+      "name": {
+        "ja": "高槻郵便局",
+        "en": "Takatsuki Post Office",
+        "zh": "高槻邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1959mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1959 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1959米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 1959,
+      "walk_min": 25,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1423018534",
+      "tel": "+81-800-0800-111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.844461,
+      "lon": 135.613121
+    }
+  ],
+  "coverage": {
+    "poi_count": 18,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 352,
+    "floor_check": {
+      "medical": {
+        "candidates": 45,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 5,
+        "selected": 2
+      },
+      "convenience": {
+        "candidates": 26,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 9,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 4,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}

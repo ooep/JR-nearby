@@ -1,0 +1,535 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st00425",
+    "name": {
+      "ja": "貝塚",
+      "en": "Kaizuka",
+      "zh": "貝塚"
+    },
+    "line_group": [
+      "南海本線",
+      "水間線"
+    ],
+    "pref": "大阪府",
+    "lat": 34.445514,
+    "lon": 135.357572
+  },
+  "generated_at": "2026-11-11T00:35:31Z",
+  "pois": [
+    {
+      "id": "st00425-001",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "セブン-イレブンのコンビニエンスストア。駅から約9mの場所にあり、Mo-Su,PH 06:00-23:00（JST）。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 9 m from the station. Mo-Su, PH 06:00-23:00 (JST). Stocks meals, drinks and daily necessities.",
+        "zh": "距站约9米的便利店，Mo-Su, PH 06:00-23:00（JST），可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 9,
+      "walk_min": 1,
+      "hours": "Mo-Su,PH 06:00-23:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/8208243627",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.4455966,
+      "lon": 135.3575856
+    },
+    {
+      "id": "st00425-002",
+      "category": "bank_atm",
+      "name": {
+        "ja": "三井住友銀行",
+        "en": "Sumitomo Mitsui Banking Corporation",
+        "zh": "三井住友银行"
+      },
+      "desc": {
+        "ja": "三井住友銀行の支店。駅から約39mにあり、預け入れ・引き出しやATMの利用に対応する。窓口はMo-Fr 09:00-15:00（JST）。",
+        "en": "Bank about 39 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约39米的银行网点，Mo-Fr 09:00-15:00（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 39,
+      "walk_min": 1,
+      "hours": "Mo-Fr 09:00-15:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5305986721",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.4454773,
+      "lon": 135.3571504
+    },
+    {
+      "id": "st00425-003",
+      "category": "convenience",
+      "name": {
+        "ja": "FamilyMart貝塚駅前店",
+        "en": "FamilyMart貝塚駅前店",
+        "zh": "FamilyMart貝塚站前店"
+      },
+      "desc": {
+        "ja": "FamilyMart貝塚駅前店のコンビニエンスストア。駅から約51mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 51 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约51米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 51,
+      "walk_min": 1,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/4571291704",
+      "tel": "072-430-5121",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.445604,
+      "lon": 135.3570302,
+      "official_url_pending": "https://www.family.co.jp/"
+    },
+    {
+      "id": "st00425-004",
+      "category": "cafe",
+      "name": {
+        "ja": "PEPSHI",
+        "en": "PEPSHI",
+        "zh": "PEPSHI"
+      },
+      "desc": {
+        "ja": "駅から約70mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。",
+        "en": "Cafe about 70 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约70米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 70,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1247758740",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.445497,
+      "lon": 135.358338
+    },
+    {
+      "id": "st00425-005",
+      "category": "police",
+      "name": {
+        "ja": "貝塚警察署堀新交番",
+        "en": "貝塚堀新交番 Police Station",
+        "zh": "貝塚警察署堀新交番"
+      },
+      "desc": {
+        "ja": "駅から約766mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 766 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约766米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 766,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423016015",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.452279,
+      "lon": 135.359125
+    },
+    {
+      "id": "st00425-006",
+      "category": "shopping",
+      "name": {
+        "ja": "エバグリーン",
+        "en": "ebaguri-n",
+        "zh": "Ebaguri-n"
+      },
+      "desc": {
+        "ja": "駅から約568mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 568 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约568米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 568,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/3919982800",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.4425925,
+      "lon": 135.3524853
+    },
+    {
+      "id": "st00425-007",
+      "category": "post_office",
+      "name": {
+        "ja": "貝塚郵便局",
+        "en": "Kaizuka Post Office",
+        "zh": "貝塚邮政局"
+      },
+      "desc": {
+        "ja": "駅から約234mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su,PH 09:00-16:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 234 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约234米的邮局，Mo-Fr 08:00-19:00, Sa 08:00-18:00, Su, PH 09:00-16:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 234,
+      "walk_min": 3,
+      "hours": "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su,PH 09:00-16:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/12013756502",
+      "tel": "+81-800-0800-111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.4434128,
+      "lon": 135.3576741
+    },
+    {
+      "id": "st00425-008",
+      "category": "police",
+      "name": {
+        "ja": "貝塚警察署小瀬交番",
+        "en": "貝塚小濑交番 Police Station",
+        "zh": "貝塚警察署小濑交番"
+      },
+      "desc": {
+        "ja": "駅から約998mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 998 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约998米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 998,
+      "walk_min": 13,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423016021",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.445697,
+      "lon": 135.368457
+    },
+    {
+      "id": "st00425-009",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "三の丸神社",
+        "en": "三no丸神社",
+        "zh": "三no丸神社"
+      },
+      "desc": {
+        "ja": "駅から約1665mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1665 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1665米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1665,
+      "walk_min": 21,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/452801189",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.457764,
+      "lon": 135.3680169
+    },
+    {
+      "id": "st00425-010",
+      "category": "post_office",
+      "name": {
+        "ja": "貝塚南町郵便局",
+        "en": "Kaizuka Minamicho Post Office",
+        "zh": "貝塚南町邮政局"
+      },
+      "desc": {
+        "ja": "駅から約343mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 343 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约343米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 343,
+      "walk_min": 5,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1423015728",
+      "tel": "+81-72-431-4988",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.4474127,
+      "lon": 135.3546244
+    },
+    {
+      "id": "st00425-011",
+      "category": "medical",
+      "name": {
+        "ja": "ほてい薬局",
+        "en": "hotei薬局",
+        "zh": "Hotei薬局"
+      },
+      "desc": {
+        "ja": "駅から約91mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 91 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约91米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 91,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5305987423",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.4457937,
+      "lon": 135.3566364
+    },
+    {
+      "id": "st00425-012",
+      "category": "food",
+      "name": {
+        "ja": "呑喰処 まるや",
+        "en": "呑喰処 maruya",
+        "zh": "呑喰処 Maruya"
+      },
+      "desc": {
+        "ja": "駅から約48mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 48 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约48米的餐馆适合旅途中用餐，菜单与价格以店内展示内容为准，具体信息以现场为准。"
+      },
+      "distance_m": 48,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5308022925",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.4453042,
+      "lon": 135.358027
+    },
+    {
+      "id": "st00425-013",
+      "category": "food",
+      "name": {
+        "ja": "や台ずし 貝塚駅前店",
+        "en": "ya台zushi 貝塚駅前店",
+        "zh": "Ya台zushi 貝塚駅前店"
+      },
+      "desc": {
+        "ja": "駅から約49mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 49 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约49米的餐馆适合旅途中用餐，菜单与价格以店内展示内容为准，具体信息以现场为准。"
+      },
+      "distance_m": 49,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5305987021",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.4459477,
+      "lon": 135.3576725
+    },
+    {
+      "id": "st00425-014",
+      "category": "public_service",
+      "name": {
+        "ja": "貝塚市民図書館",
+        "en": "Kaizuka Library",
+        "zh": "貝塚市民图书馆"
+      },
+      "desc": {
+        "ja": "駅から約750mにある図書館。手続きや調べ物、休憩に利用できる公共の施設。詳細は現地の案内を参照。",
+        "en": "Library about 750 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约750米的图书馆，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 750,
+      "walk_min": 10,
+      "hours": "Mo,We-Fr 09:30-19:30; Sa,Su 09:30-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1423015762",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.439058,
+      "lon": 135.35993
+    },
+    {
+      "id": "st00425-015",
+      "category": "sight",
+      "name": {
+        "ja": "ふるさと知っとこ館",
+        "en": "furusato知toko館",
+        "zh": "Furusato知toko館"
+      },
+      "desc": {
+        "ja": "駅から約1215mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1215 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1215米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1215,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/3929761996",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.4418534,
+      "lon": 135.3700603
+    },
+    {
+      "id": "st00425-016",
+      "category": "food",
+      "name": {
+        "ja": "ナポリ",
+        "en": "napori",
+        "zh": "Napori"
+      },
+      "desc": {
+        "ja": "駅から約69mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 69 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约69米的餐馆适合旅途中用餐，菜单与价格以店内展示内容为准，具体信息以现场为准。"
+      },
+      "distance_m": 69,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5305986727",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.4461036,
+      "lon": 135.3573404
+    },
+    {
+      "id": "st00425-017",
+      "category": "sight",
+      "name": {
+        "ja": "天守閣",
+        "en": "Kishiwada Castle",
+        "zh": "天守阁"
+      },
+      "desc": {
+        "ja": "駅から約1909mにある城郭。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Castle about 1909 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1909米的城堡，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1909,
+      "walk_min": 24,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/573872905",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.4587898,
+      "lon": 135.3707662
+    }
+  ],
+  "coverage": {
+    "poi_count": 17,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 335,
+    "floor_check": {
+      "medical": {
+        "candidates": 57,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 5,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 18,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 11,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 9,
+        "selected": 2
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
