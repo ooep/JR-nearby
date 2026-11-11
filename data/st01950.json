@@ -1,0 +1,565 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st01950",
+    "name": {
+      "ja": "堺",
+      "en": "Sakai",
+      "zh": "堺"
+    },
+    "line_group": [
+      "南海本線"
+    ],
+    "pref": "大阪府",
+    "lat": 34.582,
+    "lon": 135.46871
+  },
+  "generated_at": "2026-11-11T05:30:33Z",
+  "pois": [
+    {
+      "id": "st01950-001",
+      "category": "post_office",
+      "name": {
+        "ja": "南海堺駅内郵便局",
+        "en": "NankaiSakaieki-nai Post Office",
+        "zh": "南海堺站内邮政局"
+      },
+      "desc": {
+        "ja": "駅から約17mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 17 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约17米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 17,
+      "walk_min": 1,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1422985621",
+      "tel": "+81-72-224-0110",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5818443,
+      "lon": 135.4687067
+    },
+    {
+      "id": "st01950-002",
+      "category": "sight",
+      "name": {
+        "ja": "街角の再発見 熊野町",
+        "en": "街角no再発見 熊野町",
+        "zh": "街角no再発見 熊野町"
+      },
+      "desc": {
+        "ja": "駅から約595mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Memorial about 595 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约595米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 595,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5311306836",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5791515,
+      "lon": 135.4742173
+    },
+    {
+      "id": "st01950-003",
+      "category": "food",
+      "name": {
+        "ja": "musi-vege+",
+        "en": "musi-vege+",
+        "zh": "musi-vege+"
+      },
+      "desc": {
+        "ja": "駅から約58mにある飲食店。japanese料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 58 m from the station. Serves japanese cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约58米的餐馆主营japanese，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 58,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2274759474",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5819806,
+      "lon": 135.4693409,
+      "official_url_pending": "https://www.moriguchi-sangyo.co.jp/musivege"
+    },
+    {
+      "id": "st01950-004",
+      "category": "bank_atm",
+      "name": {
+        "ja": "三井住友銀行",
+        "en": "Sumitomo Mitsui Banking Corporation",
+        "zh": "三井住友银行"
+      },
+      "desc": {
+        "ja": "三井住友銀行のATM。駅から約67mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 67 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约67米的银行网点，07:00-24:00（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 67,
+      "walk_min": 1,
+      "hours": "07:00-24:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2275355185",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5814276,
+      "lon": 135.4689489
+    },
+    {
+      "id": "st01950-005",
+      "category": "food",
+      "name": {
+        "ja": "けとばし屋チャンピオン 堺東店",
+        "en": "ketobashi屋chiyanpion 堺東店",
+        "zh": "Ketobashi屋chiyanpion 堺東店"
+      },
+      "desc": {
+        "ja": "駅から約1395mにある飲食店。japanese料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は16:00-24:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1395 m from the station. Serves japanese cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1395米的餐馆主营japanese，适合旅途中用餐，16:00-24:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1395,
+      "walk_min": 18,
+      "hours": "16:00-24:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/3725631011",
+      "tel": "072-247-8772",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5752922,
+      "lon": 135.481592
+    },
+    {
+      "id": "st01950-006",
+      "category": "convenience",
+      "name": {
+        "ja": "ファミリーマート",
+        "en": "FamilyMart",
+        "zh": "全家便利店"
+      },
+      "desc": {
+        "ja": "ファミリーマートのコンビニエンスストア。駅から約190mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 190 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约190米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 190,
+      "walk_min": 3,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/3017587561",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5818422,
+      "lon": 135.4707732
+    },
+    {
+      "id": "st01950-007",
+      "category": "shopping",
+      "name": {
+        "ja": "ライフ 堺駅前店",
+        "en": "raifu 堺駅前店",
+        "zh": "ライフ 堺站前店"
+      },
+      "desc": {
+        "ja": "駅から約288mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 288 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约288米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 288,
+      "walk_min": 4,
+      "hours": "Mo-Su 09:00-23:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/4937650222",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5829474,
+      "lon": 135.4716434
+    },
+    {
+      "id": "st01950-008",
+      "category": "post_office",
+      "name": {
+        "ja": "堺戎島郵便局",
+        "en": "Sakai Ebisujima Post Office",
+        "zh": "堺戎岛邮政局"
+      },
+      "desc": {
+        "ja": "駅から約488mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 488 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约488米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 488,
+      "walk_min": 7,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1422987863",
+      "tel": "+81-72-222-7778",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5821336,
+      "lon": 135.474041
+    },
+    {
+      "id": "st01950-009",
+      "category": "sight",
+      "name": {
+        "ja": "堺伝統産業会館",
+        "en": "Sakai Hamono Knife Museum",
+        "zh": "堺伝統産業会馆"
+      },
+      "desc": {
+        "ja": "駅から約810mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 810 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约810米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 810,
+      "walk_min": 11,
+      "hours": "Mo-Su 10:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/4937644440",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5828863,
+      "lon": 135.4774903
+    },
+    {
+      "id": "st01950-010",
+      "category": "police",
+      "name": {
+        "ja": "堺北警察署材木町交番",
+        "en": "堺北材木町交番 Police Station",
+        "zh": "堺北警察署材木町交番"
+      },
+      "desc": {
+        "ja": "駅から約844mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 844 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约844米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 844,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1422987558",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.58321,
+      "lon": 135.477806
+    },
+    {
+      "id": "st01950-011",
+      "category": "public_service",
+      "name": {
+        "ja": "堺市立青少年センター図書室",
+        "en": "堺市立青少年senta-図書室",
+        "zh": "堺市立青少年センター图书室"
+      },
+      "desc": {
+        "ja": "駅から約1257mにある図書館。手続きや調べ物、休憩に利用できる公共の施設。詳細は現地の案内を参照。",
+        "en": "Library about 1257 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1257米的图书馆，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1257,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1422987841",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.587349,
+      "lon": 135.480809
+    },
+    {
+      "id": "st01950-012",
+      "category": "food",
+      "name": {
+        "ja": "がやが屋 焼肉ホルモン酒場",
+        "en": "gayaga屋 焼肉horumon酒場",
+        "zh": "Gayaga屋 焼肉horumon酒場"
+      },
+      "desc": {
+        "ja": "駅から約1431mにある飲食店。japanese料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は17:00-23:30（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1431 m from the station. Serves japanese cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1431米的餐馆主营japanese，适合旅途中用餐，17:00-23:30（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1431,
+      "walk_min": 18,
+      "hours": "17:00-23:30 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/3725780478",
+      "tel": "072-238-2989",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5761155,
+      "lon": 135.4826064
+    },
+    {
+      "id": "st01950-013",
+      "category": "medical",
+      "name": {
+        "ja": "清恵会病院",
+        "en": "Seikeikai Hospital",
+        "zh": "清恵会病院"
+      },
+      "desc": {
+        "ja": "駅から約1363mにある病院。体調を崩した際の受診や薬の購入に対応する。受付は24時間営業。旅先でも頼れる医療施設。",
+        "en": "Hospital about 1363 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1363米的医院，全天24小时营业，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1363,
+      "walk_min": 18,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5572331628",
+      "tel": "+81 72 223 8199",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5707218,
+      "lon": 135.4745347
+    },
+    {
+      "id": "st01950-014",
+      "category": "sight",
+      "name": {
+        "ja": "山口家住宅",
+        "en": "The Yamaguchi Residence",
+        "zh": "山口家住宅"
+      },
+      "desc": {
+        "ja": "駅から約1366mにある観光スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Attraction about 1366 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1366米的观光景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1366,
+      "walk_min": 18,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5712619222",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5866572,
+      "lon": 135.4825197
+    },
+    {
+      "id": "st01950-015",
+      "category": "convenience",
+      "name": {
+        "ja": "ローソン",
+        "en": "Lawson",
+        "zh": "罗森"
+      },
+      "desc": {
+        "ja": "ローソンのコンビニエンスストア。駅から約1448mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 1448 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约1448米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 1448,
+      "walk_min": 19,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/3725619510",
+      "tel": "072-238-1012",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5756783,
+      "lon": 135.4825398,
+      "official_url_pending": "https://www.lawson.co.jp/"
+    },
+    {
+      "id": "st01950-016",
+      "category": "medical",
+      "name": {
+        "ja": "医療法人修医会 ヤマグチ堺東クリニック",
+        "en": "医療法人修医会 yamaguchi堺東kuriniku",
+        "zh": "医療法人修医会 ヤマグチ堺东クリニック"
+      },
+      "desc": {
+        "ja": "駅から約1449mにあるクリニック。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Clinic about 1449 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1449米的诊所，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1449,
+      "walk_min": 19,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/3725619509",
+      "tel": "072-224-0075",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5757059,
+      "lon": 135.4825626,
+      "official_url_pending": "https://beauty-yamaguchicl.com"
+    },
+    {
+      "id": "st01950-017",
+      "category": "public_service",
+      "name": {
+        "ja": "堺市立人権ふれあいセンター図書ホール",
+        "en": "堺市立人権fureaisenta-図書ho-ru",
+        "zh": "堺市立人権fureaisenta-図書ho-ru"
+      },
+      "desc": {
+        "ja": "駅から約1954mにある図書館。手続きや調べ物、休憩に利用できる公共の施設。詳細は現地の案内を参照。",
+        "en": "Library about 1954 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1954米的图书馆，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1954,
+      "walk_min": 25,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1422987791",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.564446,
+      "lon": 135.469573
+    },
+    {
+      "id": "st01950-018",
+      "category": "cafe",
+      "name": {
+        "ja": "サンマルクカフェ",
+        "en": "Saint Marc Cafe",
+        "zh": "Sanmarukukafue"
+      },
+      "desc": {
+        "ja": "駅から約1571mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。",
+        "en": "Cafe about 1571 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约1571米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 1571,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2074431083",
+      "tel": "072-232-1228",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.5751617,
+      "lon": 135.4837295,
+      "official_url_pending": "https://saint-marc-hd.com"
+    }
+  ],
+  "coverage": {
+    "poi_count": 18,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 389,
+    "floor_check": {
+      "medical": {
+        "candidates": 32,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 19,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 29,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 16,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 6,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
