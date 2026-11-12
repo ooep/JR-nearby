@@ -1,0 +1,595 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st00180",
+    "name": {
+      "ja": "寺町",
+      "en": "Teramachi",
+      "zh": "寺町"
+    },
+    "line_group": [
+      "横川線",
+      "江波線"
+    ],
+    "pref": "広島県",
+    "lat": 34.40078,
+    "lon": 132.44808
+  },
+  "generated_at": "2026-11-12T07:13:25Z",
+  "pois": [
+    {
+      "id": "st00180-001",
+      "category": "food",
+      "name": {
+        "ja": "モスバーガー",
+        "en": "MOS Burger",
+        "zh": "摩斯汉堡"
+      },
+      "desc": {
+        "ja": "駅から約455mにある飲食店。burger料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Su 07:00-00:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 455 m from the station. Serves burger cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约455米的餐馆主营burger，适合旅途中用餐，Mo-Su 07:00-00:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 455,
+      "walk_min": 6,
+      "hours": "Mo-Su 07:00-00:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1965492663",
+      "tel": "+81-82-2334554",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.3975777,
+      "lon": 132.4449966,
+      "official_url_pending": "https://www.mos.co.jp/"
+    },
+    {
+      "id": "st00180-002",
+      "category": "public_service",
+      "name": {
+        "ja": "広島市立中区図書館",
+        "en": "Naka Ward Library",
+        "zh": "广岛市立中区图书馆"
+      },
+      "desc": {
+        "ja": "駅から約1433mにある図書館。手続きや調べ物、休憩に利用できる公共の施設。詳細は現地の案内を参照。",
+        "en": "Library about 1433 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1433米的图书馆，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1433,
+      "walk_min": 18,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423636717",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.3878909,
+      "lon": 132.4481116
+    },
+    {
+      "id": "st00180-003",
+      "category": "sight",
+      "name": {
+        "ja": "韓国人原爆犠牲者慰霊碑",
+        "en": "Monument in Memory of the Korean Victims of the A-bomb",
+        "zh": "韩国人原爆犠牲者慰霊碑"
+      },
+      "desc": {
+        "ja": "駅から約815mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Memorial about 815 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约815米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 815,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4280135175",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.3941353,
+      "lon": 132.4518286
+    },
+    {
+      "id": "st00180-004",
+      "category": "public_service",
+      "name": {
+        "ja": "広島市白島児童館",
+        "en": "Hiroshima Children's Center",
+        "zh": "广岛市白岛児童馆"
+      },
+      "desc": {
+        "ja": "駅から約1225mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 1225 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1225米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1225,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423636672",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.4039273,
+      "lon": 132.4608786
+    },
+    {
+      "id": "st00180-005",
+      "category": "medical",
+      "name": {
+        "ja": "スミイ薬局",
+        "en": "sumii薬局",
+        "zh": "スミイ薬局"
+      },
+      "desc": {
+        "ja": "駅から約237mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 237 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约237米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 237,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1417050570",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.3987718,
+      "lon": 132.4472289
+    },
+    {
+      "id": "st00180-006",
+      "category": "cafe",
+      "name": {
+        "ja": "タリーズコーヒー",
+        "en": "Tully's Coffee",
+        "zh": "塔利咖啡"
+      },
+      "desc": {
+        "ja": "駅から約1208mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。Mo-Fr 07:00-20:00; Sa,Su,PH 07:30-17:00（JST）。",
+        "en": "Cafe about 1208 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约1208米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 1208,
+      "walk_min": 16,
+      "hours": "Mo-Fr 07:00-20:00; Sa,Su,PH 07:30-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1945401128",
+      "tel": "+81-82-5026656",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.3974325,
+      "lon": 132.46061,
+      "official_url_pending": "https://www.tullys.co.jp/"
+    },
+    {
+      "id": "st00180-007",
+      "category": "post_office",
+      "name": {
+        "ja": "広島中郵便局",
+        "en": "Hiroshima Naka Post Office",
+        "zh": "广岛中邮政局"
+      },
+      "desc": {
+        "ja": "駅から約936mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Sa 09:00-17:00; Su,PH 09:00-12:30（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 936 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约936米的邮局，Mo-Sa 09:00-17:00, Su, PH 09:00-12:30（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 936,
+      "walk_min": 12,
+      "hours": "Mo-Sa 09:00-17:00; Su,PH 09:00-12:30 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1423635073",
+      "tel": "+81-800-0800-111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.3958875,
+      "lon": 132.456378
+    },
+    {
+      "id": "st00180-008",
+      "category": "food",
+      "name": {
+        "ja": "ケンタッキーフライドチキン",
+        "en": "KFC",
+        "zh": "肯德基"
+      },
+      "desc": {
+        "ja": "駅から約960mにある飲食店。chicken料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Su 10:00-22:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 960 m from the station. Serves chicken cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约960米的餐馆主营chicken，适合旅途中用餐，Mo-Su 10:00-22:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 960,
+      "walk_min": 12,
+      "hours": "Mo-Su 10:00-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1945678556",
+      "tel": "+81-82-5031565",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.4094015,
+      "lon": 132.448652,
+      "official_url_pending": "https://www.kfc.co.jp/"
+    },
+    {
+      "id": "st00180-009",
+      "category": "sight",
+      "name": {
+        "ja": "原爆死没者慰霊碑",
+        "en": "Cenotaph for the A-bomb Victims",
+        "zh": "原爆死歿者慰靈碑"
+      },
+      "desc": {
+        "ja": "駅から約961mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Memorial about 961 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约961米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 961,
+      "walk_min": 13,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1805765497",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.3929718,
+      "lon": 132.4525711
+    },
+    {
+      "id": "st00180-010",
+      "category": "convenience",
+      "name": {
+        "ja": "ローソン",
+        "en": "Lawson",
+        "zh": "罗森"
+      },
+      "desc": {
+        "ja": "ローソンのコンビニエンスストア。駅から約1059mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 1059 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约1059米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 1059,
+      "walk_min": 14,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1365353094",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.3938132,
+      "lon": 132.4559418,
+      "official_url_pending": "https://www.e-map.ne.jp/smt/lawson/map/172356/?"
+    },
+    {
+      "id": "st00180-011",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "住吉神社",
+        "en": "Sumiyoshi Shrine",
+        "zh": "住吉神社"
+      },
+      "desc": {
+        "ja": "駅から約1764mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1764 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1764米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1764,
+      "walk_min": 23,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1400571776",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.3849249,
+      "lon": 132.4473841
+    },
+    {
+      "id": "st00180-012",
+      "category": "bank_atm",
+      "name": {
+        "ja": "広島銀行",
+        "en": "Hiroshima Bank",
+        "zh": "广岛银行"
+      },
+      "desc": {
+        "ja": "広島銀行の支店。駅から約415mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 415 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约415米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 415,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/358257270",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.3971027,
+      "lon": 132.4472901
+    },
+    {
+      "id": "st00180-013",
+      "category": "police",
+      "name": {
+        "ja": "広島中央警察署",
+        "en": "Hiroshima Chuo Police Station",
+        "zh": "广岛中央警察署"
+      },
+      "desc": {
+        "ja": "駅から約1318mにある警察署。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1318 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1318米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1318,
+      "walk_min": 17,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423634992",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.396438,
+      "lon": 132.461452
+    },
+    {
+      "id": "st00180-014",
+      "category": "sight",
+      "name": {
+        "ja": "袋町小学校 平和資料館",
+        "en": "Fukuromachi Elementary School Peace Museum",
+        "zh": "袋町小学校 平和资料馆"
+      },
+      "desc": {
+        "ja": "駅から約1388mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1388 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1388米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1388,
+      "walk_min": 18,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4280116101",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.3915462,
+      "lon": 132.4582518
+    },
+    {
+      "id": "st00180-015",
+      "category": "post_office",
+      "name": {
+        "ja": "広島白島郵便局",
+        "en": "Hiroshima Hakushima Post Office",
+        "zh": "广岛白岛邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1550mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1550 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1550米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 1550,
+      "walk_min": 20,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1423637247",
+      "tel": "+81-82-221-7908",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.403768,
+      "lon": 132.464585
+    },
+    {
+      "id": "st00180-016",
+      "category": "shopping",
+      "name": {
+        "ja": "福屋",
+        "en": "Fukuya",
+        "zh": "福屋"
+      },
+      "desc": {
+        "ja": "駅から約1569mにある百貨店。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Department store about 1569 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1569米的百货店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1569,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/359030898",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.3934894,
+      "lon": 132.4627246
+    },
+    {
+      "id": "st00180-017",
+      "category": "food",
+      "name": {
+        "ja": "マクドナルド",
+        "en": "McDonald's",
+        "zh": "麦当劳"
+      },
+      "desc": {
+        "ja": "駅から約1191mにある飲食店。burger料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は24時間営業。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1191 m from the station. Serves burger cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1191米的餐馆主营burger，适合旅途中用餐，全天24小时营业，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1191,
+      "walk_min": 15,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/4385164090",
+      "tel": "+81 82-249-9621",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.393528,
+      "lon": 132.4576391,
+      "official_url_pending": "https://map.mcdonalds.co.jp/map/34001"
+    },
+    {
+      "id": "st00180-018",
+      "category": "shopping",
+      "name": {
+        "ja": "広島三越",
+        "en": "Hiroshima Mitsukoshi",
+        "zh": "广岛三越"
+      },
+      "desc": {
+        "ja": "駅から約1715mにある百貨店。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Department store about 1715 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1715米的百货店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1715,
+      "walk_min": 22,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/359031147",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.3931021,
+      "lon": 132.4642872
+    },
+    {
+      "id": "st00180-019",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "本川浜恵美須神社",
+        "en": "Honkawahamaebisu Shrine",
+        "zh": "本川滨恵美須神社"
+      },
+      "desc": {
+        "ja": "駅から約887mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 887 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约887米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 887,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1404464714",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.3928872,
+      "lon": 132.4494635
+    }
+  ],
+  "coverage": {
+    "poi_count": 19,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 369,
+    "floor_check": {
+      "medical": {
+        "candidates": 27,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 37,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 69,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 23,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 10,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
