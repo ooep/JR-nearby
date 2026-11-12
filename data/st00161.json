@@ -1,0 +1,625 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st00161",
+    "name": {
+      "ja": "市役所前",
+      "en": "Matsuyama City Hall",
+      "zh": "市役所前"
+    },
+    "line_group": [
+      "城南線"
+    ],
+    "pref": "愛媛県",
+    "lat": 33.83981,
+    "lon": 132.76489
+  },
+  "generated_at": "2026-11-12T05:39:20Z",
+  "pois": [
+    {
+      "id": "st00161-001",
+      "category": "bank_atm",
+      "name": {
+        "ja": "伊予銀行 本店営業部",
+        "en": "Iyo Bank Head Office , Business Department",
+        "zh": "伊予银行 本店営業部"
+      },
+      "desc": {
+        "ja": "伊予銀行 本店営業部の支店。駅から約100mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 100 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约100米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 100,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/2153396608",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.8389635,
+      "lon": 132.7645154
+    },
+    {
+      "id": "st00161-002",
+      "category": "public_service",
+      "name": {
+        "ja": "企画展示ホール",
+        "en": "企画展示ho-ru",
+        "zh": "企影展示ホール"
+      },
+      "desc": {
+        "ja": "駅から約1183mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 1183 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1183米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1183,
+      "walk_min": 15,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/204209300",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.8354797,
+      "lon": 132.7531886
+    },
+    {
+      "id": "st00161-003",
+      "category": "sight",
+      "name": {
+        "ja": "愛媛県美術館",
+        "en": "Museum of Art, Ehime",
+        "zh": "爱媛县美术馆"
+      },
+      "desc": {
+        "ja": "駅から約269mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 269 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约269米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 269,
+      "walk_min": 4,
+      "hours": "09:40-18:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/204405280",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.8405543,
+      "lon": 132.7621234,
+      "official_url_pending": "https://www.ehime-art.jp/"
+    },
+    {
+      "id": "st00161-004",
+      "category": "cafe",
+      "name": {
+        "ja": "SPOT COFFEE STAND",
+        "en": "SPOT COFFEE STAND",
+        "zh": "SPOT COFFEE STAND"
+      },
+      "desc": {
+        "ja": "駅から約305mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。We-Mo 08:00-17:00（JST）。",
+        "en": "Cafe about 305 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约305米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 305,
+      "walk_min": 4,
+      "hours": "We-Mo 08:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/13449384501",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.8403352,
+      "lon": 132.7681297,
+      "official_url_pending": "https://www.instagram.com/spotcoffeestand/"
+    },
+    {
+      "id": "st00161-005",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "セブン-イレブンのコンビニエンスストア。駅から約325mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 325 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约325米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 325,
+      "walk_min": 5,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2942235716",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.8390071,
+      "lon": 132.761512
+    },
+    {
+      "id": "st00161-006",
+      "category": "post_office",
+      "name": {
+        "ja": "松山中央郵便局",
+        "en": "Matsuyama Central Post Office",
+        "zh": "松山中央邮政局"
+      },
+      "desc": {
+        "ja": "駅から約361mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 361 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约361米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 361,
+      "walk_min": 5,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1423738947",
+      "tel": "+81-800-0800-111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.8379789,
+      "lon": 132.768117
+    },
+    {
+      "id": "st00161-007",
+      "category": "food",
+      "name": {
+        "ja": "五志喜",
+        "en": "Goshiki",
+        "zh": "五志喜"
+      },
+      "desc": {
+        "ja": "駅から約398mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Su 11:00-14:30, 17:00-22:30（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 398 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约398米的餐馆适合旅途中用餐，Mo-Su 11:00-14:30, 17:00-22:30（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 398,
+      "walk_min": 5,
+      "hours": "Mo-Su 11:00-14:30, 17:00-22:30 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5537477323",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.8381164,
+      "lon": 132.7686862
+    },
+    {
+      "id": "st00161-008",
+      "category": "sight",
+      "name": {
+        "ja": "Matsuyama Castle",
+        "en": "Matsuyama Castle",
+        "zh": "Matsuyama Castle"
+      },
+      "desc": {
+        "ja": "駅から約583mにある城郭。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Castle about 583 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约583米的城堡，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 583,
+      "walk_min": 8,
+      "hours": "Mo-Su 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/12827570072",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.844972,
+      "lon": 132.7659941,
+      "official_url_pending": "https://matsuyamajo.jp"
+    },
+    {
+      "id": "st00161-009",
+      "category": "sight",
+      "name": {
+        "ja": "Cherry Blossom viewing",
+        "en": "Cherry Blossom viewing",
+        "zh": "Cherry Blossom viewing"
+      },
+      "desc": {
+        "ja": "駅から約168mにある観光スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Attraction about 168 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约168米的观光景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 168,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/12724748801",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.8403363,
+      "lon": 132.7631902
+    },
+    {
+      "id": "st00161-010",
+      "category": "shopping",
+      "name": {
+        "ja": "Navy Bagels",
+        "en": "Navy Bagels",
+        "zh": "Navy Bagels"
+      },
+      "desc": {
+        "ja": "駅から約620mにあるベーカリー。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Bakery about 620 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约620米的面包店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 620,
+      "walk_min": 8,
+      "hours": "We-Sa 08:00+ (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/10755215888",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.8399429,
+      "lon": 132.7581787,
+      "official_url_pending": "https://navybagels.thebase.in"
+    },
+    {
+      "id": "st00161-011",
+      "category": "sight",
+      "name": {
+        "ja": "松山城",
+        "en": "Matsuyama Castle",
+        "zh": "松山城"
+      },
+      "desc": {
+        "ja": "駅から約654mにある城郭。周辺を代表する見どころの一つで、散策の目的地にしやすい。入場は有料。",
+        "en": "Castle about 654 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约654米的城堡，入场收费，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 654,
+      "walk_min": 9,
+      "hours": "Dec-Jan Mo-Su 09:00-16:30; Feb-Jul Mo-Su 09:00-17:00; Aug Mo-Su 09:00-17:30; Sep-Nov Mo-Su 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/611661255",
+      "tel": "+81 89-921-4873",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.845651,
+      "lon": 132.7657463,
+      "official_url_pending": "https://www.matsuyamajo.jp/"
+    },
+    {
+      "id": "st00161-012",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "東雲神社",
+        "en": "Shinonome Shrine",
+        "zh": "东雲神社"
+      },
+      "desc": {
+        "ja": "駅から約785mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 785 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约785米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 785,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/608402737",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.8449143,
+      "lon": 132.7707693
+    },
+    {
+      "id": "st00161-013",
+      "category": "food",
+      "name": {
+        "ja": "マクドナルド",
+        "en": "McDonald's",
+        "zh": "麦当劳"
+      },
+      "desc": {
+        "ja": "駅から約511mにある飲食店。burger料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Su 06:00-00:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 511 m from the station. Serves burger cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约511米的餐馆主营burger，适合旅途中用餐，Mo-Su 06:00-00:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 511,
+      "walk_min": 7,
+      "hours": "Mo-Su 06:00-00:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5644232016",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.8408806,
+      "lon": 132.7702737
+    },
+    {
+      "id": "st00161-014",
+      "category": "medical",
+      "name": {
+        "ja": "NTT 西日本松山病院",
+        "en": "NTT 西日本松山病院",
+        "zh": "NTT 西日本松山病院"
+      },
+      "desc": {
+        "ja": "駅から約900mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 900 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约900米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 900,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423748658",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.843701,
+      "lon": 132.773435
+    },
+    {
+      "id": "st00161-015",
+      "category": "public_service",
+      "name": {
+        "ja": "松山市 総合コミュニティセンター",
+        "en": "Matsuyama City General Community Center",
+        "zh": "松山市 総合コミュニティセンター"
+      },
+      "desc": {
+        "ja": "駅から約1020mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 1020 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1020米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1020,
+      "walk_min": 13,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/204209299",
+      "tel": "+81 899218222",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.8359622,
+      "lon": 132.7548689,
+      "official_url_pending": "https://www.cul-spo.or.jp/comcen/"
+    },
+    {
+      "id": "st00161-016",
+      "category": "police",
+      "name": {
+        "ja": "松山東警察署市駅前交番",
+        "en": "松山东市站前交番 Police Station",
+        "zh": "松山东警察署市站前交番"
+      },
+      "desc": {
+        "ja": "駅から約522mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 522 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约522米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 522,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423739459",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.8352412,
+      "lon": 132.7636081
+    },
+    {
+      "id": "st00161-017",
+      "category": "post_office",
+      "name": {
+        "ja": "松山宮田郵便局",
+        "en": "Matsuyama Miyata Post Office",
+        "zh": "松山宫田邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1156mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1156 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1156米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 1156,
+      "walk_min": 15,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1423739187",
+      "tel": "+81-89-936-5284",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.841887,
+      "lon": 132.75263
+    },
+    {
+      "id": "st00161-018",
+      "category": "food",
+      "name": {
+        "ja": "フジグラン松山",
+        "en": "FUJI GRAND Matsuyama",
+        "zh": "フジグラン松山"
+      },
+      "desc": {
+        "ja": "駅から約1212mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1212 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约1212米的餐馆适合旅途中用餐，菜单与价格以店内展示内容为准，具体信息以现场为准。"
+      },
+      "distance_m": 1212,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/152763586",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.8448823,
+      "lon": 132.7532739,
+      "official_url_pending": "https://www.the-fuji.com/store/shop/ehime/grand_matsuyama.html"
+    },
+    {
+      "id": "st00161-019",
+      "category": "medical",
+      "name": {
+        "ja": "スーパードラッグひまわり",
+        "en": "Super Drug Himawari",
+        "zh": "Su-pa-doraguhimawari"
+      },
+      "desc": {
+        "ja": "駅から約1171mにある薬局。体調を崩した際の受診や薬の購入に対応する。受付はMo-Su 09:00-24:00（JST）。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 1171 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1171米的药房，Mo-Su 09:00-24:00（JST），旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1171,
+      "walk_min": 15,
+      "hours": "Mo-Su 09:00-24:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/14028183944",
+      "tel": "+81-89-909-3541",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.8293245,
+      "lon": 132.7636852
+    },
+    {
+      "id": "st00161-020",
+      "category": "sight",
+      "name": {
+        "ja": "愛媛大学ミュージアム",
+        "en": "愛媛大学miyu-jiamu",
+        "zh": "爱媛大学ミュージアム"
+      },
+      "desc": {
+        "ja": "駅から約1276mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1276 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1276米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1276,
+      "walk_min": 16,
+      "hours": "10:00-16:30 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/4523600452",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 33.8499023,
+      "lon": 132.7714711,
+      "official_url_pending": "https://www.ehime-u.ac.jp/overview/facilities/museum/"
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 381,
+    "floor_check": {
+      "medical": {
+        "candidates": 52,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 27,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 48,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 20,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 7,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}

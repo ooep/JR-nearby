@@ -1,0 +1,627 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st00162",
+    "name": {
+      "ja": "市役所前",
+      "en": "Matsuyama City Hall",
+      "zh": "市役所前"
+    },
+    "line_group": [
+      "千葉都市モノレール1号線"
+    ],
+    "pref": "千葉県",
+    "lat": 35.60724,
+    "lon": 140.10783
+  },
+  "generated_at": "2026-11-12T05:39:20Z",
+  "pois": [
+    {
+      "id": "st00162-001",
+      "category": "public_service",
+      "name": {
+        "ja": "千葉市役所",
+        "en": "Chiba City Hall",
+        "zh": "千葉市役所"
+      },
+      "desc": {
+        "ja": "駅から約116mにある役所・行政施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Civic office about 116 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约116米的行政机构，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 116,
+      "walk_min": 2,
+      "hours": "Mo-Fr 08:30-17:30; PH off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1420728590",
+      "tel": "+81-43-2455111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6073605,
+      "lon": 140.106553,
+      "official_url_pending": "https://www.city.chiba.jp/"
+    },
+    {
+      "id": "st00162-002",
+      "category": "bank_atm",
+      "name": {
+        "ja": "千葉銀行",
+        "en": "Chiba Bank",
+        "zh": "千葉银行"
+      },
+      "desc": {
+        "ja": "千葉銀行の支店。駅から約1008mにあり、預け入れ・引き出しやATMの利用に対応する。窓口はMo-Su,PH 08:00-21:00（JST）。",
+        "en": "Bank about 1008 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约1008米的银行网点，Mo-Su, PH 08:00-21:00（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 1008,
+      "walk_min": 13,
+      "hours": "Mo-Su,PH 08:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1923441964",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6076744,
+      "lon": 140.1189711
+    },
+    {
+      "id": "st00162-003",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "セブン-イレブンのコンビニエンスストア。駅から約477mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 477 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约477米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 477,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/3211878061",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6077506,
+      "lon": 140.1130743,
+      "official_url_pending": "https://www.sej.co.jp/"
+    },
+    {
+      "id": "st00162-004",
+      "category": "shopping",
+      "name": {
+        "ja": "Saint Etoile",
+        "en": "Saint Etoile",
+        "zh": "Saint Etoile"
+      },
+      "desc": {
+        "ja": "駅から約492mにあるベーカリー。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Bakery about 492 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约492米的面包店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 492,
+      "walk_min": 7,
+      "hours": "Mo-Fr 07:00-21:00; Sa-Su 08:00-20:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/9874084450",
+      "tel": "043-441-6631",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6072296,
+      "lon": 140.1023882,
+      "official_url_pending": "https://www.yamazakipan.co.jp/shops/saint_etoile/main.html"
+    },
+    {
+      "id": "st00162-005",
+      "category": "convenience",
+      "name": {
+        "ja": "NewDays",
+        "en": "NewDays",
+        "zh": "NewDays"
+      },
+      "desc": {
+        "ja": "NewDaysのコンビニエンスストア。駅から約494mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 494 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约494米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 494,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/9874084459",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6070081,
+      "lon": 140.1023691,
+      "official_url_pending": "https://retail.jr-cross.co.jp/newdays/"
+    },
+    {
+      "id": "st00162-006",
+      "category": "food",
+      "name": {
+        "ja": "Irorian Kiraku",
+        "en": "Irorian Kiraku",
+        "zh": "Irorian Kiraku"
+      },
+      "desc": {
+        "ja": "駅から約506mにある飲食店。noodle料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Fr 07:00-22:00; Sa-Su 08:00-19:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 506 m from the station. Serves noodle cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约506米的餐馆主营noodle，适合旅途中用餐，Mo-Fr 07:00-22:00, Sa-Su 08:00-19:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 506,
+      "walk_min": 7,
+      "hours": "Mo-Fr 07:00-22:00; Sa-Su 08:00-19:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/9874084451",
+      "tel": "043-246-3310",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6071424,
+      "lon": 140.1022347,
+      "official_url_pending": "https://foods.jr-cross.co.jp/kiraku/"
+    },
+    {
+      "id": "st00162-007",
+      "category": "medical",
+      "name": {
+        "ja": "マツモトキヨシ",
+        "en": "Matsumoto Kiyoshi",
+        "zh": "Matsumotokiyoshi"
+      },
+      "desc": {
+        "ja": "駅から約504mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 504 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约504米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 504,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/9874349270",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.607375,
+      "lon": 140.1022532,
+      "official_url_pending": "https://www.matsukiyo.co.jp/map?kid=10001362"
+    },
+    {
+      "id": "st00162-008",
+      "category": "food",
+      "name": {
+        "ja": "頑々坊主",
+        "en": "Gan Gan Bouzu",
+        "zh": "顽顽坊子"
+      },
+      "desc": {
+        "ja": "駅から約802mにある飲食店。noodles;ramen料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo, Su 11:00-15:00; Tu-Fr 11:00-22:30; Sa, PH 11:00-20:00（JS。",
+        "en": "Restaurant about 802 m from the station. Serves noodles and ramen cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约802米的餐馆主营noodles and ramen，适合旅途中用餐，Mo, Su 11:00-15:00, Tu-Fr 11:00-22:30, Sa, PH 11:00-20:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 802,
+      "walk_min": 11,
+      "hours": "Mo, Su 11:00-15:00; Tu-Fr 11:00-22:30; Sa, PH 11:00-20:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/10289019832",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6142106,
+      "lon": 140.11009,
+      "official_url_pending": "https://ganganbouzu.com/"
+    },
+    {
+      "id": "st00162-009",
+      "category": "food",
+      "name": {
+        "ja": "サイゼリヤ 千葉富士見店",
+        "en": "Saizeriya",
+        "zh": "サイゼリヤ 千葉富士見店"
+      },
+      "desc": {
+        "ja": "駅から約890mにある飲食店。italian料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Su 10:00-05:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 890 m from the station. Serves italian cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约890米的餐馆主营italian，适合旅途中用餐，Mo-Su 10:00-05:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 890,
+      "walk_min": 12,
+      "hours": "Mo-Su 10:00-05:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/4471485695",
+      "tel": "+81 43 308 0740",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.609911,
+      "lon": 140.117109,
+      "official_url_pending": "https://shop.saizeriya.co.jp/sz_restaurant/spot/detail?code=0906"
+    },
+    {
+      "id": "st00162-010",
+      "category": "police",
+      "name": {
+        "ja": "千葉駅前交番",
+        "en": "Chiba Station Police Box",
+        "zh": "千葉站前交番"
+      },
+      "desc": {
+        "ja": "駅から約957mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 957 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约957米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 957,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/260551089",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.612906,
+      "lon": 140.1157961
+    },
+    {
+      "id": "st00162-011",
+      "category": "sight",
+      "name": {
+        "ja": "体感！ ふれあい動物園 ライフズー",
+        "en": "Lifezoo",
+        "zh": "体感！ Fureai動物園 Raifuzu-"
+      },
+      "desc": {
+        "ja": "駅から約1911mにある観光スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Attraction about 1911 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1911米的观光景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1911,
+      "walk_min": 24,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6886826948",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.5922731,
+      "lon": 140.1182189,
+      "official_url_pending": "https://lifezoo.jp/"
+    },
+    {
+      "id": "st00162-012",
+      "category": "sight",
+      "name": {
+        "ja": "ヘレン・ケラー像",
+        "en": "Helen Keller Memorial",
+        "zh": "ヘレン・ケラー像"
+      },
+      "desc": {
+        "ja": "駅から約1248mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Memorial about 1248 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1248米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1248,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4436260941",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6101671,
+      "lon": 140.1211583
+    },
+    {
+      "id": "st00162-013",
+      "category": "sight",
+      "name": {
+        "ja": "千葉市科学館",
+        "en": "Chiba City Museum of Science",
+        "zh": "千葉市科学馆"
+      },
+      "desc": {
+        "ja": "駅から約1310mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1310 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1310米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1310,
+      "walk_min": 17,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6886812265",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6074473,
+      "lon": 140.1223175
+    },
+    {
+      "id": "st00162-014",
+      "category": "sight",
+      "name": {
+        "ja": "観光船のりば",
+        "en": "観光船noriba",
+        "zh": "観光船noriba"
+      },
+      "desc": {
+        "ja": "駅から約691mにある観光スポット。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Attraction about 691 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约691米的观光景点，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 691,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/260140447",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.601759,
+      "lon": 140.1042232
+    },
+    {
+      "id": "st00162-015",
+      "category": "sight",
+      "name": {
+        "ja": "千葉市美術館",
+        "en": "Chiba City Museum of Art",
+        "zh": "千葉市美术馆"
+      },
+      "desc": {
+        "ja": "駅から約1531mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1531 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1531米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1531,
+      "walk_min": 20,
+      "hours": "Su-Th 10:00-18:00; Fr-Sa 10:00-20:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1420728819",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6089582,
+      "lon": 140.1246375,
+      "official_url_pending": "https://www.ccma-net.jp/"
+    },
+    {
+      "id": "st00162-016",
+      "category": "post_office",
+      "name": {
+        "ja": "若葉郵便局",
+        "en": "Wakaba Post Office",
+        "zh": "若葉邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1532mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1532 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1532米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 1532,
+      "walk_min": 20,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1420742981",
+      "tel": "+81-800-0800-111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.609865,
+      "lon": 140.124461
+    },
+    {
+      "id": "st00162-017",
+      "category": "sight",
+      "name": {
+        "ja": "電電公社ベンチ",
+        "en": "電電公社benchi",
+        "zh": "电电公社ベンチ"
+      },
+      "desc": {
+        "ja": "駅から約865mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Monument about 865 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约865米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 865,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/260141507",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.600791,
+      "lon": 140.1024802
+    },
+    {
+      "id": "st00162-018",
+      "category": "public_service",
+      "name": {
+        "ja": "千葉市中央図書館",
+        "en": "Chiba City Central Library",
+        "zh": "千葉市中央图书馆"
+      },
+      "desc": {
+        "ja": "駅から約1361mにある図書館。手続きや調べ物、休憩に利用できる公共の施設。詳細は現地の案内を参照。",
+        "en": "Library about 1361 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1361米的图书馆，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1361,
+      "walk_min": 18,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420728428",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.618279,
+      "lon": 140.114322
+    },
+    {
+      "id": "st00162-019",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "神明さま",
+        "en": "神明sama",
+        "zh": "神明sama"
+      },
+      "desc": {
+        "ja": "駅から約1483mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1483 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1483米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1483,
+      "walk_min": 19,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6497794027",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.6114673,
+      "lon": 140.1233927
+    },
+    {
+      "id": "st00162-020",
+      "category": "sight",
+      "name": {
+        "ja": "千葉市立郷土博物館（千葉城）",
+        "en": "Chiba City Municipal Museum (Chiba Castle)",
+        "zh": "千葉市立郷土博物馆（千葉城）"
+      },
+      "desc": {
+        "ja": "駅から約1768mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1768 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1768米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1768,
+      "walk_min": 23,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420728788",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.60456,
+      "lon": 140.127101
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 367,
+    "floor_check": {
+      "medical": {
+        "candidates": 34,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 24,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 38,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 16,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 8,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
