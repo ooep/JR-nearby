@@ -1,0 +1,596 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st00131",
+    "name": {
+      "ja": "井口",
+      "en": "Inokuchi",
+      "zh": "井口"
+    },
+    "line_group": [
+      "宮島線",
+      "広電本線"
+    ],
+    "pref": "広島県",
+    "lat": 34.37183,
+    "lon": 132.38601
+  },
+  "generated_at": "2026-11-12T04:08:18Z",
+  "pois": [
+    {
+      "id": "st00131-001",
+      "category": "park",
+      "name": {
+        "ja": "鈴が台第三公園",
+        "en": "鈴ga台第三公園",
+        "zh": "鈴ga台第三公園"
+      },
+      "desc": {
+        "ja": "駅から約383mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 383 m from the station, with paths and benches for a rest.",
+        "zh": "距站约383米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 383,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/707530440",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.372482,
+      "lon": 132.3819139
+    },
+    {
+      "id": "st00131-002",
+      "category": "post_office",
+      "name": {
+        "ja": "広島井口郵便局",
+        "en": "Hiroshima Inokuchi Post Office",
+        "zh": "广岛井口邮政局"
+      },
+      "desc": {
+        "ja": "駅から約188mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 188 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约188米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 188,
+      "walk_min": 3,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1423635116",
+      "tel": "+81-82-277-2201",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.373467,
+      "lon": 132.38654
+    },
+    {
+      "id": "st00131-003",
+      "category": "park",
+      "name": {
+        "ja": "鈴が台第二公園",
+        "en": "鈴ga台第二公園",
+        "zh": "鈴ga台第二公園"
+      },
+      "desc": {
+        "ja": "駅から約483mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 483 m from the station, with paths and benches for a rest.",
+        "zh": "距站约483米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 483,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/707531063",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.3745361,
+      "lon": 132.381895
+    },
+    {
+      "id": "st00131-004",
+      "category": "public_service",
+      "name": {
+        "ja": "広島市鈴が峰児童館",
+        "en": "広島市鈴ga峰児童館",
+        "zh": "広島市鈴ga峰児童館"
+      },
+      "desc": {
+        "ja": "駅から約1281mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 1281 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1281米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1281,
+      "walk_min": 17,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423636904",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.380439,
+      "lon": 132.39529
+    },
+    {
+      "id": "st00131-005",
+      "category": "post_office",
+      "name": {
+        "ja": "広島井口明神郵便局",
+        "en": "Hiroshima Inokuchi-Myojin Post Office",
+        "zh": "广岛井口明神邮政局"
+      },
+      "desc": {
+        "ja": "駅から約358mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 358 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约358米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 358,
+      "walk_min": 5,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1423635104",
+      "tel": "+81-82-276-3699",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.3691742,
+      "lon": 132.3838039
+    },
+    {
+      "id": "st00131-006",
+      "category": "bank_atm",
+      "name": {
+        "ja": "もみじ銀行",
+        "en": "MOMIJI BANK",
+        "zh": "Momiji銀行"
+      },
+      "desc": {
+        "ja": "もみじ銀行の支店。駅から約687mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 687 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约687米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 687,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/11942583253",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.3730791,
+      "lon": 132.3933367
+    },
+    {
+      "id": "st00131-007",
+      "category": "shopping",
+      "name": {
+        "ja": "フレスタ",
+        "en": "Fresta",
+        "zh": "Furesuta"
+      },
+      "desc": {
+        "ja": "駅から約659mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 659 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约659米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 659,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/11942583254",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.3720884,
+      "lon": 132.3931825
+    },
+    {
+      "id": "st00131-008",
+      "category": "food",
+      "name": {
+        "ja": "サイゼリヤ",
+        "en": "Saizeriya",
+        "zh": "萨莉亚"
+      },
+      "desc": {
+        "ja": "駅から約753mにある飲食店。italian料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は11:00-22:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 753 m from the station. Serves italian cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约753米的餐馆主营italian，适合旅途中用餐，11:00-22:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 753,
+      "walk_min": 10,
+      "hours": "11:00-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6154596944",
+      "tel": "+81 82 501 3920",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.3738467,
+      "lon": 132.3938461,
+      "official_url_pending": "https://www.saizeriya.co.jp/restaurant/shop_detail.php?cd=1008"
+    },
+    {
+      "id": "st00131-009",
+      "category": "cafe",
+      "name": {
+        "ja": "ジーベン",
+        "en": "ji-ben",
+        "zh": "Ji-ben"
+      },
+      "desc": {
+        "ja": "駅から約864mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。",
+        "en": "Cafe about 864 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约864米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 864,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/13798618113",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.375269,
+      "lon": 132.3944574,
+      "official_url_pending": "https://www.sieben.co.jp/shop/kusatsu/index.html"
+    },
+    {
+      "id": "st00131-010",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "セブン-イレブンのコンビニエンスストア。駅から約779mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 779 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约779米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 779,
+      "walk_min": 10,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/13900190163",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.3764542,
+      "lon": 132.3796369
+    },
+    {
+      "id": "st00131-011",
+      "category": "food",
+      "name": {
+        "ja": "モスバーガー",
+        "en": "MOS Burger",
+        "zh": "摩斯汉堡"
+      },
+      "desc": {
+        "ja": "駅から約864mにある飲食店。burger料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Su 10:00-22:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 864 m from the station. Serves burger cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约864米的餐馆主营burger，适合旅途中用餐，Mo-Su 10:00-22:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 864,
+      "walk_min": 11,
+      "hours": "Mo-Su 10:00-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1965386380",
+      "tel": "+81-82-5011026",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.3739472,
+      "lon": 132.3950705,
+      "official_url_pending": "https://www.mos.co.jp/"
+    },
+    {
+      "id": "st00131-012",
+      "category": "police",
+      "name": {
+        "ja": "広島西警察署井口交番",
+        "en": "广岛西井口交番 Police Station",
+        "zh": "广岛西警察署井口交番"
+      },
+      "desc": {
+        "ja": "駅から約585mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 585 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约585米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 585,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1423637729",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.372944,
+      "lon": 132.3797798
+    },
+    {
+      "id": "st00131-013",
+      "category": "medical",
+      "name": {
+        "ja": "ふじたクリニック",
+        "en": "fujitakuriniku",
+        "zh": "Fujitakuriniku"
+      },
+      "desc": {
+        "ja": "駅から約1096mにあるクリニック。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Clinic about 1096 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1096米的诊所，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1096,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/11392097851",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.376982,
+      "lon": 132.3961899
+    },
+    {
+      "id": "st00131-014",
+      "category": "convenience",
+      "name": {
+        "ja": "ローソン",
+        "en": "Lawson",
+        "zh": "罗森"
+      },
+      "desc": {
+        "ja": "ローソンのコンビニエンスストア。駅から約670mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 670 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约670米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 670,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/167863097",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.3734024,
+      "lon": 132.3930544
+    },
+    {
+      "id": "st00131-015",
+      "category": "sight",
+      "name": {
+        "ja": "泉美術館",
+        "en": "Izumi Museum of Art",
+        "zh": "泉美术馆"
+      },
+      "desc": {
+        "ja": "駅から約1254mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1254 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1254米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1254,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/95048388",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.3735439,
+      "lon": 132.3995159,
+      "official_url_pending": "https://izumi-museum.jp/"
+    },
+    {
+      "id": "st00131-016",
+      "category": "medical",
+      "name": {
+        "ja": "ミント薬局",
+        "en": "minto薬局",
+        "zh": "ミント薬局"
+      },
+      "desc": {
+        "ja": "駅から約1101mにある薬局。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 1101 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1101米的药房，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1101,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/11392097849",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.3770401,
+      "lon": 132.3962101
+    },
+    {
+      "id": "st00131-017",
+      "category": "shopping",
+      "name": {
+        "ja": "ママチェーン新鮮市場",
+        "en": "mamachie-n新鮮市場",
+        "zh": "ママチェーン新鮮市场"
+      },
+      "desc": {
+        "ja": "駅から約1789mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 1789 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1789米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1789,
+      "walk_min": 23,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6685936561",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.3687711,
+      "lon": 132.3668788,
+      "official_url_pending": "http://www.mamachain.com/"
+    },
+    {
+      "id": "st00131-018",
+      "category": "sight",
+      "name": {
+        "ja": "Wood Egg お好み焼館 建設記念銘板",
+        "en": "Wood Egg o好mi焼館 建設記念銘板",
+        "zh": "Wood Egg O好mi焼館 建設記念銘板"
+      },
+      "desc": {
+        "ja": "駅から約565mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Memorial about 565 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约565米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 565,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/14077575169",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.366766,
+      "lon": 132.3854902
+    },
+    {
+      "id": "st00131-019",
+      "category": "shopping",
+      "name": {
+        "ja": "LECT",
+        "en": "LECT",
+        "zh": "LECT"
+      },
+      "desc": {
+        "ja": "駅から約1902mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 1902 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1902米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准。"
+      },
+      "distance_m": 1902,
+      "walk_min": 24,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4825567571",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 34.3730102,
+      "lon": 132.4066817,
+      "official_url_pending": "https://lect.izumi.jp/"
+    }
+  ],
+  "coverage": {
+    "poi_count": 19,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 197,
+    "floor_check": {
+      "medical": {
+        "candidates": 21,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 12,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 16,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 8,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 4,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
