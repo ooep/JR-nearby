@@ -1,0 +1,537 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st00106",
+    "name": {
+      "ja": "播磨",
+      "en": "Harima",
+      "zh": "播磨"
+    },
+    "line_group": [
+      "養老線"
+    ],
+    "pref": "三重県",
+    "lat": 35.07801,
+    "lon": 136.67491
+  },
+  "generated_at": "2026-11-12T01:54:31Z",
+  "pois": [
+    {
+      "id": "st00106-001",
+      "category": "food",
+      "name": {
+        "ja": "Aresella",
+        "en": "Aresella",
+        "zh": "Aresella"
+      },
+      "desc": {
+        "ja": "駅から約700mにある飲食店。italian料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 700 m from the station. Serves italian cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约700米的餐馆主营italian，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 700,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1540892937",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.0718918,
+      "lon": 136.6767237
+    },
+    {
+      "id": "st00106-002",
+      "category": "post_office",
+      "name": {
+        "ja": "桑名播磨郵便局",
+        "en": "Kuwana Harima Post Office",
+        "zh": "桑名播磨邮政局"
+      },
+      "desc": {
+        "ja": "駅から約143mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 143 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约143米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 143,
+      "walk_min": 2,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1420990249",
+      "tel": "+81-594-22-4237",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.077372,
+      "lon": 136.673545
+    },
+    {
+      "id": "st00106-003",
+      "category": "park",
+      "name": {
+        "ja": "青葉の丘あおい公園",
+        "en": "青葉no丘aoi公園",
+        "zh": "青葉no丘aoi公園"
+      },
+      "desc": {
+        "ja": "駅から約1110mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1110 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1110米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1110,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/729707261",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.068801,
+      "lon": 136.6701984
+    },
+    {
+      "id": "st00106-004",
+      "category": "food",
+      "name": {
+        "ja": "サイゼリヤ",
+        "en": "Saizeriya",
+        "zh": "萨莉亚"
+      },
+      "desc": {
+        "ja": "駅から約530mにある飲食店。italian料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は11:00-02:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 530 m from the station. Serves italian cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约530米的餐馆主营italian，适合旅途中用餐，11:00-02:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 530,
+      "walk_min": 7,
+      "hours": "11:00-02:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/6174557572",
+      "tel": "0594-27-1652",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.0759285,
+      "lon": 136.6801491,
+      "official_url_pending": "https://www.saizeriya.co.jp/restaurant/shop_detail.php?cd=608"
+    },
+    {
+      "id": "st00106-005",
+      "category": "sight",
+      "name": {
+        "ja": "Oosuka-sensei",
+        "en": "Oosuka-sensei",
+        "zh": "Oosuka-sensei"
+      },
+      "desc": {
+        "ja": "駅から約651mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Monument about 651 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约651米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 651,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1560473389",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.0726275,
+      "lon": 136.6777217
+    },
+    {
+      "id": "st00106-006",
+      "category": "medical",
+      "name": {
+        "ja": "桑名西医療センター",
+        "en": "桑名西医療senta-",
+        "zh": "桑名西医療センター"
+      },
+      "desc": {
+        "ja": "駅から約711mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 711 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约711米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 711,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/51870847",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.0717073,
+      "lon": 136.6735657,
+      "official_url_pending": "https://www.kuwanacmc.or.jp/"
+    },
+    {
+      "id": "st00106-007",
+      "category": "shopping",
+      "name": {
+        "ja": "イオン",
+        "en": "AEON",
+        "zh": "永旺"
+      },
+      "desc": {
+        "ja": "駅から約1245mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 1245 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1245米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1245,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6174674179",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.0726753,
+      "lon": 136.6628838
+    },
+    {
+      "id": "st00106-008",
+      "category": "cafe",
+      "name": {
+        "ja": "レストアンドカフェ マノン",
+        "en": "resutoandokafue manon",
+        "zh": "Resutoandokafue Manon"
+      },
+      "desc": {
+        "ja": "駅から約1280mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。",
+        "en": "Cafe about 1280 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约1280米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 1280,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5839281930",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.0673441,
+      "lon": 136.6802071
+    },
+    {
+      "id": "st00106-009",
+      "category": "post_office",
+      "name": {
+        "ja": "桑名桑陽台郵便局",
+        "en": "Kuwana Soyodai Post Office",
+        "zh": "桑名桑陽台邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1471mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1471 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1471米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 1471,
+      "walk_min": 19,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1420990257",
+      "tel": "+81-594-22-4236",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.064787,
+      "lon": 136.674476
+    },
+    {
+      "id": "st00106-010",
+      "category": "convenience",
+      "name": {
+        "ja": "ファミリーマート",
+        "en": "FamilyMart",
+        "zh": "全家便利店"
+      },
+      "desc": {
+        "ja": "ファミリーマートのコンビニエンスストア。駅から約1544mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 1544 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约1544米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 1544,
+      "walk_min": 20,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/2008263581",
+      "tel": "+81 594 23 3022",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.068769,
+      "lon": 136.6875673
+    },
+    {
+      "id": "st00106-011",
+      "category": "police",
+      "name": {
+        "ja": "桑名警察署桑名駅前交番",
+        "en": "桑名桑名站前交番 Police Station",
+        "zh": "桑名警察署桑名站前交番"
+      },
+      "desc": {
+        "ja": "駅から約1565mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1565 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1565米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1565,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420990321",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.066364,
+      "lon": 136.684564
+    },
+    {
+      "id": "st00106-012",
+      "category": "medical",
+      "name": {
+        "ja": "桑名東医療センター",
+        "en": "桑名東医療senta-",
+        "zh": "桑名东医療センター"
+      },
+      "desc": {
+        "ja": "駅から約1747mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 1747 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1747米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1747,
+      "walk_min": 22,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420982192",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.065929,
+      "lon": 136.687183,
+      "official_url_pending": "https://www.kuwanacmc.or.jp/"
+    },
+    {
+      "id": "st00106-013",
+      "category": "bank_atm",
+      "name": {
+        "ja": "第三銀行",
+        "en": "第三 Bank",
+        "zh": "第三银行"
+      },
+      "desc": {
+        "ja": "第三銀行の支店。駅から約1868mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 1868 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约1868米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 1868,
+      "walk_min": 24,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5562191035",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.0666213,
+      "lon": 136.6900056
+    },
+    {
+      "id": "st00106-014",
+      "category": "shopping",
+      "name": {
+        "ja": "アピタ桑名店",
+        "en": "APITA shopping mall",
+        "zh": "アピタ桑名店"
+      },
+      "desc": {
+        "ja": "駅から約1936mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 1936 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1936米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准。"
+      },
+      "distance_m": 1936,
+      "walk_min": 25,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/210958432",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.0641616,
+      "lon": 136.6877964
+    },
+    {
+      "id": "st00106-015",
+      "category": "park",
+      "name": {
+        "ja": "こはぢけ公園",
+        "en": "kohajike公園",
+        "zh": "Kohajike公園"
+      },
+      "desc": {
+        "ja": "駅から約1411mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1411 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1411米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1411,
+      "walk_min": 18,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/544262984",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.073883,
+      "lon": 136.6602508
+    },
+    {
+      "id": "st00106-016",
+      "category": "public_service",
+      "name": {
+        "ja": "桑名市役所 (Kuwana City Hall)",
+        "en": "Kuwana City",
+        "zh": "桑名市役所 (Kuwana City Hall)"
+      },
+      "desc": {
+        "ja": "駅から約1941mにある役所・行政施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Civic office about 1941 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1941米的行政机构，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1941,
+      "walk_min": 25,
+      "hours": "Mo-Fr 08:30-17:15; PH off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/1420990147",
+      "tel": "+81-594-241492",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.062152,
+      "lon": 136.683822,
+      "official_url_pending": "https://www.city.kuwana.lg.jp/"
+    },
+    {
+      "id": "st00106-017",
+      "category": "public_service",
+      "name": {
+        "ja": "桑名市立中央図書館",
+        "en": "Kuwana City Library",
+        "zh": "桑名市立中央图书馆"
+      },
+      "desc": {
+        "ja": "駅から約1990mにある図書館。手続きや調べ物、休憩に利用できる公共の施設。詳細は現地の案内を参照。",
+        "en": "Library about 1990 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1990米的图书馆，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1990,
+      "walk_min": 25,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1420990228",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 35.063138,
+      "lon": 136.687081
+    }
+  ],
+  "coverage": {
+    "poi_count": 17,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 101,
+    "floor_check": {
+      "medical": {
+        "candidates": 7,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 1,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 8,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 4,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 1,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
