@@ -1,0 +1,508 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st00220",
+    "name": {
+      "ja": "新発田",
+      "en": "Shibata",
+      "zh": "新发田"
+    },
+    "line_group": [
+      "信越本線",
+      "白新線",
+      "羽越本線",
+      "越後線"
+    ],
+    "pref": "新潟県",
+    "lat": 37.94393,
+    "lon": 139.33499
+  },
+  "generated_at": "2026-11-13T08:26:14Z",
+  "pois": [
+    {
+      "id": "st00220-001",
+      "category": "convenience",
+      "name": {
+        "ja": "デイリーヤマザキ",
+        "en": "Daily YAMAZAKI",
+        "zh": "Daily Yamazaki便利店"
+      },
+      "desc": {
+        "ja": "デイリーヤマザキのコンビニエンスストア。駅から約10mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 10 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约10米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 10,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/925985286",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.9438908,
+      "lon": 139.334887
+    },
+    {
+      "id": "st00220-002",
+      "category": "food",
+      "name": {
+        "ja": "横丁 へい",
+        "en": "横丁 hei",
+        "zh": "横丁 Hei"
+      },
+      "desc": {
+        "ja": "駅から約144mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 144 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约144米的餐馆适合旅途中用餐，菜单与价格以店内展示内容为准，具体信息以现场为准。"
+      },
+      "distance_m": 144,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6124747155",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.9438897,
+      "lon": 139.333346
+    },
+    {
+      "id": "st00220-003",
+      "category": "food",
+      "name": {
+        "ja": "ちょこざいや",
+        "en": "chiyokozaiya",
+        "zh": "Chiyokozaiya"
+      },
+      "desc": {
+        "ja": "駅から約170mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 170 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约170米的餐馆适合旅途中用餐，菜单与价格以店内展示内容为准，具体信息以现场为准。"
+      },
+      "distance_m": 170,
+      "walk_min": 3,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6124431524",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.9450912,
+      "lon": 139.3337296
+    },
+    {
+      "id": "st00220-004",
+      "category": "food",
+      "name": {
+        "ja": "えびす",
+        "en": "ebisu",
+        "zh": "Ebisu"
+      },
+      "desc": {
+        "ja": "駅から約392mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 392 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约392米的餐馆适合旅途中用餐，菜单与价格以店内展示内容为准，具体信息以现场为准。"
+      },
+      "distance_m": 392,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6124431594",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.9455512,
+      "lon": 139.3310232
+    },
+    {
+      "id": "st00220-005",
+      "category": "police",
+      "name": {
+        "ja": "下町交番",
+        "en": "下町 Police Box",
+        "zh": "下町交番"
+      },
+      "desc": {
+        "ja": "駅から約1390mにある交番。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1390 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1390米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1390,
+      "walk_min": 18,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6126455203",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.9502129,
+      "lon": 139.3212908
+    },
+    {
+      "id": "st00220-006",
+      "category": "medical",
+      "name": {
+        "ja": "ツインスマイル",
+        "en": "tsuinsumairu",
+        "zh": "Tsuinsumairu"
+      },
+      "desc": {
+        "ja": "駅から約144mにあるクリニック。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Clinic about 144 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约144米的诊所，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 144,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6124431518",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.9445804,
+      "lon": 139.33357
+    },
+    {
+      "id": "st00220-007",
+      "category": "convenience",
+      "name": {
+        "ja": "Family Mart",
+        "en": "Family Mart",
+        "zh": "Family Mart"
+      },
+      "desc": {
+        "ja": "Family Martのコンビニエンスストア。駅から約134mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 134 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约134米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 134,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6124431521",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.9444344,
+      "lon": 139.3336062
+    },
+    {
+      "id": "st00220-008",
+      "category": "public_service",
+      "name": {
+        "ja": "生涯学習センター",
+        "en": "生涯学習senta-",
+        "zh": "生涯学習センター"
+      },
+      "desc": {
+        "ja": "駅から約1126mにある図書館。手続きや調べ物、休憩に利用できる公共の施設。詳細は現地の案内を参照。",
+        "en": "Library about 1126 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1126米的图书馆，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1126,
+      "walk_min": 15,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/656112941",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.9533277,
+      "lon": 139.3302213
+    },
+    {
+      "id": "st00220-009",
+      "category": "post_office",
+      "name": {
+        "ja": "新発田豊町簡易郵便局",
+        "en": "Shibata Yutakacho Summary Post Office",
+        "zh": "新发田豊町簡易邮政局"
+      },
+      "desc": {
+        "ja": "駅から約236mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 236 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约236米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 236,
+      "walk_min": 3,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/13012987685",
+      "tel": "+81-254-22-6558",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.9445368,
+      "lon": 139.3375739
+    },
+    {
+      "id": "st00220-010",
+      "category": "medical",
+      "name": {
+        "ja": "県立リウマチセンター",
+        "en": "県立riumachisenta-",
+        "zh": "县立リウマチセンター"
+      },
+      "desc": {
+        "ja": "駅から約267mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 267 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约267米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 267,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/3815173764",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.9461416,
+      "lon": 139.3338029
+    },
+    {
+      "id": "st00220-011",
+      "category": "sight",
+      "name": {
+        "ja": "D51-512",
+        "en": "D51-512",
+        "zh": "D51-512"
+      },
+      "desc": {
+        "ja": "駅から約268mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Memorial about 268 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约268米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 268,
+      "walk_min": 4,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/943120559",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.9435921,
+      "lon": 139.3319633
+    },
+    {
+      "id": "st00220-012",
+      "category": "bank_atm",
+      "name": {
+        "ja": "第四北越銀行新発田支店",
+        "en": "第四北越新发田支店 Bank",
+        "zh": "第四北越银行新发田支店"
+      },
+      "desc": {
+        "ja": "第四北越銀行新発田支店の支店。駅から約749mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 749 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约749米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 749,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6407160144",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.9476706,
+      "lon": 139.327881
+    },
+    {
+      "id": "st00220-013",
+      "category": "police",
+      "name": {
+        "ja": "新発田警察署",
+        "en": "新发田 Police Station",
+        "zh": "新发田警察署"
+      },
+      "desc": {
+        "ja": "駅から約802mにある警察署。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 802 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约802米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 802,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/343555231",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.9490436,
+      "lon": 139.3285369
+    },
+    {
+      "id": "st00220-014",
+      "category": "post_office",
+      "name": {
+        "ja": "新発田郵便局",
+        "en": "Shibata Post Office",
+        "zh": "新发田邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1180mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1180 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1180米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 1180,
+      "walk_min": 15,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/13012987686",
+      "tel": "+81-800-0800-111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.9519011,
+      "lon": 139.3261026
+    },
+    {
+      "id": "st00220-015",
+      "category": "sight",
+      "name": {
+        "ja": "新発田城",
+        "en": "Shibata Castle",
+        "zh": "新发田城"
+      },
+      "desc": {
+        "ja": "駅から約1465mにある城郭。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Castle about 1465 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1465米的城堡，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 1465,
+      "walk_min": 19,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1948762674",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.9548019,
+      "lon": 139.3255546
+    },
+    {
+      "id": "st00220-016",
+      "category": "sight",
+      "name": {
+        "ja": "札の辻跡",
+        "en": "札no辻跡",
+        "zh": "札no辻跡"
+      },
+      "desc": {
+        "ja": "駅から約787mにある記念碑。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Memorial about 787 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约787米的纪念碑，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 787,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/6124747513",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.9477267,
+      "lon": 139.327413
+    }
+  ],
+  "coverage": {
+    "poi_count": 16,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 287,
+    "floor_check": {
+      "medical": {
+        "candidates": 21,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 8,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 6,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 7,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 3,
+        "selected": 2
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
