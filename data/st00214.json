@@ -1,0 +1,482 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st00214",
+    "name": {
+      "ja": "新崎",
+      "en": "Niizaki",
+      "zh": "新崎"
+    },
+    "line_group": [
+      "信越本線",
+      "白新線",
+      "越後線"
+    ],
+    "pref": "新潟県",
+    "lat": 37.92248,
+    "lon": 139.15841
+  },
+  "generated_at": "2026-11-13T07:02:30Z",
+  "pois": [
+    {
+      "id": "st00214-001",
+      "category": "post_office",
+      "name": {
+        "ja": "新崎駅前郵便局",
+        "en": "Niizaki Ekimae Post Office",
+        "zh": "新崎站前邮政局"
+      },
+      "desc": {
+        "ja": "駅から約113mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 113 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约113米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 113,
+      "walk_min": 2,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/13008461702",
+      "tel": "+81-25-259-2951",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.9234885,
+      "lon": 139.1582593
+    },
+    {
+      "id": "st00214-002",
+      "category": "park",
+      "name": {
+        "ja": "阿賀野川ふれあい公園",
+        "en": "阿賀野川fureai公園",
+        "zh": "阿賀野川fureai公園"
+      },
+      "desc": {
+        "ja": "駅から約1181mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1181 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1181米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1181,
+      "walk_min": 15,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/941165544",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.9302938,
+      "lon": 139.1492984
+    },
+    {
+      "id": "st00214-003",
+      "category": "convenience",
+      "name": {
+        "ja": "ファミリーマート",
+        "en": "FamilyMart",
+        "zh": "全家便利店"
+      },
+      "desc": {
+        "ja": "ファミリーマートのコンビニエンスストア。駅から約1238mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 1238 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约1238米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 1238,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/1197169091",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.933137,
+      "lon": 139.162485
+    },
+    {
+      "id": "st00214-004",
+      "category": "food",
+      "name": {
+        "ja": "ラーメン&ランチ クマの店",
+        "en": "ra-men&ranchi kumano店",
+        "zh": "Ra-men&ranchi Kumano店"
+      },
+      "desc": {
+        "ja": "駅から約1750mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1750 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约1750米的餐馆适合旅途中用餐，菜单与价格以店内展示内容为准，具体信息以现场为准。"
+      },
+      "distance_m": 1750,
+      "walk_min": 22,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/467569825",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.9200481,
+      "lon": 139.1781244
+    },
+    {
+      "id": "st00214-005",
+      "category": "bank_atm",
+      "name": {
+        "ja": "第四北越銀行",
+        "en": "第四北越 Bank",
+        "zh": "第四北越银行"
+      },
+      "desc": {
+        "ja": "第四北越銀行の支店。駅から約557mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 557 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约557米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 557,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/744150158",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.9273527,
+      "lon": 139.159866
+    },
+    {
+      "id": "st00214-006",
+      "category": "convenience",
+      "name": {
+        "ja": "ローソン",
+        "en": "LAWSON",
+        "zh": "罗森"
+      },
+      "desc": {
+        "ja": "ローソンのコンビニエンスストア。駅から約578mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 578 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约578米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 578,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4469715988",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.9241548,
+      "lon": 139.1521695
+    },
+    {
+      "id": "st00214-007",
+      "category": "food",
+      "name": {
+        "ja": "ラ　トラットリア　エストルト",
+        "en": "ra　toratoria　esutoruto",
+        "zh": "Ra Toratoria Esutoruto"
+      },
+      "desc": {
+        "ja": "駅から約594mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 594 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约594米的餐馆适合旅途中用餐，菜单与价格以店内展示内容为准，具体信息以现场为准。"
+      },
+      "distance_m": 594,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/12586882251",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.9252808,
+      "lon": 139.1641831
+    },
+    {
+      "id": "st00214-008",
+      "category": "sight",
+      "name": {
+        "ja": "新潟せんべい王国",
+        "en": "Niigata Rice Cracker Museum",
+        "zh": "新潟senbei王国"
+      },
+      "desc": {
+        "ja": "駅から約885mにあるテーマパーク。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Theme park about 885 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约885米的主题乐园，是该区域的代表性看点，适合安排进散步路线慢慢参观，具体信息以现场为准。"
+      },
+      "distance_m": 885,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/387175789",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.9292553,
+      "lon": 139.1637121,
+      "official_url_pending": "http://senbei-oukoku.jp/"
+    },
+    {
+      "id": "st00214-009",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "ばかうけ稲荷",
+        "en": "Bakauke Inari Shrine",
+        "zh": "Bakauke稲荷"
+      },
+      "desc": {
+        "ja": "駅から約944mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 944 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约944米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 944,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/655638219",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.9297472,
+      "lon": 139.1639799
+    },
+    {
+      "id": "st00214-010",
+      "category": "post_office",
+      "name": {
+        "ja": "三ツ森簡易郵便局",
+        "en": "Mitsumori Summary Post Office",
+        "zh": "三ツ森簡易邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1542mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1542 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1542米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 1542,
+      "walk_min": 20,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/13008461703",
+      "tel": "+81-25-386-2977",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.9093765,
+      "lon": 139.1641742
+    },
+    {
+      "id": "st00214-011",
+      "category": "public_service",
+      "name": {
+        "ja": "いするぎ荘",
+        "en": "isurugi荘",
+        "zh": "Isurugi荘"
+      },
+      "desc": {
+        "ja": "駅から約1597mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 1597 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1597米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1597,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/464651461",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.9205157,
+      "lon": 139.1764486
+    },
+    {
+      "id": "st00214-012",
+      "category": "cafe",
+      "name": {
+        "ja": "open space 真璃",
+        "en": "open space 真璃",
+        "zh": "open space 真璃"
+      },
+      "desc": {
+        "ja": "駅から約1600mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。",
+        "en": "Cafe about 1600 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约1600米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 1600,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/469640548",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.9172037,
+      "lon": 139.1753791
+    },
+    {
+      "id": "st00214-013",
+      "category": "medical",
+      "name": {
+        "ja": "新潟リハビリテーション病院",
+        "en": "新潟rihabirite-shiyon病院",
+        "zh": "新潟リハビリテーション病院"
+      },
+      "desc": {
+        "ja": "駅から約1687mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 1687 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1687米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1687,
+      "walk_min": 22,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/467680892",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.9314812,
+      "lon": 139.1738954,
+      "official_url_pending": "https://www.niigata-reha.jp/"
+    },
+    {
+      "id": "st00214-014",
+      "category": "food",
+      "name": {
+        "ja": "寿し処 つた甚",
+        "en": "寿shi処 tsuta甚",
+        "zh": "寿shi処 Tsuta甚"
+      },
+      "desc": {
+        "ja": "駅から約1746mにある飲食店。sushi料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1746 m from the station. Serves sushi cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1746米的餐馆主营sushi，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1746,
+      "walk_min": 22,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4639803896",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.9202695,
+      "lon": 139.1781135
+    },
+    {
+      "id": "st00214-015",
+      "category": "bank_atm",
+      "name": {
+        "ja": "第四北越銀行 早通支店",
+        "en": "第四北越 早通支店 Bank",
+        "zh": "第四北越银行 早通支店"
+      },
+      "desc": {
+        "ja": "第四北越銀行 早通支店の支店。駅から約1746mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 1746 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约1746米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 1746,
+      "walk_min": 22,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/464651474",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.9221009,
+      "lon": 139.1783066
+    }
+  ],
+  "coverage": {
+    "poi_count": 15,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到警察设施候选",
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 55,
+    "floor_check": {
+      "medical": {
+        "candidates": 2,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 2,
+        "selected": 2
+      },
+      "convenience": {
+        "candidates": 4,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 4,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 0,
+        "selected": 0
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
