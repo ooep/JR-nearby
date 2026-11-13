@@ -1,0 +1,629 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st00205",
+    "name": {
+      "ja": "余目",
+      "en": "Amarume",
+      "zh": "余目"
+    },
+    "line_group": [
+      "白新線",
+      "羽越本線",
+      "陸羽西線"
+    ],
+    "pref": "山形県",
+    "lat": 38.84424,
+    "lon": 139.91157
+  },
+  "generated_at": "2026-11-13T05:40:45Z",
+  "pois": [
+    {
+      "id": "st00205-001",
+      "category": "cafe",
+      "name": {
+        "ja": "余目製パン",
+        "en": "余目製pan",
+        "zh": "余目製パン"
+      },
+      "desc": {
+        "ja": "駅から約94mにあるカフェ。コーヒーや軽食を楽しめ、散策の合間の休憩に向いている。",
+        "en": "Cafe about 94 m from the station for coffee and light meals between sightseeing.",
+        "zh": "距站约94米的咖啡馆，供应咖啡与简餐，适合歇脚小憩，也可以在此稍作休整，具体信息以现场为准。"
+      },
+      "distance_m": 94,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/10757755377",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.8445671,
+      "lon": 139.9105646
+    },
+    {
+      "id": "st00205-002",
+      "category": "food",
+      "name": {
+        "ja": "かなめ食堂",
+        "en": "kaname食堂",
+        "zh": "Kaname食堂"
+      },
+      "desc": {
+        "ja": "駅から約153mにある飲食店。ramen料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業は11:00 - 20:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 153 m from the station. Serves ramen cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约153米的餐馆主营ramen，适合旅途中用餐，11:00 - 20:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 153,
+      "walk_min": 2,
+      "hours": "11:00 - 20:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/405798346",
+      "tel": "+81 234 42 3068",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.8436069,
+      "lon": 139.9100004
+    },
+    {
+      "id": "st00205-003",
+      "category": "food",
+      "name": {
+        "ja": "和牛料理はんだ",
+        "en": "和牛料理handa",
+        "zh": "和牛料理handa"
+      },
+      "desc": {
+        "ja": "駅から約963mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。営業は11:30-14:00,17:30-21:00; Tu off（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 963 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约963米的餐馆适合旅途中用餐，11:30-14:00, 17:30-21:00, Tu off（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 963,
+      "walk_min": 13,
+      "hours": "11:30-14:00,17:30-21:00; Tu off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/1064307750",
+      "tel": "0234-42-0883",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.84559,
+      "lon": 139.9005813
+    },
+    {
+      "id": "st00205-004",
+      "category": "post_office",
+      "name": {
+        "ja": "余目茶屋町郵便局",
+        "en": "Amarume Chayamachi Post Office",
+        "zh": "余目茶屋町邮政局"
+      },
+      "desc": {
+        "ja": "駅から約342mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 342 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约342米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 342,
+      "walk_min": 5,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5123946753",
+      "tel": "+81-234-43-2102",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.8460016,
+      "lon": 139.9083285
+    },
+    {
+      "id": "st00205-005",
+      "category": "bank_atm",
+      "name": {
+        "ja": "きらやか銀行 余目支店",
+        "en": "kirayaka銀行 余目支店",
+        "zh": "Kirayaka銀行 余目支店"
+      },
+      "desc": {
+        "ja": "きらやか銀行 余目支店の支店。駅から約404mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 404 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约404米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 404,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5123945607",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.8466087,
+      "lon": 139.9080362
+    },
+    {
+      "id": "st00205-006",
+      "category": "food",
+      "name": {
+        "ja": "フレッシュジュース＆インナービューティーBAR",
+        "en": "fureshiyujiyu-su＆inna-biyu-tei-BAR",
+        "zh": "フレッシュジュース＆インナービューティーBAR"
+      },
+      "desc": {
+        "ja": "駅から約111mにある飲食店。juice料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 111 m from the station. Serves juice cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约111米的餐馆主营juice，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 111,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/10757755379",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.8441243,
+      "lon": 139.9102934
+    },
+    {
+      "id": "st00205-007",
+      "category": "convenience",
+      "name": {
+        "ja": "ローソン",
+        "en": "Lawson",
+        "zh": "罗森"
+      },
+      "desc": {
+        "ja": "ローソンのコンビニエンスストア。駅から約623mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 623 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约623米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 623,
+      "walk_min": 8,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/405993111",
+      "tel": "+81 234 42 3963",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.8444503,
+      "lon": 139.9043762,
+      "official_url_pending": "http://store.lawson.co.jp/store/157233/"
+    },
+    {
+      "id": "st00205-008",
+      "category": "post_office",
+      "name": {
+        "ja": "余目郵便局",
+        "en": "Amarume Post Office",
+        "zh": "余目邮政局"
+      },
+      "desc": {
+        "ja": "駅から約638mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 638 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约638米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 638,
+      "walk_min": 8,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5123946060",
+      "tel": "+81-234-43-2101",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.8455532,
+      "lon": 139.9043947,
+      "official_url_pending": "https://map.japanpost.jp/p/search/dtl/300185036000/"
+    },
+    {
+      "id": "st00205-009",
+      "category": "shopping",
+      "name": {
+        "ja": "庄内町新産業創造館クラッセ",
+        "en": "庄内町新産業創造館kurase",
+        "zh": "庄内町新産業創造馆クラッセ"
+      },
+      "desc": {
+        "ja": "駅から約100mにある商業施設。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Shopping mall about 100 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约100米的商业设施，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 100,
+      "walk_min": 2,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/405635629",
+      "tel": "+81 234 43 6486",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.8443395,
+      "lon": 139.9104234
+    },
+    {
+      "id": "st00205-010",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン庄内余目月屋敷店",
+        "en": "sebun-irebun庄内余目月屋敷店",
+        "zh": "セブン-イレブン庄内余目月屋敷店"
+      },
+      "desc": {
+        "ja": "セブン-イレブン庄内余目月屋敷店のコンビニエンスストア。駅から約772mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 772 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约772米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 772,
+      "walk_min": 10,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/993586398",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.8510944,
+      "lon": 139.910145
+    },
+    {
+      "id": "st00205-011",
+      "category": "sight",
+      "name": {
+        "ja": "内藤秀因水彩画記念館",
+        "en": "Naito Shuin Memorial Museum of Watercolors",
+        "zh": "内藤秀因水彩影纪念馆"
+      },
+      "desc": {
+        "ja": "駅から約793mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 793 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约793米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 793,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4079646818",
+      "tel": "+81 234 43 3039",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.8487163,
+      "lon": 139.9044402,
+      "official_url_pending": "http://www.town.shonai.lg.jp/naito/index.html"
+    },
+    {
+      "id": "st00205-012",
+      "category": "public_service",
+      "name": {
+        "ja": "庄内町立図書館",
+        "en": "Shonai Town Library",
+        "zh": "庄内町立图书馆"
+      },
+      "desc": {
+        "ja": "駅から約808mにある図書館。手続きや調べ物、休憩に利用できる公共の施設。詳細は現地の案内を参照。",
+        "en": "Library about 808 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约808米的图书馆，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 808,
+      "walk_min": 11,
+      "hours": "Nov-Mar 09:00-18:00; Apr-Oct 09:00-19:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/405811170",
+      "tel": "+81 234 43 3039",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.8488165,
+      "lon": 139.904321,
+      "official_url_pending": "http://www.town.shonai.lg.jp/library/index.html"
+    },
+    {
+      "id": "st00205-013",
+      "category": "public_service",
+      "name": {
+        "ja": "庄内町役場",
+        "en": "Shonai Town Office",
+        "zh": "庄内町役场"
+      },
+      "desc": {
+        "ja": "駅から約877mにある役所・行政施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Civic office about 877 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约877米的行政机构，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 877,
+      "walk_min": 11,
+      "hours": "08:30-17:15 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/405804907",
+      "tel": "+81 234 43 2211",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.8499104,
+      "lon": 139.9045372,
+      "official_url_pending": "http://www.town.shonai.lg.jp"
+    },
+    {
+      "id": "st00205-014",
+      "category": "police",
+      "name": {
+        "ja": "庄内警察署",
+        "en": "Shonai Police Station",
+        "zh": "庄内警察署"
+      },
+      "desc": {
+        "ja": "駅から約1057mにある警察署。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 1057 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约1057米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往。"
+      },
+      "distance_m": 1057,
+      "walk_min": 14,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/405798400",
+      "tel": "+81 234 45 0110",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.8458941,
+      "lon": 139.8995535,
+      "official_url_pending": "http://www.pref.yamagata.jp/ou/keisatsu/807003/"
+    },
+    {
+      "id": "st00205-015",
+      "category": "shopping",
+      "name": {
+        "ja": "余目ショッピングモールアピア",
+        "en": "Amarume Shopping Mall - Apia",
+        "zh": "余目ショッピングモールアピア"
+      },
+      "desc": {
+        "ja": "駅から約673mにある百貨店。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Department store about 673 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约673米的百货店，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 673,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/405798355",
+      "tel": "+81 234 42 3072",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.8415203,
+      "lon": 139.9046269
+    },
+    {
+      "id": "st00205-016",
+      "category": "shopping",
+      "name": {
+        "ja": "ヤマザワ 余目店",
+        "en": "Yamazawa",
+        "zh": "ヤマザワ 余目店"
+      },
+      "desc": {
+        "ja": "駅から約1196mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 1196 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1196米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1196,
+      "walk_min": 15,
+      "hours": "Mo-Sa 09:30-21:00; Su 09:00-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/405798356",
+      "tel": "+81 234 42 2211",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.8457288,
+      "lon": 139.8978934,
+      "official_url_pending": "https://yamazawa.co.jp/store/567"
+    },
+    {
+      "id": "st00205-017",
+      "category": "park",
+      "name": {
+        "ja": "八幡公園",
+        "en": "Hachiman Park",
+        "zh": "八幡公园"
+      },
+      "desc": {
+        "ja": "駅から約1203mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1203 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1203米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1203,
+      "walk_min": 16,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/405811175",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.85373,
+      "lon": 139.9049111,
+      "official_url_pending": "https://shonai-yamagata.com/detail/index_186.html"
+    },
+    {
+      "id": "st00205-018",
+      "category": "medical",
+      "name": {
+        "ja": "古谷眼科クリニック",
+        "en": "古谷眼科kuriniku",
+        "zh": "古谷眼科クリニック"
+      },
+      "desc": {
+        "ja": "駅から約562mにあるクリニック。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Clinic about 562 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约562米的诊所，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 562,
+      "walk_min": 8,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5123946057",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.8446856,
+      "lon": 139.9051025
+    },
+    {
+      "id": "st00205-019",
+      "category": "park",
+      "name": {
+        "ja": "八幡スポーツ公園",
+        "en": "Hachiman Sports Park",
+        "zh": "八幡スポーツ公园"
+      },
+      "desc": {
+        "ja": "駅から約1360mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1360 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1360米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1360,
+      "walk_min": 17,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/relation/6081921",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.8551424,
+      "lon": 139.9044447,
+      "official_url_pending": "http://www.town.shonai.lg.jp/sportskouen/shisetsu/park.html"
+    },
+    {
+      "id": "st00205-020",
+      "category": "medical",
+      "name": {
+        "ja": "庄内余目病院",
+        "en": "Shonai Amarume Hospital",
+        "zh": "庄内余目病院"
+      },
+      "desc": {
+        "ja": "駅から約1574mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 1574 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1574米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1574,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/405833570",
+      "tel": "+81 234 43 3434",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.8519741,
+      "lon": 139.8963539,
+      "official_url_pending": "https://www.amarume-hp.jp/"
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 91,
+    "floor_check": {
+      "medical": {
+        "candidates": 8,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 4,
+        "selected": 1
+      },
+      "convenience": {
+        "candidates": 3,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 4,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 1,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}

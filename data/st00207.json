@@ -1,0 +1,631 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st00207",
+    "name": {
+      "ja": "藤島",
+      "en": "Fujishima",
+      "zh": "藤岛"
+    },
+    "line_group": [
+      "羽越本線"
+    ],
+    "pref": "山形県",
+    "lat": 38.76887,
+    "lon": 139.89458
+  },
+  "generated_at": "2026-11-13T05:40:45Z",
+  "pois": [
+    {
+      "id": "st00207-001",
+      "category": "food",
+      "name": {
+        "ja": "割烹 春月",
+        "en": "Kappo Shungetsu",
+        "zh": "割烹 春月"
+      },
+      "desc": {
+        "ja": "駅から約148mにある飲食店。japanese料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Su 10:00-22:00（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 148 m from the station. Serves japanese cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约148米的餐馆主营japanese，适合旅途中用餐，Mo-Su 10:00-22:00（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 148,
+      "walk_min": 2,
+      "hours": "Mo-Su 10:00-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/910726353",
+      "tel": "+81 235 64 2517",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.7686716,
+      "lon": 139.8962707,
+      "official_url_pending": "https://shungetsu.business.site/"
+    },
+    {
+      "id": "st00207-002",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "六所神社",
+        "en": "Rokusho Temple",
+        "zh": "六所神社"
+      },
+      "desc": {
+        "ja": "駅から約448mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 448 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约448米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 448,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/421611963",
+      "tel": "+81 235 64 2801",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.764988,
+      "lon": 139.8959771,
+      "official_url_pending": "https://yamagata-jinjyacho.or.jp/wp/blog/archives/jinjya/六所神社-9"
+    },
+    {
+      "id": "st00207-003",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "法眼寺",
+        "en": "Hogenji",
+        "zh": "法眼寺"
+      },
+      "desc": {
+        "ja": "駅から約534mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 534 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约534米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 534,
+      "walk_min": 7,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/532729713",
+      "tel": "+81 235 64 2311",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.7658413,
+      "lon": 139.8993651
+    },
+    {
+      "id": "st00207-004",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "大洞寺",
+        "en": "Daidoji",
+        "zh": "大洞寺"
+      },
+      "desc": {
+        "ja": "駅から約674mにある寺院。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Buddhist temple about 674 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约674米的寺院，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化，具体信息以现场为准。"
+      },
+      "distance_m": 674,
+      "walk_min": 9,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/418456417",
+      "tel": "+81 235 64 3192",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.7634439,
+      "lon": 139.8980404
+    },
+    {
+      "id": "st00207-005",
+      "category": "food",
+      "name": {
+        "ja": "白藤ドライブイン",
+        "en": "Shirafuji Drive In",
+        "zh": "白藤ドライブイン"
+      },
+      "desc": {
+        "ja": "駅から約1169mにある飲食店。ramen料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はMo-Su 11:00-14:30,16:30-20:00; We off（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1169 m from the station. Serves ramen cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1169米的餐馆主营ramen，适合旅途中用餐，Mo-Su 11:00-14:30, 16:30-20:00, We off（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1169,
+      "walk_min": 15,
+      "hours": "Mo-Su 11:00-14:30,16:30-20:00; We off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/814053977",
+      "tel": "+81 235 64 2256",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.7610734,
+      "lon": 139.9036221,
+      "official_url_pending": "https://shirafuji-drivein.com"
+    },
+    {
+      "id": "st00207-006",
+      "category": "post_office",
+      "name": {
+        "ja": "藤島郵便局",
+        "en": "Fujishima Post Office",
+        "zh": "藤岛邮政局"
+      },
+      "desc": {
+        "ja": "駅から約736mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 736 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约736米的邮局，09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 736,
+      "walk_min": 10,
+      "hours": "09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/13014787960",
+      "tel": "+81 235 64 2600",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.7670997,
+      "lon": 139.902758,
+      "official_url_pending": "http://map.japanpost.jp/pc/syousai.php?id=300185050000"
+    },
+    {
+      "id": "st00207-007",
+      "category": "sight",
+      "name": {
+        "ja": "旧東田川郡役所",
+        "en": "Old Higashitagawa District Office",
+        "zh": "旧东田川郡役所"
+      },
+      "desc": {
+        "ja": "駅から約745mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 745 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约745米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 745,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/relation/13652081",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.7660969,
+      "lon": 139.902403,
+      "official_url_pending": "https://fujishima-bunka.jp/facilities/higashitagawabunka/introduction/gunyakusho/"
+    },
+    {
+      "id": "st00207-008",
+      "category": "sight",
+      "name": {
+        "ja": "東田川文化記念館",
+        "en": "Higashitagawa Cultural Center",
+        "zh": "东田川文化纪念馆"
+      },
+      "desc": {
+        "ja": "駅から約757mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 757 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约757米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 757,
+      "walk_min": 10,
+      "hours": "09:00-16:30 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/418456494",
+      "tel": "+81 235 64 2537",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.7661605,
+      "lon": 139.9025839,
+      "official_url_pending": "https://fujishima-bunka.jp/facilities/higashitagawabunka/introduction"
+    },
+    {
+      "id": "st00207-009",
+      "category": "public_service",
+      "name": {
+        "ja": "鶴岡市立図書館藤島分館",
+        "en": "Fujishima Branch Library",
+        "zh": "鶴冈市立图书馆藤岛分馆"
+      },
+      "desc": {
+        "ja": "駅から約763mにある図書館。手続きや調べ物、休憩に利用できる公共の施設。詳細は現地の案内を参照。",
+        "en": "Library about 763 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约763米的图书馆，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 763,
+      "walk_min": 10,
+      "hours": "09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/418456431",
+      "tel": "+81 235 64 2537",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.7663692,
+      "lon": 139.9027737,
+      "official_url_pending": "http://lib.city.tsuruoka.yamagata.jp/bunkan_fujishima.html"
+    },
+    {
+      "id": "st00207-010",
+      "category": "park",
+      "name": {
+        "ja": "藤島歴史公園",
+        "en": "Fujishima Historical Park",
+        "zh": "藤岛历史公园"
+      },
+      "desc": {
+        "ja": "駅から約797mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 797 m from the station, with paths and benches for a rest.",
+        "zh": "距站约797米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 797,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/418456421",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.7655907,
+      "lon": 139.9027519
+    },
+    {
+      "id": "st00207-011",
+      "category": "bank_atm",
+      "name": {
+        "ja": "鶴岡信用金庫",
+        "en": "Tsuruoka Shinkin Bank",
+        "zh": "鶴冈信用金庫"
+      },
+      "desc": {
+        "ja": "鶴岡信用金庫の支店。駅から約831mにあり、預け入れ・引き出しやATMの利用に対応する。窓口はMo-Fr 09:00-15:00; Sa-Su off（JST）。",
+        "en": "Bank about 831 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约831米的银行网点，Mo-Fr 09:00-15:00, Sa-Su off（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 831,
+      "walk_min": 11,
+      "hours": "Mo-Fr 09:00-15:00; Sa-Su off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/544530566",
+      "tel": "+81 235 64 3555",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.7673884,
+      "lon": 139.9039776,
+      "official_url_pending": "https://www.tsuruoka-sk.jp/"
+    },
+    {
+      "id": "st00207-012",
+      "category": "medical",
+      "name": {
+        "ja": "薬王堂",
+        "en": "Yakuodo",
+        "zh": "薬王堂"
+      },
+      "desc": {
+        "ja": "駅から約1352mにある薬局。体調を崩した際の受診や薬の購入に対応する。受付はMo-Su 09:00-22:00（JST）。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 1352 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1352米的药房，Mo-Su 09:00-22:00（JST），旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1352,
+      "walk_min": 17,
+      "hours": "Mo-Su 09:00-22:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/532729793",
+      "tel": "+81 235 64 8972",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.7716446,
+      "lon": 139.9097678,
+      "official_url_pending": "https://www.yakuodo.co.jp/store/yamagata/cat1/st228.html"
+    },
+    {
+      "id": "st00207-013",
+      "category": "bank_atm",
+      "name": {
+        "ja": "荘内銀行",
+        "en": "Shonai Bank",
+        "zh": "荘内银行"
+      },
+      "desc": {
+        "ja": "荘内銀行の支店。駅から約904mにあり、預け入れ・引き出しやATMの利用に対応する。窓口はMo-Fr 09:00-15:00; Sa-Su off（JST）。",
+        "en": "Bank about 904 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约904米的银行网点，Mo-Fr 09:00-15:00, Sa-Su off（JST），可办理存款、取款与ATM业务，方便旅途中管理资金。"
+      },
+      "distance_m": 904,
+      "walk_min": 12,
+      "hours": "Mo-Fr 09:00-15:00; Sa-Su off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/5263671434",
+      "tel": "+81 235 64 2107",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.7660201,
+      "lon": 139.9043481,
+      "official_url_pending": "https://www.shonai.co.jp/tenpo/atm/124.html"
+    },
+    {
+      "id": "st00207-014",
+      "category": "police",
+      "name": {
+        "ja": "鶴岡警察署藤島駐在所",
+        "en": "Fujishima Police Substation",
+        "zh": "鶴冈警察署藤岛駐在所"
+      },
+      "desc": {
+        "ja": "駅から約905mにある駐在所。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 905 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约905米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 905,
+      "walk_min": 12,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/415528358",
+      "tel": "+81 235 64 2125",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.7616393,
+      "lon": 139.8993802
+    },
+    {
+      "id": "st00207-015",
+      "category": "public_service",
+      "name": {
+        "ja": "藤島庁舎",
+        "en": "Fujishima Government Office",
+        "zh": "藤岛厅舍"
+      },
+      "desc": {
+        "ja": "駅から約962mにある役所・行政施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Civic office about 962 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约962米的行政机构，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 962,
+      "walk_min": 13,
+      "hours": "Mo-Fr 08:30-17:15; Sa-Su off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/415528353",
+      "tel": "+81 235 64 2111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.7658115,
+      "lon": 139.9049617,
+      "official_url_pending": "http://www.city.tsuruoka.lg.jp/shisei/shiyakusyo/infomation/fujishima/index.html"
+    },
+    {
+      "id": "st00207-016",
+      "category": "medical",
+      "name": {
+        "ja": "ふじしま調剤薬局",
+        "en": "Fujishima Prescription Pharmacy",
+        "zh": "Fujishima調剤薬局"
+      },
+      "desc": {
+        "ja": "駅から約880mにある薬局。体調を崩した際の受診や薬の購入に対応する。受付はMo-Fr 09:00-18:00; Sa 09:00-12:30; Su off（JST）。旅先でも頼れる医療施設。",
+        "en": "Pharmacy about 880 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约880米的药房，Mo-Fr 09:00-18:00, Sa 09:00-12:30, Su off（JST），旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 880,
+      "walk_min": 11,
+      "hours": "Mo-Fr 09:00-18:00; Sa 09:00-12:30; Su off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/544530575",
+      "tel": "+81 235 78 2641",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.7664403,
+      "lon": 139.9042372
+    },
+    {
+      "id": "st00207-017",
+      "category": "food",
+      "name": {
+        "ja": "草介",
+        "en": "Sousuke",
+        "zh": "草介"
+      },
+      "desc": {
+        "ja": "駅から約1092mにある飲食店。japanese料理を提供する食事ができ、旅の合間の休憩にも使いやすい。営業はTu-Su 11:00-14:00; PH, Mo off（JST）。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1092 m from the station. Serves japanese cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约1092米的餐馆主营japanese，适合旅途中用餐，Tu-Su 11:00-14:00, PH, Mo off（JST），菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 1092,
+      "walk_min": 14,
+      "hours": "Tu-Su 11:00-14:00; PH, Mo off (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/814053986",
+      "tel": "+81 235 78 3168",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.7609353,
+      "lon": 139.9019917,
+      "official_url_pending": "https://akr3914960331.owst.jp/"
+    },
+    {
+      "id": "st00207-018",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "セブン-イレブンのコンビニエンスストア。駅から約1248mの場所にあり、24時間営業。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 1248 m from the station. open 24 hours. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约1248米的便利店，全天24小时营业，可购买便当、饮品、零食与日用品，旅途补给很方便。"
+      },
+      "distance_m": 1248,
+      "walk_min": 16,
+      "hours": "24時間営業 24/7 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/415528346",
+      "tel": "+81 235 64 2970",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.7669274,
+      "lon": 139.9087625
+    },
+    {
+      "id": "st00207-019",
+      "category": "shopping",
+      "name": {
+        "ja": "新鮮館 Ａコープ",
+        "en": "新鮮館 Ａko-pu",
+        "zh": "新鮮馆 Ａコープ"
+      },
+      "desc": {
+        "ja": "駅から約1277mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 1277 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1277米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1277,
+      "walk_min": 16,
+      "hours": "09:30-21:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/way/415528347",
+      "tel": "+81 235 64 2342",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.7679667,
+      "lon": 139.9092677,
+      "official_url_pending": "https://www.acoop-shonai.co.jp/web-chirashi/fujishima.html"
+    },
+    {
+      "id": "st00207-020",
+      "category": "shopping",
+      "name": {
+        "ja": "マックスバリュ",
+        "en": "Maxvalu Tokai",
+        "zh": "Makusubariyu"
+      },
+      "desc": {
+        "ja": "駅から約1293mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 1293 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约1293米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 1293,
+      "walk_min": 17,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/383562158",
+      "tel": "+81 235 64 2992",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.7616563,
+      "lon": 139.9062828,
+      "official_url_pending": "http://www.mv-tohoku.co.jp/shop/fujishima/"
+    }
+  ],
+  "coverage": {
+    "poi_count": 20,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 50,
+    "floor_check": {
+      "medical": {
+        "candidates": 7,
+        "selected": 2
+      },
+      "bank_atm": {
+        "candidates": 3,
+        "selected": 2
+      },
+      "convenience": {
+        "candidates": 2,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 1,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 1,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
