@@ -1,0 +1,453 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st00231",
+    "name": {
+      "ja": "新津",
+      "en": "Niitsu",
+      "zh": "新津"
+    },
+    "line_group": [
+      "上越線",
+      "信越本線",
+      "磐越西線",
+      "羽越本線",
+      "越後線"
+    ],
+    "pref": "新潟県",
+    "lat": 37.800049,
+    "lon": 139.121087
+  },
+  "generated_at": "2026-11-14T22:09:33Z",
+  "pois": [
+    {
+      "id": "st00231-001",
+      "category": "convenience",
+      "name": {
+        "ja": "デイリーヤマザキ",
+        "en": "Daily Yamazaki",
+        "zh": "Daily Yamazaki便利店"
+      },
+      "desc": {
+        "ja": "デイリーヤマザキのコンビニエンスストア。駅から約69mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 69 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约69米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 69,
+      "walk_min": 1,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/922435061",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.7995768,
+      "lon": 139.1215941
+    },
+    {
+      "id": "st00231-002",
+      "category": "bank_atm",
+      "name": {
+        "ja": "新潟県信用組合 新津支店",
+        "en": "Kenshin Niitsu branch",
+        "zh": "新潟县信用組合 新津支店"
+      },
+      "desc": {
+        "ja": "新潟県信用組合 新津支店の支店。駅から約372mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 372 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约372米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 372,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/464491336",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.7978865,
+      "lon": 139.1243132
+    },
+    {
+      "id": "st00231-003",
+      "category": "post_office",
+      "name": {
+        "ja": "新津駅前郵便局",
+        "en": "Niitsu Ekimae Post Office",
+        "zh": "新津站前邮政局"
+      },
+      "desc": {
+        "ja": "駅から約109mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 109 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约109米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 109,
+      "walk_min": 2,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/13005670960",
+      "tel": "+81-250-22-4992",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.8001488,
+      "lon": 139.1223228
+    },
+    {
+      "id": "st00231-004",
+      "category": "park",
+      "name": {
+        "ja": "さつき野第１公園",
+        "en": "satsuki野第１公園",
+        "zh": "Satsuki野第１公園"
+      },
+      "desc": {
+        "ja": "駅から約1554mにある公園・緑地。ベンチや遊歩道があり、散策や休憩に利用できる。",
+        "en": "Park or green space about 1554 m from the station, with paths and benches for a rest.",
+        "zh": "距站约1554米的公园绿地，设有步道与长椅，适合散步休息，也可以在此放松身心，具体信息以现场为准。"
+      },
+      "distance_m": 1554,
+      "walk_min": 20,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/1390979707",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.8133092,
+      "lon": 139.1155083
+    },
+    {
+      "id": "st00231-005",
+      "category": "bank_atm",
+      "name": {
+        "ja": "加茂信用金庫 新津支店",
+        "en": "加茂 新津支店 Credit Union",
+        "zh": "加茂信用金庫 新津支店"
+      },
+      "desc": {
+        "ja": "加茂信用金庫 新津支店の支店。駅から約423mにあり、預け入れ・引き出しやATMの利用に対応する。",
+        "en": "Bank about 423 m from the station, with deposit/withdrawal and ATM services.",
+        "zh": "距站约423米的银行网点，可办理存款、取款与ATM业务，方便旅途中管理资金，具体信息以现场为准。"
+      },
+      "distance_m": 423,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/464491334",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.7971318,
+      "lon": 139.1241827
+    },
+    {
+      "id": "st00231-006",
+      "category": "food",
+      "name": {
+        "ja": "大将ラーメン",
+        "en": "大将ra-men",
+        "zh": "大将ラーメン"
+      },
+      "desc": {
+        "ja": "駅から約338mにある飲食店。ramen料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 338 m from the station. Serves ramen cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约338米的餐馆主营ramen，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 338,
+      "walk_min": 5,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/1393985371",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.7985973,
+      "lon": 139.1244724
+    },
+    {
+      "id": "st00231-007",
+      "category": "post_office",
+      "name": {
+        "ja": "新津郵便局",
+        "en": "Niitsu Post Office",
+        "zh": "新津邮政局"
+      },
+      "desc": {
+        "ja": "駅から約352mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 352 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约352米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 352,
+      "walk_min": 5,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/13005670959",
+      "tel": "+81-800-0800-111",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.7973438,
+      "lon": 139.1231727
+    },
+    {
+      "id": "st00231-008",
+      "category": "convenience",
+      "name": {
+        "ja": "セブン-イレブン",
+        "en": "7-Eleven",
+        "zh": "7-11便利店"
+      },
+      "desc": {
+        "ja": "セブン-イレブンのコンビニエンスストア。駅から約449mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 449 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约449米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 449,
+      "walk_min": 6,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/1206365677",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.7967397,
+      "lon": 139.1240213
+    },
+    {
+      "id": "st00231-009",
+      "category": "food",
+      "name": {
+        "ja": "焼肉きんぐ",
+        "en": "Yakiniku King",
+        "zh": "焼肉kingu"
+      },
+      "desc": {
+        "ja": "駅から約752mにある飲食店。japanese料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 752 m from the station. Serves japanese cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约752米的餐馆主营japanese，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 752,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/729515676",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.8049679,
+      "lon": 139.1152168
+    },
+    {
+      "id": "st00231-010",
+      "category": "food",
+      "name": {
+        "ja": "AKIHA麺屋粋翔",
+        "en": "AKIHA麺屋粋翔",
+        "zh": "AKIHA麺屋粋翔"
+      },
+      "desc": {
+        "ja": "駅から約731mにある飲食店。ラーメン料理を提供する食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 731 m from the station. Serves ramen cuisine. Handy for a meal between sightseeing.",
+        "zh": "距站约731米的餐馆主营ramen，适合旅途中用餐，菜单与价格以店内展示内容为准。"
+      },
+      "distance_m": 731,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/10709811428",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.8050343,
+      "lon": 139.1156586
+    },
+    {
+      "id": "st00231-011",
+      "category": "shopping",
+      "name": {
+        "ja": "ベルシティ新津（元長崎屋）",
+        "en": "berushitei新津（元長崎屋）",
+        "zh": "ベルシティ新津（元长崎屋）"
+      },
+      "desc": {
+        "ja": "駅から約771mにあるスーパーマーケット。買い物や食事に立ち寄れ、土産選びにも使える。営業時間や品ぞろえは店頭で確認を。",
+        "en": "Supermarket about 771 m from the station for shopping, meals and souvenirs.",
+        "zh": "距站约771米的超市，可购物用餐，也适合挑选纪念品，商品与价格以店内为准，具体信息以现场为准。"
+      },
+      "distance_m": 771,
+      "walk_min": 10,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/464491337",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.7951071,
+      "lon": 139.1272369
+    },
+    {
+      "id": "st00231-012",
+      "category": "police",
+      "name": {
+        "ja": "秋葉警察署",
+        "en": "秋葉 Police Station",
+        "zh": "秋葉警察署"
+      },
+      "desc": {
+        "ja": "駅から約978mにある警察署。道案内や落とし物の相談、緊急時の駆け込みに対応する窓口。",
+        "en": "Police facility about 978 m from the station, for directions, lost property and emergencies.",
+        "zh": "距站约978米的警务点，可问路、咨询失物招领与紧急求助，遇到困难时可随时前往，具体信息以现场为准。"
+      },
+      "distance_m": 978,
+      "walk_min": 13,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/464491316",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.7937746,
+      "lon": 139.1132837
+    },
+    {
+      "id": "st00231-013",
+      "category": "sight",
+      "name": {
+        "ja": "新潟市新津鉄道資料館",
+        "en": "Niigata City Niitsu Railway Museum",
+        "zh": "新潟市新津铁道资料馆"
+      },
+      "desc": {
+        "ja": "駅から約1842mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1842 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1842米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1842,
+      "walk_min": 24,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/449619613",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.8016017,
+      "lon": 139.1419653
+    },
+    {
+      "id": "st00231-014",
+      "category": "medical",
+      "name": {
+        "ja": "新津医療センター病院",
+        "en": "新津医療senta-病院",
+        "zh": "新津医療センター病院"
+      },
+      "desc": {
+        "ja": "駅から約1950mにある病院。体調を崩した際の受診や薬の購入に対応する。旅先でも頼れる医療施設。",
+        "en": "Hospital about 1950 m from the station, for illness or prescriptions while traveling.",
+        "zh": "距站约1950米的医院，旅途中身体不适时可就近就诊或购买药品，建议提前确认开诊时间。"
+      },
+      "distance_m": 1950,
+      "walk_min": 25,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/5348249264",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.7908865,
+      "lon": 139.1021622
+    }
+  ],
+  "coverage": {
+    "poi_count": 14,
+    "radius_m": 2000,
+    "confidence": "high",
+    "gaps": [
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 71,
+    "floor_check": {
+      "medical": {
+        "candidates": 3,
+        "selected": 1
+      },
+      "bank_atm": {
+        "candidates": 6,
+        "selected": 2
+      },
+      "convenience": {
+        "candidates": 7,
+        "selected": 2
+      },
+      "post_office": {
+        "candidates": 5,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 1,
+        "selected": 1
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}

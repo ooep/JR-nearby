@@ -1,0 +1,90 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st00232",
+    "name": {
+      "ja": "京ケ瀬",
+      "en": "京ke瀬",
+      "zh": "京ケ濑"
+    },
+    "line_group": [
+      "羽越本線"
+    ],
+    "pref": "新潟県",
+    "lat": 37.81756,
+    "lon": 139.17837
+  },
+  "generated_at": "2026-11-14T22:09:33Z",
+  "pois": [
+    {
+      "id": "st00232-001",
+      "category": "post_office",
+      "name": {
+        "ja": "小河原簡易郵便局",
+        "en": "Kogawara Summary Post Office",
+        "zh": "小河原簡易邮政局"
+      },
+      "desc": {
+        "ja": "駅から約43mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 43 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约43米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 43,
+      "walk_min": 1,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/13012861454",
+      "tel": "+81-250-67-3836",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 37.8179224,
+      "lon": 139.1781943
+    }
+  ],
+  "coverage": {
+    "poi_count": 1,
+    "radius_m": 2000,
+    "confidence": "low",
+    "gaps": [
+      "2公里圈内未检索到医疗机构候选",
+      "2公里圈内未检索到银行/ATM候选",
+      "2公里圈内未检索到便利店候选",
+      "2公里圈内未检索到警察设施候选",
+      "2公里圈内未检索到观光案内所候选",
+      "站周边候选稀少，仅收录上述条目，商业与餐饮需前往邻近车站周边"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 1,
+    "floor_check": {
+      "medical": {
+        "candidates": 0,
+        "selected": 0
+      },
+      "bank_atm": {
+        "candidates": 0,
+        "selected": 0
+      },
+      "convenience": {
+        "candidates": 0,
+        "selected": 0
+      },
+      "post_office": {
+        "candidates": 1,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 0,
+        "selected": 0
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
