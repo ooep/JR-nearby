@@ -1,0 +1,175 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st00226",
+    "name": {
+      "ja": "平林",
+      "en": "Hirabayashi",
+      "zh": "平林"
+    },
+    "line_group": [
+      "信越本線",
+      "白新線",
+      "羽越本線",
+      "越後線"
+    ],
+    "pref": "新潟県",
+    "lat": 38.14998,
+    "lon": 139.45902
+  },
+  "generated_at": "2026-11-14T03:49:23Z",
+  "pois": [
+    {
+      "id": "st00226-001",
+      "category": "convenience",
+      "name": {
+        "ja": "SAVEON",
+        "en": "SAVEON",
+        "zh": "SAVEON"
+      },
+      "desc": {
+        "ja": "SAVEONのコンビニエンスストア。駅から約822mの場所にあり。弁当や飲み物、日用品の調達に便利。",
+        "en": "Convenience store about 822 m from the station. Stocks meals, drinks and daily necessities.",
+        "zh": "距站约822米的便利店，可购买便当、饮品、零食与日用品，旅途补给很方便，具体信息以现场为准。"
+      },
+      "distance_m": 822,
+      "walk_min": 11,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/node/4373633352",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.1425843,
+      "lon": 139.4590879
+    },
+    {
+      "id": "st00226-002",
+      "category": "post_office",
+      "name": {
+        "ja": "平林郵便局",
+        "en": "Hirabayashi Post Office",
+        "zh": "平林邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1019mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1019 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1019米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 1019,
+      "walk_min": 13,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/13013101842",
+      "tel": "+81-254-66-5000",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.1409355,
+      "lon": 139.4608889
+    },
+    {
+      "id": "st00226-003",
+      "category": "shrine_temple",
+      "name": {
+        "ja": "子の宮神社",
+        "en": "子no宮神社",
+        "zh": "子no宮神社"
+      },
+      "desc": {
+        "ja": "駅から約1876mにある神社。街なかにありながら落ち着いた雰囲気で、参拝や散策に立ち寄れる。",
+        "en": "Shinto shrine about 1876 m from the station, a quiet stop for prayer or a stroll amid the town.",
+        "zh": "距站约1876米的神社，闹市中保有清静，可参拜或顺路游览，感受当地的信仰与文化。"
+      },
+      "distance_m": 1876,
+      "walk_min": 24,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/1355081277",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.1657275,
+      "lon": 139.4513119
+    },
+    {
+      "id": "st00226-004",
+      "category": "public_service",
+      "name": {
+        "ja": "南田中集落センター",
+        "en": "南田中集落senta-",
+        "zh": "南田中集落センター"
+      },
+      "desc": {
+        "ja": "駅から約1937mにあるコミュニティ施設。手続きや調べ物、休憩に利用できる公共の施設。",
+        "en": "Community centre about 1937 m from the station, a public facility for procedures, reading or a rest.",
+        "zh": "距站约1937米的社区设施，可办理事务、查阅资料或短暂休息，开放时间以现场公示为准。"
+      },
+      "distance_m": 1937,
+      "walk_min": 25,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/455013827",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 38.1662154,
+      "lon": 139.4509809
+    }
+  ],
+  "coverage": {
+    "poi_count": 4,
+    "radius_m": 2000,
+    "confidence": "medium",
+    "gaps": [
+      "2公里圈内未检索到医疗机构候选",
+      "2公里圈内未检索到银行/ATM候选",
+      "2公里圈内未检索到警察设施候选",
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 5,
+    "floor_check": {
+      "medical": {
+        "candidates": 0,
+        "selected": 0
+      },
+      "bank_atm": {
+        "candidates": 0,
+        "selected": 0
+      },
+      "convenience": {
+        "candidates": 1,
+        "selected": 1
+      },
+      "post_office": {
+        "candidates": 1,
+        "selected": 1
+      },
+      "police": {
+        "candidates": 0,
+        "selected": 0
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
