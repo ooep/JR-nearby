@@ -1,0 +1,174 @@
+{
+  "schema": "station.v1",
+  "station": {
+    "id": "st00245",
+    "name": {
+      "ja": "羽後亀田",
+      "en": "Ugo-Kameda",
+      "zh": "羽後龟田"
+    },
+    "line_group": [
+      "奥羽本線",
+      "羽越本線"
+    ],
+    "pref": "秋田県",
+    "lat": 39.49366,
+    "lon": 140.06331
+  },
+  "generated_at": "2026-11-18T09:09:49Z",
+  "pois": [
+    {
+      "id": "st00245-001",
+      "category": "post_office",
+      "name": {
+        "ja": "松ケ崎郵便局",
+        "en": "Matsugasaki Post Office",
+        "zh": "松ケ崎邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1522mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1522 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1522米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 1522,
+      "walk_min": 20,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/13457369125",
+      "tel": "+81-184-28-2360",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 39.496313,
+      "lon": 140.0459059
+    },
+    {
+      "id": "st00245-002",
+      "category": "food",
+      "name": {
+        "ja": "港ドライブイン",
+        "en": "港doraibuin",
+        "zh": "港ドライブイン"
+      },
+      "desc": {
+        "ja": "駅から約1694mにある飲食店。食事ができ、旅の合間の休憩にも使いやすい。メニューや予算は店頭で確認を。",
+        "en": "Restaurant about 1694 m from the station. Handy for a meal between sightseeing.",
+        "zh": "距站约1694米的餐馆适合旅途中用餐，菜单与价格以店内展示内容为准，具体信息以现场为准。"
+      },
+      "distance_m": 1694,
+      "walk_min": 22,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/way/413523981",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 39.5023525,
+      "lon": 140.0471002
+    },
+    {
+      "id": "st00245-003",
+      "category": "post_office",
+      "name": {
+        "ja": "亀田郵便局",
+        "en": "Kameda Post Office",
+        "zh": "龟田邮政局"
+      },
+      "desc": {
+        "ja": "駅から約1721mにある郵便局。郵便物や荷物の発送、貯金の取り扱いに対応する。Mo-Fr 09:00-17:00（JST）。旅先からの郵便発送にも利用できる。",
+        "en": "Post office about 1721 m from the station, handling mail, parcels and banking.",
+        "zh": "距站约1721米的邮局，Mo-Fr 09:00-17:00（JST），可办理邮件、包裹寄送与储蓄业务，也可购买邮票与明信片。"
+      },
+      "distance_m": 1721,
+      "walk_min": 22,
+      "hours": "Mo-Fr 09:00-17:00 (JST)",
+      "hours_source": "osm",
+      "url": "https://www.openstreetmap.org/node/13457369124",
+      "tel": "+81-184-72-2360",
+      "tel_source": "osm",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 39.5006342,
+      "lon": 140.0812103
+    },
+    {
+      "id": "st00245-004",
+      "category": "sight",
+      "name": {
+        "ja": "岩城歴史民俗資料館 (Iwaki Local History Museum)",
+        "en": "Iwaki Local History Museum",
+        "zh": "岩城历史民俗资料馆 (Iwaki Local History Museum)"
+      },
+      "desc": {
+        "ja": "駅から約1927mにある博物館・美術館。周辺を代表する見どころの一つで、散策の目的地にしやすい。",
+        "en": "Museum about 1927 m from the station, one of the area's highlights and an easy destination.",
+        "zh": "距站约1927米的博物馆·美术馆，是该区域的代表性看点，适合安排进散步路线慢慢参观。"
+      },
+      "distance_m": 1927,
+      "walk_min": 25,
+      "hours": null,
+      "hours_source": "unknown",
+      "url": "https://www.openstreetmap.org/relation/11580960",
+      "tel": null,
+      "tel_source": "unknown",
+      "price_level": null,
+      "source": [
+        "osm"
+      ],
+      "verified_at": "2026-11-04",
+      "lat": 39.5007635,
+      "lon": 140.0837953
+    }
+  ],
+  "coverage": {
+    "poi_count": 4,
+    "radius_m": 2000,
+    "confidence": "medium",
+    "gaps": [
+      "2公里圈内未检索到医疗机构候选",
+      "2公里圈内未检索到银行/ATM候选",
+      "2公里圈内未检索到便利店候选",
+      "2公里圈内未检索到警察设施候选",
+      "2公里圈内未检索到观光案内所候选"
+    ],
+    "fetch_truncated": false,
+    "selected_cap": 20,
+    "candidate_count": 10,
+    "floor_check": {
+      "medical": {
+        "candidates": 0,
+        "selected": 0
+      },
+      "bank_atm": {
+        "candidates": 0,
+        "selected": 0
+      },
+      "convenience": {
+        "candidates": 0,
+        "selected": 0
+      },
+      "post_office": {
+        "candidates": 2,
+        "selected": 2
+      },
+      "police": {
+        "candidates": 0,
+        "selected": 0
+      },
+      "tourist_info": {
+        "candidates": 0,
+        "selected": 0
+      }
+    }
+  }
+}
